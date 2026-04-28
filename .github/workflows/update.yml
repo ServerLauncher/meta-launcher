@@ -12,11 +12,13 @@ jobs:
     steps:
       - name: Checkout meta-launcher
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.DEPLOY_TOKEN }}
 
       - name: Checkout meta
         uses: actions/checkout@v4
         with:
-          repository: serverlauncher/meta
+          repository: ВашеИмя/meta
           path: meta
 
       - name: Setup Python
@@ -34,6 +36,9 @@ jobs:
 
       - name: Copy generated files
         run: cp -r meta/dist/* ./
+
+      - name: Cleanup
+        run: rm -rf meta
 
       - name: Commit and push
         run: |
