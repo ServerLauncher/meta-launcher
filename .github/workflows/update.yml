@@ -18,7 +18,7 @@ jobs:
       - name: Checkout meta
         uses: actions/checkout@v4
         with:
-          repository: ВашеИмя/meta
+          repository: serverlauncher/meta
           path: meta
 
       - name: Setup Python
