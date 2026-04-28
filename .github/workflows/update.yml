@@ -2,7 +2,7 @@ name: Update Meta
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,12 @@ jobs:
       - name: Checkout meta-launcher
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.DEPLOY_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Checkout meta
         uses: actions/checkout@v4
         with:
-          repository: serverlauncher/meta
+          repository: ServerLauncher/meta
           path: meta
 
       - name: Setup Python
