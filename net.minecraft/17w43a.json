@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "17w43a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2017-10-25T14:43:50+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.17w43a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/6f6869d527140e5531e655bda10911efb65425bb/server.jar",
+        "sha1": "6f6869d527140e5531e655bda10911efb65425bb",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

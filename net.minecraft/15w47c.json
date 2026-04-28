@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "15w47c",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2015-11-20T12:46:56+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.15w47c.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/9ec245a239150ccb0f8cdae430d25ed04899bb51/server.jar",
+        "sha1": "9ec245a239150ccb0f8cdae430d25ed04899bb51",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

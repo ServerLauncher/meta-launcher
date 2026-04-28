@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "15w35b",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2015-08-24T15:39:18+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.15w35b.jar",
+        "url": "https://launcher.mojang.com/v1/objects/e92badd361f83730436c010044099fdf1af60bab/server.jar",
+        "sha1": "e92badd361f83730436c010044099fdf1af60bab",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

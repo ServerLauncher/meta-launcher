@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.8.2-pre6",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2015-01-30T11:58:24+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.1.8.2-pre6.jar",
+        "url": "https://launcher.mojang.com/v1/objects/cc40241ef5acc247048b9d351aefa6288de13d8b/server.jar",
+        "sha1": "cc40241ef5acc247048b9d351aefa6288de13d8b",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

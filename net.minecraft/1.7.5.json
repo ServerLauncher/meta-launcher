@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.7.5",
+  "builds": [
+    {
+      "build": null,
+      "type": "release",
+      "releaseTime": "2014-02-26T09:22:17+00:00",
+      "recommended": true,
+      "download": {
+        "name": "minecraft_server.1.7.5.jar",
+        "url": "https://launcher.mojang.com/v1/objects/e1d557b2e31ea881404e41b05ec15c810415e060/server.jar",
+        "sha1": "e1d557b2e31ea881404e41b05ec15c810415e060",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

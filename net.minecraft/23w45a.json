@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "23w45a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2023-11-08T13:59:58+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.23w45a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/9c2b37701bf77ae22df4c32fd6dd1614049ce994/server.jar",
+        "sha1": "9c2b37701bf77ae22df4c32fd6dd1614049ce994",
+        "sha256": null
+      },
+      "javaMajor": 17
+    }
+  ]
+}

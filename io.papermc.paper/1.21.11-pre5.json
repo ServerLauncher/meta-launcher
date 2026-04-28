@@ -1,0 +1,31 @@
+{
+  "formatVersion": 1,
+  "uid": "io.papermc.paper",
+  "mcVersion": "1.21.11-pre5",
+  "builds": [
+    {
+      "build": "14",
+      "type": "alpha",
+      "releaseTime": "2025-12-03T16:51:42Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-1.21.11-pre5-14.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre5/builds/14/downloads/paper-1.21.11-pre5-14.jar",
+        "sha1": null,
+        "sha256": "c38fcc4ebc532b6861f1509699cb0a6415480c26802512e25fa9ddf83076b9dc"
+      }
+    },
+    {
+      "build": "16",
+      "type": "alpha",
+      "releaseTime": "2025-12-04T16:34:52Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.11-pre5-16.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre5/builds/16/downloads/paper-1.21.11-pre5-16.jar",
+        "sha1": null,
+        "sha256": "b9d820240254e2a2e2f98093d9624cbcb772c441ecdac93e9fb9a10da4ecbff7"
+      }
+    }
+  ]
+}

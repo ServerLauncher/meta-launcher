@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "16w42a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2016-10-19T11:17:47+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.16w42a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/ad6aa39daf88864fcd84b231638e3dc28bde83f3/server.jar",
+        "sha1": "ad6aa39daf88864fcd84b231638e3dc28bde83f3",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

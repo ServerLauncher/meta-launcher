@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "22w13oneblockatatime",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2022-04-01T11:56:58+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.22w13oneblockatatime.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar",
+        "sha1": "5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67",
+        "sha256": null
+      },
+      "javaMajor": 17
+    }
+  ]
+}

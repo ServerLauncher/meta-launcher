@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "14w26c",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2014-06-26T15:05:03+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.14w26c.jar",
+        "url": "https://launcher.mojang.com/v1/objects/247352905e446c66db85ecb26361a9b5a8eec4ea/server.jar",
+        "sha1": "247352905e446c66db85ecb26361a9b5a8eec4ea",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

@@ -1,0 +1,4924 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "name": "Mojang",
+  "recommended": [
+    "26.1.2"
+  ],
+  "versions": [
+    {
+      "mcVersion": "26.2-snapshot-5",
+      "sha256": "904d9aaff18e1992a9d436337870aab27a63306dbfbcad5daa063463f0dcc7a5",
+      "url": "net.minecraft/26.2-snapshot-5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.2-snapshot-4",
+      "sha256": "5ec2a794d52b783c5765b65dff7f593c04e60fd0d08a3918939a300b2732d919",
+      "url": "net.minecraft/26.2-snapshot-4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.2-snapshot-3",
+      "sha256": "e7bcf041cd1d255c426338913da9b7025a6ae54e870fb05276bf3d4d0a271dd0",
+      "url": "net.minecraft/26.2-snapshot-3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.2-snapshot-2",
+      "sha256": "348186507229ded2e656d1ee1a4c407b941a089337ddd56eb17b9948c1434e62",
+      "url": "net.minecraft/26.2-snapshot-2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1.2",
+      "sha256": "205c8dc67614ec00c9e11a75c52bfe3774a5f24f8ee8dc0ece884de7852b00ae",
+      "url": "net.minecraft/26.1.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "26.1.2-rc-1",
+      "sha256": "7a1eb21475fe2c0f43e3b0120ddc86eaeada7d3a1ae586fb3fd7141cadc4a838",
+      "url": "net.minecraft/26.1.2-rc-1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.2-snapshot-1",
+      "sha256": "f84c9c0b5bfa7d6b38729030c94c3498d6f8549e1dedeb8f6b61904a01db23f5",
+      "url": "net.minecraft/26.2-snapshot-1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26w14a",
+      "sha256": "f0c8678fda946feb7f75792f1da004ca75aedd85636c1b31e85295d8af36f2ee",
+      "url": "net.minecraft/26w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1.1",
+      "sha256": "bc4cf612fd17df935cdfbf1451195eb1fb60967a5c2e1b816b4f97ea469c8097",
+      "url": "net.minecraft/26.1.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "26.1.1-rc-1",
+      "sha256": "b920b35b14d4853fbd39dac4dfe6ab4f19ef4b9be8931cc4fd1e7c7d99853565",
+      "url": "net.minecraft/26.1.1-rc-1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1",
+      "sha256": "f0b7b6bd9faec8b87b83531159f54069c83b5292630f91831c528a7fea3ac135",
+      "url": "net.minecraft/26.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "26.1-rc-3",
+      "sha256": "3066606505b3ad49e36a01c9df69a07bfc01fa0f668bb039fabadc831e71734c",
+      "url": "net.minecraft/26.1-rc-3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-rc-2",
+      "sha256": "6706b63a02a57367321f765786c820b97d1b63950a3c94a96fbca060768d0cf2",
+      "url": "net.minecraft/26.1-rc-2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-rc-1",
+      "sha256": "9520acf92aef1f0f0dffb93100312c9e3c707985117a30904b7eb88608527dcd",
+      "url": "net.minecraft/26.1-rc-1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-pre-3",
+      "sha256": "1672eee9f5d6f22afeca183cff73c4afc38b759123c19451d734b18b2c626256",
+      "url": "net.minecraft/26.1-pre-3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-pre-2",
+      "sha256": "8f6f825467b6b44a90fa75879f8910e84b1b1c4fef88c2bb5da6d2f1f9cb2c2f",
+      "url": "net.minecraft/26.1-pre-2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-pre-1",
+      "sha256": "f587fc0434e7aeb2b8f0d848dc4f0ac30d73c25235a6bca01c92a22944a12310",
+      "url": "net.minecraft/26.1-pre-1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-11",
+      "sha256": "98d0a4c24ed7e55bed92bb3855aeca3f9e028eaee3e50f1cb50393a37b8bb36c",
+      "url": "net.minecraft/26.1-snapshot-11.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-10",
+      "sha256": "4a595ee67750aac9bd97c7374c116f646f3a08033ed759697916217612520618",
+      "url": "net.minecraft/26.1-snapshot-10.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-9",
+      "sha256": "63c5e31150c4f54b405386613d6284aea2a50c47b57b18ce4fe68543616ab5e9",
+      "url": "net.minecraft/26.1-snapshot-9.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-8",
+      "sha256": "611ec032544538d50353be3fb555683638ef2c8d08effaa91f80a4cf725b2902",
+      "url": "net.minecraft/26.1-snapshot-8.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-7",
+      "sha256": "c00fb2f44d2ff5ce2455a74b7e40b4999836765f6bef959f6aefe45495f692ac",
+      "url": "net.minecraft/26.1-snapshot-7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-6",
+      "sha256": "a6cfcc508a8141da58b8be7c714f6d228c38e492c1435fe4bfd43e047743af84",
+      "url": "net.minecraft/26.1-snapshot-6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-5",
+      "sha256": "aa7d9922abac145576b59bde2e1f28cb2fd2a95cfb2786f6ae107e4f5ea43614",
+      "url": "net.minecraft/26.1-snapshot-5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-4",
+      "sha256": "4425b219e73e20307f384517ee537a3625168296d3711dd4e744770f6824c97f",
+      "url": "net.minecraft/26.1-snapshot-4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-3",
+      "sha256": "1a22e1bc084c278cc44acf945032a5f701cef2ea9e4febe5ecd6f61b4d757220",
+      "url": "net.minecraft/26.1-snapshot-3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-2",
+      "sha256": "e1773c794effecbd53918d1ff1b6489404bf1d1086d0822da867b48659220edc",
+      "url": "net.minecraft/26.1-snapshot-2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "26.1-snapshot-1",
+      "sha256": "4ffdeefaae7099f1b99d47c045daa9181bd43bad4169f6094ecbb8228cd1d3fc",
+      "url": "net.minecraft/26.1-snapshot-1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.11",
+      "sha256": "2a280588ebf6e9ed4c7b8e5fca0e6d9635c888bc133a876aefbe21410e9fd0a2",
+      "url": "net.minecraft/1.21.11.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.11-rc3",
+      "sha256": "de5d92339899621131e870aca43661e0f3680d2cba73db51e0250564b63a804e",
+      "url": "net.minecraft/1.21.11-rc3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.11-rc2",
+      "sha256": "f9dc43009556e40fd1281c346f6350bfeb05af7de03d945ddb23ce6c283a9716",
+      "url": "net.minecraft/1.21.11-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.11-rc1",
+      "sha256": "a1d32697d02f227b83a9f7fe50031ca5cbeb59776b2774942c08ec8770b833a9",
+      "url": "net.minecraft/1.21.11-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.11-pre5",
+      "sha256": "9001de68b7f060ed0864cbece3556ccb3e91a6424aac7ff3fb6137d4668659c5",
+      "url": "net.minecraft/1.21.11-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.11-pre4",
+      "sha256": "8f8816d63f359f723feb1aec85b89678bce89a1c582bb248a62d8a03eebb26be",
+      "url": "net.minecraft/1.21.11-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.11-pre3",
+      "sha256": "5c2cce65e1c4ce104fe5589c3501025b3d804d1e2df12de3459daf600dc64a50",
+      "url": "net.minecraft/1.21.11-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.11-pre2",
+      "sha256": "89998c3830304a04cbce06e436f77a98e96da2d2b2e783f7b6facf5ea967fffe",
+      "url": "net.minecraft/1.21.11-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.11-pre1",
+      "sha256": "fec30a30aaad60a0d281920c44202d3516ac31aa7773a8db849ad227321a8512",
+      "url": "net.minecraft/1.21.11-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w46a",
+      "sha256": "5e3a834e1195c20aeddf2dbaa6d02e2d719ccc415297ba4c1bce2386fb420847",
+      "url": "net.minecraft/25w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w45a",
+      "sha256": "d2f3c81ab9919d794099c4734ca5eda7c34433f636c7e5f6636be182a5ce6520",
+      "url": "net.minecraft/25w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w44a",
+      "sha256": "045a6f38d731d9f7eea9f24a132c0638370d7ad41ecefa29fa594934c335c832",
+      "url": "net.minecraft/25w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w43a",
+      "sha256": "6e3af82fc1fa1130a035f3940d5d95ab5f82937d59b001a2c241fe3c5565b93e",
+      "url": "net.minecraft/25w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w42a",
+      "sha256": "800f65aa9948f1598a259aff1d707c0584bc839ed9c33bcec4ac3d33670c35d7",
+      "url": "net.minecraft/25w42a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w41a",
+      "sha256": "86aed67f237ea65b397e648abfffd23f4de616c119e6eba2c2c6b9e6be3eed10",
+      "url": "net.minecraft/25w41a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.10",
+      "sha256": "98ec888c28910c86cf07a23571cff8ff94b32665ae66219c71e9ccdc67dbcb06",
+      "url": "net.minecraft/1.21.10.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.10-rc1",
+      "sha256": "932f3f8edcfbe511e792f0b4df4fdcf5796a244337e1257a091c20414d350ad4",
+      "url": "net.minecraft/1.21.10-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.9",
+      "sha256": "3e5f5d0a1249d335d8d3e1e2032aec7add43d659b68c57d382c4db5f019e1f7a",
+      "url": "net.minecraft/1.21.9.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.9-rc1",
+      "sha256": "d6d88a50d4561118da4c1393446a3d0fdb7b46421da25b81cf333ccb12538dce",
+      "url": "net.minecraft/1.21.9-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.9-pre4",
+      "sha256": "076a8923ebd9395538feaf2f7ff261b9899b54974d32b507c59fa4325579c76f",
+      "url": "net.minecraft/1.21.9-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.9-pre3",
+      "sha256": "9baa244e51f8c9b4765473a4e67ec4bd8c010cba40569e5af8ebbf89f02e7c4c",
+      "url": "net.minecraft/1.21.9-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.9-pre2",
+      "sha256": "0836962c3b41625236d0648d1e4f99ac75fa51e5d7146c7a07f82d6f6fe9635a",
+      "url": "net.minecraft/1.21.9-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.9-pre1",
+      "sha256": "872c59d143635cae1c305f865cb8825adfbfc1e33b4cefd16e467f4685b36adf",
+      "url": "net.minecraft/1.21.9-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w37a",
+      "sha256": "7cdfa84950ccd286f818ed2f2e08f4377e9930f32f6f2f74fe84cb51544c4d06",
+      "url": "net.minecraft/25w37a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w36b",
+      "sha256": "851825931a538115ef6aea820fa0d5ea89e2580ce5a697dd447221e19f72b01e",
+      "url": "net.minecraft/25w36b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w36a",
+      "sha256": "71c4c6ada441eafb6cd8c2907e7bf5ad982ba8f40ca30685b3d68f7fcceab679",
+      "url": "net.minecraft/25w36a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w35a",
+      "sha256": "81026f563114436bc6aea7209effc9f5e6db12f3c8800211a3285bde99969b29",
+      "url": "net.minecraft/25w35a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w34b",
+      "sha256": "cac31e2b06e46c306b3eca58f019461b107a2c24f27bd654e7eac0d462bb54c6",
+      "url": "net.minecraft/25w34b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w34a",
+      "sha256": "52c689f5b5ef9a070eac061661874975164a0802b3f9c73112c09f8765024203",
+      "url": "net.minecraft/25w34a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w33a",
+      "sha256": "fc41d7f1d45dafa14f5a3f4fffd58699c84ec6f26418e7bdc48890a6d1d4fef3",
+      "url": "net.minecraft/25w33a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w32a",
+      "sha256": "442b48f3bac952ec23d8f62f27b7cf2787662187148a54aa1da42f0154bd64b9",
+      "url": "net.minecraft/25w32a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w31a",
+      "sha256": "ef37f356e4bc3ad41ef78d8cf95b7fa716cd68a826df77e86933ba1ae17610e1",
+      "url": "net.minecraft/25w31a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.8",
+      "sha256": "90cc1766930b7102f74c55da1852e0a0f7d3a87b7b976bbfc77eb65d0b8b1493",
+      "url": "net.minecraft/1.21.8.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.8-rc1",
+      "sha256": "e0c57526c8f5f7d95931b1569d0b47690e228e02ed98d25b5be9e84b4bd3a227",
+      "url": "net.minecraft/1.21.8-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.7",
+      "sha256": "18e098c4f3d03474a5e2176b3b2a96af7cad353526e007b420307209b7b7923d",
+      "url": "net.minecraft/1.21.7.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.7-rc2",
+      "sha256": "4f886837d79cd32c5c8dd13ced44ac6f6f39d38bae0d1958c271a76f1ed3935f",
+      "url": "net.minecraft/1.21.7-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.7-rc1",
+      "sha256": "6c721e07f5d05b0c7cbc1e3f74a930d23b55b8d4e872896f8e7321a133608f15",
+      "url": "net.minecraft/1.21.7-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.6",
+      "sha256": "18ec973ae2471905f881f1310a5de8c035624c29d649487b20c9be667aa9ac10",
+      "url": "net.minecraft/1.21.6.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.6-rc1",
+      "sha256": "212926ba8691b7f4f6d3191df4647541c5d7e1903c898d8a54d14454cf781584",
+      "url": "net.minecraft/1.21.6-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.6-pre4",
+      "sha256": "46141e81c423cbdc7d73e15ccd5a3cb2c8639d6d1af878e3c348bb04d3bd6c27",
+      "url": "net.minecraft/1.21.6-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.6-pre3",
+      "sha256": "0884f5ca90a6e2675d4d8f330a8007e36e8e691803364872853547dfc285bd19",
+      "url": "net.minecraft/1.21.6-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.6-pre2",
+      "sha256": "63e3f6d8d6bd4d233501c5e590c40727ca04bf2e326f9ac156bd71525a74a259",
+      "url": "net.minecraft/1.21.6-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.6-pre1",
+      "sha256": "1814a89e55206851c507573bf262f1bf2ac3ea70ff67ed5588248be024cb7b68",
+      "url": "net.minecraft/1.21.6-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w21a",
+      "sha256": "db2e1832d8234eb760d33faf3c326b6ac13fd85a502050318de9971c090876a9",
+      "url": "net.minecraft/25w21a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w20a",
+      "sha256": "95fbcf2f3f7e00cbed673beeac63718da1cc54287b2689b5510544b0f63d2795",
+      "url": "net.minecraft/25w20a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w19a",
+      "sha256": "53dc4a3ddc5f8e1ef1eeeeea8591769372c3d4649d6e631af359371dc2989654",
+      "url": "net.minecraft/25w19a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w18a",
+      "sha256": "a7097cfefc0567a3abaf64260a2b5c222d66b7943a526b6db43b352ad14185f3",
+      "url": "net.minecraft/25w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w17a",
+      "sha256": "e39026b507c3ca7be88942ca15ff266ea1e585a03c6e6537e8f54af8db7bf5b8",
+      "url": "net.minecraft/25w17a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w16a",
+      "sha256": "424bd67f05ebadf31ba09e77bece1b824a9ee2952a8eb83efd2596f1583f81b7",
+      "url": "net.minecraft/25w16a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w15a",
+      "sha256": "8b0ed7c83556b703988fe09d0956d2addab3a6f330d238719aeb00cce8a3ef9e",
+      "url": "net.minecraft/25w15a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w14craftmine",
+      "sha256": "a1aac9555da75caa3d9fbf0a642b634f5e7884ba49c7b08bcf796efa193ef78e",
+      "url": "net.minecraft/25w14craftmine.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.5",
+      "sha256": "b3d87c59e613662dc401e97ac0e29c8dc9cf9c65476191bb229e7423d839cca3",
+      "url": "net.minecraft/1.21.5.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.5-rc2",
+      "sha256": "f9cac70251aebfb64d493cff6c86e49075e7eafa17f58a2ecac19a8891ec373f",
+      "url": "net.minecraft/1.21.5-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.5-rc1",
+      "sha256": "15ae8d138d7fcf82d9130a8a76876363a6ce2b531c9c6d5da955f3d0e99cbdd2",
+      "url": "net.minecraft/1.21.5-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.5-pre3",
+      "sha256": "2d91e91db126d67a1fcbdea72e6361655844ba4670be3839faa0ee4495a14681",
+      "url": "net.minecraft/1.21.5-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.5-pre2",
+      "sha256": "eb912a6e55eea104708551fba66fc0ce829bfa55adcbcd827bdfd0b0a67fdfe3",
+      "url": "net.minecraft/1.21.5-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.5-pre1",
+      "sha256": "b0f1824c06c229c8febcece1ac8d2d953e1f6de385eb92fd5da0c8ba0679b588",
+      "url": "net.minecraft/1.21.5-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w10a",
+      "sha256": "99bb0ca8de01d114ecf931220646dab94c87b66c3b172dc7b39d52a16c698454",
+      "url": "net.minecraft/25w10a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w09b",
+      "sha256": "923c50869283a83aec88fa9ad9a2aba19378eb2081530c796ae62168e856e28e",
+      "url": "net.minecraft/25w09b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w09a",
+      "sha256": "4c597fded7533ac3aedbdd2ac3c0f2bf067fdb44eddce4eadd791a26bcea4281",
+      "url": "net.minecraft/25w09a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w08a",
+      "sha256": "354837546833897f2d178005efc2c764b5bb5e4c582f9298d9a5168aab385c72",
+      "url": "net.minecraft/25w08a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w07a",
+      "sha256": "38061611872f894d06d5a4b0c143cd6c2a612169b23dca11e654cc3b708aba8d",
+      "url": "net.minecraft/25w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w06a",
+      "sha256": "2f91096809e4a06d4db2ed46dd045687671279933799736cbec0674bb91d47a2",
+      "url": "net.minecraft/25w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w05a",
+      "sha256": "2922ebd6e17f6a636758f2c09813f5e684e690deadcd06aa029b367469603899",
+      "url": "net.minecraft/25w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w04a",
+      "sha256": "cc0cc9386d244d31ec6f1a6095225daf475a8b79c40e04cd38d4c89423537a3f",
+      "url": "net.minecraft/25w04a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w03a",
+      "sha256": "9fdc61720c45c00d13717c21491a5123f352579fae5f0856261606cc140ff227",
+      "url": "net.minecraft/25w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "25w02a",
+      "sha256": "5a4a8581384e4cf1b9c16951b4908d2859f49bef2285fb28e10e6dbcdf5f56e4",
+      "url": "net.minecraft/25w02a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.4",
+      "sha256": "e3cfd35e0aaa00c420235fb9e3b113b1f4beba98bbca9ee335cc2c7a5b284e26",
+      "url": "net.minecraft/1.21.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.4-rc3",
+      "sha256": "97a458cbe4e5768de71facb728068fd6fbe0d9085b3924576504c7903dbd25b9",
+      "url": "net.minecraft/1.21.4-rc3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.4-rc2",
+      "sha256": "4739737d51267ead54a6a5a4a0ba5017a6bef777f50fb056b2120352f86b7675",
+      "url": "net.minecraft/1.21.4-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.4-rc1",
+      "sha256": "391e3f335ee94328519c4647f26036ee9a8cca2d8e6e660d719a5fe000c8f16f",
+      "url": "net.minecraft/1.21.4-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.4-pre3",
+      "sha256": "c038172206ee5f261247fb0d95d769dc4b0e6cfd8e43f9c06ec4ee4cb8ef9af2",
+      "url": "net.minecraft/1.21.4-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.4-pre2",
+      "sha256": "398fc13e01b32f83936c01aea9fc55b3cf3b4ed74e6ba4b0f7b16910037e35f7",
+      "url": "net.minecraft/1.21.4-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.4-pre1",
+      "sha256": "27e20ab3d72949486da1311b5d2774032655a8f380d575d8be297fc8af3d4e5c",
+      "url": "net.minecraft/1.21.4-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w46a",
+      "sha256": "b165cdfb72487cf8a65c1ad5a7dda9ff478759e91d782e492ed64e637ed7a98b",
+      "url": "net.minecraft/24w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w45a",
+      "sha256": "c4525e91ff1f5316dce710c8d9ba9cb4238b91eb6eb198157f511d5da86a0db8",
+      "url": "net.minecraft/24w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w44a",
+      "sha256": "ce4cafca00259465f12ca946eead33fc120c85bff715d4e2aa67fc2c06e00d3c",
+      "url": "net.minecraft/24w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.3",
+      "sha256": "42529861204470e3fcc7dac3a15e8ab916441614f917a16d66a35d6ed82963fc",
+      "url": "net.minecraft/1.21.3.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.2",
+      "sha256": "9ac64677833bf08e3a8669dd561fb6765b359d095bcf3d3d6af92f357336ec11",
+      "url": "net.minecraft/1.21.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.2-rc2",
+      "sha256": "e215cbf3d6cd674e4ac76bb395b8a5b88f61a6b1da432f8163a81380aee6faac",
+      "url": "net.minecraft/1.21.2-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.2-rc1",
+      "sha256": "3ef0030d0987a4e1b4a6423067aa03c997e296440c2ca34d306783565dfe2e63",
+      "url": "net.minecraft/1.21.2-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.2-pre5",
+      "sha256": "874fe0727b8719372e47c0ba7496db22fbd159cafb1b7965f8cf5bb3b98e7c6b",
+      "url": "net.minecraft/1.21.2-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.2-pre4",
+      "sha256": "683437fe6246b385d2ff2e0153172bf8b5563aae8921bd3b76cc31c1886fc58c",
+      "url": "net.minecraft/1.21.2-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.2-pre3",
+      "sha256": "4f257eff0e9595394a3a9dc987ad29cbf6a8cbe6ff2d14ca55af8dc3ebade658",
+      "url": "net.minecraft/1.21.2-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.2-pre2",
+      "sha256": "100938e8cb432fadee9fc92d1a1a811edc12a67b321bc7a78d2d55234f865a63",
+      "url": "net.minecraft/1.21.2-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.2-pre1",
+      "sha256": "5769537dbf15e7266fd64bb70375040a66f736ee2db94223c80a4192429a2119",
+      "url": "net.minecraft/1.21.2-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w40a",
+      "sha256": "0accdb16e9d2d8fafe2ae766c1004bbe7b284c4b7ee9deef8cdbc836c0913841",
+      "url": "net.minecraft/24w40a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w39a",
+      "sha256": "60debc328d715ca29ec7f83f48163980362e931b035f001bb8121dd8474d935e",
+      "url": "net.minecraft/24w39a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w38a",
+      "sha256": "6bd81428ff0460aac942e01afaa484f6a87358301f2abaa09d3fc7573146e5e7",
+      "url": "net.minecraft/24w38a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w37a",
+      "sha256": "b54793b0c9f4bcae09b66c4d80eb129ae542a06f232a049ac6c17e2b5ad4007f",
+      "url": "net.minecraft/24w37a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w36a",
+      "sha256": "37c7ed8636979e57791e28a3ff17e6f2045a246b15ebc5edab9bf766f14b2d4e",
+      "url": "net.minecraft/24w36a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w35a",
+      "sha256": "b3736e466706c70905bd1c050cc16ba7cd9595dc389e576823b024ba0e1f7404",
+      "url": "net.minecraft/24w35a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w34a",
+      "sha256": "44c659f6304be683011d7e03f18a59dc3befc5c5e80b1b4344d9cda85ed25690",
+      "url": "net.minecraft/24w34a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w33a",
+      "sha256": "8c7263890ca8e72188fbfe41f3d6c1c088528ee7b0a65b1ccd6cb5c0749ae9b6",
+      "url": "net.minecraft/24w33a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21.1",
+      "sha256": "84646778ecccc375073a77ae484ba447f966352b95b458ac14fbde2fda121acf",
+      "url": "net.minecraft/1.21.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21.1-rc1",
+      "sha256": "12e7808febc414efd4f74930255bba348f4b2eb2761f80dc8b376bae47702d85",
+      "url": "net.minecraft/1.21.1-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21",
+      "sha256": "d047f84b28500431538c8548bd50bbd322af49192c1e9ae1203bd98d2f4e2595",
+      "url": "net.minecraft/1.21.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.21-rc1",
+      "sha256": "9268dd521dfeb4a23983bcf7b90cf46645e1f4d0c45fdc42784c5b24ea7ef8f8",
+      "url": "net.minecraft/1.21-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21-pre4",
+      "sha256": "6975ba0d375bd60fbf7346d09b4d1b566b64ee67fe66fa85522a2c565421ea6c",
+      "url": "net.minecraft/1.21-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21-pre3",
+      "sha256": "31b657c104ea698b6bde4e1778ac4f16911b10b74ac363b103556fdb2949a1a9",
+      "url": "net.minecraft/1.21-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21-pre2",
+      "sha256": "6023bc7edfaebbbe9d10e47f2a263fe9c6aa639144fcfe3f87571da8735c19aa",
+      "url": "net.minecraft/1.21-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.21-pre1",
+      "sha256": "cfa4152be64a4eb64bfc1ca1ea161f6f6f5dfbf560a39415c47b9f51bb6b36a3",
+      "url": "net.minecraft/1.21-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w21b",
+      "sha256": "686fa5140cef6939c00051b21845ec44e91615731d373ec8d38a5a99a475fa8b",
+      "url": "net.minecraft/24w21b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w21a",
+      "sha256": "f7bf186b7799f344c6637cf17c19cba5336160396e8edaa13c47083e4c8a18c4",
+      "url": "net.minecraft/24w21a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w20a",
+      "sha256": "182aa35aab79d953031c661dbcc719168af32697be25deccac00c782b863aec3",
+      "url": "net.minecraft/24w20a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w19b",
+      "sha256": "5b4d1f10bb2db4fd1d19901b37cbf6031154761ed25dd8bffcb4663a41b6658e",
+      "url": "net.minecraft/24w19b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w19a",
+      "sha256": "4b0f52f06b026c41e81643d3a9881db3286e6cb6e9093ba6ca218a3fc847fe06",
+      "url": "net.minecraft/24w19a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w18a",
+      "sha256": "b4f324f78e3df537438425e089b89eb77d29dfd3d49de0fbd6ae79bdb63451c9",
+      "url": "net.minecraft/24w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.6",
+      "sha256": "3dc3a5a77554285390519bfadca3060d5108be856500204221c58719553228a9",
+      "url": "net.minecraft/1.20.6.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.20.6-rc1",
+      "sha256": "61843b25c5ccc967cfd338657b154a10101cfc44685d62a5da4cf5c8201d90ae",
+      "url": "net.minecraft/1.20.6-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.5",
+      "sha256": "9e10300321eff8af82ece6bc74d81aea84494ed26a02f9829de808195926d70a",
+      "url": "net.minecraft/1.20.5.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.20.5-rc3",
+      "sha256": "e1e80f76ebce01455b95f109778190cad81a5b60eca73919fab3ba6bc86f468b",
+      "url": "net.minecraft/1.20.5-rc3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.5-rc2",
+      "sha256": "b471d111d43828849b143edd540c2f413314a48e4443327c722faa7d7966b459",
+      "url": "net.minecraft/1.20.5-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.5-rc1",
+      "sha256": "70511ff365d3b3545d9f35ed1e779a8a5a718c700c749bea77c3218f9cf97ed4",
+      "url": "net.minecraft/1.20.5-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.5-pre4",
+      "sha256": "272990f2f0878a0f8a3f5c5a4486ec4e75d604bdd7e2e7d8784b9891e74e7312",
+      "url": "net.minecraft/1.20.5-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.5-pre3",
+      "sha256": "177473f9833eacc9a744ad4223c3228111c0ea269a95338fea7a0569cf92aafc",
+      "url": "net.minecraft/1.20.5-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.5-pre2",
+      "sha256": "a2477f2d16c1d582f10f43bdbfe276d96dcc44601c6ea6be370803dbee7b9964",
+      "url": "net.minecraft/1.20.5-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.5-pre1",
+      "sha256": "86f79ebb111ba3d9196fcf43d57ecba0657b3e00d1405c7a9bfecfa9f60c0d3d",
+      "url": "net.minecraft/1.20.5-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w14a",
+      "sha256": "4e8da8a7d8a380cd93f4c68d8cfe1149930ea9536d0dcaf9156373efd01f60d0",
+      "url": "net.minecraft/24w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w14potato",
+      "sha256": "87aef33453931deae4a855158dc0c8f08a4f3f4f7867626f841b4c5e17cbc446",
+      "url": "net.minecraft/24w14potato.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w13a",
+      "sha256": "60772e0d94f7b89c01855a5e1d49d1861e4d09f49d8c12ccf241be6186b0cd80",
+      "url": "net.minecraft/24w13a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w12a",
+      "sha256": "37a237755c5ed6c52d9f3381f2865234435a6297ca4c93b7c6303e1246b481db",
+      "url": "net.minecraft/24w12a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w11a",
+      "sha256": "db5a41b1f318bd1c2e180bc9ef974807676ca64472e5400daffe8fc36744e06f",
+      "url": "net.minecraft/24w11a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w10a",
+      "sha256": "19045ec671a90df7c9a356559bce05c8ebcc7de80e1d94e5491e55ac4958c449",
+      "url": "net.minecraft/24w10a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w09a",
+      "sha256": "cf0aa927face28917402ca4cd7deca75df26ac336e5f1026ce25a6912c7705f3",
+      "url": "net.minecraft/24w09a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w07a",
+      "sha256": "559800f641879f05cb4235d0be1cc885f4cf40b6119dbcaa1539b14cb32243e0",
+      "url": "net.minecraft/24w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w06a",
+      "sha256": "6e28860eb9a43f4b977855799833eadd0d9ab3461cfbd8421b2ccb975c14d7b7",
+      "url": "net.minecraft/24w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w05b",
+      "sha256": "a92b161528385d43161a8e552907db8cbe4a81e96335138aea77965d0c667504",
+      "url": "net.minecraft/24w05b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w05a",
+      "sha256": "f0e24761fbaa3c6ea9fc70c787aebb1458c5674dbcdd2c8923a087e20623755a",
+      "url": "net.minecraft/24w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w04a",
+      "sha256": "2d3b59278d776037bd6ccb240d08a081882df52d9db09af29ae5cf966ed0f449",
+      "url": "net.minecraft/24w04a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w03b",
+      "sha256": "8c9c9ca629a9392f8469b0a394cf55455c3f9b8f34697e2fd991331d8bd26e00",
+      "url": "net.minecraft/24w03b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "24w03a",
+      "sha256": "41473c80315bc3584f21fa5aab798bcc8a5c92be8e04ca336de8c9a8a1c07a1c",
+      "url": "net.minecraft/24w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w51b",
+      "sha256": "b3059a0080ef56f520a14fd08393ef136aeeb502a9d64cc861db1840fbbec92d",
+      "url": "net.minecraft/23w51b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w51a",
+      "sha256": "61b2e0a3b6d25ded8086de3c4ddf094413ca17d7a607f4affaaa5db1d787380a",
+      "url": "net.minecraft/23w51a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.4",
+      "sha256": "731ed86b3d2f055e22d56932bbcdda3df1a06a6adc29c23f8904da9a9b77c320",
+      "url": "net.minecraft/1.20.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.20.4-rc1",
+      "sha256": "0c8723a2c2b6495b3e0e07ff054c53f928274d550da09a301d724e594e7aed81",
+      "url": "net.minecraft/1.20.4-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.3",
+      "sha256": "252d0ea1f611ea0bf54d31350e186c3879b929c8ea27828f1ec171c4398fbb7c",
+      "url": "net.minecraft/1.20.3.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.20.3-rc1",
+      "sha256": "7f88adcba393af63263e67465ca4fcea9aada66fdc3a231b518573ade95a85e8",
+      "url": "net.minecraft/1.20.3-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.3-pre4",
+      "sha256": "b9a085b608b6b09d31ff7c389115afc6f2b8ba2214a21a7beff18370e6fe9843",
+      "url": "net.minecraft/1.20.3-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.3-pre3",
+      "sha256": "e2e4feed8c52bb3df2ce0b1e95b905fee1b1c3db2f05ab7177f62dd1a2e7a270",
+      "url": "net.minecraft/1.20.3-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.3-pre2",
+      "sha256": "f598ba9eb4bd6c9569948d5ac7849af7f2839e2d4520f468fad854ab286d525b",
+      "url": "net.minecraft/1.20.3-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.3-pre1",
+      "sha256": "a9caccb9d91880fb4bd2830ea20becf31aec808a0ece6d0a333dcca66829f4df",
+      "url": "net.minecraft/1.20.3-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w46a",
+      "sha256": "910f3aa04f19758c47b0f4e03df5fb6309d432c5d9460ff86da0df33d6cda6d5",
+      "url": "net.minecraft/23w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w45a",
+      "sha256": "0a6794e241e74958d12afbb2199592ff42bd9a9a4df5c3376b4f0bcbdcac7967",
+      "url": "net.minecraft/23w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w44a",
+      "sha256": "8b3c1318b871dc533af2d1ccf6ae910a9c66f626e0de98eb9f79d69317f1d8fb",
+      "url": "net.minecraft/23w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w43b",
+      "sha256": "68a169ea0b40cbaabf60ed6b7be625ea8a88229b2672f9d9678999b4c6f589bf",
+      "url": "net.minecraft/23w43b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w43a",
+      "sha256": "18a229fbe2e58acfbb1f8471fafe689658d9994bc97856c9bc18fc33e99d83aa",
+      "url": "net.minecraft/23w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w42a",
+      "sha256": "2960c939a321ae5f1b3a8862815a0b83659d28cb4264433ab883ea5545012094",
+      "url": "net.minecraft/23w42a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w41a",
+      "sha256": "a5e91f3e0b283fbeca21d2266327a613777e714a7df8c76b70f11e0f1c8a1d8b",
+      "url": "net.minecraft/23w41a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w40a",
+      "sha256": "f859b0fb30ae26e34108833f26862d19a69b96c9e25041fe7e9c19eaea6f42f3",
+      "url": "net.minecraft/23w40a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.2",
+      "sha256": "d1a25ce4d8b86279d245f2fdf1a20acd81618893d0df1043db94e1c1038e1dbc",
+      "url": "net.minecraft/1.20.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.20.2-rc2",
+      "sha256": "ff2c38cb111decdda78baab38cde26533d34a0e10b1f7c22216a841d059159ec",
+      "url": "net.minecraft/1.20.2-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.2-rc1",
+      "sha256": "cf532ef22a889815f513075a4369e689784107d3c5a46dfa6198157146130e78",
+      "url": "net.minecraft/1.20.2-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.2-pre4",
+      "sha256": "19c4ebbd2231e336f04cd34f1a65fcf81bcaa7fa0ab062e6f1d86816cfd1f990",
+      "url": "net.minecraft/1.20.2-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.2-pre3",
+      "sha256": "38dd4e4081cc21093b2e661db63ffc722bd25253a98142fea92bf81fabaa7054",
+      "url": "net.minecraft/1.20.2-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.2-pre2",
+      "sha256": "5c1c506ff1e1caefd7f74d9e8272dffda7dec8e67ac344150e4eee8155d02755",
+      "url": "net.minecraft/1.20.2-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.2-pre1",
+      "sha256": "a6de408a0f2dfaa0f367659c5cfef0a1f7220aae5f13451838acc756bab6838a",
+      "url": "net.minecraft/1.20.2-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w35a",
+      "sha256": "fa30604b850c4f6a8bdd839cd7bbdd3d016925d6e025129e59175a3d99d0b50c",
+      "url": "net.minecraft/23w35a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w33a",
+      "sha256": "ae4f460677e1b3c6514e2433ed81b60a57769eb409309928cd9ec73b3ea2539a",
+      "url": "net.minecraft/23w33a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w32a",
+      "sha256": "6cbabe08afc1feaad03727759ac93e21fdeba30a1d75cc2ebb89c860dcfda778",
+      "url": "net.minecraft/23w32a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w31a",
+      "sha256": "4abd8d13277c6e55826064c23d3e5599dab24d4c508dee41180f7f8c081dfaf0",
+      "url": "net.minecraft/23w31a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20.1",
+      "sha256": "15863b6c7b0a1ca3534e5a98571f22b07d0b9a7e24ec6e099df8e346c40e6fa7",
+      "url": "net.minecraft/1.20.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.20.1-rc1",
+      "sha256": "9435ed2dbc8286e468335ef0f15b154e9bf0ab124e67a201678063b0cfdb92b7",
+      "url": "net.minecraft/1.20.1-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20",
+      "sha256": "a230e9a4cc8dd7f032febaf570b25308f7c4b357da0aadbde766181d3cbb5137",
+      "url": "net.minecraft/1.20.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.20-rc1",
+      "sha256": "62ab42ba692cf2cfa421e38932b961f3fd8bab9d69e9dd23446f9de9141201a7",
+      "url": "net.minecraft/1.20-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20-pre7",
+      "sha256": "08348f7b49d992db9298cc65d03941af0a94ef6d54a3537cf5b7b35b5469150a",
+      "url": "net.minecraft/1.20-pre7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20-pre6",
+      "sha256": "e967502e1b35d1b315a70c4654ad899248b4dc150e83bb769cc62e206527c0ff",
+      "url": "net.minecraft/1.20-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20-pre5",
+      "sha256": "f810e4a41549d4d4e683693cdcd81e0a2368e8a6ff521a6194cef75b5aa57fac",
+      "url": "net.minecraft/1.20-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20-pre4",
+      "sha256": "20a7568b166713f21dedaa40b66d8c79460cae7c380c9a3996eed8778e389097",
+      "url": "net.minecraft/1.20-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20-pre3",
+      "sha256": "7eed660270d678beded5516f43c20d4ab5fa9371988e5c8b93f310747b624659",
+      "url": "net.minecraft/1.20-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20-pre2",
+      "sha256": "306bf3e58dedb140ef88fe523eeaf2052ff7ee7dd1b593d9789371932c77b0c4",
+      "url": "net.minecraft/1.20-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.20-pre1",
+      "sha256": "b674451ac9772f6fc58b0fa89f30dc9c62ca54432ec8348733e8d6264b8d33f8",
+      "url": "net.minecraft/1.20-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w18a",
+      "sha256": "4b4927a8ffac808a0e652041ef824e78bb1619c14a86de2dca21cdab15f95684",
+      "url": "net.minecraft/23w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w17a",
+      "sha256": "f0658962d9b690edacf5f49c3a94a79ec1b6cc4c03d6a5814ebac9622730d722",
+      "url": "net.minecraft/23w17a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w16a",
+      "sha256": "5d42678b52f19e7e0abbccffd8610082cea606aa69f8742a5be6def63295c81e",
+      "url": "net.minecraft/23w16a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w14a",
+      "sha256": "8d527617dce2995a6b3845f8ba2cedcc9e23a63549e6a3876da881a608385f05",
+      "url": "net.minecraft/23w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w13a_or_b",
+      "sha256": "cd47a35ac78f13bfcebb64fb5d5c71cfff17b3dfae15339c1a48a2b1a20fa3c0",
+      "url": "net.minecraft/23w13a_or_b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w13a",
+      "sha256": "a813200a1fe1b58c2add2a12c649f7e00b41e8f2d92b35823c2a97aabf975cde",
+      "url": "net.minecraft/23w13a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w12a",
+      "sha256": "0e4cf09d66b09b4e6f72f7e65da696252af2aa929707fdf90ea0274dce788714",
+      "url": "net.minecraft/23w12a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.4",
+      "sha256": "23c000e7dec1a57ebbdff46bd96bc247da2246c88bdc1221b1fc967b71383788",
+      "url": "net.minecraft/1.19.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.19.4-rc3",
+      "sha256": "2021aea4ebd6a4b6c21c02f501686bb23c7c0330caadde6834d758b0c329014b",
+      "url": "net.minecraft/1.19.4-rc3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.4-rc2",
+      "sha256": "932f0f32c0f02604f83c22c2004232f0dd5b607c9191d9b494daa0835e357822",
+      "url": "net.minecraft/1.19.4-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.4-rc1",
+      "sha256": "75f10b4c79d6518f6235ab4966ebb1ab0a9122e376dd9fb7a0ae3561eb3717eb",
+      "url": "net.minecraft/1.19.4-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.4-pre4",
+      "sha256": "7f68caeae10d3715beb345c47e1d0789b09a0289ecf53f1f3db766ce5046201b",
+      "url": "net.minecraft/1.19.4-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.4-pre3",
+      "sha256": "c67f6ef1a4677db7840f93387741800b3e5021d29d7c97e985c6f265316f6e1d",
+      "url": "net.minecraft/1.19.4-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.4-pre2",
+      "sha256": "6248259d13ffc2fd15bb8475f355286fdacd926a5904abde76ce460fcf5992ee",
+      "url": "net.minecraft/1.19.4-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.4-pre1",
+      "sha256": "19783b0afd4ee6f6c979557d8a8257164b77c04cff8e227e11311ec34db2f831",
+      "url": "net.minecraft/1.19.4-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w07a",
+      "sha256": "05872df69331ac6e51912f2a5331777bc1e8751ab94a90a7923c543f5f8c1caf",
+      "url": "net.minecraft/23w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w06a",
+      "sha256": "aa26ff9ea421885ebe392375ebf61e5f4b58a77048ca2f06c4cb4d542df42c4f",
+      "url": "net.minecraft/23w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w05a",
+      "sha256": "eaec18366e33fd28e61c893ba29ba0135e46cf9a13957b242898e90dfc018de0",
+      "url": "net.minecraft/23w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w04a",
+      "sha256": "f544335d8b1e73f46c71a5fa57431d51dc6bd7f7efb5de9c360aaddfa2526f75",
+      "url": "net.minecraft/23w04a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "23w03a",
+      "sha256": "cab5063df5e5d7d095b07bd896328bcc98a7183b8fe90a04c833691ffd4cf9f1",
+      "url": "net.minecraft/23w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.3",
+      "sha256": "9f0ad906b431b77c5ce86ecf5786f0c4d186297228ba2702389c9d7cdff77e9b",
+      "url": "net.minecraft/1.19.3.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.19.3-rc3",
+      "sha256": "cd17a85d8b62f4f304dc207108f0ed873a401130767c4d32f564e0280dcb3103",
+      "url": "net.minecraft/1.19.3-rc3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.3-rc2",
+      "sha256": "786c49e478a448ac2a06fb5236aaf677035333a543f05376b62af9d8d3f89995",
+      "url": "net.minecraft/1.19.3-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.3-rc1",
+      "sha256": "eafc0db8d6ea00e59a4a6e493660f315015fd95457f095613fb965058854f645",
+      "url": "net.minecraft/1.19.3-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.3-pre3",
+      "sha256": "b08fc7b47c9fe606d70220c9c92e9aea58a1f3fee7a733b1c2a624f51d8b469d",
+      "url": "net.minecraft/1.19.3-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.3-pre2",
+      "sha256": "ba6ccc5a71106dcd779ef7059bd88d8bcab35f1d3569b04fa65a1f7e5908e12b",
+      "url": "net.minecraft/1.19.3-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.3-pre1",
+      "sha256": "9c1f40c0ea05d096af76e1cbda22d3ffa0d1b869f48adc77100d89ab24bede39",
+      "url": "net.minecraft/1.19.3-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w46a",
+      "sha256": "17c8f880c5a7aa178674f631421d6aae09e694366c26d6d7e2bab1bb95c9d578",
+      "url": "net.minecraft/22w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w45a",
+      "sha256": "6366693d5aca8355892a8e0812b4743f68f183e9c732b6d99c66050c4953051e",
+      "url": "net.minecraft/22w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w44a",
+      "sha256": "f813a82dd98918536290e74791495b76a386fd26505f5c7135ef64884b449c8d",
+      "url": "net.minecraft/22w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w43a",
+      "sha256": "57b82fe02478a6cb2c92b6c423c29dbc2ce97dd99628c8e9537e2c75e2fb16a6",
+      "url": "net.minecraft/22w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w42a",
+      "sha256": "99688154e7d5d775550a2b6e9a28616fc46b7d0910037b12d36c1797c6b602fc",
+      "url": "net.minecraft/22w42a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.2",
+      "sha256": "fecabadecde0afa02b03cb360dfa6e92265cae2d0d8969653d6cbf990b9dcdad",
+      "url": "net.minecraft/1.19.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.19.2-rc2",
+      "sha256": "db2cc89b35717f085d6082b08f5f3cc880189d2f8544011ffd4075a76feb3468",
+      "url": "net.minecraft/1.19.2-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.2-rc1",
+      "sha256": "ae4d82a5f35cfee4efd89b7771af312c0008c48890a5fec211bd38414779a270",
+      "url": "net.minecraft/1.19.2-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1",
+      "sha256": "a5b2a78555588c381019b14a16b3f8b1449b88b2f9af5bfada8bde5044207512",
+      "url": "net.minecraft/1.19.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.19.1-rc3",
+      "sha256": "a723771130c2ae0edc91d2eb065a8dbe8c8271769d54d917be47927ec5712612",
+      "url": "net.minecraft/1.19.1-rc3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1-rc2",
+      "sha256": "6193ff58dc1e2fcdc1d1f5ffb9ad055b2ed12c648ee79adbaa54fe031cf1c518",
+      "url": "net.minecraft/1.19.1-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1-pre6",
+      "sha256": "53fbbf73cc6a62b0827a363110c8735a76950dfec349d021c233d265a49a34b2",
+      "url": "net.minecraft/1.19.1-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1-pre5",
+      "sha256": "c51e7efd3ebd46c553c193aa0ce8656c9a94d2463704889ef2a5a0b74a340ede",
+      "url": "net.minecraft/1.19.1-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1-pre4",
+      "sha256": "2408a72da369cf729d2d3552fe46b7a17a372097d23abc5f15b6771499e45e00",
+      "url": "net.minecraft/1.19.1-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1-pre3",
+      "sha256": "7bee36c32b8142f922017afff975dc8aee96ddf434154beff884ccd636d7e379",
+      "url": "net.minecraft/1.19.1-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1-pre2",
+      "sha256": "c578ecd2a14e9d55335a009777fd0f9257e4f73057a889d24dfd335b0a6c1838",
+      "url": "net.minecraft/1.19.1-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1-rc1",
+      "sha256": "c7de4c62e9ebf4adb08e4dbb6222daa24ae10758228db8591219be5e35b8eaf7",
+      "url": "net.minecraft/1.19.1-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19.1-pre1",
+      "sha256": "430d30d3e677ba1ff0ad739d52cb535cc16a42509dae70c537bdcd33b5ad0276",
+      "url": "net.minecraft/1.19.1-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w24a",
+      "sha256": "5efe4051871c48e7ff35136a007c50c5df22ce46603da18af865b420376d60aa",
+      "url": "net.minecraft/22w24a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19",
+      "sha256": "65f2a9e01fd39410530fabe1fcfbad582d1fc2b7105718ba5417370698efe51e",
+      "url": "net.minecraft/1.19.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.19-rc2",
+      "sha256": "044220950a53f4c79508558c49e7b38295fa89f9b5eb5bd83a30b89c7b01a713",
+      "url": "net.minecraft/1.19-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19-rc1",
+      "sha256": "5dfc7d5803def19ce14369899873dabc802f03519f4e4c15eb7994439f7537d7",
+      "url": "net.minecraft/1.19-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19-pre5",
+      "sha256": "20deae0bac761b23f9f442e41b4b7612852d849e6767338c301ce05c71e85e53",
+      "url": "net.minecraft/1.19-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19-pre4",
+      "sha256": "fe46e77a6bf8a7592c0ee9756731b521c01facbebbca8623488f21b0fc56bf95",
+      "url": "net.minecraft/1.19-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19-pre3",
+      "sha256": "d62adf80c2079c8dd684f907ba080350ee4b08bc49d3d4fa047abc8496e111ec",
+      "url": "net.minecraft/1.19-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19-pre2",
+      "sha256": "fe4a7f5829cd43028be5054ad96b1e07d03bc77d3106f6df9dfe0a8549c14384",
+      "url": "net.minecraft/1.19-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.19-pre1",
+      "sha256": "14ebff75bd10a349b097b123c3690fbbbd4ce094eba800d4fa951877a6991ec9",
+      "url": "net.minecraft/1.19-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w19a",
+      "sha256": "1ecd0e854eaa0e52233f6e61225d6ecc7d7a47f5949dac69175bd46febcc3733",
+      "url": "net.minecraft/22w19a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w18a",
+      "sha256": "213f6c03177de5f6250da7ae6667c908a2196d06ff3900a20fab094abb61df82",
+      "url": "net.minecraft/22w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w17a",
+      "sha256": "c7716476a81919020ef4034e85050c82818ba7ff6d432f558e3c91fdf5516f27",
+      "url": "net.minecraft/22w17a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w16b",
+      "sha256": "b330326f1360e2fe8c6ff5ea70f567076334186e80a6ef694e01d1deb3c13481",
+      "url": "net.minecraft/22w16b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w16a",
+      "sha256": "adad986ea4dc58436bf74dc135daf21d6452cf16ede8d24287e889fb06d6667c",
+      "url": "net.minecraft/22w16a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w15a",
+      "sha256": "6edeed3cb827aaab66231520ac85263746caac9126bea7571b01552b8770b40f",
+      "url": "net.minecraft/22w15a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w14a",
+      "sha256": "8d7dbb02005cc7293a7f56b4e96c6755f2376f7c6e0e993266f39471b5d0b517",
+      "url": "net.minecraft/22w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w13oneblockatatime",
+      "sha256": "b0d82e41985fef73b3504bb99cc26e8415b68824e4a5fcd29392c141ebde5873",
+      "url": "net.minecraft/22w13oneblockatatime.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w13a",
+      "sha256": "52484febc4e715af497265512691d5368258825f199cd3deecdeaeafb6a1c587",
+      "url": "net.minecraft/22w13a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w12a",
+      "sha256": "04a2a9d0778f38fe1d5486a9f26721e10b5274f0bc69a295b7ed55a8b749dd41",
+      "url": "net.minecraft/22w12a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w11a",
+      "sha256": "c9892df1ff6a56b402e358801e8991d839ecd25f061a43bb3ae290213b82d18a",
+      "url": "net.minecraft/22w11a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18.2",
+      "sha256": "86c631ef32cd9d77efc69eacff925fb87f906c56bb3d06738634521a0fc54d37",
+      "url": "net.minecraft/1.18.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.18.2-rc1",
+      "sha256": "6905b5b2eeebe27881ef5666ee576c312355dfa3a1e868829b55e5e159a56934",
+      "url": "net.minecraft/1.18.2-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18.2-pre3",
+      "sha256": "ec9b5b682f7500d928d80302bd52a5bb9e6acb28052d9d58cbc9cc6bd56baa0a",
+      "url": "net.minecraft/1.18.2-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18.2-pre2",
+      "sha256": "5c4c5038756ae424db825de9b869e4c1ba0cff25f1cc25173e125ae3ce346b44",
+      "url": "net.minecraft/1.18.2-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18.2-pre1",
+      "sha256": "e584fdc0fd3f2bec0717ec305ac6971c52c9f0f55eef0198a703566439b3146e",
+      "url": "net.minecraft/1.18.2-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w07a",
+      "sha256": "79c2fc6ebdbeafd5623111da149a2aceb8c5a21b0cfd2d89b0385261d14f6ec6",
+      "url": "net.minecraft/22w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w06a",
+      "sha256": "da05039b5ba140ca0008bc42629e6f0af3f5bc636c0a8bce3ad3ef412c7936d1",
+      "url": "net.minecraft/22w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w05a",
+      "sha256": "a660f4e3043367d4692121ab559f475e86bfc97c624fc807f2b993c1803cc63c",
+      "url": "net.minecraft/22w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "22w03a",
+      "sha256": "c4ed000eb5a2fd0cf6f1501df23170c45772c9f58163549b05e58c51b949cc54",
+      "url": "net.minecraft/22w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18.1",
+      "sha256": "31af2ae01e17acc3b4a03fab02ec78079f4630be9fa07567a8860bd8c67d156c",
+      "url": "net.minecraft/1.18.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.18.1-rc3",
+      "sha256": "67091d93949cdfc720e8c5f8df0b6b2020c2218765b37541320f9c8377f54f6d",
+      "url": "net.minecraft/1.18.1-rc3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18.1-rc2",
+      "sha256": "70f49be22e09b04d2734e8e422af7ae0adc961453885e57c06c7aa69c9acc21a",
+      "url": "net.minecraft/1.18.1-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18.1-rc1",
+      "sha256": "3496e8a146175fd331acf45d6b6c0928bc99c99f7fe0c8d112f5361f219bfc2d",
+      "url": "net.minecraft/1.18.1-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18.1-pre1",
+      "sha256": "a85378425f96c4c15dcf2b460b74eb095d36cefb02becbf3458f3bc195024b4e",
+      "url": "net.minecraft/1.18.1-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18",
+      "sha256": "c021cb13c8c78d9df3d21544dc7c2fdc6f27c178857523e3ae557f004f9189d6",
+      "url": "net.minecraft/1.18.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.18-rc4",
+      "sha256": "8b4e4844fe65d16d63db9ac9072fe3dc673086d84895d47680b8c269989e5162",
+      "url": "net.minecraft/1.18-rc4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-rc3",
+      "sha256": "43c512cf2496223607b13e1d4f2d3ac73b3d36fee607d3588e135a6536f9f8b6",
+      "url": "net.minecraft/1.18-rc3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-rc2",
+      "sha256": "67be047b28df9b8819e7bb25bf8d481a27dbe5e0d499ae74cdbddf997d116812",
+      "url": "net.minecraft/1.18-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-rc1",
+      "sha256": "a6227f76ad7f8355e9ff1f46cc74c1411a2cb6b672ff4dd3210701eaa10c629e",
+      "url": "net.minecraft/1.18-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-pre8",
+      "sha256": "00e44bc2f802441d0de73123d5cfc298ece9b397ccee41ebfa75c490d060e582",
+      "url": "net.minecraft/1.18-pre8.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-pre7",
+      "sha256": "998a989cb86a79dbda423c68c7edeca62d61b9819be541cf6107c75c69a79b90",
+      "url": "net.minecraft/1.18-pre7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-pre6",
+      "sha256": "68af7f378c10e4cac3c1566d56f7a1180f73a5cead5a4a03cf12ab4389b7bd24",
+      "url": "net.minecraft/1.18-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-pre5",
+      "sha256": "fa40cab7addbe3580e8f1e824de5fd9808013b407cb79fa261448d991acf13cd",
+      "url": "net.minecraft/1.18-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-pre4",
+      "sha256": "cc0265f439a6fbad6e94ce5227a47c4c7f92430c4b7bc838ed7a77ba327644b2",
+      "url": "net.minecraft/1.18-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-pre3",
+      "sha256": "0853d40c40862df12bf7af578691c43f9df016e17188f02e7bc75a9ce7733a4d",
+      "url": "net.minecraft/1.18-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-pre2",
+      "sha256": "e294d53c412fb5b58ea746959b42a1d7fa1f9528ddbe14e80a81f73da9a3ffd3",
+      "url": "net.minecraft/1.18-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.18-pre1",
+      "sha256": "b1e0434e179618830fb27677db9cc1a27c37e6df8d1a668e9c1dad57fe303938",
+      "url": "net.minecraft/1.18-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w44a",
+      "sha256": "98f077c880e528eb9648d3b9dd8a29ee98f67d579a319143f2d94b6a9103d2f2",
+      "url": "net.minecraft/21w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w43a",
+      "sha256": "177d556793b425fb64dcc7b2891c49570fbb040dacd993e8bb70857d87acac46",
+      "url": "net.minecraft/21w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w42a",
+      "sha256": "374d49b5a5f39263bc55d9db8fff3962c37fce7685ded6bc18078f8683b684f0",
+      "url": "net.minecraft/21w42a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w41a",
+      "sha256": "24483f5baf4f9d66993ff9cd81ce455ef42c3c31ba7ee0251c8f93af2221bc6f",
+      "url": "net.minecraft/21w41a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w40a",
+      "sha256": "fe75e3c4c8e48e082d0ef43b9a9c9cc79c1e9e1b6f3ab91c44c067381c455dba",
+      "url": "net.minecraft/21w40a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w39a",
+      "sha256": "1930693cff8beaa437f6ac7d9f8c20d319d18d49e68660a73124d3f20ed05e37",
+      "url": "net.minecraft/21w39a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w38a",
+      "sha256": "5a64600dacc408568e907eba59cffd912d212b6bf82f5963e867cd6c7336c025",
+      "url": "net.minecraft/21w38a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w37a",
+      "sha256": "00973e8007c7431739181fecfc83e7bd510b4fd91ae010fb0d85a6289629db7f",
+      "url": "net.minecraft/21w37a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17.1",
+      "sha256": "81c11a826b13955419acadfbe6514b80d6d20fdd7ec215a5ee22826603aab62c",
+      "url": "net.minecraft/1.17.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.17.1-rc2",
+      "sha256": "2721b106ec343d90c209faa613ace9c4fcc786be3d99316c2c1278757255a8b4",
+      "url": "net.minecraft/1.17.1-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17.1-rc1",
+      "sha256": "11b04764a3db1917e5ef7d72067821c7e71fb0d0728a5ab6679a74b193ec0c46",
+      "url": "net.minecraft/1.17.1-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17.1-pre3",
+      "sha256": "afd69a6897fdf948fbd8d324d916a0e5a71a5fde773c33411b6da1d28edf8a8b",
+      "url": "net.minecraft/1.17.1-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17.1-pre2",
+      "sha256": "3e6f775d28314d2dfc8bc2d3a3b6e8b89c4a1435652ab3178139dc7ea76aca15",
+      "url": "net.minecraft/1.17.1-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17.1-pre1",
+      "sha256": "77601af764faa905d157fd30d465a85893767199d2d49344269cd726c6f1c47f",
+      "url": "net.minecraft/1.17.1-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17",
+      "sha256": "bbc29eb9cb961b924334e8a418525b64f2d62cb6efd72179f5fa9413d8b5cf96",
+      "url": "net.minecraft/1.17.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.17-rc2",
+      "sha256": "0c184daf9cece7e17e7fc2fb1779db034a12d17ee915d768e1215d16c4de7064",
+      "url": "net.minecraft/1.17-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17-rc1",
+      "sha256": "0ff2d089f09a3a6e3c775eefce69965f31b2b084489a911b7c5bacf7d5116163",
+      "url": "net.minecraft/1.17-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17-pre5",
+      "sha256": "20e08058ab850e119b69e32d0758359429f01c1c28b4661820b7a696195602a4",
+      "url": "net.minecraft/1.17-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17-pre4",
+      "sha256": "1dee14a37d35a605f6de81d82ff6c14a82911eab146afa2dfc084ed22ed52549",
+      "url": "net.minecraft/1.17-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17-pre3",
+      "sha256": "b61ea55ed6138690541da530d83b9bad2feaed6094863f88e70ee1340de10914",
+      "url": "net.minecraft/1.17-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17-pre2",
+      "sha256": "efbadc6dafe2656241131edd7d45a0a9875ff6ae58f454a70aae2046c3caf672",
+      "url": "net.minecraft/1.17-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.17-pre1",
+      "sha256": "dfc28a515a78170b32c0f742d9d23dfc1831ca58041a5b9787a29675806fa4cf",
+      "url": "net.minecraft/1.17-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w20a",
+      "sha256": "9963403a370402d91a151fb1eb1686c63886fee4966b86bff94b6d43887e526a",
+      "url": "net.minecraft/21w20a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w19a",
+      "sha256": "b488e93c41cbb5f522cd4737657d2dcbb7cda66d572b9fd9dc693dad1966ab3d",
+      "url": "net.minecraft/21w19a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w18a",
+      "sha256": "a8352c95e55143e3592bcd520f7daf4a48d340cfd2e802c299e5d76c9add5f16",
+      "url": "net.minecraft/21w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w17a",
+      "sha256": "ed08d3509cc434102a24538f675ea17f34fe04b4e7ecb3133ce79a4f9b97af2c",
+      "url": "net.minecraft/21w17a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w16a",
+      "sha256": "fcffc307fd67d7ecb8fbed3aad85c8aea5a3127902332fe12b315f5bde62d1e4",
+      "url": "net.minecraft/21w16a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w15a",
+      "sha256": "9850bf4cb5fc94d30bff58ea75ee06c762f294f02ce9a651052ccc923113716a",
+      "url": "net.minecraft/21w15a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w14a",
+      "sha256": "e58d4cfa5dc8e31ffe120c43eaa7475b9ec4187a2c68991d52d3ba178398006b",
+      "url": "net.minecraft/21w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w13a",
+      "sha256": "fd406dd8dfbf506d18fa7a195342feeeb11c4ee3b7527babacc414d8a9b3789b",
+      "url": "net.minecraft/21w13a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w11a",
+      "sha256": "4e11f6bd129b22dd361451af055ea98d96e2f3fb3c7775e4b29c7681831511b3",
+      "url": "net.minecraft/21w11a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w10a",
+      "sha256": "c666d66dc5d09f3f3202ac49f1be600e665cbe90e60a05b09fc0f92d5c2b5abd",
+      "url": "net.minecraft/21w10a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w08b",
+      "sha256": "1ea17f510bc1a7016082590075a3a7f8c5d939e5654d9cdd59793bb115b7c273",
+      "url": "net.minecraft/21w08b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w08a",
+      "sha256": "b746ac42b8bb844b6282253213542c80e93e3849a954058fe21487148f71133b",
+      "url": "net.minecraft/21w08a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w07a",
+      "sha256": "f995d1573eccbc62220e90fdacdc17d26979d3a0509e1825c829a19aad0a9584",
+      "url": "net.minecraft/21w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w06a",
+      "sha256": "75677f61e6d6102484b798afd90fcb146235b0cdddc98a3e07103da712b8c357",
+      "url": "net.minecraft/21w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w05b",
+      "sha256": "75fe6f632a0e0a673e4b4fca3901373f43d833a9d07173ad09b8d30ba2544dd9",
+      "url": "net.minecraft/21w05b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w05a",
+      "sha256": "0b1bd16818aa9d79f673353c504f479214892c95045dddb0b04785e9f2154917",
+      "url": "net.minecraft/21w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "21w03a",
+      "sha256": "31f4583e0db599d4aad5fb58de97e33950be32bb5dac4322e6067ef0dc660a38",
+      "url": "net.minecraft/21w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.5",
+      "sha256": "ea0fdbbb28dbe3b99a600e257e64cbf5df2719971b6186a109104030f7b75693",
+      "url": "net.minecraft/1.16.5.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.16.5-rc1",
+      "sha256": "306c4c7998f5637d142b0bfe2e9e6d27e4f27bf514d04f330aa26730f5e73742",
+      "url": "net.minecraft/1.16.5-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w51a",
+      "sha256": "fab6d76055890919bca106a2638a263caf34d0aa446f0e52de2dcacec5922566",
+      "url": "net.minecraft/20w51a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w49a",
+      "sha256": "cc54bcff73aad55d0f1ec7c0b55b3e41d13ecaae88482431f5c7559c2c045347",
+      "url": "net.minecraft/20w49a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w48a",
+      "sha256": "3a3265f7315484f5c1604a181e14d0aa0f1a6b25b66cc1f0bf593bbbbf3efc69",
+      "url": "net.minecraft/20w48a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w46a",
+      "sha256": "d3e82147e9633712d007b16cba1bba2b3c3d396b7883d562fb57c5619a9e60db",
+      "url": "net.minecraft/20w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w45a",
+      "sha256": "e52817e5c33b77fb8bc769a2dc53a526a311380f516554e4766a39cccf0ab0f9",
+      "url": "net.minecraft/20w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.4",
+      "sha256": "d38185b0fb3b3bdc1945699c8bbbc2c5a599fcb688a104f46b42139c82c17495",
+      "url": "net.minecraft/1.16.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.16.4-rc1",
+      "sha256": "d51f09f8adece5b0fd55183b7b47a82a02f5cbc0f30e76126adce86371f00d42",
+      "url": "net.minecraft/1.16.4-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.4-pre2",
+      "sha256": "a946ef8a35bc48d6c39a73b0e4c43f18b09208d5f0498b233c6aa97cd20014eb",
+      "url": "net.minecraft/1.16.4-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.4-pre1",
+      "sha256": "15071cb9f1e89a93a068808b2b8dcf07cbcfd31293163755f70585677f0d9839",
+      "url": "net.minecraft/1.16.4-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.3",
+      "sha256": "7194dfab4756f6718979aa9c8e0adb1ede7639c845ef9b9dfc7241230b8346dd",
+      "url": "net.minecraft/1.16.3.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.16.3-rc1",
+      "sha256": "db432550b27d934915230f9038c25c0869968d4b84e82dfda621eef5bd52727b",
+      "url": "net.minecraft/1.16.3-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.2",
+      "sha256": "b89b95f7ab4da83555ea99fa3ef5debb6e2c9e549355aa93042462f259446c89",
+      "url": "net.minecraft/1.16.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.16.2-rc2",
+      "sha256": "ece8c94d2d4afc52009535f0a5dc3218636dc6bed5f59bf1465c43dea1fcf6c2",
+      "url": "net.minecraft/1.16.2-rc2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.2-rc1",
+      "sha256": "7ede8bf3d58c9247a66fe37cb3a9cd5d6277d2641bc0d1a37e3d72d880503d9d",
+      "url": "net.minecraft/1.16.2-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.2-pre3",
+      "sha256": "5f46f4603ac5a3e9b764a12c9bdb6002e67f6c075ae3a98c5b4e1fbcb210b84c",
+      "url": "net.minecraft/1.16.2-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.2-pre2",
+      "sha256": "b059f19f8998bb2884bd9c7405fe918fdd68939ec837e3b35c40642d029a1abc",
+      "url": "net.minecraft/1.16.2-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.2-pre1",
+      "sha256": "508d8558928b14f978a12f969b77b609ce05a622a9b6dc652a1dced2dec1dde7",
+      "url": "net.minecraft/1.16.2-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w30a",
+      "sha256": "d1931ca28f74bdce484b061fe70032ac3911ebdbcc226f31315d9b7f3dbdb400",
+      "url": "net.minecraft/20w30a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w29a",
+      "sha256": "83c63e4bdd0b30ed1b38f72cc758324fb2d3aeaad6b7450d72219ff643918ea5",
+      "url": "net.minecraft/20w29a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w28a",
+      "sha256": "be647bc4aab6627eb79aa655fa8ac7daa9cd134773c2dbdcf4eceb64576f468a",
+      "url": "net.minecraft/20w28a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w27a",
+      "sha256": "b21ecfe2c074e44551516fed1e8654f77f5bd2190615ed30a41eb61111eea9c0",
+      "url": "net.minecraft/20w27a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16.1",
+      "sha256": "9f551526be02228d46514238e474420f1677ab83e53d0ed5c26dad1bdd6a9bd1",
+      "url": "net.minecraft/1.16.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.16",
+      "sha256": "984af00e6687b455c4720da9e3b8fe9b7b59460264cddf35d6180431e1d4faa4",
+      "url": "net.minecraft/1.16.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.16-rc1",
+      "sha256": "4e9a09ef7dba001756c17b33475c07ee3459bc05461cfcb4d8f3b976cf4ab516",
+      "url": "net.minecraft/1.16-rc1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16-pre8",
+      "sha256": "2ef64b5fc1537807e60c8524609aa967b739640dd968f5767ed7951d53dfe2b3",
+      "url": "net.minecraft/1.16-pre8.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16-pre7",
+      "sha256": "31a7ebd4b6ca29c489c462f921c76e14242c4a0bac5c920c0af14400afa2c79e",
+      "url": "net.minecraft/1.16-pre7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16-pre6",
+      "sha256": "3612c5fcd62143b8636ecca1564f686e224b3df1124deabbe81eab36a0efa786",
+      "url": "net.minecraft/1.16-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16-pre5",
+      "sha256": "a2181d4e92402acb70a19dde19bc4ebfffadc15cc0d856140c73352a77e461b6",
+      "url": "net.minecraft/1.16-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16-pre4",
+      "sha256": "27ae0d9fa50374944cff3dc2b838802628ab7aaba3c113438e9d0fe6ba74d8dc",
+      "url": "net.minecraft/1.16-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16-pre3",
+      "sha256": "c41a8cf60d432d44b52d1e8b52fd72e854d1e8198f0059c99d0657479ee1d138",
+      "url": "net.minecraft/1.16-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16-pre2",
+      "sha256": "c9b7cf2c10e6b16f2367d7cdd83f1d3b55e2dbac0175b990a1e3aed4dd889155",
+      "url": "net.minecraft/1.16-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.16-pre1",
+      "sha256": "d0299af0bf85575a5694869c2be556ad18923ebff0f8224c55ebb9c5c5fa4728",
+      "url": "net.minecraft/1.16-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w22a",
+      "sha256": "416895177861fd7c063b41fc2f008b247fa78b210b52741f7bca912e99c52ee4",
+      "url": "net.minecraft/20w22a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w21a",
+      "sha256": "926a19f9ec6f342a2af541ef693b8518a4a05d91096ffc3b12f5e201c9c106c6",
+      "url": "net.minecraft/20w21a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w20b",
+      "sha256": "8da01616a700815362a3ea075d7e028a87305fe69a33e28c865fdf167eed2ec1",
+      "url": "net.minecraft/20w20b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w20a",
+      "sha256": "d549bcd743ce77a828ea1a5105af0833fc014ec36db13a6874fa483f9f2a767b",
+      "url": "net.minecraft/20w20a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w19a",
+      "sha256": "9df9122bf707a61c5d78d85dbf49724606222e631b8b8b61c05e715aee373a73",
+      "url": "net.minecraft/20w19a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w18a",
+      "sha256": "3bb3533bbadd8c93ef7ddb41ce019384fde09f2363651cb0d5421cb9d8a6f7f5",
+      "url": "net.minecraft/20w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w17a",
+      "sha256": "2b84c1e61523ae918366fdd57a998a14702b57ce0ad245decf69ec02953c2958",
+      "url": "net.minecraft/20w17a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w16a",
+      "sha256": "4271c5cbef6eaec5cab1e11742033c3d16da85eddcb841ed7110c391e56bb10d",
+      "url": "net.minecraft/20w16a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w15a",
+      "sha256": "6950811bdc5a3a9ceff14955bcb1a583625c91df4060731e8abe5e32714afc37",
+      "url": "net.minecraft/20w15a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w14a",
+      "sha256": "58322b197ad3c5d4d52e9af232d69ddbfcecab27dd632719c1bf0b106ff5e966",
+      "url": "net.minecraft/20w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w14infinite",
+      "sha256": "b8114c453d930d7fbf7a3b2f7a53f340aaee1372e54021a91ce0cb77dd25286c",
+      "url": "net.minecraft/20w14infinite.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w13b",
+      "sha256": "de8ec1898ce1b81c31103bc3159844e3d59ca95192bc2323c703d7020e8c5ee3",
+      "url": "net.minecraft/20w13b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w13a",
+      "sha256": "5d356562bf214709e98b30541cc287c73fd977ed627efd07fa7f182b67e43e32",
+      "url": "net.minecraft/20w13a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w12a",
+      "sha256": "912be88623659576b1dc0d00aaa79dba90914cfdd999b6ee944eff956b227a01",
+      "url": "net.minecraft/20w12a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w11a",
+      "sha256": "0acfa401062f58d4b5d31c6d44ddc12d2bdd983f0ee343af509c9d2b3b6b5903",
+      "url": "net.minecraft/20w11a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w10a",
+      "sha256": "f67d512af97c560ec66ff9b81eef995a441368e972e6c0e9837155b4077d0738",
+      "url": "net.minecraft/20w10a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w09a",
+      "sha256": "69b08c89b566c4a7326d69a64f2ed650fd86775e91baafd56def0981963b1ad5",
+      "url": "net.minecraft/20w09a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w08a",
+      "sha256": "a67271fb190c83cbd0a2d90dd79c8e8828dfbc1c6a976e59519b0ea62861200a",
+      "url": "net.minecraft/20w08a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w07a",
+      "sha256": "b9b73f9541619e030105a0082765b7d295230e8694e80e07ff8361d51db343ab",
+      "url": "net.minecraft/20w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "20w06a",
+      "sha256": "f792e82e634f174fc14d909bd515a3d0825679ad8bd6d7ce9874e6a6db75196a",
+      "url": "net.minecraft/20w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15.2",
+      "sha256": "9caff84a61a8332f82ed451bc12a39ce37d30668e40e92520b18bee92ec68508",
+      "url": "net.minecraft/1.15.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.15.2-pre2",
+      "sha256": "e9fa2e6fb231cfdfa639e965c103211c24dd775fe4a1d0dee2d051428e1ddc95",
+      "url": "net.minecraft/1.15.2-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15.2-pre1",
+      "sha256": "61bf70a16ac9b0f0407e0d481b3a02783c998020e4e385bfd1a6c895cdaeb68c",
+      "url": "net.minecraft/1.15.2-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15.1",
+      "sha256": "95fe6c5560ededc306b5454951e52f5e9d8f053964b9f9a25e11d9dfba5469ec",
+      "url": "net.minecraft/1.15.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.15.1-pre1",
+      "sha256": "a9a15d211296da87d3cff126c05d16ee5fb33e34fd8561e81fcc579fc39224b1",
+      "url": "net.minecraft/1.15.1-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15",
+      "sha256": "946a311464eab10d40c4de676a7fffd811b4f3b66a8486623d8c4b8b96ed9fdd",
+      "url": "net.minecraft/1.15.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.15-pre7",
+      "sha256": "ca48efbc1e5416786a73dcfcb126f2a03774bc0c083810baba8d811f5b0360a1",
+      "url": "net.minecraft/1.15-pre7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15-pre6",
+      "sha256": "733d9d49a317539b6f3f66ad6511c59d635128aa28eae4e149f220d7ac9fd862",
+      "url": "net.minecraft/1.15-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15-pre5",
+      "sha256": "5335a31ceb058fc57b2531e6fa23e9296d826931d5f8422e0e2237fa0e736d97",
+      "url": "net.minecraft/1.15-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15-pre4",
+      "sha256": "3f2ec48785130f68cf821bb1654b982fe23b005bd9b2678a0e691f6566ee27e6",
+      "url": "net.minecraft/1.15-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15-pre3",
+      "sha256": "567b2f326d4523d8b0c6c674d820290c46bbfd66d72001239abf2b60a3448139",
+      "url": "net.minecraft/1.15-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15-pre2",
+      "sha256": "8a84256e6f5b6c1ae271d2ce0046024855bb1eb830d2cc7490175896d2bf2329",
+      "url": "net.minecraft/1.15-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.15-pre1",
+      "sha256": "8177d5be27307da047524eea9013bc20e79bf7bc28415f8b8c2c65d79d715936",
+      "url": "net.minecraft/1.15-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w46b",
+      "sha256": "29dd4c87e08aefed8b21688c94b1fb112d38fd5d4dcf8f0c007b3d534d0c527f",
+      "url": "net.minecraft/19w46b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w46a",
+      "sha256": "79edcf744c12c4a1026632646d14fcbd82548a421a15ce02a99bc0f8b36b6704",
+      "url": "net.minecraft/19w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w45b",
+      "sha256": "250f7ffd8a96b0a55b71d2baa1e289abe211e86c01cd027105edf5443966c57a",
+      "url": "net.minecraft/19w45b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w45a",
+      "sha256": "0585225462cdd535b8bec2f751bcdcc9b9ea23348350bafe9cb1f999f3035140",
+      "url": "net.minecraft/19w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w44a",
+      "sha256": "dfabb2819a47c39fbe2ca86e8d7b69f58b1a73cc46104cd644569559bfb3db04",
+      "url": "net.minecraft/19w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w42a",
+      "sha256": "34ffa0f485959b59b968fa51ec20165bc7442857adda62449b231bdf228e1a72",
+      "url": "net.minecraft/19w42a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w41a",
+      "sha256": "0a0b318040b90bef9c0e6d9a30e28f15124c37245dc79e39a0881138ca61e857",
+      "url": "net.minecraft/19w41a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w40a",
+      "sha256": "8877b38df15751cf32f3864c0932f24182d2ce14af52d48410f7be0120a87200",
+      "url": "net.minecraft/19w40a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w39a",
+      "sha256": "92cd5605875b1f4cd58d3fd883707635caf2cb581e8a6755e174dda577fb8e69",
+      "url": "net.minecraft/19w39a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w38b",
+      "sha256": "9d53fb7072167ed8e6435a789c7191bd80f96ad23535f0510b6c500b01f19b1d",
+      "url": "net.minecraft/19w38b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w38a",
+      "sha256": "449fa2aaa33e4b9b25b8d133ba28e770780d4b8e99c5eaff684d87189d0801f7",
+      "url": "net.minecraft/19w38a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w37a",
+      "sha256": "9c5f93528f46d31a5fc6dc426b72929d6cc1788927afa7cf9eca5dbbe23c4f2e",
+      "url": "net.minecraft/19w37a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w36a",
+      "sha256": "c29ecdb793eca72f97493b938c79c0d8f29ae2b81df8dd3a86c3350e0fb61d18",
+      "url": "net.minecraft/19w36a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w35a",
+      "sha256": "dc0dea01cf46da671d01d00ba1b9f7e106c5a08efc132e8d719b81e9e0b9c00b",
+      "url": "net.minecraft/19w35a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w34a",
+      "sha256": "588a350695ca4c491dbb5f7d552c0d02985d1ec6c9a9ba65ed5ec5bed96b92db",
+      "url": "net.minecraft/19w34a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.4",
+      "sha256": "3f88749491b790717d08e2b057d88b42cb936f21329de050f46159e35f39470c",
+      "url": "net.minecraft/1.14.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.14.4-pre7",
+      "sha256": "91a3a0a5d0e88a9ff81db2464236d1d70af6d4077253f5fedad758f985da0ff0",
+      "url": "net.minecraft/1.14.4-pre7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.4-pre6",
+      "sha256": "9f885430108badfd78eedc588c80b3411028a2efeaf8d627d24c14c605979b25",
+      "url": "net.minecraft/1.14.4-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.4-pre5",
+      "sha256": "aca8aad58b6cf97c936ed8e7f3d6e1ff4c02dd5cd765cc73e54a99be65cbb4cd",
+      "url": "net.minecraft/1.14.4-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.4-pre4",
+      "sha256": "a163d7e6cbde263acdbed56a131400799e3feda2909869deb03d2e69d5fc64f3",
+      "url": "net.minecraft/1.14.4-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.4-pre3",
+      "sha256": "90c68b3ec882732b2f49e54fdb92764fcab464668afbcb50368ef94e59f353ae",
+      "url": "net.minecraft/1.14.4-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.4-pre2",
+      "sha256": "acc554cbec9ba6c1d05bda988e0af8f0f07639581567e93579a908807c1d154a",
+      "url": "net.minecraft/1.14.4-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.4-pre1",
+      "sha256": "e25a0fa54244630178d0b18f3373bdd4cfbd7deb1de0491f3e57dafdf2903372",
+      "url": "net.minecraft/1.14.4-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.3",
+      "sha256": "369e3591ddd70b8c05b94b738182a81fcf30fb2d8240b09e7dda2dc77a660543",
+      "url": "net.minecraft/1.14.3.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.14.3-pre4",
+      "sha256": "81643b6c493b6c7eb5da9ebf65c4f0a526da694b0f6cc59c4cedd60effa9f205",
+      "url": "net.minecraft/1.14.3-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.3-pre3",
+      "sha256": "97095e5bf4cb52f1a99c8e19199b912f4d0351acaca874d21a0088ed3f2bbe9f",
+      "url": "net.minecraft/1.14.3-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.3-pre2",
+      "sha256": "6b9e018369d142ae3be564241a8f452d6a72ef41a9619ef0e663153d3fb7ddcc",
+      "url": "net.minecraft/1.14.3-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.3-pre1",
+      "sha256": "b9711bed8cf22afebdbcaa3a24bec94450fb8c69e53205d92668c67feb20c0b8",
+      "url": "net.minecraft/1.14.3-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.2",
+      "sha256": "70b3c9fb3856845d3cf38a5334ff721d0b216a795e6e86190544050308d27328",
+      "url": "net.minecraft/1.14.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.14.2 Pre-Release 4",
+      "sha256": "0ab57aee3174ae0cb88b108775b01bb769d2055d89289fcaa3157fc3da2a3a83",
+      "url": "net.minecraft/1.14.2 Pre-Release 4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.2 Pre-Release 3",
+      "sha256": "7600afa436c6b171b5384451831704952393f36151004c0601e500568ca0cd10",
+      "url": "net.minecraft/1.14.2 Pre-Release 3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.2 Pre-Release 2",
+      "sha256": "e77053358a0e97e5bfe4bb497b0f3bfe03bdfc56d47bdc936fb9cab7000834a4",
+      "url": "net.minecraft/1.14.2 Pre-Release 2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.2 Pre-Release 1",
+      "sha256": "499a42860baf4ce33b673abf9bfbcf9681352df2aa6d5f3cb9488d4234fdf8fa",
+      "url": "net.minecraft/1.14.2 Pre-Release 1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.1",
+      "sha256": "b2d3ec66f08982e7019aa84e91d6b627815037c77309d700528971d1d2b4c17c",
+      "url": "net.minecraft/1.14.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.14.1 Pre-Release 2",
+      "sha256": "d47fc163502fa902960f1d539d575e0420d5fcf1287709564f7ad4f5ee711830",
+      "url": "net.minecraft/1.14.1 Pre-Release 2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14.1 Pre-Release 1",
+      "sha256": "12b6d52a979703ed8f6975f3bac9e9b1a8b87215df27c276ff319e4ef8c45185",
+      "url": "net.minecraft/1.14.1 Pre-Release 1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14",
+      "sha256": "8f4967bdba47af91540790f13bdf52288cf00f08eff90246702f4ba2cad244ea",
+      "url": "net.minecraft/1.14.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 5",
+      "sha256": "a3d171ad6941ca636770d54a9bd539e9f3742dc1209f240bb6bef41b4641e1f9",
+      "url": "net.minecraft/1.14 Pre-Release 5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 4",
+      "sha256": "26f830e3aa9f0a655c556d43a5809608f80132745a17e19faef2767e696b0f9b",
+      "url": "net.minecraft/1.14 Pre-Release 4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 3",
+      "sha256": "0c15fd04ebad70117ff8ae03eec5e022470b496362c5de5dcb8a0f45268131bc",
+      "url": "net.minecraft/1.14 Pre-Release 3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 2",
+      "sha256": "475bf1c2a57d7bf26fdaa714eecd815b95b32048c06a34138fb520bdf4353192",
+      "url": "net.minecraft/1.14 Pre-Release 2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 1",
+      "sha256": "c2865e2f57bad6c40119368edbe39f1311600d8b6d3ce75edd3be563570b0513",
+      "url": "net.minecraft/1.14 Pre-Release 1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w14b",
+      "sha256": "0f2d13e343f730f6a758164f50210b781f6e1990a2c5246c2430bf790ff8720c",
+      "url": "net.minecraft/19w14b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w14a",
+      "sha256": "0c6ab28e1650418df073824ad2609b2538d103ac1cf50f52e14e4b249458e2d9",
+      "url": "net.minecraft/19w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "3D Shareware v1.34",
+      "sha256": "df740d8119dbe4400b1a15837c28e0d1d50c7bf951079a2e399b12b5ae7c4186",
+      "url": "net.minecraft/3D Shareware v1.34.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w13b",
+      "sha256": "293d47c7a8ada00476df0a4de8a1f77dbbc1fd8d3109944369f641b5dfa59b69",
+      "url": "net.minecraft/19w13b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w13a",
+      "sha256": "a8672f5e67fff841ed22bb37f87a3f73dc5dc735fa3173dbfdf24e5ce0049147",
+      "url": "net.minecraft/19w13a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w12b",
+      "sha256": "4797e42d6eb85cb39308e56918804525a74555a88295c748b2fc66c4dba63798",
+      "url": "net.minecraft/19w12b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w12a",
+      "sha256": "781d6ef907fe98ab865604212760cdb71700fb7d8eacd9ac0f8117fcb25ad664",
+      "url": "net.minecraft/19w12a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w11b",
+      "sha256": "b5a9be663e5b09d15d03c8685552cace4383f9a8d2471a9c41107c121f6fbfa4",
+      "url": "net.minecraft/19w11b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w11a",
+      "sha256": "93154f31a3d9bb6b60da3918c430a33ae58b285cdf29250f9e946fc98afef447",
+      "url": "net.minecraft/19w11a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w09a",
+      "sha256": "2e133d9d0bd6237aefe7ab4ea991425ffe4d35eb645c531fee636c3674e05248",
+      "url": "net.minecraft/19w09a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w08b",
+      "sha256": "ddc9389293b638a76041dc2cb19ec3d4edfb05f77d3d0daf732c0425ecbb103b",
+      "url": "net.minecraft/19w08b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w08a",
+      "sha256": "0f11ce17b6d7c4802f0b96dea2d5ddfd4f2e6e19452f925171b0fa14473277d7",
+      "url": "net.minecraft/19w08a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w07a",
+      "sha256": "e97692cfe77009ef84fb8a3c36c6acde942ef119b0324acdbff735b5d931de18",
+      "url": "net.minecraft/19w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w06a",
+      "sha256": "278790ed72977e2830776b5bd15b87049e501b0a59d3c8c05c677166693ac5f0",
+      "url": "net.minecraft/19w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w05a",
+      "sha256": "cf23e9b48764a4a085c88814efd178146b0e36e627fe61613ba6c88bb6d42501",
+      "url": "net.minecraft/19w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w04b",
+      "sha256": "f6213a7cffd9d5c5ef50791ba1b5e12aa5a27eb71f85b5da58844a03440854d4",
+      "url": "net.minecraft/19w04b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w04a",
+      "sha256": "0be65224d28f02115353ac2d92e99c22a4da9a3591ec96780cece8a15187d2c8",
+      "url": "net.minecraft/19w04a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w03c",
+      "sha256": "7348216270cfd235c09ce34fd5a33b946642f753d2740dc3ab5518c8b1ad1270",
+      "url": "net.minecraft/19w03c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w03b",
+      "sha256": "fbd3510f2da4aabb80f6c285f3ab22d3a03b229948361472f5de49a758df4e91",
+      "url": "net.minecraft/19w03b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w03a",
+      "sha256": "b22bc45cb66fc415b64385ab280aae80519d0d161ff544d148f8e42db30d9d5f",
+      "url": "net.minecraft/19w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "19w02a",
+      "sha256": "65af02dc056cbfb102a5f51a0f1261c54731d046853218448544e8f6bf07e677",
+      "url": "net.minecraft/19w02a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w50a",
+      "sha256": "57707dd8899cb2acce7b4a804a67d9e1128925d1d286a5c9ca2254f2b87e4a80",
+      "url": "net.minecraft/18w50a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w49a",
+      "sha256": "ec8e8592c50d9952ecdaa06133515ee9a285ead53a08721b5ae72fc85f6180bb",
+      "url": "net.minecraft/18w49a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w48b",
+      "sha256": "80a1d75ded074cbc34a76667ccc09bcd44cc380e770aa451a8e59a971ae34051",
+      "url": "net.minecraft/18w48b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w48a",
+      "sha256": "6374d1ad5e73dacac7b7600f50443ab698c51fc0c0e58024d2ddf46be3b7cef1",
+      "url": "net.minecraft/18w48a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w47b",
+      "sha256": "1d0cf6eba42b456820a26948f96c135aa33c3f44360978cb268565490cfd92c9",
+      "url": "net.minecraft/18w47b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w47a",
+      "sha256": "47fa512cbe8255c5b73c4114d667d59e07447215bd4753125a38dcc3f8173147",
+      "url": "net.minecraft/18w47a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w46a",
+      "sha256": "03d2e70ac944924d6e7a26af861adbaae79c6a61f63accdeafbff87a42809a29",
+      "url": "net.minecraft/18w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w45a",
+      "sha256": "f75159cf1b555f1cf8338a2be3ebdf65bca477487ccd53fde9eb54726d7ffd55",
+      "url": "net.minecraft/18w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w44a",
+      "sha256": "e54b4ae494961e2363c41c03ebb74eafea05a28418009416d43e4ce5c503360f",
+      "url": "net.minecraft/18w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w43c",
+      "sha256": "ccab00c41c42dd1b67befd4497bd9172f9009433d943feb6b6c42a7c44179d5d",
+      "url": "net.minecraft/18w43c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w43b",
+      "sha256": "f8f79ac89c1edc493241545ce1edf3bccb1bd46b8c85a6ab341283b582b91952",
+      "url": "net.minecraft/18w43b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w43a",
+      "sha256": "e03162b70ee8d502b24e307a6aa8ab677c2598e0c4c63377227feb0d3156da2b",
+      "url": "net.minecraft/18w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13.2",
+      "sha256": "75539afa14240d0218bb5e6db8151e4b38731a60077063d5e1907ae8e43e9fb9",
+      "url": "net.minecraft/1.13.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.13.2-pre2",
+      "sha256": "f18425d2d54bc172f732206db60124d0114495cb4acdda5bdd622f3a5165ee12",
+      "url": "net.minecraft/1.13.2-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13.2-pre1",
+      "sha256": "e91c6921dcaaabdedeee01f2fea3c45ef53f6f027c2cb6c7293bd8a214f55c72",
+      "url": "net.minecraft/1.13.2-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13.1",
+      "sha256": "1f9cc41be78c906f83b6e30debcd1485f0d794dfed893abe42729df0656964b8",
+      "url": "net.minecraft/1.13.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.13.1-pre2",
+      "sha256": "d2d053dc9a45d78eb5a49a2adfb2defcc0569bb60343a14f2a8be6d5bbce657d",
+      "url": "net.minecraft/1.13.1-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13.1-pre1",
+      "sha256": "3d9d8ee834cef0c4c8a27b6a9326d5410601675bad4c58f484810416e4708a2b",
+      "url": "net.minecraft/1.13.1-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w33a",
+      "sha256": "7e785ae5a42dd7b4cdbee66b2e663e65adf3c9ae5d715a1cf6af22ce50aa1019",
+      "url": "net.minecraft/18w33a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w32a",
+      "sha256": "434a5175cab5c1e1db6bb25b00196642bd098910d5419e87f294d04c261edf7b",
+      "url": "net.minecraft/18w32a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w31a",
+      "sha256": "2bb63420ed19ddc79c848f0a3b48c3d71968c3845d8f3225831de5753cc180d5",
+      "url": "net.minecraft/18w31a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w30b",
+      "sha256": "1915a985d5f7cf05fd6ecea3e56e55322724899997ea26084373e6ec0650e638",
+      "url": "net.minecraft/18w30b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w30a",
+      "sha256": "d66722e2edd42320d0d8fef6711cf0404983bd576ccd9c8caac4a565f0204054",
+      "url": "net.minecraft/18w30a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13",
+      "sha256": "66909060c951008b3e36d45bab62b825c0fb00494a0c930bdc2b494a2d5512c1",
+      "url": "net.minecraft/1.13.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.13-pre10",
+      "sha256": "ca52e20bf1a203a73a69f170279930c6c446fcecfe987ed06bb22f3a3befa049",
+      "url": "net.minecraft/1.13-pre10.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre9",
+      "sha256": "d68dc9d65b634a8845fd45c0791bcf2469672e9a6f8b6b178d26b7e6ddc20005",
+      "url": "net.minecraft/1.13-pre9.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre8",
+      "sha256": "425a7883c0c80a62a99c78265308e5752609af3afe61ed3f61091b8aa93c13f6",
+      "url": "net.minecraft/1.13-pre8.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre7",
+      "sha256": "0e89a883a6c4de3d56e9f5c75b25c0c1fc775fca69777bd83a9e254655868c97",
+      "url": "net.minecraft/1.13-pre7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre6",
+      "sha256": "033dac98578becdf04a3b3445fff461af1236784d51816839b2849febc1f4e5c",
+      "url": "net.minecraft/1.13-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre5",
+      "sha256": "12b821abf3ce70d137110a236395f1a9c8ecb8ae38040cce5f2fd46ed9abb15b",
+      "url": "net.minecraft/1.13-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre4",
+      "sha256": "531d242050a2ad4a887df51564c3c1b1fc1c013f3bbb23374f82172e6db409b0",
+      "url": "net.minecraft/1.13-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre3",
+      "sha256": "147fe660ee7a02745a88db52cdb0283167b3817f200cac49535a6999aee3a2eb",
+      "url": "net.minecraft/1.13-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre2",
+      "sha256": "c5c54b68e10308e1188e898f64ae71ad95a7bfa21cecdac1faf24b960d672dff",
+      "url": "net.minecraft/1.13-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.13-pre1",
+      "sha256": "9769c5cf69a44a07d9bc7e12d664fb03c8f8851f60245e935a6ead70279ae824",
+      "url": "net.minecraft/1.13-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w22c",
+      "sha256": "3a8401f3be3e83243e48818ea8a6b4c6c3e4641b4fa077cda05c0e5f1ec91cf3",
+      "url": "net.minecraft/18w22c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w22b",
+      "sha256": "112f290eeb0ed05eea5fe35096302a2bde09ad2dfeb75c723d7da79dea24293d",
+      "url": "net.minecraft/18w22b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w22a",
+      "sha256": "0c0dc867160405813201fa155b63511a7ded4fadd42c2d18713eb6dbc355b10c",
+      "url": "net.minecraft/18w22a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w21b",
+      "sha256": "c90127884f083959727e71c07fcaf30609d0ec47f2f23911524fc0145bf22572",
+      "url": "net.minecraft/18w21b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w21a",
+      "sha256": "bfa0adac1213cde733de88eaaf3f1ed83ce0337078cfa4091adc9179fa313b92",
+      "url": "net.minecraft/18w21a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w20c",
+      "sha256": "50c0b05fdba65464eb46b06d52b5d50b34ddae1dce8ce65d9f55d352a903e5be",
+      "url": "net.minecraft/18w20c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w20b",
+      "sha256": "743eeb4c441ada3848fdbf7f00369d38d8ad2fd46331f013e85487300de31795",
+      "url": "net.minecraft/18w20b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w20a",
+      "sha256": "9c87e6336c589b54879540c89458fd0c9ca7b591fd2745ea4b74e3e14a3f2390",
+      "url": "net.minecraft/18w20a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w19b",
+      "sha256": "4314bb0b355d28e63d00101c4f6eb1565ee84819d2ef311fbbe27482b90805bb",
+      "url": "net.minecraft/18w19b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w19a",
+      "sha256": "55378631b3b9076a182cb6b4b0751c68bf89f59ce38a128452c1c68796be3549",
+      "url": "net.minecraft/18w19a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w16a",
+      "sha256": "3a45d0fb06c90ff0626439bba3530a47d61674d368615e923166ef3f54afd8ee",
+      "url": "net.minecraft/18w16a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w15a",
+      "sha256": "22a8c8b360af66cd465474b6cb8daee86e08e2eeeba5ffa219787b91fab15d3a",
+      "url": "net.minecraft/18w15a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w14b",
+      "sha256": "e9c6ddc32e688110a57b2f360313425aab076e5a804e6765d03b62f4f5d5d707",
+      "url": "net.minecraft/18w14b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w14a",
+      "sha256": "4974683fd46ab074de2526f24dcd62fda77dd59555646d56dc14ceaa53ca49ec",
+      "url": "net.minecraft/18w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w11a",
+      "sha256": "b9348c9a30e942b0ed98cfb97e9a00693c3ef7711cb89429a4ed536deac49562",
+      "url": "net.minecraft/18w11a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w10d",
+      "sha256": "357011026f382430d2330402e77023c6fba79f8607f9c86602a0dbc15ec964e0",
+      "url": "net.minecraft/18w10d.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w10c",
+      "sha256": "6c09beb4ec4ef9c962e29d73d74fcb9f9b5b73cee575ae887fe0def86d41713b",
+      "url": "net.minecraft/18w10c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w10b",
+      "sha256": "8d986f9474db399b817b27cf79c780624f984b604e64d3f8c422672ab2e79bdd",
+      "url": "net.minecraft/18w10b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w10a",
+      "sha256": "c54498ac235e5a528933c8b4510827ad0a38949703f4d2a1073ce2601f4831de",
+      "url": "net.minecraft/18w10a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w09a",
+      "sha256": "599dd436ec42b4441133238134ba73320304490845e154187694ae2944007db9",
+      "url": "net.minecraft/18w09a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w08b",
+      "sha256": "d406aedd63c1ed4e6029d9fe40c401ce734888f453a8a12d515aebb4e4648b13",
+      "url": "net.minecraft/18w08b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w08a",
+      "sha256": "87a3a16b4c788725876411b66ab7d303c8821bc3d3c408c0da0286a70bea488c",
+      "url": "net.minecraft/18w08a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w07c",
+      "sha256": "aec2dbe94a897b3a7b67c9a519738ae4d24ca93fbf0d9bb42553759428a18f90",
+      "url": "net.minecraft/18w07c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w07b",
+      "sha256": "d303d72df2acc259f445518aa85e049b84ac71766759d693022f2d7b4948b64c",
+      "url": "net.minecraft/18w07b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w07a",
+      "sha256": "d6d27e17c63ad01670cfc5a52f8791ce333a4dffc964232e313095391ea89e0a",
+      "url": "net.minecraft/18w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w06a",
+      "sha256": "c8368da685afc3e0d1ed2bd1cbcf318fd2505f2bee0beb8c4f0ac752ee77ca55",
+      "url": "net.minecraft/18w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w05a",
+      "sha256": "847bf02d3b6949ba6901b6e440ef02eaaa6a1589452387a6888ff2a0d12cd6e2",
+      "url": "net.minecraft/18w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w03b",
+      "sha256": "99a03de7f38bbb755931ee38aca638bc87526c84d084a007e216456fd616ef70",
+      "url": "net.minecraft/18w03b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w03a",
+      "sha256": "6baf71befcbce8507fd84caf5de9c4ce8124e2724d5090fd11fdafe66e489c8d",
+      "url": "net.minecraft/18w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w02a",
+      "sha256": "1679a51e20f4eec009bd32628a2e7b764445f54f791fae9a2f30141858244be2",
+      "url": "net.minecraft/18w02a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "18w01a",
+      "sha256": "c80b9f05121bcc7b15a2926b4140b64ddf688e48e85499aebc6c1f9e095bdd5f",
+      "url": "net.minecraft/18w01a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w50a",
+      "sha256": "fe983cd311dd02bc99bb28c4c82c330fc711ca0f6a2e8a80b8782e0980da39dc",
+      "url": "net.minecraft/17w50a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w49b",
+      "sha256": "30d8c26f289792960f7a52d0793239270a1195031019db5ed7f2568e5c61a1cd",
+      "url": "net.minecraft/17w49b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w49a",
+      "sha256": "2be0048be63a9ad86caee6930f090b35d065514bc1b9c72babb748ff00d4e9c7",
+      "url": "net.minecraft/17w49a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w48a",
+      "sha256": "8f621d2423b277231c0507941b045892a28a09a0c175da65738e6f144463dc91",
+      "url": "net.minecraft/17w48a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w47b",
+      "sha256": "71c6d0d9fa64c35806d7a1a05db733a77d0b135ccc95d1377995283f01018965",
+      "url": "net.minecraft/17w47b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w47a",
+      "sha256": "f6fff1dc3e8e017abc8bd204082b781b3a9d66700c5f373d1e6f6e7a6ae7a2eb",
+      "url": "net.minecraft/17w47a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w46a",
+      "sha256": "4a32834d9e10a7057f1e9327a7bb46e5c028698dca2d5d44f74c5d05beeee89d",
+      "url": "net.minecraft/17w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w45b",
+      "sha256": "3cdd33c6b262fd0df18abee769166d568fab5e11815fe211ed69f27a88ef00a1",
+      "url": "net.minecraft/17w45b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w45a",
+      "sha256": "18ffcc49ff06316b782fbd0bdc0020850456c2db15d43d480ba1fffef9c54bb4",
+      "url": "net.minecraft/17w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w43b",
+      "sha256": "f2457ff9023d7c2265b893bd98ae5e2cd121c9de1eaa394ef42117fdc4ae995f",
+      "url": "net.minecraft/17w43b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w43a",
+      "sha256": "156f5318c12e1475a51afcb7d7e922c5f1a78f85082c960d545d8152fc1a1a76",
+      "url": "net.minecraft/17w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12.2",
+      "sha256": "916a65e2ba985b25cafafce46dfa031f7e4d822332324adf6be10dd9955cab03",
+      "url": "net.minecraft/1.12.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.12.2-pre2",
+      "sha256": "508ae08f1f9b8d967a08b37f8882623097667774304ae13630cb598952cf0fe1",
+      "url": "net.minecraft/1.12.2-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12.2-pre1",
+      "sha256": "ea5c084ca1fa0280697950fe87aec1374487d44fe0fd11f7b3e016388460c222",
+      "url": "net.minecraft/1.12.2-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12.1",
+      "sha256": "42a7c08f2ff931625438ca7676bd80cfe52b18d6049762a5ccbcea4800be0a38",
+      "url": "net.minecraft/1.12.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.12.1-pre1",
+      "sha256": "141e9d543d4c91f87777bc30832e427733b8e0aa3c34137b1e536af46d78ac1f",
+      "url": "net.minecraft/1.12.1-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w31a",
+      "sha256": "c6842188faebac223fc4705a523490dc66f48cafd86345cfe84923b665af5b52",
+      "url": "net.minecraft/17w31a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12",
+      "sha256": "3d43bcf3ef1fe8473ba28ca2bb760c5ded7a03e9c25c4dd1bd745980b2074a1f",
+      "url": "net.minecraft/1.12.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.12-pre7",
+      "sha256": "7e151ff0e4f4678f3fe0d82f1425143d8407efe9fd6de3f0f5015b0fa396aea8",
+      "url": "net.minecraft/1.12-pre7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12-pre6",
+      "sha256": "de73e5615256bfaacfef8d7e227db19ea1ed6989f3c5f0a1e33c45c2b83664fb",
+      "url": "net.minecraft/1.12-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12-pre5",
+      "sha256": "01fdc65be56d488c437630cbb670753ed9ca27863418a32af820623110190145",
+      "url": "net.minecraft/1.12-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12-pre4",
+      "sha256": "f55690f4466d7f0b39a111e387e210348a9dddf770d01151abe7f8de0f8d46ae",
+      "url": "net.minecraft/1.12-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12-pre3",
+      "sha256": "807e1231f9d59b0fb9a816feda3841836d8873200b8f44bdb5b40a9fb3ec061b",
+      "url": "net.minecraft/1.12-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12-pre2",
+      "sha256": "7a793ac86fd926c9f6899fa6a183f88f9e5234ee8845a05034e120a5a4568029",
+      "url": "net.minecraft/1.12-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.12-pre1",
+      "sha256": "a6669dfde73d96c8293bcae23c301dfc68548219208dd33a27720372debd5ad1",
+      "url": "net.minecraft/1.12-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w18b",
+      "sha256": "1e8a4577df33f341e9629eb38d824dcb6b5f3901f88c74e73a13589319fc999d",
+      "url": "net.minecraft/17w18b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w18a",
+      "sha256": "bb94e03884e44ffb0e0ae8e288dfb63d37d353cc89c02cabc0467e80d9d00cba",
+      "url": "net.minecraft/17w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w17b",
+      "sha256": "1cd752d43831b231e6442f40abd34ba97dc0afceb93bc3b34b1b462edf32dbdd",
+      "url": "net.minecraft/17w17b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w17a",
+      "sha256": "6c116ced4bb091b5b02b9685b291d8618c608a27737ff3db66f6dfcfb7f674ff",
+      "url": "net.minecraft/17w17a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w16b",
+      "sha256": "004cd21b13ea7c5a89f57c725a6b13826bda245738a510c571fd26d32e6ce2b9",
+      "url": "net.minecraft/17w16b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w16a",
+      "sha256": "96e8ee80cc20843e159a315b085194e3a70f9f69e9f2e47522da4884e98e1923",
+      "url": "net.minecraft/17w16a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w15a",
+      "sha256": "5a4e9d4547f32afa1c21d7df19ea8d33ea0df2de29ba46d987deb4a652a59e39",
+      "url": "net.minecraft/17w15a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w14a",
+      "sha256": "718630ccb1853311c2c56f46b05409171405f210be1e7076ca079c3c36bb596d",
+      "url": "net.minecraft/17w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w13b",
+      "sha256": "3a24e8a8941cd6178f5a225faf7bb6a8c243a5cfa7d00fa37fa0f31ae5760db4",
+      "url": "net.minecraft/17w13b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w13a",
+      "sha256": "b23b03c5357c9c9253b3b58f3609acec46446b4be2ca62302fb25cbc91bcbe2b",
+      "url": "net.minecraft/17w13a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "17w06a",
+      "sha256": "8900e618538bd2ba098eaf7fb9c53e3ed7c970b212bb0e96aab43463e0262247",
+      "url": "net.minecraft/17w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.11.2",
+      "sha256": "bb65748300bc5dcc538f4a64a89177940810d1a473f4f56b46f470e3439da795",
+      "url": "net.minecraft/1.11.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.11.1",
+      "sha256": "743e97c3c961a6fdf22c01d31598e3ef2fa7e35c1c70835daaec6842e4556dec",
+      "url": "net.minecraft/1.11.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "16w50a",
+      "sha256": "0b35f5ce2cae8147fcd550dcd5395917b228d40af6e1f7dbf2fc42a282ed1014",
+      "url": "net.minecraft/16w50a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.11",
+      "sha256": "2959b0095b642ddc5fc3072671cd6bb3480588602477ddaa034ca95cbe8d9863",
+      "url": "net.minecraft/1.11.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.11-pre1",
+      "sha256": "19e87bd7c6efcd5d928b208a3fb495efba2cea042ad870bfc1e430215f0dc390",
+      "url": "net.minecraft/1.11-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w44a",
+      "sha256": "cc603cb39153b1fca9a827253bfec1b5fc98c7b5b91ba9173a4543cc4a7c0ff7",
+      "url": "net.minecraft/16w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w43a",
+      "sha256": "0182e542c0a1b1b27d10696eb2e3bde65a531930fb65545a40323c129fc7f149",
+      "url": "net.minecraft/16w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w42a",
+      "sha256": "10f66f99ff1bef9d77806f07fc67baf5b8559747e206c17193cd968ecd410a40",
+      "url": "net.minecraft/16w42a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w41a",
+      "sha256": "1bf85d80fba363ec2ccefde95748bcbe1c19d61f4fd77d2308a8c5a929a2040b",
+      "url": "net.minecraft/16w41a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w40a",
+      "sha256": "661cd16704a97a0eb370368717eb83a3598451583808c14d301806841b23d324",
+      "url": "net.minecraft/16w40a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w39c",
+      "sha256": "cbad0c43bb97907bd934150a856084d801e2c9f71e0b9fc5c30b650d6cfa356c",
+      "url": "net.minecraft/16w39c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w39b",
+      "sha256": "f419fb89104da00e62ae9e3548a3314a1074d4613171d02ebbf8df748097a3c6",
+      "url": "net.minecraft/16w39b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w39a",
+      "sha256": "52e8a4db3e210fd86c5b4d671c79da2af0707ca2ea736336058d6afe59f1df6d",
+      "url": "net.minecraft/16w39a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w38a",
+      "sha256": "37368f9c0480b0e14ae7e16352d14db23d8f3a99472044777321a9f656f396f1",
+      "url": "net.minecraft/16w38a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w36a",
+      "sha256": "f388ef40ea405121359920c16ae71e9bd39e7d96a1fd64b2d45cf0649b58cd88",
+      "url": "net.minecraft/16w36a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w35a",
+      "sha256": "c3b85428bd19b7390f28b3969af9edfb8ff7ddd946393db739bd758bd166ca61",
+      "url": "net.minecraft/16w35a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w33a",
+      "sha256": "6914a0c4f884aa8ba1c3d8a91c2049df6f36b8edcf1cf7802d6423dfa0e9f55e",
+      "url": "net.minecraft/16w33a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w32b",
+      "sha256": "6c636380c3f2939036b4da28e6e6bbb6cc003037e7e23ca45722a45be43be393",
+      "url": "net.minecraft/16w32b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w32a",
+      "sha256": "f7fef49f4772d981d0c471fbcc48a3afa8839bb58e0194b01453a47695a57d25",
+      "url": "net.minecraft/16w32a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.10.2",
+      "sha256": "d6e1f977ddb575cba091261d4f810f0f77ddd6ce9ee336aa46eff841ce9c2594",
+      "url": "net.minecraft/1.10.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.10.1",
+      "sha256": "03cda3891c1ea552592c209b2484ed4b313fc446780ac304d8cc3e38d2236269",
+      "url": "net.minecraft/1.10.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.10",
+      "sha256": "85e58b7ecb6e9aa342b5ea5e08ea458bd7b19656984d31da8c491ce295e83621",
+      "url": "net.minecraft/1.10.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.10-pre2",
+      "sha256": "5242733bc5ab09f039c632242c45d9db3f49b07ecf947c4081cd948b5016cb73",
+      "url": "net.minecraft/1.10-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.10-pre1",
+      "sha256": "6cdc19b5a66b3da63fa7f1cf23651032dbc5ca83d5b2ffd8e5c4f973e47a06ea",
+      "url": "net.minecraft/1.10-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w21b",
+      "sha256": "7ab256998b3e12949e8493092a7a98966ddba409cf60355f2405c8e3f85f39c3",
+      "url": "net.minecraft/16w21b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w21a",
+      "sha256": "97ecbe523c8adde20a95ed00b2dc7758a149edd31a2c075f7cb867b95506614c",
+      "url": "net.minecraft/16w21a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w20a",
+      "sha256": "e563b3a146e01e18e3becf2bb44d4ff4363bd26dc8b51286b89b9e9b3b5f6861",
+      "url": "net.minecraft/16w20a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9.4",
+      "sha256": "2a917e4644d031d6a9506c77af30ee40a970a8f8334287c60b2f9ec53d9a9691",
+      "url": "net.minecraft/1.9.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.9.3",
+      "sha256": "732885072735ad8201432ae37118542e0f1985014102de9fbeec99673ca1dfcd",
+      "url": "net.minecraft/1.9.3.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.9.3-pre3",
+      "sha256": "77134e867c7d7bd3f5b0ff3f6d4c63ab371cbc1cacd4828cd4205528be30e52f",
+      "url": "net.minecraft/1.9.3-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9.3-pre2",
+      "sha256": "5210a8391da3570f6499581dbce9482aa647f10d34b7a0f29cde163fe00b9d45",
+      "url": "net.minecraft/1.9.3-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9.3-pre1",
+      "sha256": "c2e7994cdd21ccd8fb4fbf3e382f42f650f63360dcf18091778646da4fa35b5e",
+      "url": "net.minecraft/1.9.3-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w15b",
+      "sha256": "0eccabf48279687d76fbdc993963a2c1f7bd1a429765b6a78aa46eb609a65dba",
+      "url": "net.minecraft/16w15b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w15a",
+      "sha256": "f336c9e6a7a75f300e816e9712d9fe93d8ec4576b4af50e4fb53c6283b2fb6a8",
+      "url": "net.minecraft/16w15a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w14a",
+      "sha256": "9bd1a4fd38d0b95e6e7b9b0c82188bfb3bfc693ae106e7b30c9c851735e05834",
+      "url": "net.minecraft/16w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.RV-Pre1",
+      "sha256": "776d422ef424ea031baf2769a03e638a121275879acb7a60030df7a9eb55a62d",
+      "url": "net.minecraft/1.RV-Pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9.2",
+      "sha256": "8247df4e65eefa2a9fcfecd150f44b060ec289f4791f2c4b251c3f9396af0290",
+      "url": "net.minecraft/1.9.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.9.1",
+      "sha256": "6ae8a210941ca300055c45bc96b44aa06f94a99f742f075a426a2c339e1079e0",
+      "url": "net.minecraft/1.9.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.9.1-pre3",
+      "sha256": "9c7779de405c3b609b007f44b2cda5b9f857ad2bcca58a396da49b576eebf843",
+      "url": "net.minecraft/1.9.1-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9.1-pre2",
+      "sha256": "f3d837ab345033f21026cddf1d54b75c13ce547eacc3c9eba4f98bee423bfc44",
+      "url": "net.minecraft/1.9.1-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9.1-pre1",
+      "sha256": "5f7451e9b53a1d1f72a76db49df5c83cb90b0ac4e2c8facf4d43988f201c93de",
+      "url": "net.minecraft/1.9.1-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9",
+      "sha256": "f7d7eca86a9d700b6804d390b5e56e7cbd26f1777673647aee984c0349499408",
+      "url": "net.minecraft/1.9.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.9-pre4",
+      "sha256": "2b1a9fde5acc6da8572ce4070b987acc2345b5fab6fd1a4690ce1d186fc3f63a",
+      "url": "net.minecraft/1.9-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9-pre3",
+      "sha256": "ffe3e052287f542f03578c6d2f888524238e3471640c1962772fcc7e4a26c067",
+      "url": "net.minecraft/1.9-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9-pre2",
+      "sha256": "93022e6923eace6d0661a59b3b76b027d05e65bebebbad0583f3b0fdd9905831",
+      "url": "net.minecraft/1.9-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.9-pre1",
+      "sha256": "3e529bf758aa7f9214c9ea70ad358665ad260186a520b561e01f01cb353a563f",
+      "url": "net.minecraft/1.9-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w07b",
+      "sha256": "9bef51bf73a10ff2b298084b452ac27cf548b77809d9deece5d25d61d0ea3e50",
+      "url": "net.minecraft/16w07b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w07a",
+      "sha256": "b790e4bdeba2743d57752613a5d8715956b78da59ae3a4f9a753ddfe56175c68",
+      "url": "net.minecraft/16w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w06a",
+      "sha256": "419448a2ef3a0b4e2eda8704a58f65805105bc9528cbc0265559a9df9e271763",
+      "url": "net.minecraft/16w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w05b",
+      "sha256": "b0e334f97c93badd177559467141304e68cbcadcdd85c52f6dedabcc8e9ebdb1",
+      "url": "net.minecraft/16w05b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w05a",
+      "sha256": "4d83be49687e1b1e5bf154863e203aed70d97d6a1dd8ddbb6510c86f0344478f",
+      "url": "net.minecraft/16w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w04a",
+      "sha256": "b3e8e2616f025a8288abf4f52d5a104da8439c454669da3864cbc1236d8ff093",
+      "url": "net.minecraft/16w04a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w03a",
+      "sha256": "b49ba1aa0ff044a2867eeced051aca69d85b62b64121c15c30c34b2dbfe6de6b",
+      "url": "net.minecraft/16w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "16w02a",
+      "sha256": "6f1c266411bc9c36e2431bde5339369aac4fe216e72ecbff11588cb6c3302e86",
+      "url": "net.minecraft/16w02a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w51b",
+      "sha256": "a7e7e3813ac2eb47f37ab525b571a4745cdad776a1f5dffddb227308cbda16b8",
+      "url": "net.minecraft/15w51b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w51a",
+      "sha256": "d9318dfa94765606864e37162d08fb067a8913d53a2d820cf6cd7c8da97ee7f8",
+      "url": "net.minecraft/15w51a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w50a",
+      "sha256": "137d7ed7d7a8796d16c2570753ddab9be763985ef19f366f1cd99b413f866c40",
+      "url": "net.minecraft/15w50a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w49b",
+      "sha256": "bc3b20dd509e13e00c3d8e300bca2507e61ebf53c2eec5b18b06bbf97dc3f21f",
+      "url": "net.minecraft/15w49b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.9",
+      "sha256": "fe86879531d2523bd92e2cdc7a4593b040b9d5067cb755a1b9c6453771a4377b",
+      "url": "net.minecraft/1.8.9.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "15w49a",
+      "sha256": "8f136713d00f3b9659f17fe16b92e4e2886cbe76e9d39816b3c0154b35fb4795",
+      "url": "net.minecraft/15w49a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w47c",
+      "sha256": "93f3cc43517f36335dd0ae4647c4a606707937aafb484d34b9c31f29dc69e74c",
+      "url": "net.minecraft/15w47c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w47b",
+      "sha256": "d71d6db890a2bd5ea5ff861745250d911d41f4abd43a503a572466fb1d5ff086",
+      "url": "net.minecraft/15w47b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w47a",
+      "sha256": "8878cf33bfcc80cbd0a1ee67d222ab1eb8bd6cfda04650c633bc823fa31d7511",
+      "url": "net.minecraft/15w47a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w46a",
+      "sha256": "505c228459188b5bee6fef163224b2b808ac313bdb7d80eafddaea619556b1c6",
+      "url": "net.minecraft/15w46a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w45a",
+      "sha256": "0c2f36734f6f6d8135783d0f48a99ae553687d79f615a82b1928a2462dfad0cc",
+      "url": "net.minecraft/15w45a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w44b",
+      "sha256": "d79a9da3fda5eaf1f68ac81eaff4038d3a6352c53b54fdc183bbb8033dea5714",
+      "url": "net.minecraft/15w44b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w44a",
+      "sha256": "a4704c9e436401231469e1578d996f899cba623aec394690629f71348ace3dc3",
+      "url": "net.minecraft/15w44a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w43c",
+      "sha256": "b488e13081942b8e49907d758c4a630b8c55cca092a33d8253a9a5d0aa276eae",
+      "url": "net.minecraft/15w43c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w43b",
+      "sha256": "27d615f656d65b27e7e0c487653e69834a865c4df79f67f37041cf417bce5938",
+      "url": "net.minecraft/15w43b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w43a",
+      "sha256": "023b6405c2e63356950bca3a2dd0de553da1d4bd18c5ed9941d986612440983a",
+      "url": "net.minecraft/15w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w42a",
+      "sha256": "3f760b78a0452aa8c6b883c109f7fd1f5422f3cff5de057b984fd23b16657198",
+      "url": "net.minecraft/15w42a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w41b",
+      "sha256": "0b0d418f6787b0df8ca3a0fc57097a3419e7aca5e7267cfa1fbd3ccbf3cb59fe",
+      "url": "net.minecraft/15w41b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w41a",
+      "sha256": "d30c7a308e9a2887b0230cf970ee0c0be82d50537828d45edac4cedf0843dafc",
+      "url": "net.minecraft/15w41a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w40b",
+      "sha256": "eb33d7051adf26b4f1d9781cb89960cdbe52f86299593787a99d1a00d2ffe82e",
+      "url": "net.minecraft/15w40b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w40a",
+      "sha256": "bf39d297e92b03d72778b7a915c4fa000423990c226b47ee6e36673b673eaf14",
+      "url": "net.minecraft/15w40a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w39c",
+      "sha256": "eafb577421a1eabbc054953ee7feee0f4ba65e97ab0147b435bd7ac2aa6e138a",
+      "url": "net.minecraft/15w39c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w39b",
+      "sha256": "cb09f1a89ae41cbd927a510ab46910db6f0a6a84800803b279cd69a12b7dc3a2",
+      "url": "net.minecraft/15w39b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w39a",
+      "sha256": "46cf1e32446e9dc85283ae46283f460e73241f7bc1a67da63fbb4de5a32b4d63",
+      "url": "net.minecraft/15w39a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w38b",
+      "sha256": "ecc2186ab349cd55f0d2b89ee0256d9c0739cbbe272195fdd8e5b116d19133f4",
+      "url": "net.minecraft/15w38b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w38a",
+      "sha256": "5011198fe2bf4787f82fe31503f7f02dcfe8625716b1db8e9bc82a52184c7a14",
+      "url": "net.minecraft/15w38a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w37a",
+      "sha256": "4209b8292ad0119a9346c1510c51be3955de04108eb064ea59b5905d4146e169",
+      "url": "net.minecraft/15w37a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w36d",
+      "sha256": "6d210f7b2a8926a2b21e99298acf2e7c58089b2bee3d7b46c93c2dc67d21ce57",
+      "url": "net.minecraft/15w36d.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w36c",
+      "sha256": "04f20e45f551b3bd333860c236322ea0ead38b2134ce40f8687df14c01deff67",
+      "url": "net.minecraft/15w36c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w36b",
+      "sha256": "790b00ac7e61c798226c6d8a0701b9f039d15c56d2851258bb0ccdf150288f09",
+      "url": "net.minecraft/15w36b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w36a",
+      "sha256": "1751119a5e682e06d39d15272839b90c3761aee508f23b4b22a0ef420c8b8c6e",
+      "url": "net.minecraft/15w36a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w35e",
+      "sha256": "2120ef0c031ea8a83264fb82b2df28707241137adf387d6f5cac5da2d5b53838",
+      "url": "net.minecraft/15w35e.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w35d",
+      "sha256": "219311cf8c960c33d9ec29cc41097d3c0ed773e36ef604229c0c0222ff2b2298",
+      "url": "net.minecraft/15w35d.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w35c",
+      "sha256": "a6c3c4ce4e8cd578cdebdd8fea621d4305e7bd925d64b48aa36a1a6ba965db2f",
+      "url": "net.minecraft/15w35c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w35b",
+      "sha256": "3414d1a2761146c59885123e9c5d8aeb56aa8ea410b22407ea52e5596b4cfa0e",
+      "url": "net.minecraft/15w35b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w35a",
+      "sha256": "09a0317dd490c8a90626a18e1ed454f0d62908b9b8c081bd773abdba005d0968",
+      "url": "net.minecraft/15w35a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w34d",
+      "sha256": "5691f370937d147e65a084a56480c14bc4020e761ed84a7fb44383ceb01f41eb",
+      "url": "net.minecraft/15w34d.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w34c",
+      "sha256": "2ba5c36e956b5732aa1ed11daaa6befe6b70a64acebe0ecbcc87e6093be54a67",
+      "url": "net.minecraft/15w34c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w34b",
+      "sha256": "9ec14ab6e478421eff1c74968f1cc7f26fa2c11a599099b3390d98879441d686",
+      "url": "net.minecraft/15w34b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w34a",
+      "sha256": "4b3b4432b8a35ca04d3e6a9cc962f4692923fc28dab211c92bae05f17554af8d",
+      "url": "net.minecraft/15w34a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w33c",
+      "sha256": "b42fa6af6499d9f7a89f1f4a696fa23458b9bbd36ef9af35768746e93188dcec",
+      "url": "net.minecraft/15w33c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w33b",
+      "sha256": "b64cf1f8c75fdf520c53ce58c67b907f7d95dfaabde0f8fdca0292ca6b407c11",
+      "url": "net.minecraft/15w33b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w33a",
+      "sha256": "bdeb4e8deeca2793b10635df3fb3164231629d8747212414eb3553a8437d9bb5",
+      "url": "net.minecraft/15w33a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w32c",
+      "sha256": "1cb56e38f01ed4a33068653aa96b043493d4041cd5ba42f494962b767d758a8e",
+      "url": "net.minecraft/15w32c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w32b",
+      "sha256": "b28fd1f127ffc7b8445338b7a675a5dd2f3842e2ee765fcd6a2612162c50f3b6",
+      "url": "net.minecraft/15w32b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w32a",
+      "sha256": "2535df2b372ff999e9f0d3113f009ae5be2667d10dfeda617240186c82321d27",
+      "url": "net.minecraft/15w32a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w31c",
+      "sha256": "d8b5400492f26e50142fbeaff250a65e47c4bb58efa1db9e0672fccd2498f7c1",
+      "url": "net.minecraft/15w31c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w31b",
+      "sha256": "a18cf3e064e885da8f71411471f5d5ccbf9bd307fb74bc4fc684453de67ca0a6",
+      "url": "net.minecraft/15w31b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "15w31a",
+      "sha256": "168d70f09d4cbff276819ca6733f904d8aac61c6a189a1ec0667c7577c87ab9b",
+      "url": "net.minecraft/15w31a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.8",
+      "sha256": "9a29d530639c69519ede6bbf05877317e8c747dd80ee36c8f9e4d645a09a6277",
+      "url": "net.minecraft/1.8.8.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.8.7",
+      "sha256": "363f1c73ae214f35a766b26d455cda3119682c63b95ee5543c2e2bc94080b892",
+      "url": "net.minecraft/1.8.7.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.8.6",
+      "sha256": "a6f346fa769458b07cfedd91dc8e7d2127e8467a224f8c25df82e01a17f58ca8",
+      "url": "net.minecraft/1.8.6.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.8.5",
+      "sha256": "4078899be25edaedb5e30a58f4fd37b52cd72f3d521b977e1b0d59c21b89a2a2",
+      "url": "net.minecraft/1.8.5.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.8.4",
+      "sha256": "2a38030690042a3a939d7b7d891717fb8649d58e75de44a3313cf7cb07eab8cb",
+      "url": "net.minecraft/1.8.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "15w14a",
+      "sha256": "eee0c19b42f0c66f6f2a0997ab111286635a4a31cf794bfc91f31edcd8c27f24",
+      "url": "net.minecraft/15w14a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.3",
+      "sha256": "ac27f9485c41d0f4487da4ef2b94acf6b6b5ee7ee1201bbe789bbbcbc08e2270",
+      "url": "net.minecraft/1.8.3.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.8.2",
+      "sha256": "55d33881652426b51d2dffb7be6d3c238523ab25bf72a61e616d895d045a3142",
+      "url": "net.minecraft/1.8.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.8.2-pre7",
+      "sha256": "e789c973343320908be172d19af6f3643697b3f5706a31737277c73889c81b2c",
+      "url": "net.minecraft/1.8.2-pre7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.2-pre6",
+      "sha256": "29af5f103bde0c004efe997d34073dc91acbd03603787fdbd03b4d444629d1df",
+      "url": "net.minecraft/1.8.2-pre6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.2-pre5",
+      "sha256": "481b42c72d6556429383db8be4317c22e881723fad0ea7ccb24e642279cdfbff",
+      "url": "net.minecraft/1.8.2-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.2-pre4",
+      "sha256": "75f9408c2064e4f87a8beb3a005a65b049bb510401deb6a45c2e9ff00cba35b6",
+      "url": "net.minecraft/1.8.2-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.2-pre3",
+      "sha256": "7bb74f3360d0d83f8845dfeecad80e777edc020378f14dcb6ab9d6b513a11229",
+      "url": "net.minecraft/1.8.2-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.2-pre2",
+      "sha256": "5d3cca6b5083fd0ac7c419c1325965c4592fee0d073ed7e2ef7da5a9ec379363",
+      "url": "net.minecraft/1.8.2-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.2-pre1",
+      "sha256": "011ea5aff8d1c945ca46d9471b73f2f60148d2c9f17be27f10722fbadae34385",
+      "url": "net.minecraft/1.8.2-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.1",
+      "sha256": "8d9af58555dd2bac942f22b1a0f6192d62bc0c834abb8315ab242630136d6cc0",
+      "url": "net.minecraft/1.8.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.8.1-pre5",
+      "sha256": "ec0f08604354b966b7c1f5c2806b01581570acaf48d2a70fc2760fc97bb0c682",
+      "url": "net.minecraft/1.8.1-pre5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.1-pre4",
+      "sha256": "3f96e7f36ce218777af7490ea3f83e43144ccd92b054f32c6d444ccbe1ddb876",
+      "url": "net.minecraft/1.8.1-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.1-pre3",
+      "sha256": "c42fcd7b544d82a12112c2acc00864f9a7953c43a511ba7d886ca2120adc8e0f",
+      "url": "net.minecraft/1.8.1-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.1-pre2",
+      "sha256": "5880ac94c16f808dbef0ebf97f866742ea0692d243378c08c22fddd0733dcd77",
+      "url": "net.minecraft/1.8.1-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8.1-pre1",
+      "sha256": "4016080841684ffcc9012d0dfda4afc2771aeee9ccd12d45356860e6822ac016",
+      "url": "net.minecraft/1.8.1-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8",
+      "sha256": "c05d1c92464565cf76833afb3e3b492ca09adf430eeab6124ffc7720b0b4079d",
+      "url": "net.minecraft/1.8.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.8-pre3",
+      "sha256": "c49bdd7a75dd9de709974b793b16367a54f4549daad39d123b009c7310615e68",
+      "url": "net.minecraft/1.8-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8-pre2",
+      "sha256": "7cf5c30eb1f2824c33682c4906f7e24954c7d0ea3ad854303b2e4540d4d0a301",
+      "url": "net.minecraft/1.8-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.8-pre1",
+      "sha256": "780e38c0caf4d3ac64f90add0ff30c290f71e3613bb806ba40a8d102feca96bc",
+      "url": "net.minecraft/1.8-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w34d",
+      "sha256": "6716bdf38fc4bdb2434a651169cfb54cafad600fdf291b72634b261e0e7f5063",
+      "url": "net.minecraft/14w34d.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w34c",
+      "sha256": "89cbce4913133cbb3c5cfe0b617304003b69d1b14b09209af3fe04dbd2156d28",
+      "url": "net.minecraft/14w34c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w34b",
+      "sha256": "2b0581e2d4b0b4df771ee08bb589895a5f3c8de194b9bbcf3773b5e29c22ba16",
+      "url": "net.minecraft/14w34b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w34a",
+      "sha256": "98b2ccdf103a32e773f65eef4ca7e2995a43ed09c26e9297091539ce153fe39e",
+      "url": "net.minecraft/14w34a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w33c",
+      "sha256": "54c8ddcf1a21305163a6587cf92ea37372911371f1724de12ac7699fdc498e5c",
+      "url": "net.minecraft/14w33c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w33b",
+      "sha256": "7f5492e2b9d6b3d9e780735cca34891c809234e98a1c6ddd2c41c948a9594b5a",
+      "url": "net.minecraft/14w33b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w33a",
+      "sha256": "2ddb9c2cc471e8fae0677e0110e8fc1e008c29ff70f139ffe90b37a3f388650d",
+      "url": "net.minecraft/14w33a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w32d",
+      "sha256": "c31c3355dc2237673f2ca9c53d26d04fc9faaed1155ee14da9702335ee4eba05",
+      "url": "net.minecraft/14w32d.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w32c",
+      "sha256": "566c330365daffec26036694e50bcd2c2a9866d8e38efe7dba183b43d78d6661",
+      "url": "net.minecraft/14w32c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w32b",
+      "sha256": "49c0a6ad69f4a1089e21a874b7997982a9981292b87c8d85490bbfb33f432485",
+      "url": "net.minecraft/14w32b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w32a",
+      "sha256": "8d30f6be51ee03ac9949c457e3b8569d68aefa586b97da993cb5b248d2d6e8a0",
+      "url": "net.minecraft/14w32a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w31a",
+      "sha256": "9590ae6cbc1cec3cd3fc6d140b68466053ef58f1e240b1a839a1cfa48e447f65",
+      "url": "net.minecraft/14w31a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w30c",
+      "sha256": "f7402d3435adb5b6ee2de2d3526108995714ff537a2729405ad97c790e177812",
+      "url": "net.minecraft/14w30c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w30b",
+      "sha256": "f41bad0cb03eea8dc97c7b9d0b756be6ba1307c12faa92a6a123782c5b0202fe",
+      "url": "net.minecraft/14w30b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w30a",
+      "sha256": "2e4f7167de8b75c4a9acb464bd48662e3271229fdbac379ca55898ae054e0613",
+      "url": "net.minecraft/14w30a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w29b",
+      "sha256": "ea43c60a51ce4aa9ae09ea39aebf43be98a3d260d9b396238e377eda6195113b",
+      "url": "net.minecraft/14w29b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w29a",
+      "sha256": "fe6e5a3a3f72703fe6dc9ed441672c88e6e50621cbcd40014d2b67e2747a3bc7",
+      "url": "net.minecraft/14w29a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w28b",
+      "sha256": "821afc25c3387ba3fbf5f8cd79a8335a53efda3f1318cf9771ea83932a947d39",
+      "url": "net.minecraft/14w28b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w28a",
+      "sha256": "569a4fe110f4ae025a8b105e7b8a086a6f5ee1d1f5f106723685074da9e50e94",
+      "url": "net.minecraft/14w28a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w27b",
+      "sha256": "02861dc6ede39b489912a41e43aad9403db371996da2da610f0f9421eda4aa70",
+      "url": "net.minecraft/14w27b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w27a",
+      "sha256": "2948c4e5a8ee593f11a3acf99efa30b9cd8232c8e8ee4aba1d798a25111ee788",
+      "url": "net.minecraft/14w27a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w26c",
+      "sha256": "35dc6f631e3c17fee55a6495f944d77ace12368acc84334bb2163cdb9567bc2c",
+      "url": "net.minecraft/14w26c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w26b",
+      "sha256": "1bddd9ac020823a6ecd86f3a19b7b8e83989e8084c1e1d85acbea15787ef028c",
+      "url": "net.minecraft/14w26b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w26a",
+      "sha256": "c74b02a90e263a6f190cd364e7a5467eab9a858c2ce2049a32cb06200741e62f",
+      "url": "net.minecraft/14w26a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w25b",
+      "sha256": "71e718ef4bd15e1007a926741ab61bacc0509fd3945b4d6b25a6c6982b5719af",
+      "url": "net.minecraft/14w25b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w25a",
+      "sha256": "f962aa71d74b12b55fcf36bbbed652749a2b668c06ad3c3aacc654afa79e52da",
+      "url": "net.minecraft/14w25a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w21b",
+      "sha256": "3bd950167a3b1080f0a0a8727ec9ad88d26e89309760c57fa043892556ae7f7a",
+      "url": "net.minecraft/14w21b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w21a",
+      "sha256": "0bae7e747b8c71ff8f46d49da0cfcf44fee6b77dd887b1828ff5c968371b259f",
+      "url": "net.minecraft/14w21a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w20b",
+      "sha256": "94b84af530e8db43d78e9ab51d87e112d096aa9a1516943e93bc22b7e9ea3cf6",
+      "url": "net.minecraft/14w20b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w20a",
+      "sha256": "5df75103342db416b5870ab8aaadecd01f36063d3f7820147ff51fa2c8e519cf",
+      "url": "net.minecraft/14w20a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.10",
+      "sha256": "2a839d5b52e020a799c4ee2a78c48c3e47013fa0b70f14815816753a62314ff6",
+      "url": "net.minecraft/1.7.10.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.7.10-pre4",
+      "sha256": "ed15b0fe193b74e30c59040edb1fdc7745413119ee3c0a670ed91a9cbee5afd9",
+      "url": "net.minecraft/1.7.10-pre4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.10-pre3",
+      "sha256": "2b30c63855a0cfdac10ad8d44414644e51783572d6bca28adcdbc76ce3114ffe",
+      "url": "net.minecraft/1.7.10-pre3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.10-pre2",
+      "sha256": "2105ff057748e63869cac46ecd5c0560433a52825b50faf16fe98797758e58d9",
+      "url": "net.minecraft/1.7.10-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.10-pre1",
+      "sha256": "4a12e175e4591f813fa9bfee9388533598aafcc2427f61ee31a814a57b6b7bfe",
+      "url": "net.minecraft/1.7.10-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w19a",
+      "sha256": "4507ac2ea98347ac9a2037b8701fe6238c1cc79cb0da86a2efd31e7534d17731",
+      "url": "net.minecraft/14w19a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w18b",
+      "sha256": "004a2dd0d6f4645303a757b37220c044548549568513671ea05f3f0886266e67",
+      "url": "net.minecraft/14w18b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w18a",
+      "sha256": "2fab32e5f45ec85bb2eb9c5143c769b5ba4f257f66ae741bd3dab963312adb9a",
+      "url": "net.minecraft/14w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w17a",
+      "sha256": "55576bed85701f53a8dfebfa93f65fe835c114b0cd98b282c70ed483add0a16e",
+      "url": "net.minecraft/14w17a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w11b",
+      "sha256": "f085df32256d115eb8b0e3fb00f9f156a406dbfb8d8f21539a79df57fc1b84fb",
+      "url": "net.minecraft/14w11b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.9",
+      "sha256": "52aa9c120f2a4c48bdf03709ce196e4bcb8b190e2e8cb40627e55e49ba9db0c5",
+      "url": "net.minecraft/1.7.9.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.7.8",
+      "sha256": "6158c75560199395f319cf3e516adbe5c19233213e51eba2a885d30deed60d50",
+      "url": "net.minecraft/1.7.8.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.7.7",
+      "sha256": "1a353a2a029de2c6a146418387460819e91b61027a4f365b7f222c0e3e7bbbc6",
+      "url": "net.minecraft/1.7.7.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.7.6",
+      "sha256": "982fb263138de3a3c825c0db932df16a8adbb4f1d6753120a3264858d5c9fa03",
+      "url": "net.minecraft/1.7.6.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "14w11a",
+      "sha256": "4cd1db10b8a475678d9a78c9ec81b993e22cd07f96005418dd5d8b809927ed64",
+      "url": "net.minecraft/14w11a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.6-pre2",
+      "sha256": "3a773865ee5d42632738c215720ff195feeda97769935db16bfdc2a56ea859ac",
+      "url": "net.minecraft/1.7.6-pre2.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.6-pre1",
+      "sha256": "112e7b106f05302dc85a3c5f75a893199ef18c28053b6cd060a820c54597432d",
+      "url": "net.minecraft/1.7.6-pre1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w10c",
+      "sha256": "45671fd13034b965df03b4c0de289913a4e88ec81f708c0c7d849887e0e81dc1",
+      "url": "net.minecraft/14w10c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w10b",
+      "sha256": "1cf2c57bc1d39cbfdbd22390f1251044a0cbec4f3f2cd54282f4d004708c2e39",
+      "url": "net.minecraft/14w10b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w10a",
+      "sha256": "dc0dfb575180565371b9250a40c83dec4321c569460e7616ed8456caa65d9fe1",
+      "url": "net.minecraft/14w10a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w08a",
+      "sha256": "127e8bb32308f7fcba15922f70eb6b0875e1ddcf511c1288a62be1e1078657d5",
+      "url": "net.minecraft/14w08a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.5",
+      "sha256": "cb38d31041f0db408609bd70aba350cc15bf4e71a17a79b1c59a4938b64835b9",
+      "url": "net.minecraft/1.7.5.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "14w07a",
+      "sha256": "ad1bf20baf73da08c072bb195a19bd75ef3115808c0d1da9b93755f201732766",
+      "url": "net.minecraft/14w07a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w06b",
+      "sha256": "1c64c9b85c2974ab733d79e9d8a1fc7a9b27d243766cf2b401836a6b7377e51c",
+      "url": "net.minecraft/14w06b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w06a",
+      "sha256": "1d36352d9ab41d3494811a58ea532cfbab288e1b8803ee64ff0053ea3b5d60e9",
+      "url": "net.minecraft/14w06a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w05b",
+      "sha256": "67e6a38985aaf735695fd8abeb5de4deff4ec12290d03bd05c822f7c9bce19d5",
+      "url": "net.minecraft/14w05b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w05a",
+      "sha256": "e78cec4b5b005ccd78698180b530ae0a1cb0e9092e3f922aca25ca509096d47d",
+      "url": "net.minecraft/14w05a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w04b",
+      "sha256": "945bf192e039868de06f3dccd43bd8dd659d5b04bcf32d2a0645b5242f6f1b31",
+      "url": "net.minecraft/14w04b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w04a",
+      "sha256": "fc1e9f2bccb4cfe77866ac1cdcf040aebafc45fb65cd0aab66574ab6fc1e24a6",
+      "url": "net.minecraft/14w04a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w03b",
+      "sha256": "0cb56291d04beb3b8a8980453f316bf71a1c28f28bd158b216eaf06802a8f64e",
+      "url": "net.minecraft/14w03b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w03a",
+      "sha256": "547a0b3b244fae5a8a4780fbecee26dab9127f628b104b2f2de688d9ef104dcb",
+      "url": "net.minecraft/14w03a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w02c",
+      "sha256": "9979172452cdbfd66b9137004abd44e59c1fd7fda6ef093af889ef93b4036c17",
+      "url": "net.minecraft/14w02c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w02b",
+      "sha256": "ab5b739b21672e127259821e7c581e05514efda7dc73fd4c271834fcb7f7b1f3",
+      "url": "net.minecraft/14w02b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "14w02a",
+      "sha256": "0d3d83d3df2ae8427d6de8dd0c4fb3a2d6f1c1c026c516fb1d55eac6c9a5e5d1",
+      "url": "net.minecraft/14w02a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.4",
+      "sha256": "fad03ac427bab7b7912598717b0e510a895949c0c0036331e3e46c153c9f1103",
+      "url": "net.minecraft/1.7.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.7.3",
+      "sha256": "b288be05efee973b7a02288554263f4b439201a81f17a485bdb136e88c4e0a63",
+      "url": "net.minecraft/1.7.3.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "13w49a",
+      "sha256": "be568cc24434908d99b70d52ca0a71b70772deb70e7679c360058a2d0a86745d",
+      "url": "net.minecraft/13w49a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w48b",
+      "sha256": "affb82d05a1805abc06f059aa1b0dae1379e64c48b2756a0ce7476ac6f53bb4c",
+      "url": "net.minecraft/13w48b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w48a",
+      "sha256": "d139de429017a2ac9d2d049aa31c55daac5d115760c6a83fcb0e23db52ed63de",
+      "url": "net.minecraft/13w48a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w47e",
+      "sha256": "ee066a7cc2c67c7c2cb0a829aa56d1177836bc54b3bd8ca675080da73ce587e4",
+      "url": "net.minecraft/13w47e.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w47d",
+      "sha256": "e38ad29bc089d8327b88718e79e122670712b2c52a4385c78c6373989bc1f104",
+      "url": "net.minecraft/13w47d.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w47c",
+      "sha256": "fde7762944d92bc2998ac5ef6b4d5e5b88d1b69d923a120801b91014c4f8f491",
+      "url": "net.minecraft/13w47c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w47b",
+      "sha256": "f2b8363bcd3b1cd7ad4b8f91f043f0b4a56cbfad9ddec7d60b6b442504ee771d",
+      "url": "net.minecraft/13w47b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w47a",
+      "sha256": "af14b8cbf0dec0b5d7675b6e49fc8e5b62b9ca04798b87dcc1a0fe144adf6e5c",
+      "url": "net.minecraft/13w47a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7.2",
+      "sha256": "7bcb83b0199e6b5317e0a9602fb7fe0315f859390532c51882cc1283d780ce61",
+      "url": "net.minecraft/1.7.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.7.1",
+      "sha256": "6c3d1617902cd80efe449b605e4601c15fcab039dbbbfa31899ecd8cce98bc96",
+      "url": "net.minecraft/1.7.1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.7",
+      "sha256": "1124bdeb09a2a35883900fdaad895f6b0c007a21cbbc2cb3cd0cefd99a5b7f00",
+      "url": "net.minecraft/1.7.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w43a",
+      "sha256": "f40f492e642178039a9cc09474b65fd7bab351ed3d2762f45a7f73efc091ebf1",
+      "url": "net.minecraft/13w43a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w42b",
+      "sha256": "bd1f17a8722449667d4f84d7092f30ad1889f3dc4338f3ec8142e91d458b4acb",
+      "url": "net.minecraft/13w42b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w42a",
+      "sha256": "cf00679a8739f101c09bab7833385f540205ec011d51b0071431ffdefffff817",
+      "url": "net.minecraft/13w42a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w41b",
+      "sha256": "10b0ea5ee42b70c63a3fc7d5b87562483fd9269a162427c72070ef2f9cbba1c1",
+      "url": "net.minecraft/13w41b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w41a",
+      "sha256": "2b7fe79b6d600c800c930da5b0776ad233f87997d388ef327a39797f578543c9",
+      "url": "net.minecraft/13w41a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w39b",
+      "sha256": "cabc78ab5e43a1265fc10c16a5da38ae907dd7a373902e10e08883b72501c06f",
+      "url": "net.minecraft/13w39b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w39a",
+      "sha256": "75edfbe902ad54d105084c3b02260745c2bc2043a7bd6b96dbd71c344c8523f0",
+      "url": "net.minecraft/13w39a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w38c",
+      "sha256": "61ad1270e18b0ffb87289f4f1e08b34cb6017ebea9477994379e7cdd0c7cccb1",
+      "url": "net.minecraft/13w38c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w38b",
+      "sha256": "22bb0b48a888395db56082615904e0294d71a9cb62b77065c72b2fca8ac7815d",
+      "url": "net.minecraft/13w38b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w38a",
+      "sha256": "18860dbda57f0dcf981f3a98b1b88c1f5d67c4bd7e137ca3a291c76fd833c345",
+      "url": "net.minecraft/13w38a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.6.4",
+      "sha256": "203895207a30106637f9ae8304406f303c9be39e9d10c55da5ef784705d88963",
+      "url": "net.minecraft/1.6.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.6.3",
+      "sha256": "7f8668b7a563e185254c7d964431a4aa95704cc028df3892df907063fc73dc4a",
+      "url": "net.minecraft/1.6.3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w37b",
+      "sha256": "7c394f9b9942a8f0781d9f0f3547c9ddef9f06c9cafb1cb761f0cbb32a1622dd",
+      "url": "net.minecraft/13w37b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w37a",
+      "sha256": "349b4600c0a8ea017f201f2ecc99a7adc896e84dfe198ffd7addf0cc9a2284a4",
+      "url": "net.minecraft/13w37a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w36b",
+      "sha256": "2b521b8a0f6f0c8b4874dc592ddbb106d00bab47fa79decf3a4435f210cb69b8",
+      "url": "net.minecraft/13w36b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w36a",
+      "sha256": "1e7b8b812f06eba60758aff7356cd1ecb6f64894d10a732401f17f6701134666",
+      "url": "net.minecraft/13w36a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.6.2",
+      "sha256": "b1ff5026c880a75349600e41f5426b0a06299131c4bbe7bad3eeffc219ed609e",
+      "url": "net.minecraft/1.6.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.6.1",
+      "sha256": "391764a9c1651799d40d35dcfb6590e22e9dfb630abf4b55e96917aa08084bba",
+      "url": "net.minecraft/1.6.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.6",
+      "sha256": "2c5eb1cb6e8e32b1afd9b5427573bf35f2704c46bbd7b51071c2d9e6d540977d",
+      "url": "net.minecraft/1.6.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w26a",
+      "sha256": "0ed890ccfa404a951ac8970f3f1316db98ed8d4f37a62f2183ea46e5c2f90a60",
+      "url": "net.minecraft/13w26a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w25c",
+      "sha256": "d67dbcf5d5ce947cbbbdf742ee24c9a4df786adbeb4df63a9464196eba7d17cb",
+      "url": "net.minecraft/13w25c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w25b",
+      "sha256": "0219a8f72b33d899ccbb3b16c9cde3b69f55e70dee163f2c118764a8ae4608ab",
+      "url": "net.minecraft/13w25b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w25a",
+      "sha256": "7bd70652e87c439f4d3e3eb86d0ebf68c7a699a66ab259b536695594df5dc8b6",
+      "url": "net.minecraft/13w25a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w24b",
+      "sha256": "b316ed6fb6d9f5d3214ff5468d778360498940273c2b3f9d91429fc70c08e567",
+      "url": "net.minecraft/13w24b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w24a",
+      "sha256": "cd5183179c286b8cb02aa05c775d55f1a638840f34ac1402e729cee5dbbf8f04",
+      "url": "net.minecraft/13w24a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w23b",
+      "sha256": "e7881fc990c3091a8179a95da4de13b85332752a3842e164b7dbdb81810df99c",
+      "url": "net.minecraft/13w23b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w23a",
+      "sha256": "7b998f60b816594a5e3701c97480441c30bc499672e4bc48df1ce6a21e94e913",
+      "url": "net.minecraft/13w23a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w22a",
+      "sha256": "43f9c5b9323fe2daefe12ab81cb16dbef6d1e5daaf9db212c7f99bf88d96d77c",
+      "url": "net.minecraft/13w22a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w21b",
+      "sha256": "b87d612b9241781e6330e0fcce1ab7384fc18aad182ff9829ccedd0b6cd4f9f1",
+      "url": "net.minecraft/13w21b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w21a",
+      "sha256": "ad93c9e972a2193b4bd86a5843d37026504e4e73a61d35ff00477e587e0386e3",
+      "url": "net.minecraft/13w21a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w19a",
+      "sha256": "b5d56decf9356921a2e615801d21e3fffbfd959953b5533a2f6a48fad14b8303",
+      "url": "net.minecraft/13w19a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w18c",
+      "sha256": "707c9b9252c42f4a60595aba34cfe9114268883a37122d5c49fc62df4e5665e2",
+      "url": "net.minecraft/13w18c.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w18b",
+      "sha256": "846a92d61766f6dc8c29c52177fcbc7a906b76a72ce3dd80ba4a21aaa2b3ce61",
+      "url": "net.minecraft/13w18b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w18a",
+      "sha256": "bb51e67ff021ed7dcaeb8ecf684d813ac29202757b813c75e1b2c577d0a80850",
+      "url": "net.minecraft/13w18a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w17a",
+      "sha256": "391e80bd3140da24351e4a7ea2f3655ad56d954725f52b6760d565569e9fdfb1",
+      "url": "net.minecraft/13w17a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.5.2",
+      "sha256": "ce4be3d53367f3af6dda75437a61b2f7da3661c484867cb9773b8a618b53b40e",
+      "url": "net.minecraft/1.5.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "13w16b",
+      "sha256": "c84df47b908ad4626a85f945d31407fcba3a7514df94a9e5433210e9d8e60d8c",
+      "url": "net.minecraft/13w16b.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "13w16a",
+      "sha256": "d483765eb44ab03c1ec0afe59ed1f5bed69bbb187940f6e58543acde86b28a94",
+      "url": "net.minecraft/13w16a.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.5.1",
+      "sha256": "01555570ffac8166c520db8a2cc8bcc8512a98e5df19a70362d4b14dec478a9f",
+      "url": "net.minecraft/1.5.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.5",
+      "sha256": "51b4961d3d4614880b1bf4ab6436293c76760bb877c8dd85df3ac52527ef0b69",
+      "url": "net.minecraft/1.5.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.4.7",
+      "sha256": "7257e19fd9d083e610859ee063f9117ff1c16814ab0566f112fc2d7d698d72c1",
+      "url": "net.minecraft/1.4.7.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.4.6",
+      "sha256": "c3430009ee551d511d64e94eacdd5f904fff3aec32cbbb11ee88efbedd587370",
+      "url": "net.minecraft/1.4.6.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.4.5",
+      "sha256": "f657322fbc55f817cecda654b46cce8e8c0bbf5232db062c9fa070c4afe7b532",
+      "url": "net.minecraft/1.4.5.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.4.4",
+      "sha256": "a346995d8f8fc8bd0c6984aaeca70f4d78e059ae2556121a492c1cb3f8ec8ace",
+      "url": "net.minecraft/1.4.4.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.4.3",
+      "sha256": "2e4556f1c54568135a8c2dd7f802940b0529ef8d359094b675c5199a05b82496",
+      "url": "net.minecraft/1.4.3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.4.2",
+      "sha256": "620baf4b361895c5547a3033c6d941846ff715e7cb65cc1fd69c9a2606d1889b",
+      "url": "net.minecraft/1.4.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.4.1",
+      "sha256": "66f2da90156460d31d8db6392582398d8f2559ea89103641a451b20dfd4a483d",
+      "url": "net.minecraft/1.4.1.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.4",
+      "sha256": "5a97f4d662bde5dba1a99bdca497643422839d34bae0d0268774aee79a4c96d8",
+      "url": "net.minecraft/1.4.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.3.2",
+      "sha256": "3035a09ac2278edd37401b4e3807d070db5f569afeda219ffd2f4ade34e54a95",
+      "url": "net.minecraft/1.3.2.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.3.1",
+      "sha256": "09adb5c0fc83792f51d85e1d15f880948f99b76a46fd2a05144711db7769e18f",
+      "url": "net.minecraft/1.3.1.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.3",
+      "sha256": "963fe77a17901d2f269114d0551f509da47d8ce130e7936180cfdec7b091b2b3",
+      "url": "net.minecraft/1.3.json",
+      "type": "snapshot"
+    },
+    {
+      "mcVersion": "1.2.5",
+      "sha256": "3168e217adb7cee6676a916313ea5ad1e53981ace99039961814534691a8e30f",
+      "url": "net.minecraft/1.2.5.json",
+      "type": "release"
+    }
+  ]
+}

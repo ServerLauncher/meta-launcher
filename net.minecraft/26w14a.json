@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "26w14a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2026-04-01T12:13:30+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.26w14a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/71feef42484d36d0eeba98ffb06f8bb845cbe0fc/server.jar",
+        "sha1": "71feef42484d36d0eeba98ffb06f8bb845cbe0fc",
+        "sha256": null
+      },
+      "javaMajor": 25
+    }
+  ]
+}

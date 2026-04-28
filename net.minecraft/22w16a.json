@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "22w16a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2022-04-20T14:37:07+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.22w16a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/8ac6c67599bd30009fdc2f9d0174419b0bc19f8b/server.jar",
+        "sha1": "8ac6c67599bd30009fdc2f9d0174419b0bc19f8b",
+        "sha256": null
+      },
+      "javaMajor": 17
+    }
+  ]
+}

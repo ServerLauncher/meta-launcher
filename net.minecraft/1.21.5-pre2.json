@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.21.5-pre2",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2025-03-12T12:36:02+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.1.21.5-pre2.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/7a6ec51f9e3095a8d2406042760d2989a1e8ad2b/server.jar",
+        "sha1": "7a6ec51f9e3095a8d2406042760d2989a1e8ad2b",
+        "sha256": null
+      },
+      "javaMajor": 21
+    }
+  ]
+}

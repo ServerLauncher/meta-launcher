@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "21w13a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2021-03-31T16:17:46+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.21w13a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/36d49b1a6d05f1deac293d477bfa2b4a1babb71c/server.jar",
+        "sha1": "36d49b1a6d05f1deac293d477bfa2b4a1babb71c",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

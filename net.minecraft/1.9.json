@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.9",
+  "builds": [
+    {
+      "build": null,
+      "type": "release",
+      "releaseTime": "2016-02-29T13:49:54+00:00",
+      "recommended": true,
+      "download": {
+        "name": "minecraft_server.1.9.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/b4d449cf2918e0f3bd8aa18954b916a4d1880f0d/server.jar",
+        "sha1": "b4d449cf2918e0f3bd8aa18954b916a4d1880f0d",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.7.4",
+  "builds": [
+    {
+      "build": null,
+      "type": "release",
+      "releaseTime": "2013-12-09T12:28:10+00:00",
+      "recommended": true,
+      "download": {
+        "name": "minecraft_server.1.7.4.jar",
+        "url": "https://launcher.mojang.com/v1/objects/61220311cef80aecc4cd8afecd5f18ca6b9461ff/server.jar",
+        "sha1": "61220311cef80aecc4cd8afecd5f18ca6b9461ff",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

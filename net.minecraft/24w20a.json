@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "24w20a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2024-05-15T12:00:35+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.24w20a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/e3b1bcc2d7a09b6f1acfef7090ee64409feb3b94/server.jar",
+        "sha1": "e3b1bcc2d7a09b6f1acfef7090ee64409feb3b94",
+        "sha256": null
+      },
+      "javaMajor": 21
+    }
+  ]
+}

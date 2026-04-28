@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "25w07a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2025-02-13T12:55:37+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.25w07a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/f264312044768694831ad285fdde1d55e2f16c92/server.jar",
+        "sha1": "f264312044768694831ad285fdde1d55e2f16c92",
+        "sha256": null
+      },
+      "javaMajor": 21
+    }
+  ]
+}

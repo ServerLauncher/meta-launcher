@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "19w12a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2019-03-20T16:47:34+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.19w12a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/dc1a1dfef026d38dfc04b360653172f5428f86ef/server.jar",
+        "sha1": "dc1a1dfef026d38dfc04b360653172f5428f86ef",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

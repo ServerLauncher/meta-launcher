@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.19.1-rc2",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2022-07-21T16:25:50+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.1.19.1-rc2.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/5ec09b2700e5e83380a23cb18e66cfdaa931640b/server.jar",
+        "sha1": "5ec09b2700e5e83380a23cb18e66cfdaa931640b",
+        "sha256": null
+      },
+      "javaMajor": 17
+    }
+  ]
+}

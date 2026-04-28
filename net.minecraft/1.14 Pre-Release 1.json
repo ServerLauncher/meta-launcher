@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.14 Pre-Release 1",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2019-04-10T14:24:16+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.1.14 Pre-Release 1.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/6f27430bcd9b06d3dcb5d2966c75d5e491915c9c/server.jar",
+        "sha1": "6f27430bcd9b06d3dcb5d2966c75d5e491915c9c",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

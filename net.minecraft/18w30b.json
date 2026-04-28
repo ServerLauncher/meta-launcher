@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "18w30b",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2018-07-26T16:06:57+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.18w30b.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/373b2fb24db8ed21d25483a986e9eb7f945c5277/server.jar",
+        "sha1": "373b2fb24db8ed21d25483a986e9eb7f945c5277",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

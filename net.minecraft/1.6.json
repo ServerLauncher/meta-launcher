@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.6",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2013-06-25T13:08:56+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.1.6.jar",
+        "url": "https://launcher.mojang.com/v1/objects/ee6d5161ac28eef285df571dc1235d48f03c3e88/server.jar",
+        "sha1": "ee6d5161ac28eef285df571dc1235d48f03c3e88",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

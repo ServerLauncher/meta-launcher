@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "24w21a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2024-05-22T14:18:26+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.24w21a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/6ba7192e60bedb3ff02db3c57b75f7ea56c63242/server.jar",
+        "sha1": "6ba7192e60bedb3ff02db3c57b75f7ea56c63242",
+        "sha256": null
+      },
+      "javaMajor": 21
+    }
+  ]
+}

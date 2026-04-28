@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "25w09b",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2025-02-27T11:07:08+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.25w09b.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/99da672b78a9ff683da6961096e4a6fd6e8db1ca/server.jar",
+        "sha1": "99da672b78a9ff683da6961096e4a6fd6e8db1ca",
+        "sha256": null
+      },
+      "javaMajor": 21
+    }
+  ]
+}

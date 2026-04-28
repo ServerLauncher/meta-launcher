@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.17.1-rc2",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2021-07-05T12:58:01+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.1.17.1-rc2.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/dd9ca1bdc855535cd7ce0565f02285ad4d6d1ae5/server.jar",
+        "sha1": "dd9ca1bdc855535cd7ce0565f02285ad4d6d1ae5",
+        "sha256": null
+      },
+      "javaMajor": 16
+    }
+  ]
+}

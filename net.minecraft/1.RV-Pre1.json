@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "1.RV-Pre1",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2016-03-31T16:18:53+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.1.RV-Pre1.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/f51d9489706f603be6be9716407f1dab5f7f2733/server.jar",
+        "sha1": "f51d9489706f603be6be9716407f1dab5f7f2733",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}

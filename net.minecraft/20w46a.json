@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "20w46a",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2020-11-11T15:30:32+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.20w46a.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/373675677cc57b9294a187a4d0ecab6f340d4189/server.jar",
+        "sha1": "373675677cc57b9294a187a4d0ecab6f340d4189",
+        "sha256": null
+      },
+      "javaMajor": 8
+    }
+  ]
+}
