@@ -1,0 +1,2587 @@
+{
+  "formatVersion": 1,
+  "uid": "build.purpurmc.purpur",
+  "mcVersion": "1.16.5",
+  "builds": [
+    {
+      "build": "999",
+      "type": "default",
+      "releaseTime": "2021-03-05T21:27:11.929000+00:00",
+      "recommended": true,
+      "download": {
+        "name": "purpur-1.16.5-999.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/999/download",
+        "sha1": "2d0968d7be5c98fb7fdd5dc689904d83",
+        "sha256": null
+      }
+    },
+    {
+      "build": "998",
+      "type": "default",
+      "releaseTime": "2021-03-05T03:46:03.458000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-998.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/998/download",
+        "sha1": "f1b4481c450055bb9a1a33acca5d60cd",
+        "sha256": null
+      }
+    },
+    {
+      "build": "997",
+      "type": "default",
+      "releaseTime": "2021-03-02T17:40:16.750000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-997.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/997/download",
+        "sha1": "7c178e5ced9fadf69749fcd6fb3dcfcf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "996",
+      "type": "default",
+      "releaseTime": "2021-03-02T03:44:34.169000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-996.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/996/download",
+        "sha1": "0a55afbaa7d818c97294fefe47812d33",
+        "sha256": null
+      }
+    },
+    {
+      "build": "995",
+      "type": "default",
+      "releaseTime": "2021-02-28T02:04:59.532000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-995.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/995/download",
+        "sha1": "1e7facdbfa75b134eee91cc8e222322b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "994",
+      "type": "default",
+      "releaseTime": "2021-02-25T21:16:52.172000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-994.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/994/download",
+        "sha1": "34922f1146a003fdbdc329c22e957731",
+        "sha256": null
+      }
+    },
+    {
+      "build": "993",
+      "type": "default",
+      "releaseTime": "2021-02-24T08:27:12.928000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-993.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/993/download",
+        "sha1": "b16df604a6faccd6cb7ba51899e5a2e6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "992",
+      "type": "default",
+      "releaseTime": "2021-02-23T20:38:04.382000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-992.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/992/download",
+        "sha1": "41f435ad1239e8e3cc2151d0d5dbdfb3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "991",
+      "type": "default",
+      "releaseTime": "2021-02-23T07:44:29.420000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-991.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/991/download",
+        "sha1": "39e0783c243bdbe3193542fcd767a70f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "990",
+      "type": "default",
+      "releaseTime": "2021-02-23T07:05:56.726000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-990.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/990/download",
+        "sha1": "042442208244f0e086dabb691d6d16a0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "989",
+      "type": "default",
+      "releaseTime": "2021-02-22T22:49:09.174000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-989.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/989/download",
+        "sha1": "74428c85120cc86c9db3df5fa3276418",
+        "sha256": null
+      }
+    },
+    {
+      "build": "988",
+      "type": "default",
+      "releaseTime": "2021-02-22T22:46:37.546000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-988.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/988/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "987",
+      "type": "default",
+      "releaseTime": "2021-02-22T10:09:45.670000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-987.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/987/download",
+        "sha1": "a6eff1c65e25f8220557c800dbe7ae33",
+        "sha256": null
+      }
+    },
+    {
+      "build": "986",
+      "type": "default",
+      "releaseTime": "2021-02-22T09:48:40.757000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-986.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/986/download",
+        "sha1": "ea0c5f2a0b0b26a3e2450908b496a9ef",
+        "sha256": null
+      }
+    },
+    {
+      "build": "985",
+      "type": "default",
+      "releaseTime": "2021-02-22T02:59:52.390000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-985.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/985/download",
+        "sha1": "80d521fb4c252c713e66f5e645d7e49e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "984",
+      "type": "default",
+      "releaseTime": "2021-02-22T01:11:21.689000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-984.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/984/download",
+        "sha1": "f9d162ea37ac48c27cf8e95a85f7fae4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "983",
+      "type": "default",
+      "releaseTime": "2021-02-22T00:52:53.799000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-983.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/983/download",
+        "sha1": "943c9c48766bd0317d4f3b92deb4020c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "982",
+      "type": "default",
+      "releaseTime": "2021-02-20T23:44:11.993000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-982.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/982/download",
+        "sha1": "d94a3463449338ba5c33310aee248868",
+        "sha256": null
+      }
+    },
+    {
+      "build": "981",
+      "type": "default",
+      "releaseTime": "2021-02-20T22:54:09.197000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-981.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/981/download",
+        "sha1": "8ca421db85893d3f1334e37f6cadc6f9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "980",
+      "type": "default",
+      "releaseTime": "2021-02-16T23:27:19.631000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-980.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/980/download",
+        "sha1": "e1d79ae5e2e8a21d6be7ce21ef5ecb28",
+        "sha256": null
+      }
+    },
+    {
+      "build": "979",
+      "type": "default",
+      "releaseTime": "2021-02-16T21:07:34.452000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-979.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/979/download",
+        "sha1": "b764791b9a4ea0fe65d53aa9093bfc4e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "978",
+      "type": "default",
+      "releaseTime": "2021-02-13T20:26:47.560000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-978.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/978/download",
+        "sha1": "f4811bd6ae25977fb802927791810415",
+        "sha256": null
+      }
+    },
+    {
+      "build": "977",
+      "type": "default",
+      "releaseTime": "2021-02-13T20:04:21.176000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-977.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/977/download",
+        "sha1": "e433a6b56def790608b6e631ca6655d3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "976",
+      "type": "default",
+      "releaseTime": "2021-02-13T19:44:32.572000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-976.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/976/download",
+        "sha1": "5eaee43792150552ad933119f828ef27",
+        "sha256": null
+      }
+    },
+    {
+      "build": "975",
+      "type": "default",
+      "releaseTime": "2021-02-13T19:35:48.811000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-975.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/975/download",
+        "sha1": "d3a28be9a40ab4be75c1d547286f705e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "974",
+      "type": "default",
+      "releaseTime": "2021-02-13T18:54:11.515000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-974.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/974/download",
+        "sha1": "8bdcf267a9b98fb92f7bb5fe8e4eeb72",
+        "sha256": null
+      }
+    },
+    {
+      "build": "973",
+      "type": "default",
+      "releaseTime": "2021-02-13T17:42:59.668000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-973.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/973/download",
+        "sha1": "bdd8495035bd99a765db8e892fe3059d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "972",
+      "type": "default",
+      "releaseTime": "2021-02-13T07:37:42.777000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-972.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/972/download",
+        "sha1": "3b92de7a9558b12ccedf8587cb7d4a1b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "971",
+      "type": "default",
+      "releaseTime": "2021-02-08T19:18:13.273000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-971.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/971/download",
+        "sha1": "8853283ea5ad1fbdfc5a57dc027f695d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "970",
+      "type": "default",
+      "releaseTime": "2021-02-08T19:15:35.519000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-970.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/970/download",
+        "sha1": "eaafee287175a07b380746c37513a6a9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "969",
+      "type": "default",
+      "releaseTime": "2021-02-06T17:29:04.156000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-969.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/969/download",
+        "sha1": "6d383b53bbecdd2afdba44261c04b579",
+        "sha256": null
+      }
+    },
+    {
+      "build": "968",
+      "type": "default",
+      "releaseTime": "2021-02-05T02:04:21.876000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-968.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/968/download",
+        "sha1": "673dfeafd3605d4c7c6a69044239ff48",
+        "sha256": null
+      }
+    },
+    {
+      "build": "967",
+      "type": "default",
+      "releaseTime": "2021-01-31T02:41:54.107000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-967.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/967/download",
+        "sha1": "9e59c4279bedbaf035c8c330e719926c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "966",
+      "type": "default",
+      "releaseTime": "2021-01-27T16:01:51.388000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-966.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/966/download",
+        "sha1": "c7e6d6b901b60892fdc64054e1a96e56",
+        "sha256": null
+      }
+    },
+    {
+      "build": "965",
+      "type": "default",
+      "releaseTime": "2021-01-26T23:49:59.968000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-965.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/965/download",
+        "sha1": "7fa21fa4b42bdf5aae416261cc30563a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "964",
+      "type": "default",
+      "releaseTime": "2021-01-25T18:39:46.486000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-964.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/964/download",
+        "sha1": "dfb85f3280c9024068878a37ed84e387",
+        "sha256": null
+      }
+    },
+    {
+      "build": "963",
+      "type": "default",
+      "releaseTime": "2021-01-25T17:01:48.357000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-963.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/963/download",
+        "sha1": "5b104e5224952bdab5644ce06cee9a87",
+        "sha256": null
+      }
+    },
+    {
+      "build": "962",
+      "type": "default",
+      "releaseTime": "2021-01-25T16:32:24.769000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-962.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/962/download",
+        "sha1": "f21fb08642012c9d9ee3798115a4e497",
+        "sha256": null
+      }
+    },
+    {
+      "build": "961",
+      "type": "default",
+      "releaseTime": "2021-01-24T11:37:43.690000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-961.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/961/download",
+        "sha1": "cec91c94ceda7600ea9c25ce98fd1869",
+        "sha256": null
+      }
+    },
+    {
+      "build": "960",
+      "type": "default",
+      "releaseTime": "2021-01-21T05:52:53.461000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-960.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/960/download",
+        "sha1": "bc541a4d03833ade65f89e1f17650305",
+        "sha256": null
+      }
+    },
+    {
+      "build": "959",
+      "type": "default",
+      "releaseTime": "2021-01-20T03:58:22.595000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-959.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/959/download",
+        "sha1": "e6ea0f3ad6fdccf346a6dd4ed04552c2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "958",
+      "type": "default",
+      "releaseTime": "2021-01-17T01:39:32.856000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-958.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/958/download",
+        "sha1": "a2609c7c1d89ec6fdef7940edb386a34",
+        "sha256": null
+      }
+    },
+    {
+      "build": "957",
+      "type": "default",
+      "releaseTime": "2021-01-16T03:04:07.860000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-957.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/957/download",
+        "sha1": "ef2891f26b1818c57d676a3b6f7f9bf3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1171",
+      "type": "default",
+      "releaseTime": "2021-06-18T00:27:22.813000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1171.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1171/download",
+        "sha1": "525c7aa92e6cef820c308a60f54a43ca",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1170",
+      "type": "default",
+      "releaseTime": "2021-06-17T23:44:33.318000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1170.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1170/download",
+        "sha1": "95456fd367c0cfa7f09f61806225d351",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1169",
+      "type": "default",
+      "releaseTime": "2021-06-11T14:46:18.688000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1169.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1169/download",
+        "sha1": "61947768019182267ccb7c4009ada2e8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1168",
+      "type": "default",
+      "releaseTime": "2021-06-11T14:36:11.085000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1168.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1168/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1167",
+      "type": "default",
+      "releaseTime": "2021-06-11T13:59:26.525000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1167.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1167/download",
+        "sha1": "c9ad1ead9b3914d9a08a3e97c204cfa4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1166",
+      "type": "default",
+      "releaseTime": "2021-06-10T06:33:52.699000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1166.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1166/download",
+        "sha1": "1337feb4f64b0c62ab066f20cdc2b382",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1165",
+      "type": "default",
+      "releaseTime": "2021-06-09T16:04:31.574000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1165.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1165/download",
+        "sha1": "67e960015502f822a0b260ccae5b1cbf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1164",
+      "type": "default",
+      "releaseTime": "2021-06-09T15:53:46.620000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1164.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1164/download",
+        "sha1": "13f1756435ff4310a1d882a28c162e23",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1163",
+      "type": "default",
+      "releaseTime": "2021-06-08T13:21:27.890000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1163.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1163/download",
+        "sha1": "f64226d2fa76639e89cebd68c7fd484c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1162",
+      "type": "default",
+      "releaseTime": "2021-06-08T12:30:00.987000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1162.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1162/download",
+        "sha1": "25ef3cfa423b3893791f2c62192e238a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1161",
+      "type": "default",
+      "releaseTime": "2021-06-06T21:14:04.528000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1161.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1161/download",
+        "sha1": "98a7373f529132c96cad5b01da118820",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1160",
+      "type": "default",
+      "releaseTime": "2021-06-06T19:12:28.203000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1160.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1160/download",
+        "sha1": "1bb2d5b0b0f253703706a9e9730d514f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1159",
+      "type": "default",
+      "releaseTime": "2021-06-05T11:19:48.088000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1159.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1159/download",
+        "sha1": "ff866aa78ce76be6c6cfb1319d1a1d88",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1158",
+      "type": "default",
+      "releaseTime": "2021-06-04T14:14:39.332000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1158.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1158/download",
+        "sha1": "296a7ab4aeadf875b46eba39fe6d6210",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1157",
+      "type": "default",
+      "releaseTime": "2021-06-03T01:35:28.210000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1157.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1157/download",
+        "sha1": "93201a1a3afd58c62fbd56becd25f26f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1156",
+      "type": "default",
+      "releaseTime": "2021-06-02T03:17:37.331000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1156.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1156/download",
+        "sha1": "51399867d82b37d314a9c649ae7b831d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1155",
+      "type": "default",
+      "releaseTime": "2021-06-02T01:35:18.637000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1155.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1155/download",
+        "sha1": "3e34684c34806e058daa4ab275f88f07",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1154",
+      "type": "default",
+      "releaseTime": "2021-06-02T01:31:34.335000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1154.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1154/download",
+        "sha1": "192ab523cfdf69aed2f9bab4afb279b7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1153",
+      "type": "default",
+      "releaseTime": "2021-06-02T00:49:24.345000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1153.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1153/download",
+        "sha1": "7e1f8b827dfec182811f680379984d14",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1152",
+      "type": "default",
+      "releaseTime": "2021-06-01T21:55:34.721000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1152.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1152/download",
+        "sha1": "0b49347ed92360482eda77f5d6458cb3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1151",
+      "type": "default",
+      "releaseTime": "2021-05-31T14:11:57.352000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1151.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1151/download",
+        "sha1": "8c6d2443e4f63be953d1fa3d088240cf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1150",
+      "type": "default",
+      "releaseTime": "2021-05-31T13:50:30.768000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1150.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1150/download",
+        "sha1": "48e80530fdee7e5bef8640b829ed58ca",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1149",
+      "type": "default",
+      "releaseTime": "2021-05-30T10:00:20.937000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1149.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1149/download",
+        "sha1": "27ae4a52b5aab6bb46f8799be380bfd4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1148",
+      "type": "default",
+      "releaseTime": "2021-05-30T09:43:58.942000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1148.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1148/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1147",
+      "type": "default",
+      "releaseTime": "2021-05-30T09:26:07.053000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1147.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1147/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1146",
+      "type": "default",
+      "releaseTime": "2021-05-30T09:05:44.253000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1146.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1146/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1145",
+      "type": "default",
+      "releaseTime": "2021-05-30T08:52:16.849000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1145.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1145/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1144",
+      "type": "default",
+      "releaseTime": "2021-05-29T13:55:28.526000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1144.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1144/download",
+        "sha1": "ad9b674006996fe208880ba0590ae183",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1143",
+      "type": "default",
+      "releaseTime": "2021-05-29T11:51:10.315000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1143.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1143/download",
+        "sha1": "64aeea21a426673d14077f1389eb288f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1142",
+      "type": "default",
+      "releaseTime": "2021-05-29T07:53:39.676000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1142.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1142/download",
+        "sha1": "762bdfc3bb8926e505e37f9e7d1602b4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1141",
+      "type": "default",
+      "releaseTime": "2021-05-28T18:25:45.062000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1141.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1141/download",
+        "sha1": "d287e19605c0a68cf6c27a483c7aad1e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1140",
+      "type": "default",
+      "releaseTime": "2021-05-28T16:19:34.102000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1140.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1140/download",
+        "sha1": "b7f1138ee5d77dbb6368824b1c39efc4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1139",
+      "type": "default",
+      "releaseTime": "2021-05-28T16:16:20.302000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1139.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1139/download",
+        "sha1": "ebff6bea01cf1edf25dcd63d13fceb79",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1138",
+      "type": "default",
+      "releaseTime": "2021-05-28T11:57:05.126000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1138.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1138/download",
+        "sha1": "a54b4808614c494514a6141502b16677",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1137",
+      "type": "default",
+      "releaseTime": "2021-05-28T10:47:36.453000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1137.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1137/download",
+        "sha1": "609bf8d5e3fad014fcd6b9de5696e4fa",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1136",
+      "type": "default",
+      "releaseTime": "2021-05-28T09:53:59.272000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1136.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1136/download",
+        "sha1": "7028aba991d7bb32c7ec653af95088ff",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1135",
+      "type": "default",
+      "releaseTime": "2021-05-28T03:55:21.300000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1135.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1135/download",
+        "sha1": "133b7584cbe7482a0cc908eebbfb7913",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1134",
+      "type": "default",
+      "releaseTime": "2021-05-28T03:43:16.717000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1134.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1134/download",
+        "sha1": "5adedaec94e3a6d411e46d9cb612dae8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1133",
+      "type": "default",
+      "releaseTime": "2021-05-27T09:09:27.384000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1133.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1133/download",
+        "sha1": "e5519d7c2b1b680f7bd7f06a94fdd43a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1132",
+      "type": "default",
+      "releaseTime": "2021-05-26T12:04:37.052000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1132.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1132/download",
+        "sha1": "28afd96db81e586b83e8aec127247b1a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1131",
+      "type": "default",
+      "releaseTime": "2021-05-25T20:26:03.674000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1131.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1131/download",
+        "sha1": "0b9edadac79dab80e5663d04d04dec95",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1130",
+      "type": "default",
+      "releaseTime": "2021-05-25T20:22:44.830000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1130.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1130/download",
+        "sha1": "de4912cd27f0d64a7e98563adca649d2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1129",
+      "type": "default",
+      "releaseTime": "2021-05-25T19:09:29.105000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1129.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1129/download",
+        "sha1": "30413609fcd4b9848faafdb2b0a6da14",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1128",
+      "type": "default",
+      "releaseTime": "2021-05-25T09:49:20.041000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1128.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1128/download",
+        "sha1": "0634f30e117e149a6331510ab6d6922a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1127",
+      "type": "default",
+      "releaseTime": "2021-05-24T04:24:36.397000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1127.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1127/download",
+        "sha1": "653833f710c7488fc0ef4e97b945eb31",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1126",
+      "type": "default",
+      "releaseTime": "2021-05-21T22:28:24.143000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1126.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1126/download",
+        "sha1": "e79acfefbf6c9faa428da8530b0a7b70",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1125",
+      "type": "default",
+      "releaseTime": "2021-05-21T09:41:26.404000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1125.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1125/download",
+        "sha1": "432099893218ba61a647fc0fed306696",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1124",
+      "type": "default",
+      "releaseTime": "2021-05-20T09:58:40.296000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1124.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1124/download",
+        "sha1": "e88bec13aa43cca790e4b250db501321",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1123",
+      "type": "default",
+      "releaseTime": "2021-05-19T23:10:49.701000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1123.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1123/download",
+        "sha1": "ed2d90f1dc09fbbb538fbb19f6f50312",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1122",
+      "type": "default",
+      "releaseTime": "2021-05-19T22:15:40.693000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1122.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1122/download",
+        "sha1": "f40d6e122e999471b0c11e937e186253",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1121",
+      "type": "default",
+      "releaseTime": "2021-05-19T21:47:03.875000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1121.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1121/download",
+        "sha1": "1427b76038defc23000a0b5818a7aedd",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1120",
+      "type": "default",
+      "releaseTime": "2021-05-19T21:43:59.515000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1120.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1120/download",
+        "sha1": "140120262b50a856a7b336ef8b4d047f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1119",
+      "type": "default",
+      "releaseTime": "2021-05-19T18:21:03.650000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1119.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1119/download",
+        "sha1": "42c1b05c3fd085c9beb7bf55d41aedae",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1118",
+      "type": "default",
+      "releaseTime": "2021-05-18T08:03:00.487000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1118.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1118/download",
+        "sha1": "8546f36c6b8322c5b1bd9c8a69e5a0e8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1117",
+      "type": "default",
+      "releaseTime": "2021-05-17T09:47:20.354000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1117.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1117/download",
+        "sha1": "fa6ba9ee96e3b4b03431c0cb6e0bb29e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1116",
+      "type": "default",
+      "releaseTime": "2021-05-17T07:08:50.973000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1116.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1116/download",
+        "sha1": "0f279320a5f985e56a11b5acc4a71345",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1115",
+      "type": "default",
+      "releaseTime": "2021-05-17T01:30:54.241000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1115.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1115/download",
+        "sha1": "d6cea9ddcd276920d6da110b201023f8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1114",
+      "type": "default",
+      "releaseTime": "2021-05-17T01:26:59.921000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1114.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1114/download",
+        "sha1": "2af9a08f904ca58495659d90d47ed85e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1113",
+      "type": "default",
+      "releaseTime": "2021-05-17T01:09:06.796000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1113.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1113/download",
+        "sha1": "90a531ac1b6f0a465a75369bc3a2d8c1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1112",
+      "type": "default",
+      "releaseTime": "2021-05-17T00:12:03.065000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1112.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1112/download",
+        "sha1": "ebe6a7a8922e6f04ef3282b2c20e6aaf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1111",
+      "type": "default",
+      "releaseTime": "2021-05-14T23:41:21.261000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1111.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1111/download",
+        "sha1": "721521b275a5a3fc00759762579daf17",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1110",
+      "type": "default",
+      "releaseTime": "2021-05-14T15:46:55.071000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1110.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1110/download",
+        "sha1": "8d656188ba24bcd716877f4d7b47948c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1109",
+      "type": "default",
+      "releaseTime": "2021-05-14T03:42:12.424000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1109.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1109/download",
+        "sha1": "8f9d74c9277a354993f927846a23a362",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1108",
+      "type": "default",
+      "releaseTime": "2021-05-14T03:39:20.651000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1108.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1108/download",
+        "sha1": "a7110888e3ee311207028ea6e9835e37",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1107",
+      "type": "default",
+      "releaseTime": "2021-05-14T03:36:28.836000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1107.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1107/download",
+        "sha1": "2e7a7c079afdca1fcec604f44ddab075",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1106",
+      "type": "default",
+      "releaseTime": "2021-05-14T03:01:04.176000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1106.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1106/download",
+        "sha1": "dda5ddcbb79bb6a9c6cefe0aeda79a9b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1105",
+      "type": "default",
+      "releaseTime": "2021-05-13T22:50:49.222000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1105.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1105/download",
+        "sha1": "9d0e04b2526238acc4fe8b2d1ba9e3d6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1104",
+      "type": "default",
+      "releaseTime": "2021-05-13T22:41:04.524000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1104.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1104/download",
+        "sha1": "0bbbd060ff5ceadd5f2a9502e3a6c5ca",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1103",
+      "type": "default",
+      "releaseTime": "2021-05-13T22:33:54.647000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1103.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1103/download",
+        "sha1": "b90dc685f78f1a74c530498de64e0ceb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1102",
+      "type": "default",
+      "releaseTime": "2021-05-13T21:39:25.414000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1102.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1102/download",
+        "sha1": "86a7d6b68a7838e61119624e2555e1ef",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1101",
+      "type": "default",
+      "releaseTime": "2021-05-13T21:33:27.743000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1101.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1101/download",
+        "sha1": "0fadc74a466144c2ddcfe06d2fd1e90c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1100",
+      "type": "default",
+      "releaseTime": "2021-05-13T20:19:08.444000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1100.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1100/download",
+        "sha1": "2f46ec69c6e592a1ecbc2c15996ba229",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1099",
+      "type": "default",
+      "releaseTime": "2021-05-13T19:58:36.646000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1099.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1099/download",
+        "sha1": "cb4e3e72dd744a33f3d243ca042d258c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1098",
+      "type": "default",
+      "releaseTime": "2021-05-12T23:37:16.038000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1098.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1098/download",
+        "sha1": "f7531955656416745d7254a3142106ed",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1097",
+      "type": "default",
+      "releaseTime": "2021-05-12T04:03:07.747000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1097.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1097/download",
+        "sha1": "18043e4b48bf6d33f5df969539902a1f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1096",
+      "type": "default",
+      "releaseTime": "2021-05-12T03:58:58.882000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1096.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1096/download",
+        "sha1": "00238ce2303683f8d2fe5bb21508ff35",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1095",
+      "type": "default",
+      "releaseTime": "2021-05-11T10:06:55.116000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1095.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1095/download",
+        "sha1": "d6a02adffe6d3a79544c04d82777e336",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1094",
+      "type": "default",
+      "releaseTime": "2021-05-11T10:05:09.312000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1094.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1094/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1093",
+      "type": "default",
+      "releaseTime": "2021-05-11T06:14:02.949000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1093.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1093/download",
+        "sha1": "936ae784a2219d2c662adec00134d449",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1092",
+      "type": "default",
+      "releaseTime": "2021-05-11T02:15:37.499000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1092.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1092/download",
+        "sha1": "4f15cab6052b038d361e30a603936152",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1091",
+      "type": "default",
+      "releaseTime": "2021-05-10T22:51:42.969000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1091.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1091/download",
+        "sha1": "c58967f5568b696b4a498cc346eef7b5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1090",
+      "type": "default",
+      "releaseTime": "2021-05-10T09:42:40.811000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1090.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1090/download",
+        "sha1": "0fde1e3c6bb6a8ef8a51dd59b2c531c6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1089",
+      "type": "default",
+      "releaseTime": "2021-05-10T09:39:56.578000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1089.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1089/download",
+        "sha1": "9125979fd179885033c02436b47399d5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1088",
+      "type": "default",
+      "releaseTime": "2021-05-09T23:15:13.034000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1088.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1088/download",
+        "sha1": "9748015eb7cfe99050881790c59e03c6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1087",
+      "type": "default",
+      "releaseTime": "2021-05-09T05:35:08.589000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1087.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1087/download",
+        "sha1": "e4d24e9b06773923284a63fb03b60db1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1086",
+      "type": "default",
+      "releaseTime": "2021-05-07T17:47:52.291000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1086.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1086/download",
+        "sha1": "1385b2c7c190e34ec8c513eadddcdc8b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1085",
+      "type": "default",
+      "releaseTime": "2021-05-07T01:24:18.419000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1085.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1085/download",
+        "sha1": "b7a0a1a227926f952968d6e843bf0f56",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1084",
+      "type": "default",
+      "releaseTime": "2021-05-05T07:14:57.935000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1084.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1084/download",
+        "sha1": "7ec080f6a92d1c7311e689c5cd893da0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1083",
+      "type": "default",
+      "releaseTime": "2021-05-05T07:12:12.649000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1083.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1083/download",
+        "sha1": "b582ad0de24f4b1baabadfb0e0993424",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1082",
+      "type": "default",
+      "releaseTime": "2021-05-03T18:32:46.763000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1082.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1082/download",
+        "sha1": "af68e5f55670b06481482a9c64346235",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1081",
+      "type": "default",
+      "releaseTime": "2021-05-03T15:42:08.493000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1081.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1081/download",
+        "sha1": "e35502011cdcc599810c3dfe0b2254ab",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1080",
+      "type": "default",
+      "releaseTime": "2021-05-03T15:22:29.710000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1080.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1080/download",
+        "sha1": "bdd03716844fe0d2de735043a30e3de2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1079",
+      "type": "default",
+      "releaseTime": "2021-05-02T22:42:42.849000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1079.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1079/download",
+        "sha1": "12c59b8a0a86353646db4e38af6bcadf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1078",
+      "type": "default",
+      "releaseTime": "2021-05-01T20:02:13.417000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1078.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1078/download",
+        "sha1": "6803e95300ad477d959352f36ef452fb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1077",
+      "type": "default",
+      "releaseTime": "2021-05-01T18:50:49.256000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1077.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1077/download",
+        "sha1": "daf82cf60ab114ad63aeeab820db4b12",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1076",
+      "type": "default",
+      "releaseTime": "2021-04-30T21:55:51.952000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1076.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1076/download",
+        "sha1": "3b565975bdee4d3b0bce807fff5ba3bb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1075",
+      "type": "default",
+      "releaseTime": "2021-04-30T21:18:22.317000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1075.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1075/download",
+        "sha1": "082dd86803b49b2580373a9ea9e10d0d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1074",
+      "type": "default",
+      "releaseTime": "2021-04-30T19:52:00.003000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1074.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1074/download",
+        "sha1": "09f22e7c17cd0b7707a17d0676e4b62f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1073",
+      "type": "default",
+      "releaseTime": "2021-04-30T19:49:22.662000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1073.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1073/download",
+        "sha1": "b3555900e33256f2bfbb99ca14b7b812",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1072",
+      "type": "default",
+      "releaseTime": "2021-04-30T18:35:45.667000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1072.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1072/download",
+        "sha1": "13aebc394b444532448caaf22e3f06f6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1071",
+      "type": "default",
+      "releaseTime": "2021-04-30T18:28:29.566000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1071.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1071/download",
+        "sha1": "b331a3ba8e91b684b7168652048bd756",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1070",
+      "type": "default",
+      "releaseTime": "2021-04-29T20:45:19.138000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1070.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1070/download",
+        "sha1": "61d16049a07b6d80916749d877871455",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1069",
+      "type": "default",
+      "releaseTime": "2021-04-29T18:44:54.516000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1069.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1069/download",
+        "sha1": "ad5bc47c47bb3ef23d4399f08749037a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1068",
+      "type": "default",
+      "releaseTime": "2021-04-29T18:18:19.384000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1068.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1068/download",
+        "sha1": "88425e41cf560ea4dd4dfa1823e16a1a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1067",
+      "type": "default",
+      "releaseTime": "2021-04-29T17:59:35.789000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1067.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1067/download",
+        "sha1": "89c52009c28532cee8f1fa21eeddffd5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1066",
+      "type": "default",
+      "releaseTime": "2021-04-29T17:56:09.888000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1066.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1066/download",
+        "sha1": "f56560f9c6c08939abbade835ee5a0e0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1065",
+      "type": "default",
+      "releaseTime": "2021-04-27T22:32:54.287000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1065.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1065/download",
+        "sha1": "e6a7e783539037ce15d57d4ca521c36d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1064",
+      "type": "default",
+      "releaseTime": "2021-04-27T11:23:26.456000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1064.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1064/download",
+        "sha1": "9dd68fe800c3903e35729bf3f64b0950",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1063",
+      "type": "default",
+      "releaseTime": "2021-04-27T11:21:33.440000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1063.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1063/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1062",
+      "type": "default",
+      "releaseTime": "2021-04-27T10:58:18.921000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1062.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1062/download",
+        "sha1": "63d806380ce861ce5288ccb369ee7674",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1061",
+      "type": "default",
+      "releaseTime": "2021-04-25T21:24:38.361000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1061.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1061/download",
+        "sha1": "9b7e8cd7becd51d94ff68f7af34ae48f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1060",
+      "type": "default",
+      "releaseTime": "2021-04-16T00:55:22.134000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1060.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1060/download",
+        "sha1": "e19b2e8c1fcdf3946318000a9d52c525",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1059",
+      "type": "default",
+      "releaseTime": "2021-04-15T15:44:57.464000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1059.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1059/download",
+        "sha1": "fe03143e5f26c10d55233786c839b983",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1058",
+      "type": "default",
+      "releaseTime": "2021-04-15T14:22:50.997000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1058.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1058/download",
+        "sha1": "1c01aa9a4f9b0d0fae232feb8f055401",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1057",
+      "type": "default",
+      "releaseTime": "2021-04-15T07:50:40.177000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1057.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1057/download",
+        "sha1": "fe9964949f69bfe3874c116da82cab1f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1056",
+      "type": "default",
+      "releaseTime": "2021-04-13T16:23:53.958000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1056.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1056/download",
+        "sha1": "3be91259047e5cd84e891e0c817dbaa9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1055",
+      "type": "default",
+      "releaseTime": "2021-04-13T16:11:56.288000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1055.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1055/download",
+        "sha1": "90c0ff0e1a855d9a61217ad50d25d042",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1054",
+      "type": "default",
+      "releaseTime": "2021-04-13T16:06:22.441000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1054.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1054/download",
+        "sha1": "000cf013273c11ee60284fa9e1f2fdaf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1053",
+      "type": "default",
+      "releaseTime": "2021-04-08T06:29:45.487000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1053.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1053/download",
+        "sha1": "f9e8502865c1030055dea3453cb49d24",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1052",
+      "type": "default",
+      "releaseTime": "2021-04-08T05:28:12.926000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1052.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1052/download",
+        "sha1": "f90f2582958337a3def4b89e3bd33784",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1051",
+      "type": "default",
+      "releaseTime": "2021-04-01T01:34:35.932000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1051.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1051/download",
+        "sha1": "398a524cee4e590fb2e92ecf5cdee089",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1050",
+      "type": "default",
+      "releaseTime": "2021-03-31T20:49:58.979000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1050.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1050/download",
+        "sha1": "635249b6fa62d8c64058965f1a9292c5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1049",
+      "type": "default",
+      "releaseTime": "2021-03-28T23:54:43.343000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1049.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1049/download",
+        "sha1": "04bae94a61fdf67bee2204a219e16a08",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1048",
+      "type": "default",
+      "releaseTime": "2021-03-26T20:12:08.464000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1048.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1048/download",
+        "sha1": "e15f1d1b5f2bd7f2b145aed09a2b0022",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1047",
+      "type": "default",
+      "releaseTime": "2021-03-25T17:53:56.020000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1047.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1047/download",
+        "sha1": "ca6a225620706942184ed5ede7baac5f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1046",
+      "type": "default",
+      "releaseTime": "2021-03-25T17:18:15.885000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1046.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1046/download",
+        "sha1": "766f0dd1d171703d403ccabbc686dc31",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1045",
+      "type": "default",
+      "releaseTime": "2021-03-25T16:48:17.056000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1045.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1045/download",
+        "sha1": "7d5879d178917e0509e8c169db2d0bad",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1044",
+      "type": "default",
+      "releaseTime": "2021-03-25T16:16:32.043000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1044.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1044/download",
+        "sha1": "cdaec9eb2d11dc18414e48f8755ffc24",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1043",
+      "type": "default",
+      "releaseTime": "2021-03-25T15:48:33.308000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1043.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1043/download",
+        "sha1": "a44555083a0e62b35a185ea554da71a0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1042",
+      "type": "default",
+      "releaseTime": "2021-03-25T00:29:03.844000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1042.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1042/download",
+        "sha1": "49c438cd12f9d46343fd86ff230bc7ae",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1041",
+      "type": "default",
+      "releaseTime": "2021-03-25T00:26:20.676000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1041.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1041/download",
+        "sha1": "b6763b83b2f2a9fd6f6d277bb6377f49",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1040",
+      "type": "default",
+      "releaseTime": "2021-03-24T21:35:16.804000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1040.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1040/download",
+        "sha1": "a6da12ad98673a2b82f2086fa4d43bee",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1039",
+      "type": "default",
+      "releaseTime": "2021-03-24T21:31:59.412000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1039.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1039/download",
+        "sha1": "0f147c8c3fca3e056915bbcb765ffd1e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1038",
+      "type": "default",
+      "releaseTime": "2021-03-24T08:31:05.484000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1038.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1038/download",
+        "sha1": "b299fed06fb7f7209745a642e799daad",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1037",
+      "type": "default",
+      "releaseTime": "2021-03-24T08:23:22.558000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1037.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1037/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1036",
+      "type": "default",
+      "releaseTime": "2021-03-24T03:17:59.263000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1036.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1036/download",
+        "sha1": "ea4c1798b3eb671cf67fc3edadf5b91f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1035",
+      "type": "default",
+      "releaseTime": "2021-03-24T02:32:39.580000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1035.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1035/download",
+        "sha1": "18852310b7962cab33b6193b64ede129",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1034",
+      "type": "default",
+      "releaseTime": "2021-03-24T02:15:33.575000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1034.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1034/download",
+        "sha1": "a52ab9cbe666af6ed5b15fd6c9f4d6a1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1033",
+      "type": "default",
+      "releaseTime": "2021-03-24T00:24:18.595000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1033.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1033/download",
+        "sha1": "a4b6fcb221f8472e1c640c2f8b39f9b7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1032",
+      "type": "default",
+      "releaseTime": "2021-03-23T20:04:02.128000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1032.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1032/download",
+        "sha1": "715f5a905433f7df5564c3e85b942506",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1031",
+      "type": "default",
+      "releaseTime": "2021-03-23T19:28:36.520000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1031.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1031/download",
+        "sha1": "dfa94b983a3923adfd632e3bbd8a7d89",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1030",
+      "type": "default",
+      "releaseTime": "2021-03-23T19:19:04.923000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1030.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1030/download",
+        "sha1": "8c180af1a259e6a6d00be6d2791f6e92",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1029",
+      "type": "default",
+      "releaseTime": "2021-03-23T19:16:16.268000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1029.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1029/download",
+        "sha1": "7ab948b34661c6ebb7aa8271b95127b4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1028",
+      "type": "default",
+      "releaseTime": "2021-03-23T18:41:37.796000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1028.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1028/download",
+        "sha1": "9d020164b2f57af7c1c3cd8e31ba9d9a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1027",
+      "type": "default",
+      "releaseTime": "2021-03-23T18:15:35.652000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1027.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1027/download",
+        "sha1": "f538693bb96f1a85c64d48b603b82a67",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1026",
+      "type": "default",
+      "releaseTime": "2021-03-23T16:57:52.272000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1026.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1026/download",
+        "sha1": "302f5265fa1663e533dce9c6d4771c2e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1025",
+      "type": "default",
+      "releaseTime": "2021-03-22T17:19:54.504000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1025.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1025/download",
+        "sha1": "c786a50d57292aba3f86bb3129b8198d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1024",
+      "type": "default",
+      "releaseTime": "2021-03-22T04:20:54.072000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1024.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1024/download",
+        "sha1": "693baa27b9d82da2f9514649c16fba15",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1023",
+      "type": "default",
+      "releaseTime": "2021-03-22T04:07:14.860000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1023.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1023/download",
+        "sha1": "914b70bae188d6a64fefd4e8d4052d75",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1022",
+      "type": "default",
+      "releaseTime": "2021-03-17T20:08:47.199000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1022.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1022/download",
+        "sha1": "0d2b428ffe37700eacecb5e4de5da716",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1021",
+      "type": "default",
+      "releaseTime": "2021-03-17T19:57:44.180000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1021.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1021/download",
+        "sha1": "14299260279c33f6d77efb921417f2a4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1020",
+      "type": "default",
+      "releaseTime": "2021-03-17T19:55:00.706000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1020.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1020/download",
+        "sha1": "7fb5dc4451259fad668e141b040b9b0d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1019",
+      "type": "default",
+      "releaseTime": "2021-03-17T19:22:58.226000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1019.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1019/download",
+        "sha1": "50912745a96f53a9b6556997cef24174",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1018",
+      "type": "default",
+      "releaseTime": "2021-03-17T18:54:39.241000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1018.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1018/download",
+        "sha1": "60d5956a2a4b817dd832364e2f2fd411",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1017",
+      "type": "default",
+      "releaseTime": "2021-03-17T16:56:59.722000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1017.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1017/download",
+        "sha1": "cb571b276dda42bf7c8c24026c0e7482",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1016",
+      "type": "default",
+      "releaseTime": "2021-03-15T20:33:19.725000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1016.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1016/download",
+        "sha1": "f43ba0f860d6d83a56ec1822757fd242",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1015",
+      "type": "default",
+      "releaseTime": "2021-03-15T09:01:08+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1015.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1015/download",
+        "sha1": "a83752ef03a16041345fb4d9b8eeb95b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1014",
+      "type": "default",
+      "releaseTime": "2021-03-14T23:36:59.199000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1014.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1014/download",
+        "sha1": "6e022a1fa884b195c572d171232a81f2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1013",
+      "type": "default",
+      "releaseTime": "2021-03-14T23:26:38.451000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1013.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1013/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1012",
+      "type": "default",
+      "releaseTime": "2021-03-13T22:54:05.263000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1012.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1012/download",
+        "sha1": "7658fc5a2cf19a9e4827b71bf4512cab",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1011",
+      "type": "default",
+      "releaseTime": "2021-03-12T03:37:31.612000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1011.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1011/download",
+        "sha1": "f18dd8a837b5326488f5052c3f874fa7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1010",
+      "type": "default",
+      "releaseTime": "2021-03-12T03:20:21.847000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1010.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1010/download",
+        "sha1": "42a458c86e684237b6bfd16ac546a5d7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1009",
+      "type": "default",
+      "releaseTime": "2021-03-11T21:20:28.769000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1009.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1009/download",
+        "sha1": "377e12128dac1c02d8ce324a90aa5f78",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1008",
+      "type": "default",
+      "releaseTime": "2021-03-11T21:08:38.578000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1008.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1008/download",
+        "sha1": "",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1007",
+      "type": "default",
+      "releaseTime": "2021-03-09T23:55:22.938000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1007.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1007/download",
+        "sha1": "3b44c806271a97d4b2fa60298598a2cc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1006",
+      "type": "default",
+      "releaseTime": "2021-03-09T23:52:45.822000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1006.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1006/download",
+        "sha1": "17e2d01c8e84ae98ae0954108402df01",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1005",
+      "type": "default",
+      "releaseTime": "2021-03-09T21:25:12.446000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1005.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1005/download",
+        "sha1": "b8f01dd083a39067c87b484fc0e8bd9a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1004",
+      "type": "default",
+      "releaseTime": "2021-03-09T21:11:48.262000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1004.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1004/download",
+        "sha1": "5082ca4143aaaf551295d7f5c75069db",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1003",
+      "type": "default",
+      "releaseTime": "2021-03-09T21:08:41.603000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1003.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1003/download",
+        "sha1": "1ec8ead2ed2563f3c3fe41fb8ebd56d7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1002",
+      "type": "default",
+      "releaseTime": "2021-03-09T21:00:37.267000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1002.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1002/download",
+        "sha1": "7aa285f3394544683124c9d075a7e8fb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1001",
+      "type": "default",
+      "releaseTime": "2021-03-06T00:01:09.773000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1001.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1001/download",
+        "sha1": "b1227b12a17bc1a62bb858e7d9897cd2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1000",
+      "type": "default",
+      "releaseTime": "2021-03-05T23:06:09.467000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.16.5-1000.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.16.5/1000/download",
+        "sha1": "1f850ee98c8f4c37a3c4891861c9fcd4",
+        "sha256": null
+      }
+    }
+  ]
+}

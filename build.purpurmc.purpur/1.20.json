@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "uid": "build.purpurmc.purpur",
+  "mcVersion": "1.20",
+  "builds": [
+    {
+      "build": "1990",
+      "type": "default",
+      "releaseTime": "2023-06-12T02:05:35.799000+00:00",
+      "recommended": true,
+      "download": {
+        "name": "purpur-1.20-1990.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.20/1990/download",
+        "sha1": "6681fb59d88f5ff684969034e3522d2c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1989",
+      "type": "default",
+      "releaseTime": "2023-06-12T02:01:45.786000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.20-1989.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.20/1989/download",
+        "sha1": null,
+        "sha256": null
+      }
+    },
+    {
+      "build": "1988",
+      "type": "default",
+      "releaseTime": "2023-06-11T10:41:38.755000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.20-1988.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.20/1988/download",
+        "sha1": "7f366dc9d879e9e11f3a0f254677cbe9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1987",
+      "type": "default",
+      "releaseTime": "2023-06-10T03:10:00.167000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.20-1987.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.20/1987/download",
+        "sha1": "3e7a2c0a942d8cce57eb395f73acedba",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1986",
+      "type": "default",
+      "releaseTime": "2023-06-09T14:21:58.667000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-1.20-1986.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/1.20/1986/download",
+        "sha1": "4af178cd1e771bf476f4c7f9f6a6295a",
+        "sha256": null
+      }
+    }
+  ]
+}

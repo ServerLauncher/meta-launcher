@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-05-03T03:41:11.933228+00:00",
+  "generatedAt": "2026-05-03T07:36:09.503831+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -13,6 +13,12 @@
       "name": "Paper",
       "sha256": "438ec1d617506c662823eb413f12b435b6ff35af37d627962d2c869a66bb4303",
       "url": "io.papermc.paper/package.json"
+    },
+    {
+      "uid": "build.purpurmc.purpur",
+      "name": "Purpur",
+      "sha256": "cb97115450b0aec990234ae2119ad87dfb4301956c699c381474924f656a624f",
+      "url": "build.purpurmc.purpur/package.json"
     }
   ]
 }
