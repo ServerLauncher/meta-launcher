@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-05-08T03:31:29.015374+00:00",
+  "generatedAt": "2026-05-08T05:40:46.079380+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -19,6 +19,12 @@
       "name": "Purpur",
       "sha256": "551fc7454c624dbf9d5d6fcba9a3b56b897ffad16ada743e96d40d34e481e43d",
       "url": "build.purpurmc.purpur/package.json"
+    },
+    {
+      "uid": "net.fabricmc.fabric",
+      "name": "Fabric",
+      "sha256": "1586151753d460c2937d1bae062c90476a3ffe4dc1b3ecdd61b15b77e2fe800e",
+      "url": "net.fabricmc.fabric/package.json"
     }
   ]
 }

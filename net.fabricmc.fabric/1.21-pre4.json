@@ -1,0 +1,3007 @@
+{
+  "formatVersion": 1,
+  "uid": "net.fabricmc.fabric",
+  "mcVersion": "1.21-pre4",
+  "builds": [
+    {
+      "build": "0.19.2",
+      "type": "stable",
+      "releaseTime": "2026-04-15T18:24:37",
+      "recommended": true,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.19.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.19.2/1.1.1/server/jar",
+        "sha1": "cc647a5b22dbc49b9a3267cebcee25fc4882b108",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.19.1",
+      "type": "snapshot",
+      "releaseTime": "2026-04-09T13:44:55",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.19.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.19.1/1.1.1/server/jar",
+        "sha1": "3ae125a72904202dad22ff260479a20fa71df1f8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.19.0",
+      "type": "snapshot",
+      "releaseTime": "2026-04-07T18:07:15",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.19.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.19.0/1.1.1/server/jar",
+        "sha1": "2f3928506f8881d9e3278c1787ee205e90b20949",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.18.6",
+      "type": "snapshot",
+      "releaseTime": "2026-04-01T15:40:48",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.18.6.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.18.6/1.1.1/server/jar",
+        "sha1": "b823a25197a42c7f32bb904f187cd05730e8873c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.18.5",
+      "type": "snapshot",
+      "releaseTime": "2026-03-25T12:18:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.18.5.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.18.5/1.1.1/server/jar",
+        "sha1": "ead70ea5aec413c7cf5bbfb0d42b883d08b3c2b9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.18.4",
+      "type": "snapshot",
+      "releaseTime": "2025-12-24T19:25:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.18.4.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.18.4/1.1.1/server/jar",
+        "sha1": "dc4682125d5db647d6ce80a98b98945835adcd4b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.18.3",
+      "type": "snapshot",
+      "releaseTime": "2025-12-16T17:05:29",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.18.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.18.3/1.1.1/server/jar",
+        "sha1": "234f25229c51fdd8c0f3a72af0dbcf1ecf2f45d1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.18.2",
+      "type": "snapshot",
+      "releaseTime": "2025-12-09T18:10:38",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.18.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.18.2/1.1.1/server/jar",
+        "sha1": "1cd44667bd93b74564056eb4867dfd12e38cb262",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.18.1",
+      "type": "snapshot",
+      "releaseTime": "2025-11-20T15:00:53",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.18.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.18.1/1.1.1/server/jar",
+        "sha1": "2f1cf1fa62e868562f522698cce909fa1c474d36",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.18.0",
+      "type": "snapshot",
+      "releaseTime": "2025-11-08T22:18:50",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.18.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.18.0/1.1.1/server/jar",
+        "sha1": "c05992f2e2d07b07a5bd23a03379bed1a778383a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.17.3",
+      "type": "snapshot",
+      "releaseTime": "2025-10-09T16:09:34",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.17.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.17.3/1.1.1/server/jar",
+        "sha1": "deafaba5de4d9bbd76105783ff4e21ce0773874f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.17.2",
+      "type": "snapshot",
+      "releaseTime": "2025-08-08T13:20:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.17.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.17.2/1.1.1/server/jar",
+        "sha1": "0647622ac4163aad5ed5f79ccb532e31225562aa",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.17.1",
+      "type": "snapshot",
+      "releaseTime": "2025-08-06T09:28:46",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.17.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.17.1/1.1.1/server/jar",
+        "sha1": "3d8a423f718de941b8df2bc07cbdf816b05a3b10",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.17.0",
+      "type": "snapshot",
+      "releaseTime": "2025-07-29T15:24:33",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.17.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.17.0/1.1.1/server/jar",
+        "sha1": "43f0a8e38485eeb3af7bfd4862e1a7a5a6f8278a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.14",
+      "type": "snapshot",
+      "releaseTime": "2025-04-16T17:38:39",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.14.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.14/1.1.1/server/jar",
+        "sha1": "05778d47f536bf2c63ed2abc1a56f5a1c129e34a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.13",
+      "type": "snapshot",
+      "releaseTime": "2025-04-08T14:43:34",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.13.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.13/1.1.1/server/jar",
+        "sha1": "98c9beaf1e9b7290882be44120b8a3967e7b1f28",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.12",
+      "type": "snapshot",
+      "releaseTime": "2025-04-02T12:53:18",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.12.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.12/1.1.1/server/jar",
+        "sha1": "69514e24838c0cdd0a69ed6e81ab6d05b7690c57",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.11",
+      "type": "snapshot",
+      "releaseTime": "2025-04-01T17:23:36",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.11.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.11/1.1.1/server/jar",
+        "sha1": "eb5ed64a38b1d76e0febc1902b27f2c4bd0abe40",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.10",
+      "type": "snapshot",
+      "releaseTime": "2025-01-08T16:07:17",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.10.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.10/1.1.1/server/jar",
+        "sha1": "dbd932c2a3641d2c41cf9abfe47e140a5753fa86",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.9",
+      "type": "snapshot",
+      "releaseTime": "2024-10-30T14:54:03",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.9.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.9/1.1.1/server/jar",
+        "sha1": "7eaa23079ac1569963e488054db124c7eb984f05",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.8",
+      "type": "snapshot",
+      "releaseTime": "2024-10-26T18:34:09",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.8.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.8/1.1.1/server/jar",
+        "sha1": "7ce36fca50f8ce8f0128b2ba9dded436e68275c5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.7",
+      "type": "snapshot",
+      "releaseTime": "2024-10-10T15:53:58",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.7.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.7/1.1.1/server/jar",
+        "sha1": "18ce52a3228434ba2aa8c1936728ef4eacad64b8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.6",
+      "type": "snapshot",
+      "releaseTime": "2024-10-09T18:41:05",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.6.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.6/1.1.1/server/jar",
+        "sha1": "925b0d3c3ca1690fe8c288b0b4cec882c633c8b4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.5",
+      "type": "snapshot",
+      "releaseTime": "2024-09-07T14:18:33",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.5.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.5/1.1.1/server/jar",
+        "sha1": "fc45b2f400c08c023cdbe75c9b0aebe7a2b61579",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.4",
+      "type": "snapshot",
+      "releaseTime": "2024-09-03T08:37:06",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.4.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.4/1.1.1/server/jar",
+        "sha1": "f00490b00ba8a901827259b7f126c5c31c0a9f09",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.3",
+      "type": "snapshot",
+      "releaseTime": "2024-08-26T11:56:41",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.3/1.1.1/server/jar",
+        "sha1": "d8e7a2cb6c85fc6a72251030973bd3121e40d2ed",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.2",
+      "type": "snapshot",
+      "releaseTime": "2024-08-15T18:37:57",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.2/1.1.1/server/jar",
+        "sha1": "e68b8c51e53f8d7b5a1076dd237450395a2e73a3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.1",
+      "type": "snapshot",
+      "releaseTime": "2024-08-15T09:23:33",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.1/1.1.1/server/jar",
+        "sha1": "a9fd1a020f203eed41b6916a9761595a4d0f51c0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.16.0",
+      "type": "snapshot",
+      "releaseTime": "2024-07-11T16:48:57",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.16.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.16.0/1.1.1/server/jar",
+        "sha1": "f159d2d7c743eb5dda5624fcd77883c4711be3b1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.11",
+      "type": "snapshot",
+      "releaseTime": "2024-05-03T13:26:12",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.11.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.11/1.1.1/server/jar",
+        "sha1": "9c2be53d84ec5c4fb58bb5b8d9c8a629047c9ee9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.10",
+      "type": "snapshot",
+      "releaseTime": "2024-04-12T09:48:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.10.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.10/1.1.1/server/jar",
+        "sha1": "3538922fb4094a9d600d528e7acccac662b8a3c2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.9",
+      "type": "snapshot",
+      "releaseTime": "2024-04-01T11:07:35",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.9.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.9/1.1.1/server/jar",
+        "sha1": "07d128b7a0409b565b32dd1cfd3efbd27cc6fcb0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.8",
+      "type": "snapshot",
+      "releaseTime": "2024-04-01T10:39:02",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.8.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.8/1.1.1/server/jar",
+        "sha1": "83921acc67c482bb192ace7b1904e70066f62bd9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.7",
+      "type": "snapshot",
+      "releaseTime": "2024-02-13T14:05:57",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.7.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.7/1.1.1/server/jar",
+        "sha1": "809a1a6b0f4bcca07e3dffc01f8a62265db3ff5d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.6",
+      "type": "snapshot",
+      "releaseTime": "2024-01-17T17:02:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.6.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.6/1.1.1/server/jar",
+        "sha1": "2b6b8b0f6d842b6891f7c9b8b66f2aed12bc2619",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.5",
+      "type": "snapshot",
+      "releaseTime": "2024-01-15T20:13:20",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.5.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.5/1.1.1/server/jar",
+        "sha1": "8e348083edfe4336966e06c0af3e08e0c076905c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.4",
+      "type": "snapshot",
+      "releaseTime": "2024-01-15T09:41:18",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.4.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.4/1.1.1/server/jar",
+        "sha1": "5630c714472f7925b490fd9c3b6f4a561ba4c0b5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.3",
+      "type": "snapshot",
+      "releaseTime": "2023-12-18T15:22:18",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.3/1.1.1/server/jar",
+        "sha1": "2ca88d3e40732dabca6dd01178ac04c3d675fecc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.2",
+      "type": "snapshot",
+      "releaseTime": "2023-12-14T10:29:22",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.2/1.1.1/server/jar",
+        "sha1": "c162baeb16a88d36812884f31d7c24f58a223a77",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.1",
+      "type": "snapshot",
+      "releaseTime": "2023-12-08T09:32:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.1/1.1.1/server/jar",
+        "sha1": "b5e44adc848d1c3709194b01f97629de145c8a65",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.15.0",
+      "type": "snapshot",
+      "releaseTime": "2023-11-28T18:04:03",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.15.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.15.0/1.1.1/server/jar",
+        "sha1": "8f0618194c0d7eb8514894fca5248a7468f8922e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.25",
+      "type": "snapshot",
+      "releaseTime": "2023-11-27T14:06:26",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.25.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.25/1.1.1/server/jar",
+        "sha1": "1341646aa401aa9c1350f5cf50a13cbda071f2da",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.24",
+      "type": "snapshot",
+      "releaseTime": "2023-10-24T12:04:14",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.24.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.24/1.1.1/server/jar",
+        "sha1": "e0531c8dcd0687a1c0ed9804d8031e2f83be3083",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.23",
+      "type": "snapshot",
+      "releaseTime": "2023-10-04T20:59:32",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.23.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.23/1.1.1/server/jar",
+        "sha1": "2ca7b6e98c484eb8b385f789ee3641b3808cd2dc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.22",
+      "type": "snapshot",
+      "releaseTime": "2023-08-02T17:48:51",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.22.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.22/1.1.1/server/jar",
+        "sha1": "9dd26439963a78e6ff7be3614c2151a50f9254a3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.21",
+      "type": "snapshot",
+      "releaseTime": "2023-05-26T15:45:22",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.21.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.21/1.1.1/server/jar",
+        "sha1": "960c8a415d93c128bfb630abbc3c7c9e1ba48637",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.20",
+      "type": "snapshot",
+      "releaseTime": "2023-05-22T18:15:42",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.20.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.20/1.1.1/server/jar",
+        "sha1": "2ea230634f6a250f4c06af8a17581303b6454d62",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.19",
+      "type": "snapshot",
+      "releaseTime": "2023-04-01T10:50:23",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.19.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.19/1.1.1/server/jar",
+        "sha1": "4e9206c115a5493469a8d9ff97f3b3fc6c753c65",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.18",
+      "type": "snapshot",
+      "releaseTime": "2023-03-22T16:41:14",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.18.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.18/1.1.1/server/jar",
+        "sha1": "2c1685f6882d268a316f4f77c92a7b83ba3d0adf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.17",
+      "type": "snapshot",
+      "releaseTime": "2023-02-25T20:40:27",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.17.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.17/1.1.1/server/jar",
+        "sha1": "7b875f1276f3005ab1956c54a0bffded6558c16b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.16",
+      "type": "snapshot",
+      "releaseTime": "2023-02-24T23:32:44",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.16.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.16/1.1.1/server/jar",
+        "sha1": "370b8943d9ff0d4072d07b31593da3550a890032",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.15",
+      "type": "snapshot",
+      "releaseTime": "2023-02-22T09:54:25",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.15.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.15/1.1.1/server/jar",
+        "sha1": "2d7973ba099abe95acd474344ab335d0b53126b2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.14",
+      "type": "snapshot",
+      "releaseTime": "2023-02-04T13:56:29",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.14.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.14/1.1.1/server/jar",
+        "sha1": "14bdace0529a591b9fa2705e03d2321a32af219b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.13",
+      "type": "snapshot",
+      "releaseTime": "2023-01-18T15:14:07",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.13.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.13/1.1.1/server/jar",
+        "sha1": "2c57930fc72f178345a891e60a2c41f0a49f783b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.12",
+      "type": "snapshot",
+      "releaseTime": "2022-12-20T15:02:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.12.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.12/1.1.1/server/jar",
+        "sha1": "f437455555659b4199fdbfeac2cc6c07a2161088",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.11",
+      "type": "snapshot",
+      "releaseTime": "2022-11-29T19:59:19",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.11.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.11/1.1.1/server/jar",
+        "sha1": "1d352d81c580a7dd2be4e47e9301666cca2ed366",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.10",
+      "type": "snapshot",
+      "releaseTime": "2022-10-19T21:24:55",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.10.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.10/1.1.1/server/jar",
+        "sha1": "638450f4cfa4b1b25d6b05958284e5f86b638f38",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.9",
+      "type": "snapshot",
+      "releaseTime": "2022-08-05T17:01:17",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.9.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.9/1.1.1/server/jar",
+        "sha1": "8582c6e659a90e4306d6012234c02a825141c9ef",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.8",
+      "type": "snapshot",
+      "releaseTime": "2022-06-15T19:03:26",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.8.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.8/1.1.1/server/jar",
+        "sha1": "04679d97613a913bba916ebeb24f1e523340c38b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.7",
+      "type": "snapshot",
+      "releaseTime": "2022-06-08T15:48:59",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.7.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.7/1.1.1/server/jar",
+        "sha1": "57281a24e3b02f9d2aee3a659a315ccfbc20c1ea",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.6",
+      "type": "snapshot",
+      "releaseTime": "2022-05-19T23:37:32",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.6.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.6/1.1.1/server/jar",
+        "sha1": "f89d2429364fe160e139bcfaab640ffbbcf03242",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.5",
+      "type": "snapshot",
+      "releaseTime": "2022-05-08T16:23:10",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.5.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.5/1.1.1/server/jar",
+        "sha1": "f8dffe95b31ba8650ffaab940cf694ba89eab30e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.4",
+      "type": "snapshot",
+      "releaseTime": "2022-05-01T13:20:51",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.4.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.4/1.1.1/server/jar",
+        "sha1": "9fdefdb377f300d1f4dfb6b264a8b2e0b5725ecf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.3",
+      "type": "snapshot",
+      "releaseTime": "2022-04-25T22:35:54",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.3/1.1.1/server/jar",
+        "sha1": "885d9d01f0b838fb0ce62970071f2e24293fc2ea",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.2",
+      "type": "snapshot",
+      "releaseTime": "2022-04-24T03:56:20",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.2/1.1.1/server/jar",
+        "sha1": "0d388136e36b3111d865eb4c10d46b30843ced84",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.1",
+      "type": "snapshot",
+      "releaseTime": "2022-04-22T18:59:08",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.1/1.1.1/server/jar",
+        "sha1": "4382fedf9d8565486978363ba0fd0ba4789a36e2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.14.0",
+      "type": "snapshot",
+      "releaseTime": "2022-04-20T19:37:58",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.14.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.14.0/1.1.1/server/jar",
+        "sha1": "d732ddf0a631a3081f6fd121f24413e4f177c54e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.13.3",
+      "type": "snapshot",
+      "releaseTime": "2022-02-21T12:28:09",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.13.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.13.3/1.1.1/server/jar",
+        "sha1": "a91fc6ea7a5e8c3140dfaf34aeadb43ce2f38fe2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.13.2",
+      "type": "snapshot",
+      "releaseTime": "2022-02-11T16:56:49",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.13.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.13.2/1.1.1/server/jar",
+        "sha1": "109bda4b44a9cfb77a889cf4d3b31e32376ed1e4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.13.1",
+      "type": "snapshot",
+      "releaseTime": "2022-02-05T19:45:12",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.13.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.13.1/1.1.1/server/jar",
+        "sha1": "3925477b4868ac7c81e0e30a5d989a9b639eb191",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.13.0",
+      "type": "snapshot",
+      "releaseTime": "2022-02-01T15:03:42",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.13.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.13.0/1.1.1/server/jar",
+        "sha1": "0a063e53ee39038b17868046ea7abf559ebe5cf3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.12",
+      "type": "snapshot",
+      "releaseTime": "2021-12-14T20:51:12",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.12.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.12/1.1.1/server/jar",
+        "sha1": "d545319c0ec73ce711dff5475f4f9bd03dbe95f2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.11",
+      "type": "snapshot",
+      "releaseTime": "2021-12-10T18:55:50",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.11.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.11/1.1.1/server/jar",
+        "sha1": "6c55bfca792e7b24f593edf7dd84bdc8eee5cfe3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.10",
+      "type": "snapshot",
+      "releaseTime": "2021-12-10T17:06:53",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.10.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.10/1.1.1/server/jar",
+        "sha1": "8bc0adbb65f9a1304bf54041e6d790a1d749c044",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.9",
+      "type": "snapshot",
+      "releaseTime": "2021-12-09T20:00:33",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.9.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.9/1.1.1/server/jar",
+        "sha1": "37ec8656f4ec84d70d1b075615bac586c7a90ac3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.8",
+      "type": "snapshot",
+      "releaseTime": "2021-11-30T22:50:25",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.8.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.8/1.1.1/server/jar",
+        "sha1": "1814ce7242a774d7a1e0326cb6f00bd0c3edfe5a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.7",
+      "type": "snapshot",
+      "releaseTime": "2021-11-30T21:53:17",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.7.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.7/1.1.1/server/jar",
+        "sha1": "7adf4a6c207023ec7378a259822eb917dec11eee",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.6",
+      "type": "snapshot",
+      "releaseTime": "2021-11-30T12:06:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.6.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.6/1.1.1/server/jar",
+        "sha1": "c003205d1d76d560e525a5d767929f38b3a5c19f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.5",
+      "type": "snapshot",
+      "releaseTime": "2021-11-05T15:21:29",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.5.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.5/1.1.1/server/jar",
+        "sha1": "af77fbd9cd0fcf8d7e5f79839a060a7c933fe1f7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.4",
+      "type": "snapshot",
+      "releaseTime": "2021-10-30T21:01:02",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.4.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.4/1.1.1/server/jar",
+        "sha1": "38a1d112e83e96fd4827303b80cf7cafcbd8db81",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.3",
+      "type": "snapshot",
+      "releaseTime": "2021-10-24T18:09:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.3/1.1.1/server/jar",
+        "sha1": "a8709240a4d0fb03053600624b36c100a3c72267",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.2",
+      "type": "snapshot",
+      "releaseTime": "2021-10-16T12:48:48",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.2/1.1.1/server/jar",
+        "sha1": "ba5a3df26f021063530750bcb5912f885988125f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.1",
+      "type": "snapshot",
+      "releaseTime": "2021-10-07T11:50:53",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.1/1.1.1/server/jar",
+        "sha1": "23de06d7ee44b663837d0ecfd0604cdcffbbd563",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.12.0",
+      "type": "snapshot",
+      "releaseTime": "2021-10-03T18:47:05",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.12.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.12.0/1.1.1/server/jar",
+        "sha1": "68251aec8f124d0c7db38f32795b62ec6e004635",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.11.7",
+      "type": "snapshot",
+      "releaseTime": "2021-09-16T21:30:41",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.11.7.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.11.7/1.1.1/server/jar",
+        "sha1": "d4ad9c45d1be43344a9ca7b089a14518394b2529",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.11.6",
+      "type": "snapshot",
+      "releaseTime": "2021-06-14T03:33:14",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.11.6.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.11.6/1.1.1/server/jar",
+        "sha1": "3953c4be20f3d257dc99fda68eab01b888d0e765",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.11.5",
+      "type": "snapshot",
+      "releaseTime": "2021-06-13T14:55:34",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.11.5.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.11.5/1.1.1/server/jar",
+        "sha1": "8fcb02251e1e24e9eeef64d0f279ee68c0c40497",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.11.3",
+      "type": "snapshot",
+      "releaseTime": "2021-03-12T19:13:59",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.11.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.11.3/1.1.1/server/jar",
+        "sha1": "baa451f5900df1a54c5e82e1f5c8c519536d4fe2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.11.2",
+      "type": "snapshot",
+      "releaseTime": "2021-02-23T19:12:59",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.11.2.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.11.2/1.1.1/server/jar",
+        "sha1": "0c4e760cb6026cb9958164859e5aec9e83300599",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.11.1",
+      "type": "snapshot",
+      "releaseTime": "2021-01-15T18:37:35",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.11.1.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.11.1/1.1.1/server/jar",
+        "sha1": "d944def3134aa24883896b3a7741a0b4741a7b6b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.11.0",
+      "type": "snapshot",
+      "releaseTime": "2021-01-10T18:39:29",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.11.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.11.0/1.1.1/server/jar",
+        "sha1": "52996906d4b5005a436d6c60ab6bf8f879fa5018",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.8",
+      "type": "snapshot",
+      "releaseTime": "2020-11-15T13:58:02",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.8.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.8/1.1.1/server/jar",
+        "sha1": "b93158ceedb8dbb61969299612a14002f31ec0a1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.7",
+      "type": "snapshot",
+      "releaseTime": "2020-11-14T16:38:24",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.7.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.7/1.1.1/server/jar",
+        "sha1": "0bb182b2203c84979d292e6dc32b212dc366bba7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.6+build.214",
+      "type": "snapshot",
+      "releaseTime": "2020-10-30T17:57:06",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.6+build.214.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.6+build.214/1.1.1/server/jar",
+        "sha1": "1ff91723e53241aa81e921d781ccb50c96a81572",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.5+build.213",
+      "type": "snapshot",
+      "releaseTime": "2020-10-26T20:48:36",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.5+build.213.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.5+build.213/1.1.1/server/jar",
+        "sha1": "395f461392c21828f3ea23e725291ea088758498",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.4+build.212",
+      "type": "snapshot",
+      "releaseTime": "2020-10-26T19:01:50",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.4+build.212.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.4+build.212/1.1.1/server/jar",
+        "sha1": "bf0b906e2dce5df87e17c7c7dc9207e44f62c4b1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.3+build.211",
+      "type": "snapshot",
+      "releaseTime": "2020-10-20T06:48:07",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.3+build.211.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.3+build.211/1.1.1/server/jar",
+        "sha1": "7304bd02cfe96d92c1932e982047e5a4ad1d0d66",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.2+build.210",
+      "type": "snapshot",
+      "releaseTime": "2020-10-17T14:59:53",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.2+build.210.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.2+build.210/1.1.1/server/jar",
+        "sha1": "787af61b3efe143ffed2dcca5e454d90ec680547",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.1+build.209",
+      "type": "snapshot",
+      "releaseTime": "2020-10-05T18:06:12",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.1+build.209.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.1+build.209/1.1.1/server/jar",
+        "sha1": "e5c58ae78534eb4f5873cb5edd22becbe4cd60cc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.10.0+build.208",
+      "type": "snapshot",
+      "releaseTime": "2020-09-26T18:53:50",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.10.0+build.208.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.10.0+build.208/1.1.1/server/jar",
+        "sha1": "6f46c2c7803494b35cd44f5bace9a61ce9a7a7d1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.9.3+build.207",
+      "type": "snapshot",
+      "releaseTime": "2020-09-04T20:46:48",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.9.3+build.207.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.9.3+build.207/1.1.1/server/jar",
+        "sha1": "de411e432c2354a9c08bacfc56af4d8505a399c2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.9.2+build.206",
+      "type": "snapshot",
+      "releaseTime": "2020-08-19T07:11:21",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.9.2+build.206.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.9.2+build.206/1.1.1/server/jar",
+        "sha1": "8f7e1a61de385fcef507304502e5b1cae7f7d536",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.9.1+build.205",
+      "type": "snapshot",
+      "releaseTime": "2020-08-07T19:32:07",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.9.1+build.205.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.9.1+build.205/1.1.1/server/jar",
+        "sha1": "e723472fbc72197ada212c3c62fcca2c4c772b20",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.9.0+build.204",
+      "type": "snapshot",
+      "releaseTime": "2020-07-14T13:20:59",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.9.0+build.204.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.9.0+build.204/1.1.1/server/jar",
+        "sha1": "89d2b4b0a5bafdac8295e8a971e96b95c4bf7d09",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.9+build.203",
+      "type": "snapshot",
+      "releaseTime": "2020-06-30T19:47:29",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.9+build.203.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.9+build.203/1.1.1/server/jar",
+        "sha1": "c5a8761d7d07575a29a044139e1208aae0daae80",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.8+build.202",
+      "type": "snapshot",
+      "releaseTime": "2020-06-18T14:45:15",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.8+build.202.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.8+build.202/1.1.1/server/jar",
+        "sha1": "18e562712dd5fb72ee859e81403dfdfbdb387f79",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.7+build.201",
+      "type": "snapshot",
+      "releaseTime": "2020-06-04T19:58:53",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.7+build.201.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.7+build.201/1.1.1/server/jar",
+        "sha1": "4a8fa702984854f2e37d8b484b7c64a034aa9e02",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.6+build.200",
+      "type": "snapshot",
+      "releaseTime": "2020-06-03T20:53:11",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.6+build.200.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.6+build.200/1.1.1/server/jar",
+        "sha1": "d2673809f3b10f3f26f1444d61ddf0e7b44e9103",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.5+build.199",
+      "type": "snapshot",
+      "releaseTime": "2020-05-31T09:23:48",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.5+build.199.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.5+build.199/1.1.1/server/jar",
+        "sha1": "8def67ea70e9ab67c5e0b745a139180bafb294aa",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.4+build.198",
+      "type": "snapshot",
+      "releaseTime": "2020-05-19T12:39:27",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.4+build.198.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.4+build.198/1.1.1/server/jar",
+        "sha1": "f9023b4fa58556bdc5c21131afe3346c7158e304",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.3+build.196",
+      "type": "snapshot",
+      "releaseTime": "2020-05-14T10:56:16",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.3+build.196.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.3+build.196/1.1.1/server/jar",
+        "sha1": "aaae2ad95c7722f3a27b5be7ff7b46d854c3b233",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.2+build.194",
+      "type": "snapshot",
+      "releaseTime": "2020-04-06T23:13:04",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.2+build.194.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.2+build.194/1.1.1/server/jar",
+        "sha1": "65ee7c7bd383dd470bfe787f7fc80192edf90762",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.1+build.193",
+      "type": "snapshot",
+      "releaseTime": "2020-04-06T21:52:07",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.1+build.193.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.1+build.193/1.1.1/server/jar",
+        "sha1": "a8d9c20a0d9d800770dbfca025e707b0c3766575",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.8.0+build.192",
+      "type": "snapshot",
+      "releaseTime": "2020-04-06T14:37:58",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.8.0+build.192.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.8.0+build.192/1.1.1/server/jar",
+        "sha1": "ea2b598a3821880c421cb9fc9aa8fd242bf88c83",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.10+build.191",
+      "type": "snapshot",
+      "releaseTime": "2020-04-04T12:53:44",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.10+build.191.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.10+build.191/1.1.1/server/jar",
+        "sha1": "7098bcfcafd51886f56adcb2e62da87e4674482d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.9+build.190",
+      "type": "snapshot",
+      "releaseTime": "2020-04-02T19:19:27",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.9+build.190.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.9+build.190/1.1.1/server/jar",
+        "sha1": "627d0604bd8a3a9d36d920fa92d0ac23cf7f8208",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.8+build.189",
+      "type": "snapshot",
+      "releaseTime": "2020-03-19T18:11:52",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.8+build.189.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.8+build.189/1.1.1/server/jar",
+        "sha1": "71b66c9b7797f068a4ae7113261f4594820ff7a3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.8+build.188",
+      "type": "snapshot",
+      "releaseTime": "2020-03-18T23:27:35",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.8+build.188.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.8+build.188/1.1.1/server/jar",
+        "sha1": "d44a3384947db8a8e8037883d313e02093108c87",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.8+build.187",
+      "type": "snapshot",
+      "releaseTime": "2020-03-08T17:46:57",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.8+build.187.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.8+build.187/1.1.1/server/jar",
+        "sha1": "b592970a6d9601cacee56b082d15c6086df720f3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.8+build.186",
+      "type": "snapshot",
+      "releaseTime": "2020-03-02T06:40:32",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.8+build.186.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.8+build.186/1.1.1/server/jar",
+        "sha1": "f74a8ffae12c417d8d935b8c9bff58c166d3ef37",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.8+build.185",
+      "type": "snapshot",
+      "releaseTime": "2020-03-02T00:43:25",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.8+build.185.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.8+build.185/1.1.1/server/jar",
+        "sha1": "65159bfa3d2c6b1adf01f0b89ad8cba9596807c7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.8+build.184",
+      "type": "snapshot",
+      "releaseTime": "2020-02-05T19:18:06",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.8+build.184.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.8+build.184/1.1.1/server/jar",
+        "sha1": "d3a5c4b98c576857ff77c30d6b6974b5892ec428",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.7+build.183",
+      "type": "snapshot",
+      "releaseTime": "2020-02-05T19:17:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.7+build.183.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.7+build.183/1.1.1/server/jar",
+        "sha1": "ef81020e4e9494e8fbfd0dcc545b2f459a31ef8f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.7+build.182",
+      "type": "snapshot",
+      "releaseTime": "2020-02-05T17:51:51",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.7+build.182.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.7+build.182/1.1.1/server/jar",
+        "sha1": "76aed0a33daf21bc1de286e0c94d8299d3787840",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.6+build.181",
+      "type": "snapshot",
+      "releaseTime": "2020-02-02T15:05:12",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.6+build.181.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.6+build.181/1.1.1/server/jar",
+        "sha1": "682dd13bca70e2da2f35c74b1c0f64a1b67705f7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.6+build.180",
+      "type": "snapshot",
+      "releaseTime": "2020-01-27T09:14:33",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.6+build.180.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.6+build.180/1.1.1/server/jar",
+        "sha1": "60ecb39ebc60432a9b665ccae3d2579c20651ed1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.6+build.179",
+      "type": "snapshot",
+      "releaseTime": "2020-01-23T17:12:52",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.6+build.179.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.6+build.179/1.1.1/server/jar",
+        "sha1": "1f0c24c3e1c89f26c7c45546439f5dcc90eeff89",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.5+build.178",
+      "type": "snapshot",
+      "releaseTime": "2020-01-20T00:42:16",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.5+build.178.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.5+build.178/1.1.1/server/jar",
+        "sha1": "14a2d2825244a64f7d24cc3147859d6046d34e70",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.4+build.177",
+      "type": "snapshot",
+      "releaseTime": "2020-01-13T20:01:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.4+build.177.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.4+build.177/1.1.1/server/jar",
+        "sha1": "42b7c08cf7e9c1df3f49b5b7fd7cea699d234649",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.3+build.176",
+      "type": "snapshot",
+      "releaseTime": "2019-12-29T13:24:54",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.3+build.176.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.3+build.176/1.1.1/server/jar",
+        "sha1": "320404fa64eced30401a7fb580f40fbc602db3ad",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.2+build.175",
+      "type": "snapshot",
+      "releaseTime": "2019-12-17T02:07:22",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.2+build.175.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.2+build.175/1.1.1/server/jar",
+        "sha1": "9c45ba5193e63998766229e40689e433ca44081b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.2+build.174",
+      "type": "snapshot",
+      "releaseTime": "2019-11-27T07:24:46",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.2+build.174.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.2+build.174/1.1.1/server/jar",
+        "sha1": "16a093f4d2ce3a3bd7be80e995e8a150723251eb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.1+build.173",
+      "type": "snapshot",
+      "releaseTime": "2019-11-21T20:29:54",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.1+build.173.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.1+build.173/1.1.1/server/jar",
+        "sha1": "7d701d598c38bf947d03ace89b20de138d8b0749",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.0+build.172",
+      "type": "snapshot",
+      "releaseTime": "2019-11-20T22:10:45",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.0+build.172.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.0+build.172/1.1.1/server/jar",
+        "sha1": "6d488ef786ec2b8f6e33bcfc6b8724797dae6cdf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.7.0+build.171",
+      "type": "snapshot",
+      "releaseTime": "2019-11-18T22:28:15",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.7.0+build.171.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.7.0+build.171/1.1.1/server/jar",
+        "sha1": "3764d00f7a4f9a8307d59fc38cf6dfbd5517638e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.6.4+build.170",
+      "type": "snapshot",
+      "releaseTime": "2019-11-18T22:19:59",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.6.4+build.170.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.6.4+build.170/1.1.1/server/jar",
+        "sha1": "da781de9195b95bbd3d57236927c76881380b8de",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.6.4+build.169",
+      "type": "snapshot",
+      "releaseTime": "2019-11-09T18:58:09",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.6.4+build.169.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.6.4+build.169/1.1.1/server/jar",
+        "sha1": "11388a885da174cafcf4d039525c4086708a254b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.6.3+build.168",
+      "type": "snapshot",
+      "releaseTime": "2019-10-27T14:54:07",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.6.3+build.168.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.6.3+build.168/1.1.1/server/jar",
+        "sha1": "79ee3605d7c5b0d486566f8d00288b7ec2c329ea",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.6.3+build.167",
+      "type": "snapshot",
+      "releaseTime": "2019-10-03T11:48:32",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.6.3+build.167.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.6.3+build.167/1.1.1/server/jar",
+        "sha1": "f4ec1b02c41923bc3a7e0a885e70f02abd99ba46",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.6.2+build.166",
+      "type": "snapshot",
+      "releaseTime": "2019-09-18T21:42:39",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.6.2+build.166.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.6.2+build.166/1.1.1/server/jar",
+        "sha1": "710768ba5dc66f1e1fcb8b1cbbe9af10dc15657d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.6.1+build.165",
+      "type": "snapshot",
+      "releaseTime": "2019-08-31T20:24:53",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.6.1+build.165.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.6.1+build.165/1.1.1/server/jar",
+        "sha1": "fd288bddae8fb2577e2b8f80ca2754b0e1345f20",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.6.1+build.164",
+      "type": "snapshot",
+      "releaseTime": "2019-08-28T20:34:35",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.6.1+build.164.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.6.1+build.164/1.1.1/server/jar",
+        "sha1": "fc6b9705967fb5637972062be5009046509c5a18",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.6.0+build.163",
+      "type": "snapshot",
+      "releaseTime": "2019-08-27T18:42:36",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.6.0+build.163.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.6.0+build.163/1.1.1/server/jar",
+        "sha1": "61f29701d8ba09e354bcf97f2a92b4727cdcedce",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.5.0+build.162",
+      "type": "snapshot",
+      "releaseTime": "2019-08-27T11:51:56",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.5.0+build.162.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.5.0+build.162/1.1.1/server/jar",
+        "sha1": "db4181fc5f82b37493b6a2c7a97148e172f8b497",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.9+build.161",
+      "type": "snapshot",
+      "releaseTime": "2019-08-23T22:34:26",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.9+build.161.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.9+build.161/1.1.1/server/jar",
+        "sha1": "e76ee1513873aaa8115087c446adfe7736a2dd7f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.9+build.160",
+      "type": "snapshot",
+      "releaseTime": "2019-08-23T13:11:07",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.9+build.160.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.9+build.160/1.1.1/server/jar",
+        "sha1": "4ebaf450616a883b3a115a7d163db739365a7435",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.8+build.159",
+      "type": "snapshot",
+      "releaseTime": "2019-07-28T13:44:19",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.8+build.159.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.8+build.159/1.1.1/server/jar",
+        "sha1": "ca69f4e95d3e4016acd33ff420acbd683f09a003",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.8+build.158",
+      "type": "snapshot",
+      "releaseTime": "2019-07-23T07:46:39",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.8+build.158.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.8+build.158/1.1.1/server/jar",
+        "sha1": "3e14ce4869d98950508f13b32ee444b6c411b104",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.8+build.157",
+      "type": "snapshot",
+      "releaseTime": "2019-07-20T11:36:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.8+build.157.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.8+build.157/1.1.1/server/jar",
+        "sha1": "414c738da6c0f9064b240f4fc177795a02812fdf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.8+build.156",
+      "type": "snapshot",
+      "releaseTime": "2019-07-20T07:18:10",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.8+build.156.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.8+build.156/1.1.1/server/jar",
+        "sha1": "6ad299e70541e47c39b232090d3190c1a9530497",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.8+build.155",
+      "type": "snapshot",
+      "releaseTime": "2019-06-09T09:55:34",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.8+build.155.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.8+build.155/1.1.1/server/jar",
+        "sha1": "9a21d9fdae699122c5ea5716f310c1f0a3f5cbc6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.8+build.154",
+      "type": "snapshot",
+      "releaseTime": "2019-05-24T14:52:16",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.8+build.154.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.8+build.154/1.1.1/server/jar",
+        "sha1": "d561b35010a885eef824e0c3d31a574928b5047a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.7+build.153",
+      "type": "snapshot",
+      "releaseTime": "2019-05-24T10:32:46",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.7+build.153.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.7+build.153/1.1.1/server/jar",
+        "sha1": "e7cc7d99d20539b89f6ce69d002fe74790a0ab73",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.7+build.152",
+      "type": "snapshot",
+      "releaseTime": "2019-05-24T10:08:26",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.7+build.152.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.7+build.152/1.1.1/server/jar",
+        "sha1": "123a7dc5d92f8d91bd750ccc0a0f57962806aabc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.7+build.148",
+      "type": "snapshot",
+      "releaseTime": "2019-05-23T10:14:49",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.7+build.148.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.7+build.148/1.1.1/server/jar",
+        "sha1": "f1f61af423f006423474a0215e5f99434c7fa0dc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.7+build.147",
+      "type": "snapshot",
+      "releaseTime": "2019-05-12T09:00:45",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.7+build.147.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.7+build.147/1.1.1/server/jar",
+        "sha1": "aa5bf0b9e70cc8c1dae42cbc83d8362d5e364649",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.7+build.146",
+      "type": "snapshot",
+      "releaseTime": "2019-05-11T16:44:35",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.7+build.146.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.7+build.146/1.1.1/server/jar",
+        "sha1": "b2427acbade914fef1c9bdbc9252ff8e61fe8fc2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.6+build.145",
+      "type": "snapshot",
+      "releaseTime": "2019-05-11T16:22:32",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.6+build.145.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.6+build.145/1.1.1/server/jar",
+        "sha1": "56c3f5041434d56b12413f0f804aa7a6300d6c7a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.6+build.144",
+      "type": "snapshot",
+      "releaseTime": "2019-05-10T12:48:27",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.6+build.144.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.6+build.144/1.1.1/server/jar",
+        "sha1": "ce0f4ca1c2f31afe95461c4a48cc054de1765ecb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.6+build.143",
+      "type": "snapshot",
+      "releaseTime": "2019-05-09T15:33:46",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.6+build.143.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.6+build.143/1.1.1/server/jar",
+        "sha1": "732e80095e57a0253df2ac8b2c509934dfc84c79",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.6+build.142",
+      "type": "snapshot",
+      "releaseTime": "2019-05-09T15:29:10",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.6+build.142.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.6+build.142/1.1.1/server/jar",
+        "sha1": "f1457a218e5ea6a0cd214e84be45b52551745d72",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.6+build.141",
+      "type": "snapshot",
+      "releaseTime": "2019-04-29T05:23:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.6+build.141.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.6+build.141/1.1.1/server/jar",
+        "sha1": "e310e471db21d0904b78e6f13d3047caf099654d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.5+build.140",
+      "type": "snapshot",
+      "releaseTime": "2019-04-28T14:51:10",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.5+build.140.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.5+build.140/1.1.1/server/jar",
+        "sha1": "4246b81d30f8d7e8a03f3ccad39de3a9b1ed3854",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.4+build.139",
+      "type": "snapshot",
+      "releaseTime": "2019-04-27T08:47:31",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.4+build.139.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.4+build.139/1.1.1/server/jar",
+        "sha1": "d6f0902c41e9058916187ac035770dd567e9d998",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.4+build.138",
+      "type": "snapshot",
+      "releaseTime": "2019-04-26T16:57:17",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.4+build.138.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.4+build.138/1.1.1/server/jar",
+        "sha1": "2ade26a5531234b5106caac787a59659139f4502",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.4+build.137",
+      "type": "snapshot",
+      "releaseTime": "2019-04-26T15:19:49",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.4+build.137.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.4+build.137/1.1.1/server/jar",
+        "sha1": "220b8f945033c9ed6cdfb4b99e98e5b0c41899be",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.4+build.136",
+      "type": "snapshot",
+      "releaseTime": "2019-04-26T09:57:15",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.4+build.136.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.4+build.136/1.1.1/server/jar",
+        "sha1": "be878ceae230ee5997f8c78416f507d6d464e927",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.3+build.135",
+      "type": "snapshot",
+      "releaseTime": "2019-04-26T08:41:24",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.3+build.135.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.3+build.135/1.1.1/server/jar",
+        "sha1": "51d72191869a5c491f2d8338ea9ad494d18b09d6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.3+build.134",
+      "type": "snapshot",
+      "releaseTime": "2019-04-25T20:54:48",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.3+build.134.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.3+build.134/1.1.1/server/jar",
+        "sha1": "39a1f8b79d77af57c97125eddabb4d18f6c27267",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.3+build.133",
+      "type": "snapshot",
+      "releaseTime": "2019-04-25T20:37:15",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.3+build.133.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.3+build.133/1.1.1/server/jar",
+        "sha1": "404c24eb4491dee8b07df4311088c8191f671bad",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.2+build.132",
+      "type": "snapshot",
+      "releaseTime": "2019-04-22T22:29:38",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.2+build.132.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.2+build.132/1.1.1/server/jar",
+        "sha1": "e610e02dfdce9bcb9939205dcdf4a3cb010a903b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.2+build.131",
+      "type": "snapshot",
+      "releaseTime": "2019-04-21T11:38:43",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.2+build.131.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.2+build.131/1.1.1/server/jar",
+        "sha1": "e91ec212921b61675861ad5a3bd31997e935fa8d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.2+build.130",
+      "type": "snapshot",
+      "releaseTime": "2019-04-21T08:56:57",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.2+build.130.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.2+build.130/1.1.1/server/jar",
+        "sha1": "6bb802bfed1a5c44236fd731fb404d05346bd4b1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.1+build.129",
+      "type": "snapshot",
+      "releaseTime": "2019-04-20T21:16:11",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.1+build.129.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.1+build.129/1.1.1/server/jar",
+        "sha1": "eec046a75fec78b044ad631e37432001c1209871",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.1+build.128",
+      "type": "snapshot",
+      "releaseTime": "2019-04-20T17:59:11",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.1+build.128.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.1+build.128/1.1.1/server/jar",
+        "sha1": "965f4acd0f46e2daeeceda936e8b95b2743cf9b3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.1+build.127",
+      "type": "snapshot",
+      "releaseTime": "2019-04-19T19:43:26",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.1+build.127.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.1+build.127/1.1.1/server/jar",
+        "sha1": "d999e5827a1fea70f9750e0f9bcbd67eee8e7d48",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.1+build.126",
+      "type": "snapshot",
+      "releaseTime": "2019-04-17T06:57:03",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.1+build.126.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.1+build.126/1.1.1/server/jar",
+        "sha1": "488cc0585063f42d8e2f10e05d84fd4a7d1accdb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.1+build.125",
+      "type": "snapshot",
+      "releaseTime": "2019-04-14T20:32:04",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.1+build.125.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.1+build.125/1.1.1/server/jar",
+        "sha1": "306dbfdf9ae61d565d1c95ea1f446a8eb5bf3901",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.1+build.124",
+      "type": "snapshot",
+      "releaseTime": "2019-04-14T07:55:43",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.1+build.124.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.1+build.124/1.1.1/server/jar",
+        "sha1": "d1d5b4a3a550afecb23010e7bc2f1e1a7cd1013b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.1+build.123",
+      "type": "snapshot",
+      "releaseTime": "2019-04-13T22:01:20",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.1+build.123.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.1+build.123/1.1.1/server/jar",
+        "sha1": "77db6c21ba448ea0cc1bc4cbd543f131c80185c4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.1+build.122",
+      "type": "snapshot",
+      "releaseTime": "2019-04-13T20:35:33",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.1+build.122.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.1+build.122/1.1.1/server/jar",
+        "sha1": "125807750228853e6732aa1f0f877e87907f663c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.121",
+      "type": "snapshot",
+      "releaseTime": "2019-04-11T14:37:42",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.121.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.121/1.1.1/server/jar",
+        "sha1": "5afe9679ea80b3fa2fab631629e69e5199b87752",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.120",
+      "type": "snapshot",
+      "releaseTime": "2019-04-11T13:34:24",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.120.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.120/1.1.1/server/jar",
+        "sha1": "8e7ac5e4bce0bc2f6f2e7457683c625fb0fa4b64",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.119",
+      "type": "snapshot",
+      "releaseTime": "2019-04-10T20:34:51",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.119.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.119/1.1.1/server/jar",
+        "sha1": "25d5640ca2f76ba3d5bf4be01e47a42a3fdbce8d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.118",
+      "type": "snapshot",
+      "releaseTime": "2019-04-10T19:10:28",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.118.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.118/1.1.1/server/jar",
+        "sha1": "a7940343e9264d29ff755c76a52239584958bab8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.117",
+      "type": "snapshot",
+      "releaseTime": "2019-04-10T19:05:02",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.117.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.117/1.1.1/server/jar",
+        "sha1": "b0662444a1f258e8aa896797b98d17780e8f1592",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.116",
+      "type": "snapshot",
+      "releaseTime": "2019-04-08T08:50:06",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.116.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.116/1.1.1/server/jar",
+        "sha1": "9f3c8b3ec23cc21e16555758bad932c446e4ce7e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.115",
+      "type": "snapshot",
+      "releaseTime": "2019-04-07T22:15:49",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.115.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.115/1.1.1/server/jar",
+        "sha1": "6d74fa56da1f8351067d00fde5f998ba09572982",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.114",
+      "type": "snapshot",
+      "releaseTime": "2019-04-07T18:23:21",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.114.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.114/1.1.1/server/jar",
+        "sha1": "3b4296be1e26f210a50804878dfc828cf173612e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.113",
+      "type": "snapshot",
+      "releaseTime": "2019-04-07T16:36:39",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.113.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.113/1.1.1/server/jar",
+        "sha1": "761eb6972c08fc9ebe4a2abe147ece7d654a4bf4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.4.0+build.112",
+      "type": "snapshot",
+      "releaseTime": "2019-04-07T16:31:37",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.4.0+build.112.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.4.0+build.112/1.1.1/server/jar",
+        "sha1": "ee01323fadc51532665a58e521ec1de962d22058",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.7.111",
+      "type": "snapshot",
+      "releaseTime": "2019-04-06T13:03:51",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.7.111.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.7.111/1.1.1/server/jar",
+        "sha1": "2e8a8dbfdad3c5c6da9843ba33ed8e957c22b1d0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.7.110",
+      "type": "snapshot",
+      "releaseTime": "2019-04-06T12:22:27",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.7.110.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.7.110/1.1.1/server/jar",
+        "sha1": "95ef79cc251479b85e2b348f2b2f2eb021bd1b77",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.7.109",
+      "type": "snapshot",
+      "releaseTime": "2019-02-21T06:49:46",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.7.109.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.7.109/1.1.1/server/jar",
+        "sha1": "89901860f7d73f8a1f602b45018b145dd328afd4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.7.108",
+      "type": "snapshot",
+      "releaseTime": "2019-02-20T22:16:24",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.7.108.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.7.108/1.1.1/server/jar",
+        "sha1": "017c5175e471ba609d1480a32d51606b088c0674",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.6.107",
+      "type": "snapshot",
+      "releaseTime": "2019-02-12T12:27:58",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.6.107.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.6.107/1.1.1/server/jar",
+        "sha1": "e9da0608e71f64db6f47af2f459c2a5a3f808562",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.5.106",
+      "type": "snapshot",
+      "releaseTime": "2019-02-01T21:48:53",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.5.106.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.5.106/1.1.1/server/jar",
+        "sha1": "b7a5afeafe19e9e894fee052e56c6bb346ddad8a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.4.105",
+      "type": "snapshot",
+      "releaseTime": "2019-02-01T21:27:46",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.4.105.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.4.105/1.1.1/server/jar",
+        "sha1": "2905691374e19d73eb9d1b3c1641b1c28fc15cea",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.4.104",
+      "type": "snapshot",
+      "releaseTime": "2019-01-27T13:51:10",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.4.104.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.4.104/1.1.1/server/jar",
+        "sha1": "4690a6c9f1bc03866384dc6401f88259221bfe38",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.4.103",
+      "type": "snapshot",
+      "releaseTime": "2019-01-27T13:00:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.4.103.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.4.103/1.1.1/server/jar",
+        "sha1": "7d78e1caa0156822bfbeecb7223a9e1e69d6bf6f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.3.102",
+      "type": "snapshot",
+      "releaseTime": "2019-01-26T20:17:18",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.3.102.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.3.102/1.1.1/server/jar",
+        "sha1": "f40062bdcab4462cb1e28a4a15b2724087a6a9ba",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.3.101",
+      "type": "snapshot",
+      "releaseTime": "2019-01-21T13:09:14",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.3.101.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.3.101/1.1.1/server/jar",
+        "sha1": "a680926548698f0d447e5b583e61508ae898282f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.3.100",
+      "type": "snapshot",
+      "releaseTime": "2019-01-20T20:07:11",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.3.100.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.3.100/1.1.1/server/jar",
+        "sha1": "b045ae7404b71f1c7d5af97d486f80d0ba7c2935",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.3.99",
+      "type": "snapshot",
+      "releaseTime": "2019-01-20T10:09:04",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.3.99.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.3.99/1.1.1/server/jar",
+        "sha1": "50c919ec40907bea20967740b1565633c3214de4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.3.98",
+      "type": "snapshot",
+      "releaseTime": "2019-01-18T21:01:36",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.3.98.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.3.98/1.1.1/server/jar",
+        "sha1": "063f7eff6d0af1a24d3892d7db52f94601f97f8d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.3.97",
+      "type": "snapshot",
+      "releaseTime": "2019-01-18T20:46:00",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.3.97.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.3.97/1.1.1/server/jar",
+        "sha1": "fdb26ed546318064eedcabf141e5518b164e3445",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.96",
+      "type": "snapshot",
+      "releaseTime": "2019-01-15T19:12:24",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.96.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.96/1.1.1/server/jar",
+        "sha1": "5426e0a432d2b84dc135ed9ec1db662600ecb5d9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.95",
+      "type": "snapshot",
+      "releaseTime": "2019-01-13T00:29:43",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.95.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.95/1.1.1/server/jar",
+        "sha1": "7489a3784df285b99309df24cc82ef96d79711ad",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.94",
+      "type": "snapshot",
+      "releaseTime": "2019-01-12T23:06:07",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.94.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.94/1.1.1/server/jar",
+        "sha1": "1c07ec5e48ad2be4d268559510e3e784eb34980e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.93",
+      "type": "snapshot",
+      "releaseTime": "2019-01-11T10:42:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.93.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.93/1.1.1/server/jar",
+        "sha1": "f4235a60c0187981087a15baa1d5fe3b64560c67",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.92",
+      "type": "snapshot",
+      "releaseTime": "2019-01-09T12:58:24",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.92.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.92/1.1.1/server/jar",
+        "sha1": "002b1f73033aaa61750f8ebe6f569f222e14b5d1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.91",
+      "type": "snapshot",
+      "releaseTime": "2019-01-04T12:18:01",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.91.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.91/1.1.1/server/jar",
+        "sha1": "efe1d73c62e0c6a14c62b4f08e4dd8d55d06b4f6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.90",
+      "type": "snapshot",
+      "releaseTime": "2019-01-03T16:29:57",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.90.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.90/1.1.1/server/jar",
+        "sha1": "49542f25a468a66b9c5ba01b600c56b23e169470",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.87",
+      "type": "snapshot",
+      "releaseTime": "2019-01-03T12:58:50",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.87.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.87/1.1.1/server/jar",
+        "sha1": "8d4a09bffaa1e9532114790ce6b481b73172ac11",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.2.86",
+      "type": "snapshot",
+      "releaseTime": "2019-01-02T20:32:04",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.2.86.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.2.86/1.1.1/server/jar",
+        "sha1": "c88e5ac5788e6ad6cff3c699a8f84db23e58cc6b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.1.85",
+      "type": "snapshot",
+      "releaseTime": "2019-01-02T20:29:44",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.1.85.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.1.85/1.1.1/server/jar",
+        "sha1": "e43a36a50f4d36452f7b26b78accbfca81e3508a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.1.84",
+      "type": "snapshot",
+      "releaseTime": "2018-12-31T21:20:12",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.1.84.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.1.84/1.1.1/server/jar",
+        "sha1": "de5bf11b83369b97a7032f9c0b2e39e6e83f6eda",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.1.82",
+      "type": "snapshot",
+      "releaseTime": "2018-12-29T18:34:06",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.1.82.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.1.82/1.1.1/server/jar",
+        "sha1": "44d078e2f9346beede3341d9d68e8687f88f3f9e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.1.81",
+      "type": "snapshot",
+      "releaseTime": "2018-12-29T18:20:47",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.1.81.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.1.81/1.1.1/server/jar",
+        "sha1": "425163c870da8fef7b82faa9619400d5f23434e7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.1.80",
+      "type": "snapshot",
+      "releaseTime": "2018-12-28T19:48:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.1.80.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.1.80/1.1.1/server/jar",
+        "sha1": "0aeafe76e39339b8dd38495c9f15b3dfa16db39b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.0.77",
+      "type": "snapshot",
+      "releaseTime": "2018-12-26T18:09:57",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.0.77.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.0.77/1.1.1/server/jar",
+        "sha1": "be256f887204b949fb5ab2e43d84a2ee2bd835a2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.0.76",
+      "type": "snapshot",
+      "releaseTime": "2018-12-26T16:59:22",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.0.76.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.0.76/1.1.1/server/jar",
+        "sha1": "b7bc4ce76268c4761c1e53e7dd975afdb4b74f4c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.0.75",
+      "type": "snapshot",
+      "releaseTime": "2018-12-24T19:01:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.0.75.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.0.75/1.1.1/server/jar",
+        "sha1": "a06fc49a694505ce35289fd64e7db12050ea0203",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.0.74",
+      "type": "snapshot",
+      "releaseTime": "2018-12-22T20:26:36",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.0.74.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.0.74/1.1.1/server/jar",
+        "sha1": "c4e3174d366159bc2b65e074a80f0de5e8bcc5a2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.0.73",
+      "type": "snapshot",
+      "releaseTime": "2018-12-22T16:07:37",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.0.73.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.0.73/1.1.1/server/jar",
+        "sha1": "a34571744c8f703573ffafd69e386475ad46f64b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.3.0.72",
+      "type": "snapshot",
+      "releaseTime": "2018-12-22T15:16:17",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.3.0.72.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.3.0.72/1.1.1/server/jar",
+        "sha1": "e632eb27363da06dc69f1f66c138ce675ddb6d79",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.71",
+      "type": "snapshot",
+      "releaseTime": "2018-12-19T21:38:59",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.71.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.71/1.1.1/server/jar",
+        "sha1": "3b0e3becaa9a1ab60d317927d1e8df3ab30e0e3c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.70",
+      "type": "snapshot",
+      "releaseTime": "2018-12-14T20:05:11",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.70.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.70/1.1.1/server/jar",
+        "sha1": "704cfe5f35920721f3211d1786a73912174dd10f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.69",
+      "type": "snapshot",
+      "releaseTime": "2018-12-14T18:13:30",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.69.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.69/1.1.1/server/jar",
+        "sha1": "f7f7e9cfb9545729da4bf24bd3fa1e0928f93465",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.68",
+      "type": "snapshot",
+      "releaseTime": "2018-12-14T17:20:09",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.68.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.68/1.1.1/server/jar",
+        "sha1": "ecc2ed4e7fe92c600c0cc82b481daf324509694d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.67",
+      "type": "snapshot",
+      "releaseTime": "2018-12-14T17:08:16",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.67.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.67/1.1.1/server/jar",
+        "sha1": "19a981280299e7ebcbeae2cccad961d86b6b9ea3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.66",
+      "type": "snapshot",
+      "releaseTime": "2018-12-14T17:06:39",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.66.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.66/1.1.1/server/jar",
+        "sha1": "dfdc25977905e7f8c362b74027c2e0e40705d36f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.65",
+      "type": "snapshot",
+      "releaseTime": "2018-12-13T08:01:59",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.65.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.65/1.1.1/server/jar",
+        "sha1": "5358c6a594eeee54db7d8deb6841a631a21bbd38",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.64",
+      "type": "snapshot",
+      "releaseTime": "2018-12-12T08:46:49",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.64.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.64/1.1.1/server/jar",
+        "sha1": "e2ed3cc5405d2040daf4108e1007d9f21a429d4e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.63",
+      "type": "snapshot",
+      "releaseTime": "2018-12-11T20:17:35",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.63.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.63/1.1.1/server/jar",
+        "sha1": "de4a94449cea467420a2cb670a7b7725a3bf4695",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.62",
+      "type": "snapshot",
+      "releaseTime": "2018-12-10T17:44:33",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.62.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.62/1.1.1/server/jar",
+        "sha1": "251074efc1d5f392441a34f89ce46cfab0a9b628",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.61",
+      "type": "snapshot",
+      "releaseTime": "2018-12-10T07:04:34",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.61.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.61/1.1.1/server/jar",
+        "sha1": "4c725278ed96263e7a6b030e5af14446927df26c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.60",
+      "type": "snapshot",
+      "releaseTime": "2018-12-09T22:50:09",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.60.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.60/1.1.1/server/jar",
+        "sha1": "9c729b3dda1aa4525c12be864568a163be0cd410",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.59",
+      "type": "snapshot",
+      "releaseTime": "2018-12-09T21:32:43",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.59.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.59/1.1.1/server/jar",
+        "sha1": "7786e4d56a9eb0a698e2474d22f909f4e3528d44",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.58",
+      "type": "snapshot",
+      "releaseTime": "2018-12-09T18:14:29",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.58.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.58/1.1.1/server/jar",
+        "sha1": "d6c8bef1a97afa6df9efe018db6ea4ae2ea0e36c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.57",
+      "type": "snapshot",
+      "releaseTime": "2018-12-09T18:11:39",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.57.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.57/1.1.1/server/jar",
+        "sha1": "759443a92cb159257c2a7eac44c9e77116447067",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.56",
+      "type": "snapshot",
+      "releaseTime": "2018-12-09T18:08:17",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.56.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.56/1.1.1/server/jar",
+        "sha1": "87ed93c2432477daaa7962eb866d3676cbfa5d00",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.55",
+      "type": "snapshot",
+      "releaseTime": "2018-12-09T17:03:48",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.55.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.55/1.1.1/server/jar",
+        "sha1": "017e689ecc23459617ead357115721f782b37d93",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.54",
+      "type": "snapshot",
+      "releaseTime": "2018-12-09T16:59:57",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.54.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.54/1.1.1/server/jar",
+        "sha1": "0a2dc74fc9a6afb58a14cfe44ee30c37008a12ea",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.2.0.53",
+      "type": "snapshot",
+      "releaseTime": "2018-12-09T15:38:39",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.2.0.53.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.2.0.53/1.1.1/server/jar",
+        "sha1": "1063c0f5d2b0bb3742729d5441ae6beff26a7d5b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.1.0.52",
+      "type": "snapshot",
+      "releaseTime": "2018-12-05T13:51:39",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.1.0.52.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.1.0.52/1.1.1/server/jar",
+        "sha1": "59b651e08a7e8870c50f1e25e193b3efd1572c95",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.1.0.51",
+      "type": "snapshot",
+      "releaseTime": "2018-12-02T11:07:13",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.1.0.51.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.1.0.51/1.1.1/server/jar",
+        "sha1": "181e6f888c560fb6afc364703eae4368729233f4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.1.0.50",
+      "type": "snapshot",
+      "releaseTime": "2018-12-02T10:44:25",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.1.0.50.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.1.0.50/1.1.1/server/jar",
+        "sha1": "495bf5d7b46fe2657f7abc8b6303581ab2f81016",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.1.0.49",
+      "type": "snapshot",
+      "releaseTime": "2018-11-30T21:31:42",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.1.0.49.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.1.0.49/1.1.1/server/jar",
+        "sha1": "eb366926c55655a1664293e36691575decf3fe76",
+        "sha256": null
+      }
+    },
+    {
+      "build": "0.1.0.48",
+      "type": "snapshot",
+      "releaseTime": "2018-11-30T13:54:28",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.1.0.48.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.1.0.48/1.1.1/server/jar",
+        "sha1": "b0d45aa52ce1a169948757d22b8a1e61b556d872",
+        "sha256": null
+      }
+    }
+  ]
+}

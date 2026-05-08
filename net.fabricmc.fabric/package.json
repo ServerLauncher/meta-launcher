@@ -1,0 +1,2505 @@
+{
+  "formatVersion": 1,
+  "uid": "net.fabricmc.fabric",
+  "name": "Fabric",
+  "recommended": [
+    "26.2-snapshot-6"
+  ],
+  "versions": [
+    {
+      "mcVersion": "26.2-snapshot-6",
+      "sha256": "4ab48c60e40c4d4118b5dbaba5a05d70fb16122069bf9f6b37d19724ee55cce1",
+      "url": "net.fabricmc.fabric/26.2-snapshot-6.json"
+    },
+    {
+      "mcVersion": "26.2-snapshot-5",
+      "sha256": "62782c0ce00f0178081ac273913c21ffb8622c32ec792ec6ca52311eee7d4f94",
+      "url": "net.fabricmc.fabric/26.2-snapshot-5.json"
+    },
+    {
+      "mcVersion": "26.2-snapshot-4",
+      "sha256": "ce6c40b3d234bf8cc7fac96243c0c52ea77bd163a658f0fb838b53954fa4dc28",
+      "url": "net.fabricmc.fabric/26.2-snapshot-4.json"
+    },
+    {
+      "mcVersion": "26.2-snapshot-3",
+      "sha256": "536926444c004f55a3631f280875190db44792767857496046313ab9a914f793",
+      "url": "net.fabricmc.fabric/26.2-snapshot-3.json"
+    },
+    {
+      "mcVersion": "26.2-snapshot-2",
+      "sha256": "968471b8856d012949a4c06c25a13c51d0f68110b7dfc267ea64a34342564628",
+      "url": "net.fabricmc.fabric/26.2-snapshot-2.json"
+    },
+    {
+      "mcVersion": "26.1.2",
+      "sha256": "48a54c822407271f700d40e96bb1c4e02d5b3631e164e6b18acdbfa73632867f",
+      "url": "net.fabricmc.fabric/26.1.2.json"
+    },
+    {
+      "mcVersion": "26.1.2-rc-1",
+      "sha256": "779742dbaa5e4cf21eaa5132a5933c8e2769807706cf5e8b5b0a059a2a62e9b2",
+      "url": "net.fabricmc.fabric/26.1.2-rc-1.json"
+    },
+    {
+      "mcVersion": "26.2-snapshot-1",
+      "sha256": "80172856bdbfc1aae108da9ff5c78c1e8991b7222effa70ed3c6c6cc8f6d9845",
+      "url": "net.fabricmc.fabric/26.2-snapshot-1.json"
+    },
+    {
+      "mcVersion": "26w14a",
+      "sha256": "a240da1b651669165440ba04567228f3e93aa23eb828e8798bcd5a9afcb2fce1",
+      "url": "net.fabricmc.fabric/26w14a.json"
+    },
+    {
+      "mcVersion": "26.1.1",
+      "sha256": "0875fdd1da593dc3e4a6d08cf108ab5a5c2566528ddb4384eb53030624efd1dd",
+      "url": "net.fabricmc.fabric/26.1.1.json"
+    },
+    {
+      "mcVersion": "26.1.1-rc-1",
+      "sha256": "e055a7565da8451001aeeaad24bda4657c43dba41763b6546b0758707ddbad8c",
+      "url": "net.fabricmc.fabric/26.1.1-rc-1.json"
+    },
+    {
+      "mcVersion": "26.1",
+      "sha256": "602f9af97199386bb98fdafc065889804db0bac2e4b4ebd60e0517e4237b9c12",
+      "url": "net.fabricmc.fabric/26.1.json"
+    },
+    {
+      "mcVersion": "26.1-rc-3",
+      "sha256": "4162b294da3b82c521b6193b3fbf737664d8d6e21e0c4cc8664b9fccade6127c",
+      "url": "net.fabricmc.fabric/26.1-rc-3.json"
+    },
+    {
+      "mcVersion": "26.1-rc-2",
+      "sha256": "14069916b5a853b58792d684b8e28e72a910fa77d7176b886091fcf96ae2b236",
+      "url": "net.fabricmc.fabric/26.1-rc-2.json"
+    },
+    {
+      "mcVersion": "26.1-rc-1",
+      "sha256": "36626b17548c345dd1f3ce9350c8ffa9675b8942cdefdc00047057e8c450e4ed",
+      "url": "net.fabricmc.fabric/26.1-rc-1.json"
+    },
+    {
+      "mcVersion": "26.1-pre-3",
+      "sha256": "2d654faebaf83d745445ee7c94aa80072a380fe2873f4fdf5058ace44997eb67",
+      "url": "net.fabricmc.fabric/26.1-pre-3.json"
+    },
+    {
+      "mcVersion": "26.1-pre-2",
+      "sha256": "2bfdd88e8730dbe8feb3539cbae85d41a7c4665fa786a10231c215a1fc8da434",
+      "url": "net.fabricmc.fabric/26.1-pre-2.json"
+    },
+    {
+      "mcVersion": "26.1-pre-1",
+      "sha256": "dad599ba49b3d43e4b28f7b64bbc4254185b6bd2add5616c17b79101759b1790",
+      "url": "net.fabricmc.fabric/26.1-pre-1.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-11",
+      "sha256": "b2cb451ad65619bc68a05978e1cc60ce79d621fb28b3186d9c6c95477f00faa5",
+      "url": "net.fabricmc.fabric/26.1-snapshot-11.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-10",
+      "sha256": "58c219bdc82c249d8d1a0efbec45c9bbc3f1df4ff4c3ec6d62e9595d01c512c1",
+      "url": "net.fabricmc.fabric/26.1-snapshot-10.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-9",
+      "sha256": "94431b63d594c2ca49bc56e174c738a2e6827649727b334575cf82f4a3795cb1",
+      "url": "net.fabricmc.fabric/26.1-snapshot-9.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-8",
+      "sha256": "4f2981ca80c2a53321d48f97365a9d80bedaeec94613d763471d482b1f83a739",
+      "url": "net.fabricmc.fabric/26.1-snapshot-8.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-7",
+      "sha256": "66d2290f612975c7015356d333c341f84bfb4be75b4481e95f4f97176e6d5fac",
+      "url": "net.fabricmc.fabric/26.1-snapshot-7.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-6",
+      "sha256": "6edb2a5ece528ae5cd850151a9b831ce6700a434024e482251e6cd7711483177",
+      "url": "net.fabricmc.fabric/26.1-snapshot-6.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-5",
+      "sha256": "47d8aedf3923d940728bf79e08e5bfe7eff5848b093f0712bd76923a176839d0",
+      "url": "net.fabricmc.fabric/26.1-snapshot-5.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-4",
+      "sha256": "3569df973325d69a67ee0ca0005d537a9745c04adf25d37e89cc2390c40af800",
+      "url": "net.fabricmc.fabric/26.1-snapshot-4.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-3",
+      "sha256": "86367103ea925465f35adb88dc068317947f2f572ed1e08db1a39c21efdba187",
+      "url": "net.fabricmc.fabric/26.1-snapshot-3.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-2",
+      "sha256": "220e946e2cccb41fdcc34e9e6d65aac91d3e8b27fa7e40384776801283b16c2d",
+      "url": "net.fabricmc.fabric/26.1-snapshot-2.json"
+    },
+    {
+      "mcVersion": "26.1-snapshot-1",
+      "sha256": "8ceb5cdbd86f48a48c3465d654cd7a46f46f12702af61ba43b3ba404c5724fb5",
+      "url": "net.fabricmc.fabric/26.1-snapshot-1.json"
+    },
+    {
+      "mcVersion": "1.21.11",
+      "sha256": "6fbea64e51ff2bbad23f3f8bdc4a00887ddb67f4ad8ac99da5a19f722d86802f",
+      "url": "net.fabricmc.fabric/1.21.11.json"
+    },
+    {
+      "mcVersion": "1.21.11-rc3",
+      "sha256": "67febc17ab4e30095ecb55a8e36ff5efd8a247e5058fad3d62b7faa11d3baefc",
+      "url": "net.fabricmc.fabric/1.21.11-rc3.json"
+    },
+    {
+      "mcVersion": "1.21.11-rc2",
+      "sha256": "97867460129bfb0d77ca3f083d902a1f8bd59c2c684233aea88845718a39083d",
+      "url": "net.fabricmc.fabric/1.21.11-rc2.json"
+    },
+    {
+      "mcVersion": "1.21.11-rc1",
+      "sha256": "38971c99ed19d43240c178314183b410d205739a6551ad4b3d36381a4f108337",
+      "url": "net.fabricmc.fabric/1.21.11-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre5",
+      "sha256": "f6e65a6b23d06d501ba30ad78424c2baa4a735b853c8ef85504be652394dc1dd",
+      "url": "net.fabricmc.fabric/1.21.11-pre5.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre4",
+      "sha256": "7023b0fe1423d6fbdc2a2ee8ecf70e3e7f58eb2fd99eabf336898a0e236b4e33",
+      "url": "net.fabricmc.fabric/1.21.11-pre4.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre3",
+      "sha256": "d53a25f917d2839cc58c98031e23f394d8aa7f34bd9e0ea6ea0926cd1661d378",
+      "url": "net.fabricmc.fabric/1.21.11-pre3.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre2",
+      "sha256": "0fd3af8d405acfb53a2a46cb9533ad83e5f4586b043e431f72d2b391a3d3e52c",
+      "url": "net.fabricmc.fabric/1.21.11-pre2.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre1",
+      "sha256": "13bbe2a747cf3e0be59c285626f3b20c4264f1636e98b6e1e6aa683cbfb0c4d9",
+      "url": "net.fabricmc.fabric/1.21.11-pre1.json"
+    },
+    {
+      "mcVersion": "25w46a",
+      "sha256": "ab1cd2567119f14667f0836070b328808d255ac62bf5fcae95a114b5eabcc330",
+      "url": "net.fabricmc.fabric/25w46a.json"
+    },
+    {
+      "mcVersion": "25w45a",
+      "sha256": "249d2a0bfb68299031c2fc77404ef2c2b5324997256320b0b5d9247b35e23aef",
+      "url": "net.fabricmc.fabric/25w45a.json"
+    },
+    {
+      "mcVersion": "25w44a",
+      "sha256": "8f925f7987ec1a085c9e91bdb6fc439bd28194158fb6417a4454d83a8b062993",
+      "url": "net.fabricmc.fabric/25w44a.json"
+    },
+    {
+      "mcVersion": "25w43a",
+      "sha256": "d12bd7fd29090b801f4aac1d73fcc6a19c3df672f8be4f95d3cdc03199af18ca",
+      "url": "net.fabricmc.fabric/25w43a.json"
+    },
+    {
+      "mcVersion": "25w42a",
+      "sha256": "47e8b68dee62f8d0023d8739e8ffaba72bd766683ae8851f9d72fc84328bcb80",
+      "url": "net.fabricmc.fabric/25w42a.json"
+    },
+    {
+      "mcVersion": "25w41a",
+      "sha256": "8a626f3fb5ac36652cf7e40a30c393c42fe234555d775dc8d7a2f6e33bfaeb6f",
+      "url": "net.fabricmc.fabric/25w41a.json"
+    },
+    {
+      "mcVersion": "1.21.10",
+      "sha256": "8aa243d32c018c992262ca38652cd1595ec3e7e1beb5f64bc9d70f697c56fb52",
+      "url": "net.fabricmc.fabric/1.21.10.json"
+    },
+    {
+      "mcVersion": "1.21.10-rc1",
+      "sha256": "f1cce33bda2adf4af61459c26f3ffe936d8aa93dc83dfaad51d47506835bc96e",
+      "url": "net.fabricmc.fabric/1.21.10-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.9",
+      "sha256": "5996ed8bae9c364c9b81de34d73ffecd885bfdbc58edaa7d4a3b82162debbedd",
+      "url": "net.fabricmc.fabric/1.21.9.json"
+    },
+    {
+      "mcVersion": "1.21.9-rc1",
+      "sha256": "263e864ed31b25732000051d2110434973fa17797a66293263040d8ddff88cc4",
+      "url": "net.fabricmc.fabric/1.21.9-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.9-pre4",
+      "sha256": "acb86f3f9d83b829c8c242e608805ea88abf9909dfb846c14f21aa7a25838757",
+      "url": "net.fabricmc.fabric/1.21.9-pre4.json"
+    },
+    {
+      "mcVersion": "1.21.9-pre3",
+      "sha256": "e929e51d44e01416c989c07f4d74fdb96619b608c6ff2d1fc8c98a8ae066737b",
+      "url": "net.fabricmc.fabric/1.21.9-pre3.json"
+    },
+    {
+      "mcVersion": "1.21.9-pre2",
+      "sha256": "24357fa5b15b4e1f36d2b89c403ba364dcbb38cbf3ec1d7f1eba816fea57e325",
+      "url": "net.fabricmc.fabric/1.21.9-pre2.json"
+    },
+    {
+      "mcVersion": "1.21.9-pre1",
+      "sha256": "65fa7d04f08500de173df8a157af0daf28001670d7b7f6a12b647b9a13967291",
+      "url": "net.fabricmc.fabric/1.21.9-pre1.json"
+    },
+    {
+      "mcVersion": "25w37a",
+      "sha256": "bf537127dc777919ba975ed4b1bdaa17c68cf75a325d597818363ef773f61d02",
+      "url": "net.fabricmc.fabric/25w37a.json"
+    },
+    {
+      "mcVersion": "25w36b",
+      "sha256": "ceb721a7a90d6080f3d2624243873ec2ac08e673a69ef5fb56469215fc768785",
+      "url": "net.fabricmc.fabric/25w36b.json"
+    },
+    {
+      "mcVersion": "25w36a",
+      "sha256": "bb365a0fac9a9f6bcc8ad089ffcd2016734d2b856f833904f45dc65b7edf9bb6",
+      "url": "net.fabricmc.fabric/25w36a.json"
+    },
+    {
+      "mcVersion": "25w35a",
+      "sha256": "af1b639b91d3699343e3969e35edb076bf79a3cbf623ac67f32b424dc91c6a01",
+      "url": "net.fabricmc.fabric/25w35a.json"
+    },
+    {
+      "mcVersion": "25w34b",
+      "sha256": "244327ee0f16f7de46aaa01102ebd960b699216259672b4aaa5f01545ee22cea",
+      "url": "net.fabricmc.fabric/25w34b.json"
+    },
+    {
+      "mcVersion": "25w34a",
+      "sha256": "e7256beabfab59f620ac9f7ce5a650e220cd92b9538ad4582bb6ca6452576f69",
+      "url": "net.fabricmc.fabric/25w34a.json"
+    },
+    {
+      "mcVersion": "25w33a",
+      "sha256": "6463301d534087b16b62babafab1593fe4a790062a6e9479cb93c0dc2bb61563",
+      "url": "net.fabricmc.fabric/25w33a.json"
+    },
+    {
+      "mcVersion": "25w32a",
+      "sha256": "5794e0272a011efce8822ef124b3e97e9e463d96ae4c9e77eedc04bf7a672b7f",
+      "url": "net.fabricmc.fabric/25w32a.json"
+    },
+    {
+      "mcVersion": "25w31a",
+      "sha256": "43ab47748dd7a9402f776d3953f9c625bbfe83a55c4b301c7460c34b42802bb4",
+      "url": "net.fabricmc.fabric/25w31a.json"
+    },
+    {
+      "mcVersion": "1.21.8",
+      "sha256": "636b6336fc07a3a2968d5872651f03fb43d3b6c2a66a15e57394d28b10d6cc8d",
+      "url": "net.fabricmc.fabric/1.21.8.json"
+    },
+    {
+      "mcVersion": "1.21.8-rc1",
+      "sha256": "29373447644ffe9eda4c739dc5a29bb2fa54d6a24434bbae693edaad3fee7547",
+      "url": "net.fabricmc.fabric/1.21.8-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.7",
+      "sha256": "5ff5e15acf604ca18db86b262eb36236452a24f89230d26976898e25b7685aec",
+      "url": "net.fabricmc.fabric/1.21.7.json"
+    },
+    {
+      "mcVersion": "1.21.7-rc2",
+      "sha256": "cf88aefc9c330ab19d903c0d031584bfa1499fb22dfa29dbfb4c947fdc6268ba",
+      "url": "net.fabricmc.fabric/1.21.7-rc2.json"
+    },
+    {
+      "mcVersion": "1.21.7-rc1",
+      "sha256": "3f6afbf787e863ff9cb54813bb528b094bf02daa06a792b6a646ff260e97a5ea",
+      "url": "net.fabricmc.fabric/1.21.7-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.6",
+      "sha256": "3e996199650dc2235121d48e5245868d637267e003f75f404ba83ebc33b39d90",
+      "url": "net.fabricmc.fabric/1.21.6.json"
+    },
+    {
+      "mcVersion": "1.21.6-rc1",
+      "sha256": "cee88936ac3a465c863fe8c6c79cfb0009bdaac923e17888e0a82e57174f4450",
+      "url": "net.fabricmc.fabric/1.21.6-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.6-pre4",
+      "sha256": "49ff9b40a419aa3812d697b176f2857f8db904b2fded054b4b73eefe9d07fb77",
+      "url": "net.fabricmc.fabric/1.21.6-pre4.json"
+    },
+    {
+      "mcVersion": "1.21.6-pre3",
+      "sha256": "7640704f293c8d3b65bc3ef23b4fa92384ebdf7f412a7a6938e2b6a4d2d7324a",
+      "url": "net.fabricmc.fabric/1.21.6-pre3.json"
+    },
+    {
+      "mcVersion": "1.21.6-pre2",
+      "sha256": "7a30ca277a9116cd425c72eec93d065d48fd9381c943a7dcbae5c565b2958d6a",
+      "url": "net.fabricmc.fabric/1.21.6-pre2.json"
+    },
+    {
+      "mcVersion": "1.21.6-pre1",
+      "sha256": "2e2a0f59bc0ed0b199658c21d8600a040f231b3167c4b038fd148813d0ce43f6",
+      "url": "net.fabricmc.fabric/1.21.6-pre1.json"
+    },
+    {
+      "mcVersion": "25w21a",
+      "sha256": "33633616349375a68794edcb8c6629ad6c87feffb5d2c00ea5dd0324b00386c2",
+      "url": "net.fabricmc.fabric/25w21a.json"
+    },
+    {
+      "mcVersion": "25w20a",
+      "sha256": "aa2187a5499d09e44ddc7360ae0c3d1719af564923a952ef7e25c328d8fb779b",
+      "url": "net.fabricmc.fabric/25w20a.json"
+    },
+    {
+      "mcVersion": "25w19a",
+      "sha256": "283ffb6d600ffe6bf75c12cd9a8f7210a04280bfcaf5ec9511fab8b54efa6de4",
+      "url": "net.fabricmc.fabric/25w19a.json"
+    },
+    {
+      "mcVersion": "25w18a",
+      "sha256": "82e5a8b84b949502ecc3979be6240300ffc80e1bce1611d422e868f30ec3c947",
+      "url": "net.fabricmc.fabric/25w18a.json"
+    },
+    {
+      "mcVersion": "25w17a",
+      "sha256": "4214043f6e9f805a79c248c231ebd465baccce3c768bf86c14c69a2238032f15",
+      "url": "net.fabricmc.fabric/25w17a.json"
+    },
+    {
+      "mcVersion": "25w16a",
+      "sha256": "82789ea47242c6eaeedc55681bc89d9f129762bb015d7178833e64e69dbda3c8",
+      "url": "net.fabricmc.fabric/25w16a.json"
+    },
+    {
+      "mcVersion": "25w15a",
+      "sha256": "b3de8397b074997fedc6e2a68b6f8e17fe0fdc434888932ebd9dd470e1ad7ae5",
+      "url": "net.fabricmc.fabric/25w15a.json"
+    },
+    {
+      "mcVersion": "25w14craftmine",
+      "sha256": "0686189bf61b94d3c4f8a175df501b7a9fd58b14c6242e209210581c453d116d",
+      "url": "net.fabricmc.fabric/25w14craftmine.json"
+    },
+    {
+      "mcVersion": "1.21.5",
+      "sha256": "7d6909375058ccb599564ae54cf972be1dd06b626b7800df8e4a39c58e3c09e0",
+      "url": "net.fabricmc.fabric/1.21.5.json"
+    },
+    {
+      "mcVersion": "1.21.5-rc2",
+      "sha256": "893698320cf2065b49001ad57000062cf9cd833f51f22424ebc9040abfd74860",
+      "url": "net.fabricmc.fabric/1.21.5-rc2.json"
+    },
+    {
+      "mcVersion": "1.21.5-rc1",
+      "sha256": "47e58dbb8be89bedf19161de444953dc4dc28e59c9389f833bba3857a3ca2b58",
+      "url": "net.fabricmc.fabric/1.21.5-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.5-pre3",
+      "sha256": "e92a3da0766e17a157c0f99b2e6e5d6d7e15725ece1c894310dbf1b947e1303a",
+      "url": "net.fabricmc.fabric/1.21.5-pre3.json"
+    },
+    {
+      "mcVersion": "1.21.5-pre2",
+      "sha256": "6e538ddbbd855dc9f9f2c0322f655bdc32de4db828a8fc87e3c68cf546d3b369",
+      "url": "net.fabricmc.fabric/1.21.5-pre2.json"
+    },
+    {
+      "mcVersion": "1.21.5-pre1",
+      "sha256": "6ed5fea73313a3ad34ae094f13904fe56f3104278df770927aa2f9d69fdee9e5",
+      "url": "net.fabricmc.fabric/1.21.5-pre1.json"
+    },
+    {
+      "mcVersion": "25w10a",
+      "sha256": "816bcf855007efcb8c109ec711cbaafeea955975e7d0820feb9de78e35aacba6",
+      "url": "net.fabricmc.fabric/25w10a.json"
+    },
+    {
+      "mcVersion": "25w09b",
+      "sha256": "943eac545c80e7f795e616422f9504240576e263bf59ae730d3378f255558e93",
+      "url": "net.fabricmc.fabric/25w09b.json"
+    },
+    {
+      "mcVersion": "25w09a",
+      "sha256": "a8d672ca80815f43f1e44eeb6ac801dec393ae5650d4249a51f53224fcf0e70b",
+      "url": "net.fabricmc.fabric/25w09a.json"
+    },
+    {
+      "mcVersion": "25w08a",
+      "sha256": "f3b4ab1d03cb20f3ae1cd12595c45e2b761cb33f0de61140c28a0f9748197c20",
+      "url": "net.fabricmc.fabric/25w08a.json"
+    },
+    {
+      "mcVersion": "25w07a",
+      "sha256": "514e0a6db9e04f6cd7cf6deac513fdff5fe2efc27bb6b944cc2ef5f7b7d2f21f",
+      "url": "net.fabricmc.fabric/25w07a.json"
+    },
+    {
+      "mcVersion": "25w06a",
+      "sha256": "f0faad97a066efbd0f0fc6d0773f6339300b47a395e3b2ff51b268a7754bbcd4",
+      "url": "net.fabricmc.fabric/25w06a.json"
+    },
+    {
+      "mcVersion": "25w05a",
+      "sha256": "a96073dcdd5fae8d7859cd4613727084a3060043f6c611b032ba479d44ffa7c2",
+      "url": "net.fabricmc.fabric/25w05a.json"
+    },
+    {
+      "mcVersion": "25w04a",
+      "sha256": "86d80cf312a0fff246ff0cfd0c691b74c0a04a8b112135b93af1982124760661",
+      "url": "net.fabricmc.fabric/25w04a.json"
+    },
+    {
+      "mcVersion": "25w03a",
+      "sha256": "41fccf323fe605b613fb1c0f2279e20129e8bed402debb71662a0fa623ce938c",
+      "url": "net.fabricmc.fabric/25w03a.json"
+    },
+    {
+      "mcVersion": "25w02a",
+      "sha256": "6bfadc969d5fd3d6623f5a47360efe7f2b4a06dcfdb079c4789651e39df5b9c1",
+      "url": "net.fabricmc.fabric/25w02a.json"
+    },
+    {
+      "mcVersion": "1.21.4",
+      "sha256": "2eb8de3a0ed5a5a3636f72292cc875ad7ee2907b1eff2d01dc6dec07b6300353",
+      "url": "net.fabricmc.fabric/1.21.4.json"
+    },
+    {
+      "mcVersion": "1.21.4-rc3",
+      "sha256": "3d8f3e67a8df91155c6b66135ecfebd9c2b55ec8d07cd1dadb1f54dbecde69fe",
+      "url": "net.fabricmc.fabric/1.21.4-rc3.json"
+    },
+    {
+      "mcVersion": "1.21.4-rc2",
+      "sha256": "bab3d2bb3531b84b53bff1fc72ed891145f63c33f5841e610f9978e81659be6a",
+      "url": "net.fabricmc.fabric/1.21.4-rc2.json"
+    },
+    {
+      "mcVersion": "1.21.4-rc1",
+      "sha256": "3a71a34315a9c618cdd1eea2293c746bc528bf74ca9ae3637cf59733465a77ac",
+      "url": "net.fabricmc.fabric/1.21.4-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.4-pre3",
+      "sha256": "60139cb1fcb51a734df2f8d2c1440e754c5355e0f10697f74a630aa0f53090f3",
+      "url": "net.fabricmc.fabric/1.21.4-pre3.json"
+    },
+    {
+      "mcVersion": "1.21.4-pre2",
+      "sha256": "37b761aecc44dfab188600dda04de097f3e68925629b4283678f76d4513771ad",
+      "url": "net.fabricmc.fabric/1.21.4-pre2.json"
+    },
+    {
+      "mcVersion": "1.21.4-pre1",
+      "sha256": "8cf097c47e7d0d3b2e95a590ac7f5ff358e7e3b23c8d31b183ec87e5c3949845",
+      "url": "net.fabricmc.fabric/1.21.4-pre1.json"
+    },
+    {
+      "mcVersion": "24w46a",
+      "sha256": "0bf5b7abada8cd7e0b495d2857da9fa70723df8718b42c4c65910b620230ba84",
+      "url": "net.fabricmc.fabric/24w46a.json"
+    },
+    {
+      "mcVersion": "24w45a",
+      "sha256": "b76abd46507c0dd6f71618c3e17fa6c31839796ef1ebff2d2aa6cc6e72256bef",
+      "url": "net.fabricmc.fabric/24w45a.json"
+    },
+    {
+      "mcVersion": "24w44a",
+      "sha256": "282d092547d844aee4c8be9e4b5ae340f4fbc69cab53963eaca87d56a740100a",
+      "url": "net.fabricmc.fabric/24w44a.json"
+    },
+    {
+      "mcVersion": "1.21.3",
+      "sha256": "374cf9385edba15cb215155fa94830395cd7103239dfafb2a79bbeb355bffc81",
+      "url": "net.fabricmc.fabric/1.21.3.json"
+    },
+    {
+      "mcVersion": "1.21.2",
+      "sha256": "a94b6011eeea716029f669ffbb8ccc3f712818e7da26a18e77f6aed61cc3d1ce",
+      "url": "net.fabricmc.fabric/1.21.2.json"
+    },
+    {
+      "mcVersion": "1.21.2-rc2",
+      "sha256": "dc3b162db79f6a1735ddfb5dc6f632ed5a142b03607e6dc160df3afbd26fc491",
+      "url": "net.fabricmc.fabric/1.21.2-rc2.json"
+    },
+    {
+      "mcVersion": "1.21.2-rc1",
+      "sha256": "b57b7f3722de0cec1e9898be2f40d4733c2cdeaf094ecdbdf39c5b394d1794a2",
+      "url": "net.fabricmc.fabric/1.21.2-rc1.json"
+    },
+    {
+      "mcVersion": "1.21.2-pre5",
+      "sha256": "204dacc942d7c7bc7c4356cf682c958f2e4b9ec6138603644e50b87f3d2f2693",
+      "url": "net.fabricmc.fabric/1.21.2-pre5.json"
+    },
+    {
+      "mcVersion": "1.21.2-pre4",
+      "sha256": "ca57b920413bc66eb1d5cbc4420a1b0113360e9ca6cfc233c7c0036a4e5c80b2",
+      "url": "net.fabricmc.fabric/1.21.2-pre4.json"
+    },
+    {
+      "mcVersion": "1.21.2-pre3",
+      "sha256": "fa6cf7b744128a152cbf6a85cf009e692939c7b6f4e27d174b42d810b462a5ac",
+      "url": "net.fabricmc.fabric/1.21.2-pre3.json"
+    },
+    {
+      "mcVersion": "1.21.2-pre2",
+      "sha256": "3918ffc8008b51e1666e9510b8e171196eb1d7a0a9a5a708aefe37ae101dacd8",
+      "url": "net.fabricmc.fabric/1.21.2-pre2.json"
+    },
+    {
+      "mcVersion": "1.21.2-pre1",
+      "sha256": "f2a2c83e492229ec2fac3301d58a1f19daa423ee8203b3602c97d8e589da58ee",
+      "url": "net.fabricmc.fabric/1.21.2-pre1.json"
+    },
+    {
+      "mcVersion": "24w40a",
+      "sha256": "a12c135b2b7d7a0e18face8668ea76fd241622be9c4860fa891ffa4c985d95e8",
+      "url": "net.fabricmc.fabric/24w40a.json"
+    },
+    {
+      "mcVersion": "24w39a",
+      "sha256": "a035bbc2a345e319a9e1225e579ec4c0d7962deb2445a2c33279cbdb4984aaf7",
+      "url": "net.fabricmc.fabric/24w39a.json"
+    },
+    {
+      "mcVersion": "24w38a",
+      "sha256": "2292619f5ac5af23e7431c3410d42005d76042a966e28eb7bf0c6ee9824b4b9c",
+      "url": "net.fabricmc.fabric/24w38a.json"
+    },
+    {
+      "mcVersion": "24w37a",
+      "sha256": "2817ce88859994c1285fafe77ef3432933b929c7fa7230b354202b4496f3f402",
+      "url": "net.fabricmc.fabric/24w37a.json"
+    },
+    {
+      "mcVersion": "24w36a",
+      "sha256": "bc4f5083650cbe4e45a54edce4f9f66f43ad64625885e4097f3caa03d8d61698",
+      "url": "net.fabricmc.fabric/24w36a.json"
+    },
+    {
+      "mcVersion": "24w35a",
+      "sha256": "f285c46a495bd4ffb57e7050e0af0ec0b925e5f68bdbaedc8324b9a3a638d895",
+      "url": "net.fabricmc.fabric/24w35a.json"
+    },
+    {
+      "mcVersion": "24w34a",
+      "sha256": "f497c44270092c6dbf5bbb54b323cebc3bd6b012c438aeebc4052cab809ed446",
+      "url": "net.fabricmc.fabric/24w34a.json"
+    },
+    {
+      "mcVersion": "24w33a",
+      "sha256": "befc4eec4b42f84691aba1d6f36883e97ac285c67df26dfb2897f48bdd63fdb4",
+      "url": "net.fabricmc.fabric/24w33a.json"
+    },
+    {
+      "mcVersion": "1.21.1",
+      "sha256": "bc153036a07820e58a79d0fabef21e3bf8bcc4936f1d5274ab3e89df8f17790a",
+      "url": "net.fabricmc.fabric/1.21.1.json"
+    },
+    {
+      "mcVersion": "1.21.1-rc1",
+      "sha256": "b5dded8e45c7a50c7bea559625f6e14dffc8f78c6e6684889d477bfb9f650759",
+      "url": "net.fabricmc.fabric/1.21.1-rc1.json"
+    },
+    {
+      "mcVersion": "1.21",
+      "sha256": "710651de4b84f6b0f127261477a53095c73e41da86bab1a954ed0f1c1cbc6176",
+      "url": "net.fabricmc.fabric/1.21.json"
+    },
+    {
+      "mcVersion": "1.21-rc1",
+      "sha256": "ae5c82a404e4209e8cfffbc2de0f5528f92c7dc0789e923641c1fe9aa52738a3",
+      "url": "net.fabricmc.fabric/1.21-rc1.json"
+    },
+    {
+      "mcVersion": "1.21-pre4",
+      "sha256": "0cf73e6b98c95c848a258a83ea98f20ca99047979e0e282ff462b87b6695427b",
+      "url": "net.fabricmc.fabric/1.21-pre4.json"
+    },
+    {
+      "mcVersion": "1.21-pre3",
+      "sha256": "7766990f28c2357ef85249ce301fad8ece2a6e14c5d2b4c5fd9f109be20f96f8",
+      "url": "net.fabricmc.fabric/1.21-pre3.json"
+    },
+    {
+      "mcVersion": "1.21-pre2",
+      "sha256": "85d698ccbd3a4087e7fcd5180f8692afbdfa09702b63db446718160f52b3a2f1",
+      "url": "net.fabricmc.fabric/1.21-pre2.json"
+    },
+    {
+      "mcVersion": "1.21-pre1",
+      "sha256": "e9eece744c559582e64d5d3ac8cae56623510200f05f67ecbbecba5ff6d4025c",
+      "url": "net.fabricmc.fabric/1.21-pre1.json"
+    },
+    {
+      "mcVersion": "24w21b",
+      "sha256": "1acfbd0118ac66271ebb635e0d214b45a9253444729bf8d814e0783051e53093",
+      "url": "net.fabricmc.fabric/24w21b.json"
+    },
+    {
+      "mcVersion": "24w21a",
+      "sha256": "3c833ab22460feeccfad4ed04dbcafbceed742481a0792d7324a69075890e00c",
+      "url": "net.fabricmc.fabric/24w21a.json"
+    },
+    {
+      "mcVersion": "24w20a",
+      "sha256": "22d4df7af9490fac304144d172a5d7f642808754efed3aef13fbaed5f2202291",
+      "url": "net.fabricmc.fabric/24w20a.json"
+    },
+    {
+      "mcVersion": "24w19b",
+      "sha256": "34f93bd21a876473d6e805110880c5292d9c9a87861a0bb7834237d18c082a13",
+      "url": "net.fabricmc.fabric/24w19b.json"
+    },
+    {
+      "mcVersion": "24w19a",
+      "sha256": "5c5889fe6093d15c1cddba5fae78ca52cc21f2c721aa27435c4013f7996783c4",
+      "url": "net.fabricmc.fabric/24w19a.json"
+    },
+    {
+      "mcVersion": "24w18a",
+      "sha256": "a3955a0728a354877f9978d9c5805801528806e32081a2fbd47ec3ed7c8a20a3",
+      "url": "net.fabricmc.fabric/24w18a.json"
+    },
+    {
+      "mcVersion": "1.20.6",
+      "sha256": "ac269f331a82cf9df017d3adfdd7523f7400f568855dcdd1f3c34b698b06f202",
+      "url": "net.fabricmc.fabric/1.20.6.json"
+    },
+    {
+      "mcVersion": "1.20.6-rc1",
+      "sha256": "ec9c5c20bb1f15fc86d86d2a8aef2977fb24dd79057aab228865834fdbd3f6ee",
+      "url": "net.fabricmc.fabric/1.20.6-rc1.json"
+    },
+    {
+      "mcVersion": "1.20.5",
+      "sha256": "a65cebedd033e2b9f9456b0b9c0c09fe5fb4a2c260d7878e2aa3602053e80118",
+      "url": "net.fabricmc.fabric/1.20.5.json"
+    },
+    {
+      "mcVersion": "1.20.5-rc3",
+      "sha256": "721aa688c310c678b71f6d0a80247ee652c2cee47c5bb9ef8ef9a0e291d06a0d",
+      "url": "net.fabricmc.fabric/1.20.5-rc3.json"
+    },
+    {
+      "mcVersion": "1.20.5-rc2",
+      "sha256": "5ec21696825166112dc936722770727190fbb612fc8d93d2ac9f1b353ebe2761",
+      "url": "net.fabricmc.fabric/1.20.5-rc2.json"
+    },
+    {
+      "mcVersion": "1.20.5-rc1",
+      "sha256": "d66ca40ad4134f547195660f70abff8ae7b7515c3426366801cb9799bb4ec5f3",
+      "url": "net.fabricmc.fabric/1.20.5-rc1.json"
+    },
+    {
+      "mcVersion": "1.20.5-pre4",
+      "sha256": "689f67d50c71ac87d9cc3ba1560cbe8995cea9b6b298567d83ab66ef5590f077",
+      "url": "net.fabricmc.fabric/1.20.5-pre4.json"
+    },
+    {
+      "mcVersion": "1.20.5-pre3",
+      "sha256": "58f01aacd1cb03dcd08e7c1128d36e87479e5055840b1d23b817628611645b4d",
+      "url": "net.fabricmc.fabric/1.20.5-pre3.json"
+    },
+    {
+      "mcVersion": "1.20.5-pre2",
+      "sha256": "6f72e5e2809631aa97c930d2f7f2f5643cfd7c5d137ec08e9b6f885630dac846",
+      "url": "net.fabricmc.fabric/1.20.5-pre2.json"
+    },
+    {
+      "mcVersion": "1.20.5-pre1",
+      "sha256": "1407a5d01967e4b12b0570798c45c12865f6ef2ba307f70e4b57265b4d91ac5e",
+      "url": "net.fabricmc.fabric/1.20.5-pre1.json"
+    },
+    {
+      "mcVersion": "24w14a",
+      "sha256": "5e74ba360644fd17614c76f33a1c50aaee6c37bcff76172f004746392d1dfa32",
+      "url": "net.fabricmc.fabric/24w14a.json"
+    },
+    {
+      "mcVersion": "24w14potato",
+      "sha256": "7f1a687c668c3dbfad9c3e886bec3346986c90bf8ff421dfaf75a2b2343f7217",
+      "url": "net.fabricmc.fabric/24w14potato.json"
+    },
+    {
+      "mcVersion": "24w13a",
+      "sha256": "51255e2ea1dbbc8906807ccdb9ba67036c55be8821cc26b18b20535e8ef68dd1",
+      "url": "net.fabricmc.fabric/24w13a.json"
+    },
+    {
+      "mcVersion": "24w12a",
+      "sha256": "105d52ee7153dee6223ef6a043fa984c3326a58d8cda974cd4437524b367990b",
+      "url": "net.fabricmc.fabric/24w12a.json"
+    },
+    {
+      "mcVersion": "24w11a",
+      "sha256": "bcf557bef0c619ae4867c6e28f330c22d49d527dbf0fbb9ee86afd488e4b47a0",
+      "url": "net.fabricmc.fabric/24w11a.json"
+    },
+    {
+      "mcVersion": "24w10a",
+      "sha256": "172e2ec179b1904192ee6837efce1a27a2b58c740326df6f8a11b7f03e2898b4",
+      "url": "net.fabricmc.fabric/24w10a.json"
+    },
+    {
+      "mcVersion": "24w09a",
+      "sha256": "4acbd446eef9b3b5919d6c4c2e15192c39d83700a91fbc036f4aafb091524443",
+      "url": "net.fabricmc.fabric/24w09a.json"
+    },
+    {
+      "mcVersion": "24w07a",
+      "sha256": "7e8b1e08525170c6b851ccf5114bad5da783fa05690576b436ab1fb04d3b9ec2",
+      "url": "net.fabricmc.fabric/24w07a.json"
+    },
+    {
+      "mcVersion": "24w06a",
+      "sha256": "45a74c4a71e24c7000951c3909c288ab08f0eaa39bc777bf9b2080f15fe79dc2",
+      "url": "net.fabricmc.fabric/24w06a.json"
+    },
+    {
+      "mcVersion": "24w05b",
+      "sha256": "7b03d9382a958db971d23b74fc7bb47b9138bde0d40559a601b0a253280d3402",
+      "url": "net.fabricmc.fabric/24w05b.json"
+    },
+    {
+      "mcVersion": "24w05a",
+      "sha256": "ef89bffa4ba0307f52f9e0ae7a3e5a7c5411498ed0d6b57dc8327ed93b4654ab",
+      "url": "net.fabricmc.fabric/24w05a.json"
+    },
+    {
+      "mcVersion": "24w04a",
+      "sha256": "6df9e47ae480163d965a18ea3d4fb33db4b898fd0c92a215705a43982a261a88",
+      "url": "net.fabricmc.fabric/24w04a.json"
+    },
+    {
+      "mcVersion": "24w03b",
+      "sha256": "323f5d6f7fb0059467d2b2155762c9b23ad11bb39e4389775924e9a1fd1a7c89",
+      "url": "net.fabricmc.fabric/24w03b.json"
+    },
+    {
+      "mcVersion": "24w03a",
+      "sha256": "86c2d15426adb131d7f69abb7736348e02d1d0a2a0de78fd5985d41751e01d48",
+      "url": "net.fabricmc.fabric/24w03a.json"
+    },
+    {
+      "mcVersion": "23w51b",
+      "sha256": "70d4bde20d40e377522f2bc24e1bd29d8180c8b10a8f19df33e768fb76bbf087",
+      "url": "net.fabricmc.fabric/23w51b.json"
+    },
+    {
+      "mcVersion": "23w51a",
+      "sha256": "93e6141a37b266925c613943de5459810647c58cde174679cd4ff9844071c065",
+      "url": "net.fabricmc.fabric/23w51a.json"
+    },
+    {
+      "mcVersion": "1.20.4",
+      "sha256": "6b494b575b19345a6458ca8b27702b941ea9214e758e5da4a6664bcf08e8967f",
+      "url": "net.fabricmc.fabric/1.20.4.json"
+    },
+    {
+      "mcVersion": "1.20.4-rc1",
+      "sha256": "1cb435ddd874f144f0313c79a569cdcda2edd671c14d02f1c2185879f5b92350",
+      "url": "net.fabricmc.fabric/1.20.4-rc1.json"
+    },
+    {
+      "mcVersion": "1.20.3",
+      "sha256": "cb85d9ade6b00a8cb150845e4bfc83ae023551ab5f42e7d37006defd9be694e8",
+      "url": "net.fabricmc.fabric/1.20.3.json"
+    },
+    {
+      "mcVersion": "1.20.3-rc1",
+      "sha256": "1396822a016f31553c57a95372b637826be52137a7035824d8b29c5e4007ec3b",
+      "url": "net.fabricmc.fabric/1.20.3-rc1.json"
+    },
+    {
+      "mcVersion": "1.20.3-pre4",
+      "sha256": "a0783203d4b738e865389c3b92e2bcb072f00b416293185a48ed97fb66cf0f44",
+      "url": "net.fabricmc.fabric/1.20.3-pre4.json"
+    },
+    {
+      "mcVersion": "1.20.3-pre3",
+      "sha256": "0994ffd06f98031dd327211ca77d57a86afa49ecff380c0cc551b15a68143057",
+      "url": "net.fabricmc.fabric/1.20.3-pre3.json"
+    },
+    {
+      "mcVersion": "1.20.3-pre2",
+      "sha256": "0f1e1e4c9bf0460bf782604d57b40ebd49361852e1fb47c4aa68b80fa8eb8e51",
+      "url": "net.fabricmc.fabric/1.20.3-pre2.json"
+    },
+    {
+      "mcVersion": "1.20.3-pre1",
+      "sha256": "8c51f2d43071cee4b85f10031d7381b70e3e2db7517b4d6691addb9ad715562c",
+      "url": "net.fabricmc.fabric/1.20.3-pre1.json"
+    },
+    {
+      "mcVersion": "23w46a",
+      "sha256": "e3718015ee10768492679d3ab02c0c7fdf597fb5c67c33d7922fb39767cf7c2f",
+      "url": "net.fabricmc.fabric/23w46a.json"
+    },
+    {
+      "mcVersion": "23w45a",
+      "sha256": "86dff4cbbd3c97d49b3d38700c893a0f138e5f35fb264b3d7d19a8bcb109283e",
+      "url": "net.fabricmc.fabric/23w45a.json"
+    },
+    {
+      "mcVersion": "23w44a",
+      "sha256": "5188c6e6e89627749e0cfd09bbeb060234c6f24497604ed2019798bcef4077fd",
+      "url": "net.fabricmc.fabric/23w44a.json"
+    },
+    {
+      "mcVersion": "23w43b",
+      "sha256": "c71a472c7b385bb50774c203bd52b16678493a3d9500b185614bac9aaebd340f",
+      "url": "net.fabricmc.fabric/23w43b.json"
+    },
+    {
+      "mcVersion": "23w43a",
+      "sha256": "d979f1d878a00613e86b487bcb8f99107cdd35ca8254d2560c390aaac1c25b4f",
+      "url": "net.fabricmc.fabric/23w43a.json"
+    },
+    {
+      "mcVersion": "23w42a",
+      "sha256": "78834b7c4ab456b98040d13b7d85938b2ae8cbf127ed27b38b152b6938a4a44d",
+      "url": "net.fabricmc.fabric/23w42a.json"
+    },
+    {
+      "mcVersion": "23w41a",
+      "sha256": "2e941b706b43812d52b1e1f8cebddc31222cdceac70df6d5b2e981c740346228",
+      "url": "net.fabricmc.fabric/23w41a.json"
+    },
+    {
+      "mcVersion": "23w40a",
+      "sha256": "d8f9021d6c1e390689aa93e70d5fa0143bb9b500b106becdaac88050498d9a0c",
+      "url": "net.fabricmc.fabric/23w40a.json"
+    },
+    {
+      "mcVersion": "1.20.2",
+      "sha256": "9b5e693fadbae9de1dbb450352fa05d2b3bb44c35d71e37b27b4432abe4e4198",
+      "url": "net.fabricmc.fabric/1.20.2.json"
+    },
+    {
+      "mcVersion": "1.20.2-rc2",
+      "sha256": "92a0368e21af24b615c755f2b989aa625be374bae78dd094430985fb17314257",
+      "url": "net.fabricmc.fabric/1.20.2-rc2.json"
+    },
+    {
+      "mcVersion": "1.20.2-rc1",
+      "sha256": "5337b97b8fa3813b4ed16a95d25a2b36031d0c0c17f230ad095f88204b954673",
+      "url": "net.fabricmc.fabric/1.20.2-rc1.json"
+    },
+    {
+      "mcVersion": "1.20.2-pre4",
+      "sha256": "f6596228fea74c7210bd6d33404f4c3b5f8ab25fbb607f8e926a66fbb99208b4",
+      "url": "net.fabricmc.fabric/1.20.2-pre4.json"
+    },
+    {
+      "mcVersion": "1.20.2-pre3",
+      "sha256": "7a8e9ca16cd023d6ac610ae58d712dc2638befa1df9fb0c0ca957d35362a4d5c",
+      "url": "net.fabricmc.fabric/1.20.2-pre3.json"
+    },
+    {
+      "mcVersion": "1.20.2-pre2",
+      "sha256": "202e0446e3d7724b32cd79bc4dadc83fea0f95e5c4cd7f72d8ca81bc32132f46",
+      "url": "net.fabricmc.fabric/1.20.2-pre2.json"
+    },
+    {
+      "mcVersion": "1.20.2-pre1",
+      "sha256": "db41b193d2ca34a652cd9fade5f3c1b8f62cf199fe4737ca9468d6389cedd2be",
+      "url": "net.fabricmc.fabric/1.20.2-pre1.json"
+    },
+    {
+      "mcVersion": "23w35a",
+      "sha256": "64afd903564a0307eeb644b281613788b53b810893184ccadfd4fda1fc1c03dd",
+      "url": "net.fabricmc.fabric/23w35a.json"
+    },
+    {
+      "mcVersion": "23w33a",
+      "sha256": "b13754bb98b3f2d9089e9355214bf0e4aa123a5c9c60d3565b2287c160c94d9e",
+      "url": "net.fabricmc.fabric/23w33a.json"
+    },
+    {
+      "mcVersion": "23w32a",
+      "sha256": "4df0c8e4322973a4b8883bf7f64f064a67ed9476000bb066956428a3eca3e0e0",
+      "url": "net.fabricmc.fabric/23w32a.json"
+    },
+    {
+      "mcVersion": "23w31a",
+      "sha256": "8beed7a1a7c1a4d2aa3c8a2d4e1e1f547a0eb5224a19eafad31ff312bdc6015d",
+      "url": "net.fabricmc.fabric/23w31a.json"
+    },
+    {
+      "mcVersion": "1.20.1",
+      "sha256": "f62175ed6c61d4f4f89ec47bfe3a3186372db2627016d45e96d7ae5f5b2f0eca",
+      "url": "net.fabricmc.fabric/1.20.1.json"
+    },
+    {
+      "mcVersion": "1.20.1-rc1",
+      "sha256": "64bb975de1e5a07cb3a0c0d8ee5c476f23b71269f7195aa4c1c4c5b9594b9578",
+      "url": "net.fabricmc.fabric/1.20.1-rc1.json"
+    },
+    {
+      "mcVersion": "1.20",
+      "sha256": "594faf9c5632c115fe61e773395e55c3b226d934c08130b6d4889e0631daeb0e",
+      "url": "net.fabricmc.fabric/1.20.json"
+    },
+    {
+      "mcVersion": "1.20-rc1",
+      "sha256": "8b294b00be1acc450ad4e7e111b451675b13fc926a07318367309f7fa3704790",
+      "url": "net.fabricmc.fabric/1.20-rc1.json"
+    },
+    {
+      "mcVersion": "1.20-pre7",
+      "sha256": "9487fbf2f3dd481dd44314a77746a4549a80111d7e51044e302ac488584d6b9f",
+      "url": "net.fabricmc.fabric/1.20-pre7.json"
+    },
+    {
+      "mcVersion": "1.20-pre6",
+      "sha256": "4203f6215bffcc5c6fa0b6679787030479b1ce1bce3bbd7e1e2af137ce0daa98",
+      "url": "net.fabricmc.fabric/1.20-pre6.json"
+    },
+    {
+      "mcVersion": "1.20-pre5",
+      "sha256": "246d41efea0aa23e7220111f830ff8484eae4fe03c566d77cb1cc156f67259b1",
+      "url": "net.fabricmc.fabric/1.20-pre5.json"
+    },
+    {
+      "mcVersion": "1.20-pre4",
+      "sha256": "74f16a6b7d5ec021bcba660fd4a7818b6e1d50553c5f598bea7c6eb9793dac40",
+      "url": "net.fabricmc.fabric/1.20-pre4.json"
+    },
+    {
+      "mcVersion": "1.20-pre3",
+      "sha256": "434e6aaf8baccf67248e1982430980733506c0995434b52f91f9ff4bb76011a7",
+      "url": "net.fabricmc.fabric/1.20-pre3.json"
+    },
+    {
+      "mcVersion": "1.20-pre2",
+      "sha256": "740c198f466ae5b39c922748e31d4364ffb00112bd3eb96e416e2da9cd197112",
+      "url": "net.fabricmc.fabric/1.20-pre2.json"
+    },
+    {
+      "mcVersion": "1.20-pre1",
+      "sha256": "d72fce17a72b2907e78c27ef1766a6de6be22b8120837d930f7fc5656cdbc265",
+      "url": "net.fabricmc.fabric/1.20-pre1.json"
+    },
+    {
+      "mcVersion": "23w18a",
+      "sha256": "3c2fca4f651e18e8fd75abfa36b8a45e808bddb852855402f99498f840bcff35",
+      "url": "net.fabricmc.fabric/23w18a.json"
+    },
+    {
+      "mcVersion": "23w17a",
+      "sha256": "36daf256d87c3052a1cfc91af11ab4c936974b4eec1e2913b93cf5a8f4c8d6f6",
+      "url": "net.fabricmc.fabric/23w17a.json"
+    },
+    {
+      "mcVersion": "23w16a",
+      "sha256": "c42ba8044195e949f7d5e4d8622e64416bc716a2b910e5795f6e18ea628b1f27",
+      "url": "net.fabricmc.fabric/23w16a.json"
+    },
+    {
+      "mcVersion": "23w14a",
+      "sha256": "1897cab0e53419ff1d1e2a5f5e24a5548578fd6ff7d076820bf0f7b80b0a3479",
+      "url": "net.fabricmc.fabric/23w14a.json"
+    },
+    {
+      "mcVersion": "23w13a_or_b",
+      "sha256": "57c48a5c436cf8c1b04af999434d27478b5ce5c0b1306a46999eb0e13f5857bb",
+      "url": "net.fabricmc.fabric/23w13a_or_b.json"
+    },
+    {
+      "mcVersion": "23w13a",
+      "sha256": "ce8986c5238b901841e4e5941d4c41d2892220511bc39ac9cc559399b99465de",
+      "url": "net.fabricmc.fabric/23w13a.json"
+    },
+    {
+      "mcVersion": "23w12a",
+      "sha256": "e767b3419a4ae64ee27bef9d8a2212e274778e5159c5a9dffae5b9c047b58055",
+      "url": "net.fabricmc.fabric/23w12a.json"
+    },
+    {
+      "mcVersion": "1.19.4",
+      "sha256": "4321c602a6b2e0be41dcd5f47bc1cbb0bdea604ecf5a44bad63ac7673428c1ce",
+      "url": "net.fabricmc.fabric/1.19.4.json"
+    },
+    {
+      "mcVersion": "1.19.4-rc3",
+      "sha256": "6f9b676b82fd821646a873d9543084b810f5f7024afc6b9896bdc0813c4c118d",
+      "url": "net.fabricmc.fabric/1.19.4-rc3.json"
+    },
+    {
+      "mcVersion": "1.19.4-rc2",
+      "sha256": "0f4b03e9d4209c10b9ee5d8072abd7ca01f7fafbeae4d07ca9e8b62c69712bc7",
+      "url": "net.fabricmc.fabric/1.19.4-rc2.json"
+    },
+    {
+      "mcVersion": "1.19.4-rc1",
+      "sha256": "34978c870a29d6bae15a42510b503949046240fc481284d01874579e9e0554d5",
+      "url": "net.fabricmc.fabric/1.19.4-rc1.json"
+    },
+    {
+      "mcVersion": "1.19.4-pre4",
+      "sha256": "964c43f6cd414a7195c210d2963e884ee9a84a0d4bf18e76ef4f57566a0dc651",
+      "url": "net.fabricmc.fabric/1.19.4-pre4.json"
+    },
+    {
+      "mcVersion": "1.19.4-pre3",
+      "sha256": "6bc05f8b27b3125f6d22fe0b95d1844535bc634c0efee2227487323f2863f032",
+      "url": "net.fabricmc.fabric/1.19.4-pre3.json"
+    },
+    {
+      "mcVersion": "1.19.4-pre2",
+      "sha256": "b5459076d50b91de1cfe7268339c831004c7b889c659e81b9a6aa1b70afcd601",
+      "url": "net.fabricmc.fabric/1.19.4-pre2.json"
+    },
+    {
+      "mcVersion": "1.19.4-pre1",
+      "sha256": "17e1283a5d98907e1a64905a320480160f82424b15de456d950b5bd958706918",
+      "url": "net.fabricmc.fabric/1.19.4-pre1.json"
+    },
+    {
+      "mcVersion": "23w07a",
+      "sha256": "00d0fb2600502c968893c9e2e913e86d96818ad9785fff35724038c0a9498551",
+      "url": "net.fabricmc.fabric/23w07a.json"
+    },
+    {
+      "mcVersion": "23w06a",
+      "sha256": "45c63b92c640eb2e000043a3b7e58602b1ce1d3a17a3ff2b74d5f68c957bd74d",
+      "url": "net.fabricmc.fabric/23w06a.json"
+    },
+    {
+      "mcVersion": "23w05a",
+      "sha256": "3ba66cebd54029071fa4c592bbb8aefedbd8dc342b0767ef4786eb1e5816ca19",
+      "url": "net.fabricmc.fabric/23w05a.json"
+    },
+    {
+      "mcVersion": "23w04a",
+      "sha256": "374cd5c891eaa3b51bb651e9e36023afec4ec831804bba6942d0621c6d57d70e",
+      "url": "net.fabricmc.fabric/23w04a.json"
+    },
+    {
+      "mcVersion": "23w03a",
+      "sha256": "e3e0b460531764ef4809bfefeb54aadc8a8f8ae9189d83f9b70af78f0d5d11c5",
+      "url": "net.fabricmc.fabric/23w03a.json"
+    },
+    {
+      "mcVersion": "1.19.3",
+      "sha256": "658319fa5e2cf7123be6112f085f2c4c0497bb51315abc127ebb48ce63e4e760",
+      "url": "net.fabricmc.fabric/1.19.3.json"
+    },
+    {
+      "mcVersion": "1.19.3-rc3",
+      "sha256": "e301272fe691a5953a814846fcfec354fa291790c986f304d8f6a34b79091170",
+      "url": "net.fabricmc.fabric/1.19.3-rc3.json"
+    },
+    {
+      "mcVersion": "1.19.3-rc2",
+      "sha256": "4933e58c43232b34d1bd5998b87246e0491dadc4496959ec5c716a1fad51c07d",
+      "url": "net.fabricmc.fabric/1.19.3-rc2.json"
+    },
+    {
+      "mcVersion": "1.19.3-rc1",
+      "sha256": "ef9fcd74299729cd8a1b3baf4d218f98e6ceaa63e29e4e4edc3e32ad44a20054",
+      "url": "net.fabricmc.fabric/1.19.3-rc1.json"
+    },
+    {
+      "mcVersion": "1.19.3-pre3",
+      "sha256": "440102f31c7f19f8db3e0432c2cca6c8c1d18e8d9bae10745144061e94b2988b",
+      "url": "net.fabricmc.fabric/1.19.3-pre3.json"
+    },
+    {
+      "mcVersion": "1.19.3-pre2",
+      "sha256": "d49405d99d8aa31b6103535a3aa440a530a80131ba5568f1174c6069d02f7ba3",
+      "url": "net.fabricmc.fabric/1.19.3-pre2.json"
+    },
+    {
+      "mcVersion": "1.19.3-pre1",
+      "sha256": "f1be2e1bb001add0720fa231df554b9e5d20cbc53bd9b8e2cc8228eaf4484d51",
+      "url": "net.fabricmc.fabric/1.19.3-pre1.json"
+    },
+    {
+      "mcVersion": "22w46a",
+      "sha256": "91089b5e48e43a2dafb9d869894ae10f28fd11724735efe62cb3d4ab516e2193",
+      "url": "net.fabricmc.fabric/22w46a.json"
+    },
+    {
+      "mcVersion": "22w45a",
+      "sha256": "889d0e6837a690fd41441db8b443ffc3850138f90d1d3c848ecf4f51cd7ec359",
+      "url": "net.fabricmc.fabric/22w45a.json"
+    },
+    {
+      "mcVersion": "22w44a",
+      "sha256": "ab35fb1488adbb3e770a16ac26d5147a33d1e336ebfb10bc6830a8df347653b5",
+      "url": "net.fabricmc.fabric/22w44a.json"
+    },
+    {
+      "mcVersion": "22w43a",
+      "sha256": "d512e4e0661b3d8a0f8a0d3628f54e5575c85e2f4d43123d068536899cd49ef2",
+      "url": "net.fabricmc.fabric/22w43a.json"
+    },
+    {
+      "mcVersion": "22w42a",
+      "sha256": "bd93664ceccfab9ea1d40fc11bf38ce233e8e593b93782a708f3410c3906402f",
+      "url": "net.fabricmc.fabric/22w42a.json"
+    },
+    {
+      "mcVersion": "1.19.2",
+      "sha256": "4849d77fab15b70c9b1161e4d6b4cc2f338c9c3f3aea9c66c50c04e40dcb2ff1",
+      "url": "net.fabricmc.fabric/1.19.2.json"
+    },
+    {
+      "mcVersion": "1.19.2-rc2",
+      "sha256": "be0137c5970d3c2e30fff9aa948f53a655c766496dff16f40879ffe5a265ab93",
+      "url": "net.fabricmc.fabric/1.19.2-rc2.json"
+    },
+    {
+      "mcVersion": "1.19.2-rc1",
+      "sha256": "42ea5bd31c185aa13f9fc6313d9fb1179641d77d12972c8b70be167a46314bcc",
+      "url": "net.fabricmc.fabric/1.19.2-rc1.json"
+    },
+    {
+      "mcVersion": "1.19.1",
+      "sha256": "2cae58e7df21d0a78ad528e4eae61240df0ef9058d878efa94c9b54f89196e82",
+      "url": "net.fabricmc.fabric/1.19.1.json"
+    },
+    {
+      "mcVersion": "1.19.1-rc3",
+      "sha256": "c6d330f06f39586dac6719a94adbd3ca9c179b9ee9e9901c1a70ee53b7e1d6dd",
+      "url": "net.fabricmc.fabric/1.19.1-rc3.json"
+    },
+    {
+      "mcVersion": "1.19.1-rc2",
+      "sha256": "b92a8931b236da017e939f70e4efead10668a7f5024b36a42cdbc2b35da2a14a",
+      "url": "net.fabricmc.fabric/1.19.1-rc2.json"
+    },
+    {
+      "mcVersion": "1.19.1-pre6",
+      "sha256": "e9f0baa819b6ddac8840d92116f46f1900bc331f996e4df768e659154d3dd666",
+      "url": "net.fabricmc.fabric/1.19.1-pre6.json"
+    },
+    {
+      "mcVersion": "1.19.1-pre5",
+      "sha256": "2fdff9241ecbef31a1f4029cd556792120c85b11b5042a9ba457852ecb3995f3",
+      "url": "net.fabricmc.fabric/1.19.1-pre5.json"
+    },
+    {
+      "mcVersion": "1.19.1-pre4",
+      "sha256": "0a744f34d2026f35ea0db727252e8bced85117b893f6461c8db9819dd5547ac5",
+      "url": "net.fabricmc.fabric/1.19.1-pre4.json"
+    },
+    {
+      "mcVersion": "1.19.1-pre3",
+      "sha256": "edd53117e2bd63dc3d0438217b2418b300714124f766e294a4d3340e6d4158a0",
+      "url": "net.fabricmc.fabric/1.19.1-pre3.json"
+    },
+    {
+      "mcVersion": "1.19.1-pre2",
+      "sha256": "401f79879935b22d1fdf1439ff7f2dcbfbab885686b99fb80e8f0669dda9ba0f",
+      "url": "net.fabricmc.fabric/1.19.1-pre2.json"
+    },
+    {
+      "mcVersion": "1.19.1-rc1",
+      "sha256": "c271687d7b497c107fc544c65625d7d60dd2cdd3108e651428c992fa5fbca78b",
+      "url": "net.fabricmc.fabric/1.19.1-rc1.json"
+    },
+    {
+      "mcVersion": "1.19.1-pre1",
+      "sha256": "02b440801bee2314f4812bc84a2219a0d09b84559441ada58be079de9e2a36a1",
+      "url": "net.fabricmc.fabric/1.19.1-pre1.json"
+    },
+    {
+      "mcVersion": "22w24a",
+      "sha256": "4752a32fee9a6dd1d5c37245c22e7ddf87c5331af0b94ebec75357e5947f0a8c",
+      "url": "net.fabricmc.fabric/22w24a.json"
+    },
+    {
+      "mcVersion": "1.19",
+      "sha256": "a77a0cf9bd67ca41f79ec5663e7f2d9458dc24c6e50515d815e8f0a1dce4b1f3",
+      "url": "net.fabricmc.fabric/1.19.json"
+    },
+    {
+      "mcVersion": "1.19-rc2",
+      "sha256": "f935bd7192e3eb2e5cb66a960467d0f379a54fa9379013440e4c62d861560a4b",
+      "url": "net.fabricmc.fabric/1.19-rc2.json"
+    },
+    {
+      "mcVersion": "1.19-rc1",
+      "sha256": "b731e0a91897197bac9a3ff2ef88ab61b811e354ed72ac9535650e1a7e4402e0",
+      "url": "net.fabricmc.fabric/1.19-rc1.json"
+    },
+    {
+      "mcVersion": "1.19-pre5",
+      "sha256": "1cb5a2745c1460104ca0be8ae97b90cecd57924a02580f623509e96d24a0ce32",
+      "url": "net.fabricmc.fabric/1.19-pre5.json"
+    },
+    {
+      "mcVersion": "1.19-pre4",
+      "sha256": "9a0db33fd08ff596113e5dcaf14775cb95c9316b7cc67d57cd28d805ccf38d1d",
+      "url": "net.fabricmc.fabric/1.19-pre4.json"
+    },
+    {
+      "mcVersion": "1.19-pre3",
+      "sha256": "bb82ade82d8219d7d4538e2078e941b9ea5b001c9c522e86e3ed099ac6bcbd4d",
+      "url": "net.fabricmc.fabric/1.19-pre3.json"
+    },
+    {
+      "mcVersion": "1.19-pre2",
+      "sha256": "2ffd2ef3586d4b9e5bf29b4eb65bafb7a4e34564ab69cba0723e32e424a3303f",
+      "url": "net.fabricmc.fabric/1.19-pre2.json"
+    },
+    {
+      "mcVersion": "1.19-pre1",
+      "sha256": "644cf18acf38fd5565510d7c590e3080706e1585678750fc771af8a01604de21",
+      "url": "net.fabricmc.fabric/1.19-pre1.json"
+    },
+    {
+      "mcVersion": "22w19a",
+      "sha256": "8a38bbc6dcc018c297295f2dfdf4123925885c4a1c10ef7199e97a42586272e3",
+      "url": "net.fabricmc.fabric/22w19a.json"
+    },
+    {
+      "mcVersion": "22w18a",
+      "sha256": "ee4d87d850ffad76a7b4bd301ec6394093a73d43ef873e160729c85cc37d9526",
+      "url": "net.fabricmc.fabric/22w18a.json"
+    },
+    {
+      "mcVersion": "22w17a",
+      "sha256": "32cce85d31a751be744653ebf2583affa5b57996617033ff78dc46967077bd47",
+      "url": "net.fabricmc.fabric/22w17a.json"
+    },
+    {
+      "mcVersion": "22w16b",
+      "sha256": "0992079290a7b475922f0716c688c8d56fbc53b4f8b5f024bdad9befdb51b44c",
+      "url": "net.fabricmc.fabric/22w16b.json"
+    },
+    {
+      "mcVersion": "22w16a",
+      "sha256": "5b8a106c220d16eb5ab50aa987d597458233d5b3e662b83944ce831424078da4",
+      "url": "net.fabricmc.fabric/22w16a.json"
+    },
+    {
+      "mcVersion": "22w15a",
+      "sha256": "74c8858a15c9eb74196b2fafafe6b3c0426b1e0b62002d19bb905c199de05e38",
+      "url": "net.fabricmc.fabric/22w15a.json"
+    },
+    {
+      "mcVersion": "22w14a",
+      "sha256": "9670aef3b17962cf45c1e865a618a874596f61d38fd8d9dfb1bde1afbc5e708f",
+      "url": "net.fabricmc.fabric/22w14a.json"
+    },
+    {
+      "mcVersion": "22w13oneblockatatime",
+      "sha256": "34d6fe2186b8f1480058ff154b5d58ef1afdbae75dc2fcb4fc8f642894d3f1d5",
+      "url": "net.fabricmc.fabric/22w13oneblockatatime.json"
+    },
+    {
+      "mcVersion": "22w13a",
+      "sha256": "452afcb520efe89273c93854848b65aaba21970aebc6d3179f84e5d3c881e725",
+      "url": "net.fabricmc.fabric/22w13a.json"
+    },
+    {
+      "mcVersion": "22w12a",
+      "sha256": "fd47d4514882aa922df6b6ef61518d1967a88c59fdd7b8e7df2ea231c86ffa60",
+      "url": "net.fabricmc.fabric/22w12a.json"
+    },
+    {
+      "mcVersion": "22w11a",
+      "sha256": "e5f1de927bf2a7fdd8d10c584155e8a7e08e8016cd21fd13282423cd3e6c7e43",
+      "url": "net.fabricmc.fabric/22w11a.json"
+    },
+    {
+      "mcVersion": "1.18.2",
+      "sha256": "bb2edb641d0c79f7f17dcaae3b13277bd32be72d67153da710c2105e30fb58b7",
+      "url": "net.fabricmc.fabric/1.18.2.json"
+    },
+    {
+      "mcVersion": "1.18.2-rc1",
+      "sha256": "25ca63d6ba0edb29d9e3b21e30704f0ff4e636007b2129d84d372906d31b24f2",
+      "url": "net.fabricmc.fabric/1.18.2-rc1.json"
+    },
+    {
+      "mcVersion": "1.18.2-pre3",
+      "sha256": "86655a64bf139cafe17802e886381765559e81fd3536f594293d36a9132ac7f9",
+      "url": "net.fabricmc.fabric/1.18.2-pre3.json"
+    },
+    {
+      "mcVersion": "1.18.2-pre2",
+      "sha256": "e502cbe6da8718c6123d05fd7507592433090cfe0c4cebebefa5ed6d577ebd6a",
+      "url": "net.fabricmc.fabric/1.18.2-pre2.json"
+    },
+    {
+      "mcVersion": "1.18.2-pre1",
+      "sha256": "11e5aa665662da5b185d2d32b814c100e3f6dc4d49fee589bb9012258d969e80",
+      "url": "net.fabricmc.fabric/1.18.2-pre1.json"
+    },
+    {
+      "mcVersion": "22w07a",
+      "sha256": "030f81a0095a5cf314291488224c26ed897dd27e6641c35c7dbd106657e0b1f0",
+      "url": "net.fabricmc.fabric/22w07a.json"
+    },
+    {
+      "mcVersion": "22w06a",
+      "sha256": "7cb36e106446bff76891b337b8f30fe4112c49461c067e7244ff9445288b211b",
+      "url": "net.fabricmc.fabric/22w06a.json"
+    },
+    {
+      "mcVersion": "22w05a",
+      "sha256": "99c2ed8d75906ba1b947451f2d84929839799cc304bebbd424f378de3ce8bc9d",
+      "url": "net.fabricmc.fabric/22w05a.json"
+    },
+    {
+      "mcVersion": "22w03a",
+      "sha256": "8a9afa098cfc3d9b27eaf496fb5a3ae0437b24191f8cab3396aae618ad0bfe32",
+      "url": "net.fabricmc.fabric/22w03a.json"
+    },
+    {
+      "mcVersion": "1.18.1",
+      "sha256": "deecd957f7061d284bbc83d3f6a6f58e7543863350a1cdfb2ae8e88716ef4b73",
+      "url": "net.fabricmc.fabric/1.18.1.json"
+    },
+    {
+      "mcVersion": "1.18.1-rc3",
+      "sha256": "b2ed118126f2cee6fd1b18f593adfe24294b1312e87b49d2386cd442da037579",
+      "url": "net.fabricmc.fabric/1.18.1-rc3.json"
+    },
+    {
+      "mcVersion": "1.18.1-rc2",
+      "sha256": "58fbf4a327e6dfd5a19c8bbe2328b9ccf407e640b5343d3e59c482ef42f19559",
+      "url": "net.fabricmc.fabric/1.18.1-rc2.json"
+    },
+    {
+      "mcVersion": "1.18.1-rc1",
+      "sha256": "88c736558ec513b00a88ab06e5cabc4f4eacea7e408117981f797a0c404a38b5",
+      "url": "net.fabricmc.fabric/1.18.1-rc1.json"
+    },
+    {
+      "mcVersion": "1.18.1-pre1",
+      "sha256": "71daaec176f0eb2d8c4c0d5fe7cd58aa475b0aad4bb7dec51e1e797659325531",
+      "url": "net.fabricmc.fabric/1.18.1-pre1.json"
+    },
+    {
+      "mcVersion": "1.18",
+      "sha256": "270024bfe3f1e0cf0a5010c80b644a708f6d0402b6effe600f40df34f69881a9",
+      "url": "net.fabricmc.fabric/1.18.json"
+    },
+    {
+      "mcVersion": "1.18-rc4",
+      "sha256": "9e03add421ab29a74a9e1929ff3adf641c62fea5c13a1f5d9a22f09cb397fa86",
+      "url": "net.fabricmc.fabric/1.18-rc4.json"
+    },
+    {
+      "mcVersion": "1.18-rc3",
+      "sha256": "c04ea3a8b760fedbcdc2f4c6143477c46245d2a7e798ca17ff0842c6b860c112",
+      "url": "net.fabricmc.fabric/1.18-rc3.json"
+    },
+    {
+      "mcVersion": "1.18-rc2",
+      "sha256": "63ca36b17232e8a4a2d21aefa31c076925b74bfd38307741bbcd24ffc0de996f",
+      "url": "net.fabricmc.fabric/1.18-rc2.json"
+    },
+    {
+      "mcVersion": "1.18-rc1",
+      "sha256": "4cec8b257393302e91fb97c373d8dd148a3651b1a5672d74cad4ca337d11a342",
+      "url": "net.fabricmc.fabric/1.18-rc1.json"
+    },
+    {
+      "mcVersion": "1.18-pre8",
+      "sha256": "a91903eb63577d445403a9452cd316e51f4684feafb7873768886edf837e8906",
+      "url": "net.fabricmc.fabric/1.18-pre8.json"
+    },
+    {
+      "mcVersion": "1.18-pre7",
+      "sha256": "433a300ae07e6c9fc7f57bb317123f7322bc16e73b8cae057abca1f09e0e1d3d",
+      "url": "net.fabricmc.fabric/1.18-pre7.json"
+    },
+    {
+      "mcVersion": "1.18-pre6",
+      "sha256": "9a40bcd0f63394a2c305b32e2373e0e06abedb2254d3e377553ff716a845de39",
+      "url": "net.fabricmc.fabric/1.18-pre6.json"
+    },
+    {
+      "mcVersion": "1.18-pre5",
+      "sha256": "4fb73ff371be192f89e47d252f76ed67048e16bb7e5bb20aa2f1854e88c35b16",
+      "url": "net.fabricmc.fabric/1.18-pre5.json"
+    },
+    {
+      "mcVersion": "1.18-pre4",
+      "sha256": "179ae1662c07845c35501313aba892ca132bc64b733c490ccd9126284c1a881f",
+      "url": "net.fabricmc.fabric/1.18-pre4.json"
+    },
+    {
+      "mcVersion": "1.18-pre3",
+      "sha256": "8e3ac2907cbebd79d46cef875bba8fdc2af796dfd300ac82e1bf73ff76776166",
+      "url": "net.fabricmc.fabric/1.18-pre3.json"
+    },
+    {
+      "mcVersion": "1.18-pre2",
+      "sha256": "45e21076f25193a110dc40588d3bd3e79e34edf70f0cf443550f994e6b529845",
+      "url": "net.fabricmc.fabric/1.18-pre2.json"
+    },
+    {
+      "mcVersion": "1.18-pre1",
+      "sha256": "aa3667289b038de0b974ce7068a9002e611e9397e8033e56e7ca8dec7fa60905",
+      "url": "net.fabricmc.fabric/1.18-pre1.json"
+    },
+    {
+      "mcVersion": "21w44a",
+      "sha256": "04b2f9b2dfde3b1fef8054d6bb3dac58873c5253326517a2e2bd8f873a202a91",
+      "url": "net.fabricmc.fabric/21w44a.json"
+    },
+    {
+      "mcVersion": "21w43a",
+      "sha256": "1736f14ae23a7c5db27156ed7d805e13af4a186b867635218bebb7c376b56491",
+      "url": "net.fabricmc.fabric/21w43a.json"
+    },
+    {
+      "mcVersion": "21w42a",
+      "sha256": "7417096ca4a38d7510470d815f6b91ad97a59401b800ec3da81ca21d5d210337",
+      "url": "net.fabricmc.fabric/21w42a.json"
+    },
+    {
+      "mcVersion": "21w41a",
+      "sha256": "bdebe7179f386678dadf3ad64ea97506ef61f9c3ec74b02388951209752f5bf6",
+      "url": "net.fabricmc.fabric/21w41a.json"
+    },
+    {
+      "mcVersion": "21w40a",
+      "sha256": "958a3fd386a272e1eeab5ae6ab0c4e7d20f70e679c76d238130af1740618d20e",
+      "url": "net.fabricmc.fabric/21w40a.json"
+    },
+    {
+      "mcVersion": "21w39a",
+      "sha256": "33e45bad42b71ca3a3a9faff867c7b91f1ab2f2afb4dbbb01c1420b94647b04a",
+      "url": "net.fabricmc.fabric/21w39a.json"
+    },
+    {
+      "mcVersion": "21w38a",
+      "sha256": "3b8d586483949adab453eea3196d08b74e5643c86e861309b0ddf07d785d3f6e",
+      "url": "net.fabricmc.fabric/21w38a.json"
+    },
+    {
+      "mcVersion": "21w37a",
+      "sha256": "3dd74a95883ccec938b305a591672da978c7dc6f830956e8cd08bc9cfced1338",
+      "url": "net.fabricmc.fabric/21w37a.json"
+    },
+    {
+      "mcVersion": "1.17.1",
+      "sha256": "cb07683ecb527f6e13d77dd1c737519b595f1e07620827f859f074dadf5ea7a4",
+      "url": "net.fabricmc.fabric/1.17.1.json"
+    },
+    {
+      "mcVersion": "1.17.1-rc2",
+      "sha256": "9e1601ea2e1e9b598ea9c93506301cc01f6d1f3879fcd21e0eb92936b6f66472",
+      "url": "net.fabricmc.fabric/1.17.1-rc2.json"
+    },
+    {
+      "mcVersion": "1.17.1-rc1",
+      "sha256": "8796ed0cda63a308afd13a9720958a5999edf9016b62daf979c5f1ff39bd1dbc",
+      "url": "net.fabricmc.fabric/1.17.1-rc1.json"
+    },
+    {
+      "mcVersion": "1.17.1-pre3",
+      "sha256": "9ea2535f1d834f8417639e1e9627055894b896cc596e6f9ac1fcaa129763e608",
+      "url": "net.fabricmc.fabric/1.17.1-pre3.json"
+    },
+    {
+      "mcVersion": "1.17.1-pre2",
+      "sha256": "13430a6b3ea339dadfca4c08e87d36fc2c12b853c4396496fba059971ab43577",
+      "url": "net.fabricmc.fabric/1.17.1-pre2.json"
+    },
+    {
+      "mcVersion": "1.17.1-pre1",
+      "sha256": "46c9ac02d25cea540dda018caa2e070165517e31ca6c7262d4a97f79bfef6953",
+      "url": "net.fabricmc.fabric/1.17.1-pre1.json"
+    },
+    {
+      "mcVersion": "1.17",
+      "sha256": "4bffef7462d8094d48dbbd4fe996ea3aa2c823d0022ac8c801fdef8c58019681",
+      "url": "net.fabricmc.fabric/1.17.json"
+    },
+    {
+      "mcVersion": "1.17-rc2",
+      "sha256": "0d52bc3d6e4e701f3b0ee9767fd5993490eb0397ccdc3aa1a20f53196dcaca86",
+      "url": "net.fabricmc.fabric/1.17-rc2.json"
+    },
+    {
+      "mcVersion": "1.17-rc1",
+      "sha256": "4f0048ec40c4edfd0a53ea3bbae1e798fa626cfd3ca01673548cd903bc442a41",
+      "url": "net.fabricmc.fabric/1.17-rc1.json"
+    },
+    {
+      "mcVersion": "1.17-pre5",
+      "sha256": "a34123db808abd0908f31467d39c12f76c20f567eefdcffc56271ec57fcc0571",
+      "url": "net.fabricmc.fabric/1.17-pre5.json"
+    },
+    {
+      "mcVersion": "1.17-pre4",
+      "sha256": "b0a98155124ea574689835ef73abc7d42dff5cb9917c309a731a5925f6e3833e",
+      "url": "net.fabricmc.fabric/1.17-pre4.json"
+    },
+    {
+      "mcVersion": "1.17-pre3",
+      "sha256": "0b6cfced41708b3a80e383abdaaac90023843fc046c21b2e40c95df89b5ccd0d",
+      "url": "net.fabricmc.fabric/1.17-pre3.json"
+    },
+    {
+      "mcVersion": "1.17-pre2",
+      "sha256": "4e89ee024ef18368a222e82c8e4cd573f2b33f260c9ce022c34e275d860b1698",
+      "url": "net.fabricmc.fabric/1.17-pre2.json"
+    },
+    {
+      "mcVersion": "1.17-pre1",
+      "sha256": "9ac925e6c7bbcde6bbe179e4534682cf6879ea488484bf10d5da37e6e18979a9",
+      "url": "net.fabricmc.fabric/1.17-pre1.json"
+    },
+    {
+      "mcVersion": "21w20a",
+      "sha256": "800178d1641416d0021fc5f0190c13097d3cf9c80c9ef4ebf42c669733fdcc1a",
+      "url": "net.fabricmc.fabric/21w20a.json"
+    },
+    {
+      "mcVersion": "21w19a",
+      "sha256": "3b28275891d6fcba0fd651d70621b7c05498b9ff82ecb769ac7f2b66c0679e6a",
+      "url": "net.fabricmc.fabric/21w19a.json"
+    },
+    {
+      "mcVersion": "21w18a",
+      "sha256": "b9eed90e86718ff5a8dcf385c79b4f569d522522cc37ff2e8d229a67d7e529e3",
+      "url": "net.fabricmc.fabric/21w18a.json"
+    },
+    {
+      "mcVersion": "21w17a",
+      "sha256": "0edcc4a7044c360d86f2d9d46d2edcd055c523a5833247bdea8ea8253836de75",
+      "url": "net.fabricmc.fabric/21w17a.json"
+    },
+    {
+      "mcVersion": "21w16a",
+      "sha256": "92fbc0d449bf653d28a82de7935f94a04cccce47c1995d3d6de06e69eefa20ce",
+      "url": "net.fabricmc.fabric/21w16a.json"
+    },
+    {
+      "mcVersion": "21w15a",
+      "sha256": "b474d302bd6b16e0e69c3d3d95c2eb2fbeede30eda878e3620f3d39db11d2fa5",
+      "url": "net.fabricmc.fabric/21w15a.json"
+    },
+    {
+      "mcVersion": "21w14a",
+      "sha256": "750f0d8266fcfc4f70b5ed27963f023cb3c26b9bb1527108af53e2a94b60ab56",
+      "url": "net.fabricmc.fabric/21w14a.json"
+    },
+    {
+      "mcVersion": "21w13a",
+      "sha256": "6510eb6a65af1539ef9114d337e87d1eff9be8ff7f2ccde68c6433b4a10aa7aa",
+      "url": "net.fabricmc.fabric/21w13a.json"
+    },
+    {
+      "mcVersion": "21w11a",
+      "sha256": "6b01bfe739b5425482ffd35d240eec73a87d115be707a72bbbd51d7b662e572b",
+      "url": "net.fabricmc.fabric/21w11a.json"
+    },
+    {
+      "mcVersion": "21w10a",
+      "sha256": "25ec138456929b3f63270736d71d68c4f981cda344a8eb5ffe7357f56d60b59a",
+      "url": "net.fabricmc.fabric/21w10a.json"
+    },
+    {
+      "mcVersion": "21w08b",
+      "sha256": "0788073c4d995f20c692e96621931a83ced28031ab0766700f4039a731c7f7e7",
+      "url": "net.fabricmc.fabric/21w08b.json"
+    },
+    {
+      "mcVersion": "21w08a",
+      "sha256": "13e5eb96768d2ef448e30fc78572c42c35fef31ebacc48f4536a40d21177d53c",
+      "url": "net.fabricmc.fabric/21w08a.json"
+    },
+    {
+      "mcVersion": "21w07a",
+      "sha256": "efdd401048f840d43cac6ae1014ed8411cbcb8d7418c119905d19b16658411f6",
+      "url": "net.fabricmc.fabric/21w07a.json"
+    },
+    {
+      "mcVersion": "21w06a",
+      "sha256": "d9cb3d98af8ba7d164d046c8bcf3b989706b5774c0f3a26c05730fd6e262496e",
+      "url": "net.fabricmc.fabric/21w06a.json"
+    },
+    {
+      "mcVersion": "21w05b",
+      "sha256": "b2490d9af906512041379511c061e449cd87c3f59938424ba87891214e10e9f7",
+      "url": "net.fabricmc.fabric/21w05b.json"
+    },
+    {
+      "mcVersion": "21w05a",
+      "sha256": "72c7d1db400c91a50f9e6eb54a6a78c0bfe4dd340ca718f37e55fb92038a30a7",
+      "url": "net.fabricmc.fabric/21w05a.json"
+    },
+    {
+      "mcVersion": "21w03a",
+      "sha256": "b7b2980a760ad3921472311aa2cc26a69cf5f53d979bccfd48fbc055fbb14819",
+      "url": "net.fabricmc.fabric/21w03a.json"
+    },
+    {
+      "mcVersion": "1.16.5",
+      "sha256": "fb54272631f7a6eeda1ec53ccbc2640a1baa3f7388fc17a4280d6fb1992d5587",
+      "url": "net.fabricmc.fabric/1.16.5.json"
+    },
+    {
+      "mcVersion": "1.16.5-rc1",
+      "sha256": "ed144b75a8ede2cb77cdf4c091e7c9d2f12d7b0e9bcc8a627ae6f8ba66575772",
+      "url": "net.fabricmc.fabric/1.16.5-rc1.json"
+    },
+    {
+      "mcVersion": "20w51a",
+      "sha256": "6853319ded1299868e779a6b0fca6acc19c43e8f3fea92f38bc3c9086721e5c0",
+      "url": "net.fabricmc.fabric/20w51a.json"
+    },
+    {
+      "mcVersion": "20w49a",
+      "sha256": "10b513d247d00d82e629454b36987a6db1db376833134408962b23b4ace89ca8",
+      "url": "net.fabricmc.fabric/20w49a.json"
+    },
+    {
+      "mcVersion": "20w48a",
+      "sha256": "fda5f029d10931c69d373d817d8d0269b1f1a414b0827c784c8a858fc824d57f",
+      "url": "net.fabricmc.fabric/20w48a.json"
+    },
+    {
+      "mcVersion": "20w46a",
+      "sha256": "248c758dba71f533d723388729cbeec3862dd112fd594d4bb6fba4c283dddc83",
+      "url": "net.fabricmc.fabric/20w46a.json"
+    },
+    {
+      "mcVersion": "20w45a",
+      "sha256": "bc82bf1f7fb578d524692ac987ea82f38293757dd5353d1932daf76b9cb62d0a",
+      "url": "net.fabricmc.fabric/20w45a.json"
+    },
+    {
+      "mcVersion": "1.16.4",
+      "sha256": "0ad3807e163767c1748492dcce2d71e434c2c265cbda131f06a78765d3287174",
+      "url": "net.fabricmc.fabric/1.16.4.json"
+    },
+    {
+      "mcVersion": "1.16.4-rc1",
+      "sha256": "f793899b67daad3bc1bfcf4f1a5d0d1daf4201e40aa7a023f824fd5e4f3b1f27",
+      "url": "net.fabricmc.fabric/1.16.4-rc1.json"
+    },
+    {
+      "mcVersion": "1.16.4-pre2",
+      "sha256": "a3013eba7e47a52c6a52a03a81592eb806435cef5be7d5f651f3c653106249f8",
+      "url": "net.fabricmc.fabric/1.16.4-pre2.json"
+    },
+    {
+      "mcVersion": "1.16.4-pre1",
+      "sha256": "3331cbbe32ae5640e8281249855751769997d504654b49f103aba4ba463821c4",
+      "url": "net.fabricmc.fabric/1.16.4-pre1.json"
+    },
+    {
+      "mcVersion": "1.16.3",
+      "sha256": "4aadb85365389876993c287503f13b28d7e85ca7d978f04fecfd8dd3ae090ef7",
+      "url": "net.fabricmc.fabric/1.16.3.json"
+    },
+    {
+      "mcVersion": "1.16.3-rc1",
+      "sha256": "b49ef9c51c039925f5927598065534905b5ab5156ecf1c581808a060e78f80f9",
+      "url": "net.fabricmc.fabric/1.16.3-rc1.json"
+    },
+    {
+      "mcVersion": "1.16.2",
+      "sha256": "5ec9ad5cb1790e7e6a3bc551b2d9467ae82c167c336e446e0430f9ee10577d11",
+      "url": "net.fabricmc.fabric/1.16.2.json"
+    },
+    {
+      "mcVersion": "1.16.2-rc2",
+      "sha256": "b024af3cf7b88278705f3b6a516c88acfd908485aa5a691a04ab1d88039bb0f6",
+      "url": "net.fabricmc.fabric/1.16.2-rc2.json"
+    },
+    {
+      "mcVersion": "1.16.2-rc1",
+      "sha256": "01be20c19ea7fd6eedf93dd27f7a16d61912180178381dfe90faa064d2b44947",
+      "url": "net.fabricmc.fabric/1.16.2-rc1.json"
+    },
+    {
+      "mcVersion": "1.16.2-pre3",
+      "sha256": "3bece778c062d3ff850c132690375d89158c39e961327f5b682fc3d3e4cd0d70",
+      "url": "net.fabricmc.fabric/1.16.2-pre3.json"
+    },
+    {
+      "mcVersion": "1.16.2-pre2",
+      "sha256": "1757620c877ffce93be91978d578f81cf4067da811f6ef1e2d2dcbbe3af1de3b",
+      "url": "net.fabricmc.fabric/1.16.2-pre2.json"
+    },
+    {
+      "mcVersion": "1.16.2-pre1",
+      "sha256": "04e839bdbe7809482b8953e51ef491822b458397781a02b0aa9df5b658294036",
+      "url": "net.fabricmc.fabric/1.16.2-pre1.json"
+    },
+    {
+      "mcVersion": "20w30a",
+      "sha256": "53f9865dd708200819b41574248d72c2c9fca42903f3c6d8cb791e6f7aff9e4d",
+      "url": "net.fabricmc.fabric/20w30a.json"
+    },
+    {
+      "mcVersion": "20w29a",
+      "sha256": "4ece105fa3c7dc690a79a57b00b429e295c731e0ed55c192af8b87c97f725b41",
+      "url": "net.fabricmc.fabric/20w29a.json"
+    },
+    {
+      "mcVersion": "20w28a",
+      "sha256": "a28952e41070e478e705418c607b9b12f4258e18720899874a8363ed406705fd",
+      "url": "net.fabricmc.fabric/20w28a.json"
+    },
+    {
+      "mcVersion": "20w27a",
+      "sha256": "3cb0453803814ad75c105ecef3255c78b54e4566921f1f7330881fe63dc40eb1",
+      "url": "net.fabricmc.fabric/20w27a.json"
+    },
+    {
+      "mcVersion": "1.16.1",
+      "sha256": "a166d61970806348bdbb83a9dcedaa816ad540a92559aefaea15dea27a40da5c",
+      "url": "net.fabricmc.fabric/1.16.1.json"
+    },
+    {
+      "mcVersion": "1.16",
+      "sha256": "8e379b0baad7219ec664bba9c551494dc8188b35997a85a1023048a2b7be8d4d",
+      "url": "net.fabricmc.fabric/1.16.json"
+    },
+    {
+      "mcVersion": "1.16-rc1",
+      "sha256": "09460a203a82903e0191c360a42c8c28b8a1f4d0d9f2048e1af4153c89010223",
+      "url": "net.fabricmc.fabric/1.16-rc1.json"
+    },
+    {
+      "mcVersion": "1.16-pre8",
+      "sha256": "f23830c76f15f754fd1220118fb1058195210b4031b798dae12909e192d4792a",
+      "url": "net.fabricmc.fabric/1.16-pre8.json"
+    },
+    {
+      "mcVersion": "1.16-pre7",
+      "sha256": "b660cffc29702e08d0b848a82091f7581613fbf5aa9a561d3bbf7422aba91173",
+      "url": "net.fabricmc.fabric/1.16-pre7.json"
+    },
+    {
+      "mcVersion": "1.16-pre6",
+      "sha256": "c0f142d06b207518f77a03d91f98c22f9df852ff9a75b8cea7a7678f84a05372",
+      "url": "net.fabricmc.fabric/1.16-pre6.json"
+    },
+    {
+      "mcVersion": "1.16-pre5",
+      "sha256": "42d284d7a3565e8f23e026664b2eae70bcea19f8d5e23b6af782746520087b67",
+      "url": "net.fabricmc.fabric/1.16-pre5.json"
+    },
+    {
+      "mcVersion": "1.16-pre4",
+      "sha256": "ccb7265a4fe44d9bf47928bc02cdb9df2d405cc893821c8ed00f8571a416eb38",
+      "url": "net.fabricmc.fabric/1.16-pre4.json"
+    },
+    {
+      "mcVersion": "1.16-pre3",
+      "sha256": "f53ceed3cf41213290a013e8cf989594dd4c987ee90a3736729b7bfc6e2735c2",
+      "url": "net.fabricmc.fabric/1.16-pre3.json"
+    },
+    {
+      "mcVersion": "1.16-pre2",
+      "sha256": "874173b35cf187b9b2311cac91b0da5b1e429910130190e8c88d2934d162d329",
+      "url": "net.fabricmc.fabric/1.16-pre2.json"
+    },
+    {
+      "mcVersion": "1.16-pre1",
+      "sha256": "422efa09b54c3393d9a3b1e170353392881cf3340aa6697e642f8f8de1b98680",
+      "url": "net.fabricmc.fabric/1.16-pre1.json"
+    },
+    {
+      "mcVersion": "20w22a",
+      "sha256": "57e17cc2f9466bca41d19011b72d939969e9042cd16390539dab1650c0a32b4a",
+      "url": "net.fabricmc.fabric/20w22a.json"
+    },
+    {
+      "mcVersion": "20w21a",
+      "sha256": "e7fb7514826db32637dd4238bbce20b6d4c7ad575d54558331c78e9e1312367c",
+      "url": "net.fabricmc.fabric/20w21a.json"
+    },
+    {
+      "mcVersion": "20w20b",
+      "sha256": "53fddf38466c90c2966ba873756a91d30c8e1260ede3d3566e5956b6183daba2",
+      "url": "net.fabricmc.fabric/20w20b.json"
+    },
+    {
+      "mcVersion": "20w20a",
+      "sha256": "5eb16f189624adbbeed24fe8eb6000fe98c8393d97325b3fb954b1317dc2c54e",
+      "url": "net.fabricmc.fabric/20w20a.json"
+    },
+    {
+      "mcVersion": "20w19a",
+      "sha256": "1710f0fdca2a7e586b6359fdd8ad45b11c5752f9ffd93c06e387ae5ec6c5bf74",
+      "url": "net.fabricmc.fabric/20w19a.json"
+    },
+    {
+      "mcVersion": "20w18a",
+      "sha256": "3bfb38b168d8be4ba21dcc0cc286f1cd591efbc628b904f09b6402d2c1c7c98a",
+      "url": "net.fabricmc.fabric/20w18a.json"
+    },
+    {
+      "mcVersion": "20w17a",
+      "sha256": "d3398aec689cce990cd9ea4963401959e8a9ede1c0abf5fb9dbcd491e5983d93",
+      "url": "net.fabricmc.fabric/20w17a.json"
+    },
+    {
+      "mcVersion": "20w16a",
+      "sha256": "5476bfbfb9c4499fa866b0fea6fffd9e01d2a5f8ecb4a23ddb4b3ff66a49d05b",
+      "url": "net.fabricmc.fabric/20w16a.json"
+    },
+    {
+      "mcVersion": "20w15a",
+      "sha256": "e6ef40f46c5f3c08f5d166086418e4f84abba2777df543af064341470637c997",
+      "url": "net.fabricmc.fabric/20w15a.json"
+    },
+    {
+      "mcVersion": "20w14a",
+      "sha256": "5632ef017065649da532a6fb93841f4343b71a1f7b8e0552361542c0a03d2087",
+      "url": "net.fabricmc.fabric/20w14a.json"
+    },
+    {
+      "mcVersion": "20w14infinite",
+      "sha256": "636bc85fd3fdef36f2843d83a9827f507b08e228aec62c3c3542f89a5f8d7f56",
+      "url": "net.fabricmc.fabric/20w14infinite.json"
+    },
+    {
+      "mcVersion": "20w13b",
+      "sha256": "29d69f744bf0783c90f8ca363d09ae66772896b7907aba162439f11a3ceaa48d",
+      "url": "net.fabricmc.fabric/20w13b.json"
+    },
+    {
+      "mcVersion": "20w13a",
+      "sha256": "8e874a83130ece467158de3d8480dfdb032892b35b2e1ba0f8549de8ccc149ab",
+      "url": "net.fabricmc.fabric/20w13a.json"
+    },
+    {
+      "mcVersion": "20w12a",
+      "sha256": "3dd767db854575a2a60253bc83a46a5b9cad34d073895fdff52fa4ea1fe8bc81",
+      "url": "net.fabricmc.fabric/20w12a.json"
+    },
+    {
+      "mcVersion": "20w11a",
+      "sha256": "b045cb8cb7dd437f0f108f191e422aa19dce604491df176e273f7b8c29556c55",
+      "url": "net.fabricmc.fabric/20w11a.json"
+    },
+    {
+      "mcVersion": "20w10a",
+      "sha256": "0421f73ebf191e59c73d1d877605e3144d69f07073f30cf0f6bec22e77c328de",
+      "url": "net.fabricmc.fabric/20w10a.json"
+    },
+    {
+      "mcVersion": "20w09a",
+      "sha256": "817365bb9eff47f8279152f62e3ea154388f3407d94292bc35c981b46290fea2",
+      "url": "net.fabricmc.fabric/20w09a.json"
+    },
+    {
+      "mcVersion": "20w08a",
+      "sha256": "8831740cc14eb835117e77f28fba3fbd59156cf5116fbf886ef3e2d5be70d381",
+      "url": "net.fabricmc.fabric/20w08a.json"
+    },
+    {
+      "mcVersion": "20w07a",
+      "sha256": "461581c3075e767b019f247b00fee2de36228c6e2919755acf91733f791834fe",
+      "url": "net.fabricmc.fabric/20w07a.json"
+    },
+    {
+      "mcVersion": "20w06a",
+      "sha256": "7be306e41d9798455b155ca4d97c75c5fef1b965b8e46c8d230b4bd7d8c10c6d",
+      "url": "net.fabricmc.fabric/20w06a.json"
+    },
+    {
+      "mcVersion": "1.15.2",
+      "sha256": "b844549f88f98f308560f437b61cd4cddf67f71053f15732234fa496e74824bb",
+      "url": "net.fabricmc.fabric/1.15.2.json"
+    },
+    {
+      "mcVersion": "1.15.2-pre2",
+      "sha256": "4e99c2033b445526d5bd1207f86f68fb64cca428285a733bc94dcb451a00a631",
+      "url": "net.fabricmc.fabric/1.15.2-pre2.json"
+    },
+    {
+      "mcVersion": "1.15.2-pre1",
+      "sha256": "74ca95875fe00e2b291c492a2fe4f79acbf3524a5be609685e2bd64046ec0cc4",
+      "url": "net.fabricmc.fabric/1.15.2-pre1.json"
+    },
+    {
+      "mcVersion": "1.15.1",
+      "sha256": "3526ab3a7a9685e87a93d76c4c1e61347ee99745c01e05e7b8f5b155405d2071",
+      "url": "net.fabricmc.fabric/1.15.1.json"
+    },
+    {
+      "mcVersion": "1.15.1-pre1",
+      "sha256": "c855742e1ed45e4e59ddaa90c68263765685dd5209fcc68cde81133b745e7531",
+      "url": "net.fabricmc.fabric/1.15.1-pre1.json"
+    },
+    {
+      "mcVersion": "1.15",
+      "sha256": "0b7cf33ff87ca6ed5a3d549f1740a08503b2c4971ebedef1f6cff6a293929e56",
+      "url": "net.fabricmc.fabric/1.15.json"
+    },
+    {
+      "mcVersion": "1.15-pre7",
+      "sha256": "736478c8ca199a1f999c3f6ced314acd4b312ef7acd6ba2f06a44c9149483a89",
+      "url": "net.fabricmc.fabric/1.15-pre7.json"
+    },
+    {
+      "mcVersion": "1.15-pre6",
+      "sha256": "46156c38e71ed49b9aedab24956a2df2a09fcb8e55f665bf6d90759931686468",
+      "url": "net.fabricmc.fabric/1.15-pre6.json"
+    },
+    {
+      "mcVersion": "1.15-pre5",
+      "sha256": "f46e9ee0ca45c4a4613dbafa59e9152bce671f65fa9dce0c097e29b54f5f6a48",
+      "url": "net.fabricmc.fabric/1.15-pre5.json"
+    },
+    {
+      "mcVersion": "1.15-pre4",
+      "sha256": "b7f7909b7085382bfb0cd2f59831c6bbdfbd542f00a029ae61ca200a666c7ea8",
+      "url": "net.fabricmc.fabric/1.15-pre4.json"
+    },
+    {
+      "mcVersion": "1.15-pre3",
+      "sha256": "8dedd4749fa14a695f54b421d5dce91906a5bd15716dbf81fa16936d2633ea11",
+      "url": "net.fabricmc.fabric/1.15-pre3.json"
+    },
+    {
+      "mcVersion": "1.15-pre2",
+      "sha256": "0c774b7928c4a4108236616c493c92f8f7aca1000957a4d6deac44cc70468bc6",
+      "url": "net.fabricmc.fabric/1.15-pre2.json"
+    },
+    {
+      "mcVersion": "1.15-pre1",
+      "sha256": "05622506ddd39c368f017d53440f7b68bd5e3de6101f786b540a5a793281778c",
+      "url": "net.fabricmc.fabric/1.15-pre1.json"
+    },
+    {
+      "mcVersion": "19w46b",
+      "sha256": "4daa793255c05fdce3e95a4dc38cb7f2dc94a353269336fe2588d422e19f5ccf",
+      "url": "net.fabricmc.fabric/19w46b.json"
+    },
+    {
+      "mcVersion": "19w46a",
+      "sha256": "422cd5f29b846637a4b7b5d8959a39d9a0a9fda23330d730392be025f1ee82ae",
+      "url": "net.fabricmc.fabric/19w46a.json"
+    },
+    {
+      "mcVersion": "19w45b",
+      "sha256": "cf7cfa60868e0d28c0386bec6c89bfea27593bac3af374e33d7c23dd6f7dc81e",
+      "url": "net.fabricmc.fabric/19w45b.json"
+    },
+    {
+      "mcVersion": "19w45a",
+      "sha256": "fa7e32ae4a9ec784974c62e315b80b660498ef132940eb641996e3525dda0a8c",
+      "url": "net.fabricmc.fabric/19w45a.json"
+    },
+    {
+      "mcVersion": "19w44a",
+      "sha256": "e355f9813a4111b141dc159fd232dadcb2d3ce4e86a4696d0bbb34496823784b",
+      "url": "net.fabricmc.fabric/19w44a.json"
+    },
+    {
+      "mcVersion": "19w42a",
+      "sha256": "d93391dc16d86c5a990d2e23d8d8030d694ae8210c411ecb4d0bf855551fe31c",
+      "url": "net.fabricmc.fabric/19w42a.json"
+    },
+    {
+      "mcVersion": "19w41a",
+      "sha256": "82bbc5ffde2513194acf225d997df2a86ed03d3b478d1f5660a94ad31deee88d",
+      "url": "net.fabricmc.fabric/19w41a.json"
+    },
+    {
+      "mcVersion": "19w40a",
+      "sha256": "f38db11887440be89de0222d045fc9af2e6ae2f41a2ebca4ea8a58f861ef6a55",
+      "url": "net.fabricmc.fabric/19w40a.json"
+    },
+    {
+      "mcVersion": "19w39a",
+      "sha256": "f138c6f5514fd0b2af91596388701ed2c51d006aecc30882d6a63d54f64af0d4",
+      "url": "net.fabricmc.fabric/19w39a.json"
+    },
+    {
+      "mcVersion": "19w38b",
+      "sha256": "d1550b096cb69cc945e9e96567b2c5ab2c43e1d8428758d7aaac7adebe698058",
+      "url": "net.fabricmc.fabric/19w38b.json"
+    },
+    {
+      "mcVersion": "19w38a",
+      "sha256": "d29716b307d98a66c78863a4288d20be4c8a267f385ea245d8052c24bde31b73",
+      "url": "net.fabricmc.fabric/19w38a.json"
+    },
+    {
+      "mcVersion": "19w37a",
+      "sha256": "814b74d90701af3b5b16566c15f23d9b94f767b2bc3888c8cb597b1abf0ae021",
+      "url": "net.fabricmc.fabric/19w37a.json"
+    },
+    {
+      "mcVersion": "19w36a",
+      "sha256": "70a7a9694efa1e88ad11ad25c5f6436d2ecc03b9f3f8c0677239aa5f7a27f117",
+      "url": "net.fabricmc.fabric/19w36a.json"
+    },
+    {
+      "mcVersion": "19w35a",
+      "sha256": "621efbcec7e6fd5c166cc32a510f7c2450f5f613be57ea9b4bebbda6368fd1d5",
+      "url": "net.fabricmc.fabric/19w35a.json"
+    },
+    {
+      "mcVersion": "19w34a",
+      "sha256": "abecffd462e5dadb458212ffa8ad12a65c9f706b3de712d916e432fae5a7ea8e",
+      "url": "net.fabricmc.fabric/19w34a.json"
+    },
+    {
+      "mcVersion": "1.14.4",
+      "sha256": "a465805ffd5aac072540a2ab4acad2976720fe6b3b0112b7bae38ed23d37a3e8",
+      "url": "net.fabricmc.fabric/1.14.4.json"
+    },
+    {
+      "mcVersion": "1.14.4-pre7",
+      "sha256": "945b6fbb6cbc0146e1bbfd9cff2af080dba75ac195fa027d1af0df4872eaa602",
+      "url": "net.fabricmc.fabric/1.14.4-pre7.json"
+    },
+    {
+      "mcVersion": "1.14.4-pre6",
+      "sha256": "a83ff290f98335fb7550c53cb572bc473431d347ba4acf3401baff0f811742ec",
+      "url": "net.fabricmc.fabric/1.14.4-pre6.json"
+    },
+    {
+      "mcVersion": "1.14.4-pre5",
+      "sha256": "c4d2ea45a4573e8fcc80b9523512983a1c3b52b04ee713f8b2406f120f4ad8ae",
+      "url": "net.fabricmc.fabric/1.14.4-pre5.json"
+    },
+    {
+      "mcVersion": "1.14.4-pre4",
+      "sha256": "d8a6a5985f21cd107f2f53d0b0992ce69aa36196726e3e70b31ad1b8e90490ad",
+      "url": "net.fabricmc.fabric/1.14.4-pre4.json"
+    },
+    {
+      "mcVersion": "1.14.4-pre3",
+      "sha256": "061203057c7bba255ace32ca256cd0f3f5a83debf490919ea5030eecc018aed9",
+      "url": "net.fabricmc.fabric/1.14.4-pre3.json"
+    },
+    {
+      "mcVersion": "1.14.4-pre2",
+      "sha256": "3ac977def00a625c2da09af1c9527722a9ce281fed1740331d2d468b27476f50",
+      "url": "net.fabricmc.fabric/1.14.4-pre2.json"
+    },
+    {
+      "mcVersion": "1.14.4-pre1",
+      "sha256": "7c38838abcb121cb39b8c8fd901c2bbce67f5901b56ee1f3a831266402d73d6e",
+      "url": "net.fabricmc.fabric/1.14.4-pre1.json"
+    },
+    {
+      "mcVersion": "1.14.3",
+      "sha256": "0c69b07d603b3a361aa9e27a9a8b4711e456c39820c3b667c755d30a64369234",
+      "url": "net.fabricmc.fabric/1.14.3.json"
+    },
+    {
+      "mcVersion": "1.14.3-pre4",
+      "sha256": "01d7fa86bb0366af57a66fb84649351ff033fddfa6380f3cae746576a0dcb6aa",
+      "url": "net.fabricmc.fabric/1.14.3-pre4.json"
+    },
+    {
+      "mcVersion": "1.14.3-pre3",
+      "sha256": "f54ae7c0470701faac817b0f0ce9cec939336710e71cbd298aad72d47fc361b2",
+      "url": "net.fabricmc.fabric/1.14.3-pre3.json"
+    },
+    {
+      "mcVersion": "1.14.3-pre2",
+      "sha256": "d83939add01db9cb974d4124198fd1c527f5e2158c8405d55dded99003e5327f",
+      "url": "net.fabricmc.fabric/1.14.3-pre2.json"
+    },
+    {
+      "mcVersion": "1.14.3-pre1",
+      "sha256": "9c68829091c42b28afe0b723ab5f636575bd09c97fbce7a3652bb344e756d001",
+      "url": "net.fabricmc.fabric/1.14.3-pre1.json"
+    },
+    {
+      "mcVersion": "1.14.2",
+      "sha256": "7d6ed97319ba0eab2cfffdf2af6288d161ae2b0ce0de95ae1841c0fa22ce01ec",
+      "url": "net.fabricmc.fabric/1.14.2.json"
+    },
+    {
+      "mcVersion": "1.14.2 Pre-Release 4",
+      "sha256": "816f69a5a13d9bc58a6c27576c8e7d349cc37c7994692397ba0d8f5e2cb48139",
+      "url": "net.fabricmc.fabric/1.14.2 Pre-Release 4.json"
+    },
+    {
+      "mcVersion": "1.14.2 Pre-Release 3",
+      "sha256": "559e75cc3ac3b660f27f9a6e513fb342c514f5cdfe9cca1ee41ef4c0171bfd1d",
+      "url": "net.fabricmc.fabric/1.14.2 Pre-Release 3.json"
+    },
+    {
+      "mcVersion": "1.14.2 Pre-Release 2",
+      "sha256": "05b5405d136dd23c2fa87af023480b3e136ec057bc18760b8f4e15c1a807a74b",
+      "url": "net.fabricmc.fabric/1.14.2 Pre-Release 2.json"
+    },
+    {
+      "mcVersion": "1.14.2 Pre-Release 1",
+      "sha256": "242e8889132ffbb04d39f5c320723c30f6f07c18af400197464faeb8c9580b5d",
+      "url": "net.fabricmc.fabric/1.14.2 Pre-Release 1.json"
+    },
+    {
+      "mcVersion": "1.14.1",
+      "sha256": "b64fedfd26897d0a589f8d72586039dac9ed06f65f9de6d0992a9032a2493dc3",
+      "url": "net.fabricmc.fabric/1.14.1.json"
+    },
+    {
+      "mcVersion": "1.14.1 Pre-Release 2",
+      "sha256": "56164a95e2090ddce35a69c6e6fb99a01f38c319603a14cf00e8239c4899d9a3",
+      "url": "net.fabricmc.fabric/1.14.1 Pre-Release 2.json"
+    },
+    {
+      "mcVersion": "1.14.1 Pre-Release 1",
+      "sha256": "5caaf642544079a8f638435cda6906170b27340c673f47932d896f61fa2acb69",
+      "url": "net.fabricmc.fabric/1.14.1 Pre-Release 1.json"
+    },
+    {
+      "mcVersion": "1.14",
+      "sha256": "6d75923018eb3ce1d001dc1c6c29a6159ab36fbfc07859a6ce67f83bbd626937",
+      "url": "net.fabricmc.fabric/1.14.json"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 5",
+      "sha256": "7a18ac0e1bbf2b080f781c8999abf62a02a7a1bcd0241eb0127949b789e3f6c3",
+      "url": "net.fabricmc.fabric/1.14 Pre-Release 5.json"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 4",
+      "sha256": "a252e21012a33af4b21f6eb366732c615f76e5f4a4ea30e400c82784bff33edc",
+      "url": "net.fabricmc.fabric/1.14 Pre-Release 4.json"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 3",
+      "sha256": "3fa216a17afb646852ddb622aa0e0044bfda19750673eb79d45bab12955e7988",
+      "url": "net.fabricmc.fabric/1.14 Pre-Release 3.json"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 2",
+      "sha256": "7ae577e25c4062b801b08c0044d68432102328f18728ace8af2e2c3dd90d7807",
+      "url": "net.fabricmc.fabric/1.14 Pre-Release 2.json"
+    },
+    {
+      "mcVersion": "1.14 Pre-Release 1",
+      "sha256": "c2da46f4c97c7d3ac81c912dcc27f614f2cd61045241c089ec473a02a767faf0",
+      "url": "net.fabricmc.fabric/1.14 Pre-Release 1.json"
+    },
+    {
+      "mcVersion": "19w14b",
+      "sha256": "3f4fb43b6997d58f81a14458d3ee34ff9321de75f71d73ac587ff178a9ea09c5",
+      "url": "net.fabricmc.fabric/19w14b.json"
+    },
+    {
+      "mcVersion": "19w14a",
+      "sha256": "6f7527276bf9c58b20a1f437662d7c1971571e74296427b0cae837370df5e9d5",
+      "url": "net.fabricmc.fabric/19w14a.json"
+    },
+    {
+      "mcVersion": "3D Shareware v1.34",
+      "sha256": "e907017f05fb5f78c830546bf9e9f56876a3adb3cac4acbb2235e9990702c13c",
+      "url": "net.fabricmc.fabric/3D Shareware v1.34.json"
+    },
+    {
+      "mcVersion": "19w13b",
+      "sha256": "98b83147491d59b93bd211df8ac469e30ac5de5be0858aed9d48ed50b96ef6f2",
+      "url": "net.fabricmc.fabric/19w13b.json"
+    },
+    {
+      "mcVersion": "19w13a",
+      "sha256": "533a320aa1f46f327586a3c5d8553de0f46722f3a0c501b63eac676406ecdf58",
+      "url": "net.fabricmc.fabric/19w13a.json"
+    },
+    {
+      "mcVersion": "19w12b",
+      "sha256": "da3d2b58a90c655375f7f6144601eab696d79a88eb8fc831ae7721b38a2e446e",
+      "url": "net.fabricmc.fabric/19w12b.json"
+    },
+    {
+      "mcVersion": "19w12a",
+      "sha256": "d3eb7417b2ba1dae330cf9e5ef26ec9c6a154c0bd6846bf386a2b3fa6014705f",
+      "url": "net.fabricmc.fabric/19w12a.json"
+    },
+    {
+      "mcVersion": "19w11b",
+      "sha256": "69938b9b328c6cbc17c422773ba55a46cc20c61f012ca6f37a7e4d3bab6750e2",
+      "url": "net.fabricmc.fabric/19w11b.json"
+    },
+    {
+      "mcVersion": "19w11a",
+      "sha256": "610db16d5bc1ba0322bc0c324cbd38a417c33167878ee0eb7c4e2633cec51a01",
+      "url": "net.fabricmc.fabric/19w11a.json"
+    },
+    {
+      "mcVersion": "19w09a",
+      "sha256": "4e26749c93137800e7e1ca7e08d4d3985489200acde92265c2ff05a6a78dba47",
+      "url": "net.fabricmc.fabric/19w09a.json"
+    },
+    {
+      "mcVersion": "19w08b",
+      "sha256": "10a1414434fe55caacb11bbd571bbbf1b9dd281390bb65e48eaf4d2e707e5516",
+      "url": "net.fabricmc.fabric/19w08b.json"
+    },
+    {
+      "mcVersion": "19w08a",
+      "sha256": "7ba46668838fa445f173f6f3f4c739a9f427d0f16f1993cc5d81efac108d6ca8",
+      "url": "net.fabricmc.fabric/19w08a.json"
+    },
+    {
+      "mcVersion": "19w07a",
+      "sha256": "ef5b69e49c923ce9a6c54e87894d9ed1507377f2c931c9d8456fb2861e426c63",
+      "url": "net.fabricmc.fabric/19w07a.json"
+    },
+    {
+      "mcVersion": "19w06a",
+      "sha256": "bbb88090ebb9d720059eb6c311791cd45d95c6e1b3c0deb314d81d4709a79e49",
+      "url": "net.fabricmc.fabric/19w06a.json"
+    },
+    {
+      "mcVersion": "19w05a",
+      "sha256": "66005b6eebe09e4507c10722be80591ac09450326e26b270e1a52203439ca9c0",
+      "url": "net.fabricmc.fabric/19w05a.json"
+    },
+    {
+      "mcVersion": "19w04b",
+      "sha256": "58010f1f359da1c5723a57ffbaf7d7e8fcca1ff94df2fa99a097f126eda1f7ae",
+      "url": "net.fabricmc.fabric/19w04b.json"
+    },
+    {
+      "mcVersion": "19w04a",
+      "sha256": "7faae03b6327684b7592160eeb19a32dc8200abe01d602fdb060ba1e932bf82e",
+      "url": "net.fabricmc.fabric/19w04a.json"
+    },
+    {
+      "mcVersion": "19w03c",
+      "sha256": "d176a4d6d1b224a54573ed5a3dd2f6522f2c0d2a1323bb25a6380ece0c6f6d2d",
+      "url": "net.fabricmc.fabric/19w03c.json"
+    },
+    {
+      "mcVersion": "19w03b",
+      "sha256": "ee1287fcac8a02effa5ef4999e1db5dcb604297a1631e0d39e122d758011770a",
+      "url": "net.fabricmc.fabric/19w03b.json"
+    },
+    {
+      "mcVersion": "19w03a",
+      "sha256": "45324bcea00793bb25655150c6ef55a883a9f71703b1f8acbf82d14c4c6311f7",
+      "url": "net.fabricmc.fabric/19w03a.json"
+    },
+    {
+      "mcVersion": "19w02a",
+      "sha256": "da459a25cbd86543c3e12f8cb22f9b68a1bf06e24b2b7a58611641621f88269f",
+      "url": "net.fabricmc.fabric/19w02a.json"
+    },
+    {
+      "mcVersion": "18w50a",
+      "sha256": "51432603ca09217b74d66ef0c62696e1375883a1e82984a28155c16fe541811c",
+      "url": "net.fabricmc.fabric/18w50a.json"
+    },
+    {
+      "mcVersion": "18w49a",
+      "sha256": "cdbf90f8e337510c98c0d5f554940ea44073c3a9ff155ba67e794a528fcb0e31",
+      "url": "net.fabricmc.fabric/18w49a.json"
+    },
+    {
+      "mcVersion": "18w48b",
+      "sha256": "349d8049c7d2acdf602c5c5836a142a1a4ec89e9f3ed7a8939a6ae01d840c4f4",
+      "url": "net.fabricmc.fabric/18w48b.json"
+    },
+    {
+      "mcVersion": "18w48a",
+      "sha256": "7aa4b8ee9d82e19588dde4df64f2f4c6bd15d0aa8e8110a4cd18ea89ff796be0",
+      "url": "net.fabricmc.fabric/18w48a.json"
+    },
+    {
+      "mcVersion": "18w47b",
+      "sha256": "80bec1d6a0b9ced4999b53d1fe5808b17ed0299bcdb89b1ff3323bc90dcf2569",
+      "url": "net.fabricmc.fabric/18w47b.json"
+    },
+    {
+      "mcVersion": "18w47a",
+      "sha256": "65ed7f455a8cdf9cb7311643748f5f8d664fe86906d37199e6760de3ea1390ec",
+      "url": "net.fabricmc.fabric/18w47a.json"
+    },
+    {
+      "mcVersion": "18w46a",
+      "sha256": "6b39ab08695fdd270dc822716a3e19d894526f2b843cf906e07863ca8bcfeb4f",
+      "url": "net.fabricmc.fabric/18w46a.json"
+    },
+    {
+      "mcVersion": "18w45a",
+      "sha256": "d1d9804b36246e18de7fc35720c88c625468d95f65becac8077a66caccd58a89",
+      "url": "net.fabricmc.fabric/18w45a.json"
+    },
+    {
+      "mcVersion": "18w44a",
+      "sha256": "17dbe57ecc32d3b997fda86d21ad805b9e46802e4b86547d8627a479a1715e93",
+      "url": "net.fabricmc.fabric/18w44a.json"
+    },
+    {
+      "mcVersion": "18w43c",
+      "sha256": "fb89988661e8d3cd0e7b788aefb9f09b8ce1ce15f392fd4f1f62bbe3a0794254",
+      "url": "net.fabricmc.fabric/18w43c.json"
+    },
+    {
+      "mcVersion": "18w43b",
+      "sha256": "6b897942482b7bdfd9588cf97795374420c71d4aa20ebb1db9b76e31754058d8",
+      "url": "net.fabricmc.fabric/18w43b.json"
+    },
+    {
+      "mcVersion": "1.21.11_unobfuscated",
+      "sha256": "c9bd1ca4d60f706b50f2a1440566ba9990430d0d409b016e5f702eb6076d5c55",
+      "url": "net.fabricmc.fabric/1.21.11_unobfuscated.json"
+    },
+    {
+      "mcVersion": "1.21.11-rc3_unobfuscated",
+      "sha256": "b1c3cf9e46fb29c1e2fee98c1d58009f1f30af5a60277cc46ed474d09cedf524",
+      "url": "net.fabricmc.fabric/1.21.11-rc3_unobfuscated.json"
+    },
+    {
+      "mcVersion": "1.21.11-rc2_unobfuscated",
+      "sha256": "641c4765a0344538bf836ab11dc16cb2ab029b6c3168af6d967151174de8ac83",
+      "url": "net.fabricmc.fabric/1.21.11-rc2_unobfuscated.json"
+    },
+    {
+      "mcVersion": "1.21.11-rc1_unobfuscated",
+      "sha256": "806765cc33e2702c6d346bdc3fa58b9c3873ba7f06551c8b80a2d1037d4122b5",
+      "url": "net.fabricmc.fabric/1.21.11-rc1_unobfuscated.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre5_unobfuscated",
+      "sha256": "df5ac4cff741a9cdc373b5a6d93be48543b3d1cc63afd84ba4ce597aafe7d5ca",
+      "url": "net.fabricmc.fabric/1.21.11-pre5_unobfuscated.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre4_unobfuscated",
+      "sha256": "60398ea5aa2bfccf7534fc79b92ae2d62299b9afa3e83d72b367eab2509f9585",
+      "url": "net.fabricmc.fabric/1.21.11-pre4_unobfuscated.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre3_unobfuscated",
+      "sha256": "067c194c90e57fb22e700557e6f374da989908d0056d64caaab0e4be9398456e",
+      "url": "net.fabricmc.fabric/1.21.11-pre3_unobfuscated.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre2_unobfuscated",
+      "sha256": "e47130e52ba99d534f4f6ab6d6cc3cefac37766970a4d3b9f3463b58bddc260f",
+      "url": "net.fabricmc.fabric/1.21.11-pre2_unobfuscated.json"
+    },
+    {
+      "mcVersion": "1.21.11-pre1_unobfuscated",
+      "sha256": "8a78e20ad7814264a77f372416f365292290a00ce7d72c910fb1028ee99eccfb",
+      "url": "net.fabricmc.fabric/1.21.11-pre1_unobfuscated.json"
+    },
+    {
+      "mcVersion": "25w46a_unobfuscated",
+      "sha256": "bf31e6967bfc31462f4a4e3cfa17e9662cc6e9b746d525225f2840792231a85b",
+      "url": "net.fabricmc.fabric/25w46a_unobfuscated.json"
+    },
+    {
+      "mcVersion": "25w45a_unobfuscated",
+      "sha256": "f6860e8db5779d5f4976b76f44ba43f650d07a137f5d47a764b93074333ec5c1",
+      "url": "net.fabricmc.fabric/25w45a_unobfuscated.json"
+    },
+    {
+      "mcVersion": "24w14potato_original",
+      "sha256": "8bf11adaea02bd19a9a75ebe2c15bd9cb5d430fb072cbce31e28f4e0c1efe436",
+      "url": "net.fabricmc.fabric/24w14potato_original.json"
+    },
+    {
+      "mcVersion": "23w13a_or_b_original",
+      "sha256": "fcdc7f1e0991e39a13bcc6d974a84e9608522bd76c4e352d0d25333f97318b1c",
+      "url": "net.fabricmc.fabric/23w13a_or_b_original.json"
+    },
+    {
+      "mcVersion": "1.19_deep_dark_experimental_snapshot-1",
+      "sha256": "6e50161d76d2a1a1dfbc0f3ca2a4e3cbb68489c9c065b3ad11337b8121b56521",
+      "url": "net.fabricmc.fabric/1.19_deep_dark_experimental_snapshot-1.json"
+    },
+    {
+      "mcVersion": "1.18_experimental-snapshot-7",
+      "sha256": "695690401467acc381f162ed67d191b33ddda758a5241381b28dac804eb9ae83",
+      "url": "net.fabricmc.fabric/1.18_experimental-snapshot-7.json"
+    },
+    {
+      "mcVersion": "1.18_experimental-snapshot-6",
+      "sha256": "0766dee10cf9e45120f15842d32c4f9e9f3d6b5b0cb5179262f4cb98e73d73d5",
+      "url": "net.fabricmc.fabric/1.18_experimental-snapshot-6.json"
+    },
+    {
+      "mcVersion": "1.18_experimental-snapshot-5",
+      "sha256": "9a6e2fde4432b87fe1a9209af7106de3282252982acc15a274dd70c4a6c5cfa7",
+      "url": "net.fabricmc.fabric/1.18_experimental-snapshot-5.json"
+    },
+    {
+      "mcVersion": "1.18_experimental-snapshot-4",
+      "sha256": "f2a3c458aa7fbea24fb67359e0f47dd3919e94327a62bd97b7592b18226762e7",
+      "url": "net.fabricmc.fabric/1.18_experimental-snapshot-4.json"
+    },
+    {
+      "mcVersion": "1.18_experimental-snapshot-3",
+      "sha256": "d769317c39041707d4a4e043d75dd8ff148bce20ad6252578ca52189b8d0d814",
+      "url": "net.fabricmc.fabric/1.18_experimental-snapshot-3.json"
+    },
+    {
+      "mcVersion": "1.18_experimental-snapshot-2",
+      "sha256": "19640bc65e035ee05e6139c50f1edcf3ebca3bbf42e76b398cfa56c28dfc31c0",
+      "url": "net.fabricmc.fabric/1.18_experimental-snapshot-2.json"
+    },
+    {
+      "mcVersion": "1.18_experimental-snapshot-1",
+      "sha256": "3ae8abf216e49f93ba242cf71ed45ddbbf79f7856b2b85958e04e6abd7905c7c",
+      "url": "net.fabricmc.fabric/1.18_experimental-snapshot-1.json"
+    },
+    {
+      "mcVersion": "1.16_combat-3",
+      "sha256": "3af7b7eda2cf0a8fb1ed90930d930e26790e315f84f1e6de5ddafbcf27b4b984",
+      "url": "net.fabricmc.fabric/1.16_combat-3.json"
+    },
+    {
+      "mcVersion": "1.15_combat-1",
+      "sha256": "e499e50ff444b01faf164b44c7f13a24ff9b144ff69ad56375262f7828efaa28",
+      "url": "net.fabricmc.fabric/1.15_combat-1.json"
+    },
+    {
+      "mcVersion": "1.14_combat-3",
+      "sha256": "293fbae3e20d0298980e072e727d213a42cdd2d731e9fd99f00ea3fa5d038a8f",
+      "url": "net.fabricmc.fabric/1.14_combat-3.json"
+    },
+    {
+      "mcVersion": "1.14_combat-0",
+      "sha256": "3c3a23e20884f0376de0a027062025a0237e172479af6017445ae68346abe09b",
+      "url": "net.fabricmc.fabric/1.14_combat-0.json"
+    },
+    {
+      "mcVersion": "1.14_combat-212796",
+      "sha256": "118694c4f45e388d51d95e7da25d79425057967a563d65bcb8e31f33e01030e0",
+      "url": "net.fabricmc.fabric/1.14_combat-212796.json"
+    }
+  ]
+}
