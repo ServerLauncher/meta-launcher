@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-05-15T03:53:22.640585+00:00",
+  "generatedAt": "2026-05-15T18:23:49.609622+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -25,6 +25,12 @@
       "name": "Fabric",
       "sha256": "48bb712523fa1dba4e6326be30c60bd2331f45f961c0ca6008cb165bbd73c7c9",
       "url": "net.fabricmc.fabric/package.json"
+    },
+    {
+      "uid": "net.minecraft.java",
+      "name": "Java Runtimes",
+      "sha256": "19c4a297ac1bdc0a5a7c0216ad31addb8e09088214e8e7549f0723912107e8b1",
+      "url": "net.minecraft.java/package.json"
     }
   ]
 }
