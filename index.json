@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-05-16T03:36:01.098794+00:00",
+  "generatedAt": "2026-05-16T09:57:40.067297+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -29,8 +29,14 @@
     {
       "uid": "net.minecraft.java",
       "name": "Java Runtimes",
-      "sha256": "19c4a297ac1bdc0a5a7c0216ad31addb8e09088214e8e7549f0723912107e8b1",
+      "sha256": "506fab000f3d53439d9a94496b5c81cd2a7bb5ebd86897dafe04f005f62e56c3",
       "url": "net.minecraft.java/package.json"
+    },
+    {
+      "uid": "net.adoptium.java",
+      "name": "Java Runtimes",
+      "sha256": "40662a604022d949d84064ea9afd6cd382b59ceb5c1ca1ca9122258e3c0320e5",
+      "url": "net.adoptium.java/package.json"
     }
   ]
 }

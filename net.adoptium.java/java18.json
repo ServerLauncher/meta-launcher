@@ -1,0 +1,379 @@
+{
+  "formatVersion": 1,
+  "uid": "java18",
+  "major": 18,
+  "platforms": {
+    "windows-x64": [
+      {
+        "checksum": {
+          "hash": "ef3794f25a02b513416c37bf4087c37a6c57a504b19820a8fa4f80d7651a27f9",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+9",
+        "releaseTime": "2022-07-25T12:39:27Z",
+        "releaseName": "jdk-18.0.2+9",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.zip",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "ba7976e86e9a7e27542c7cf9d5081235e603a9be368b6cbd49673b417da544b1",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+1",
+        "releaseTime": "2022-08-26T15:52:28Z",
+        "releaseName": "jdk-18.0.2.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.zip",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "6e6aa724c04ecd22ce60717c496710ff4745195660becb307a94093cf01f7d2f",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.1+10",
+        "releaseTime": "2022-04-27T18:00:24Z",
+        "releaseName": "jdk-18.0.1+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.zip",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 18,
+          "minor": 0,
+          "security": 1
+        }
+      }
+    ],
+    "mac-aarch64": [
+      {
+        "checksum": {
+          "hash": "30b71a4a963688fbe3baee7dab133b62fa6e85753e238ff5313b1b7d10f878d9",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+9",
+        "releaseTime": "2022-08-02T14:32:32Z",
+        "releaseName": "jdk-18.0.2+9",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "071f073efb9550838bc02e429ef972f9450b477360f803dd1cf19096ca41182e",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+1",
+        "releaseTime": "2022-08-26T15:59:05Z",
+        "releaseName": "jdk-18.0.2.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "48ccacbd585bc7a3fb750886476ca061886e6b25b2bff1714d5cc72a0923febd",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.1+10",
+        "releaseTime": "2022-05-13T09:54:02Z",
+        "releaseName": "jdk-18.0.1+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 18,
+          "minor": 0,
+          "security": 1
+        }
+      }
+    ],
+    "mac-x64": [
+      {
+        "checksum": {
+          "hash": "03e03b396cf1b5342aa9fa4d5caf7d7680baf8ba1478c2c1f4517affc827c309",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+9",
+        "releaseTime": "2022-08-14T11:37:09Z",
+        "releaseName": "jdk-18.0.2+9",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "3629e3dc9dbab7ed13070fbea3a827030acdd62afa557496e88a6d01f9300474",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+1",
+        "releaseTime": "2022-08-26T15:59:15Z",
+        "releaseName": "jdk-18.0.2.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "77586251f1b8987c9a332a8da4e228c09922f586c0946f12ed980462e46b951b",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.1+10",
+        "releaseTime": "2022-04-28T10:07:29Z",
+        "releaseName": "jdk-18.0.1+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 18,
+          "minor": 0,
+          "security": 1
+        }
+      }
+    ],
+    "linux-aarch64": [
+      {
+        "checksum": {
+          "hash": "b95934d11105c5a99a8bf087fdfc28a8a644b4265b6cf7518d70404a4dc82da2",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+9",
+        "releaseTime": "2022-07-25T13:58:29Z",
+        "releaseName": "jdk-18.0.2+9",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2_9.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "e11e00438c2f6f79f86ff1ca2b015913b0e16bd9491953a082d5c786402cb50a",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+1",
+        "releaseTime": "2022-08-26T16:00:35Z",
+        "releaseName": "jdk-18.0.2.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "cacb261967585ccd3eefe9a44f277b23aaa0b60772589ac220f03941c2bcdad1",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.1+10",
+        "releaseTime": "2022-05-02T16:40:24Z",
+        "releaseName": "jdk-18.0.1+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.1_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 18,
+          "minor": 0,
+          "security": 1
+        }
+      }
+    ],
+    "linux-x64": [
+      {
+        "checksum": {
+          "hash": "efcfe9206ce467a0a197463283e74621f4ba037994d29606c572766945a01a91",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+9",
+        "releaseTime": "2022-07-22T20:29:14Z",
+        "releaseName": "jdk-18.0.2+9",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_linux_hotspot_18.0.2_9.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "74f602ab5abaa554859a5e92a65e5bb6e23c2d4165228299c7f54ed56dbc5959",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+1",
+        "releaseTime": "2022-08-26T22:31:52Z",
+        "releaseName": "jdk-18.0.2.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_linux_hotspot_18.0.2.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "67c2cea6040b12c125bb1bea74b3eeb42c94072713b152b720e50c897b946ffa",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.1+10",
+        "releaseTime": "2022-04-22T15:09:27Z",
+        "releaseName": "jdk-18.0.1+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_linux_hotspot_18.0.1_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 18,
+          "minor": 0,
+          "security": 1
+        }
+      }
+    ],
+    "linux-alpine-x64": [
+      {
+        "checksum": {
+          "hash": "bc9bb8cebd403ef67ca727e05f5bd046ffc8421538fb1ba0a3634c6ec97eda49",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+9",
+        "releaseTime": "2022-07-25T13:14:58Z",
+        "releaseName": "jdk-18.0.2+9",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2_9.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "ad23309a82e690f769037b1e6417022f588702d214da533289f116bba0f61f4e",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.2+1",
+        "releaseTime": "2022-08-27T13:50:03Z",
+        "releaseName": "jdk-18.0.2.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 18,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
+          "hash": "4362a13e81456ce66bc0f8c057e9ce964267a357573d5ccd15e9c955619c68f3",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre18.0.1+10",
+        "releaseTime": "2022-05-03T14:41:28Z",
+        "releaseName": "jdk-18.0.1+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.1_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 18,
+          "minor": 0,
+          "security": 1
+        }
+      }
+    ]
+  }
+}

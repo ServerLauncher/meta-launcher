@@ -1,0 +1,74 @@
+{
+  "formatVersion": 1,
+  "uid": "net.adoptium.java",
+  "name": "Java Runtimes",
+  "recommended": [],
+  "versions": [
+    {
+      "javaVersion": "java8",
+      "sha256": "eb317b1f170b85ff7aec9bec1d92f95e5e69a9b2cd66c7ed1d79bc2c773eab0d",
+      "url": "net.adoptium.java/java8.json",
+      "major": 8
+    },
+    {
+      "javaVersion": "java11",
+      "sha256": "8302c7889af1c56be58790c7d7f4239002baec7c7209571b66e54819dbbbd2f7",
+      "url": "net.adoptium.java/java11.json",
+      "major": 11
+    },
+    {
+      "javaVersion": "java17",
+      "sha256": "098a759774e47884ed2db5ddc9e64a4f2299d2774426523ae888400a9aed1891",
+      "url": "net.adoptium.java/java17.json",
+      "major": 17
+    },
+    {
+      "javaVersion": "java18",
+      "sha256": "69f65fec18420eb9319ead4799669138534d2f6b5bd4e5bd510c1a5c5154e345",
+      "url": "net.adoptium.java/java18.json",
+      "major": 18
+    },
+    {
+      "javaVersion": "java19",
+      "sha256": "c210b2baa4bbf1ab4f8d05ad8a2899954e1b21ac6a9de85d11eebf3c349e7a6e",
+      "url": "net.adoptium.java/java19.json",
+      "major": 19
+    },
+    {
+      "javaVersion": "java20",
+      "sha256": "64b13a01b81a44c2ba0b5d5faa49373c25281938b3445c1bf8b4927ecea9a0ee",
+      "url": "net.adoptium.java/java20.json",
+      "major": 20
+    },
+    {
+      "javaVersion": "java21",
+      "sha256": "d0a76036805caab3906a9d1ae9a70f056d5b3256e192e158bc4581327d1a7a9c",
+      "url": "net.adoptium.java/java21.json",
+      "major": 21
+    },
+    {
+      "javaVersion": "java22",
+      "sha256": "773a24121928d44a5dac86d2f2a61aac40e7c57715fd117e8010801e169d45a9",
+      "url": "net.adoptium.java/java22.json",
+      "major": 22
+    },
+    {
+      "javaVersion": "java23",
+      "sha256": "cabf52135200a059cbe9def23cd270bf9f4e43883f43b4b4b67ede756759ec1a",
+      "url": "net.adoptium.java/java23.json",
+      "major": 23
+    },
+    {
+      "javaVersion": "java24",
+      "sha256": "498e57d0e31c667d7ee42cea08ce917cbaeac2aade6e8cd30b5781eebc65d9d8",
+      "url": "net.adoptium.java/java24.json",
+      "major": 24
+    },
+    {
+      "javaVersion": "java25",
+      "sha256": "80869fc9f0c3a35cc0533d7e5ab1962ed83ca4fef2d4de5d0dbb4d71457a0a42",
+      "url": "net.adoptium.java/java25.json",
+      "major": 25
+    }
+  ]
+}

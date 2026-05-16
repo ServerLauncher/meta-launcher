@@ -5,33 +5,33 @@
   "recommended": [],
   "versions": [
     {
-      "javaVersion": "java-8",
-      "sha256": "4af056c9158a58b7857a1bd3f45fd24efa45d7b4f84208e273602aedba170e67",
-      "url": "net.minecraft.java/java-8.json",
+      "javaVersion": "java8",
+      "sha256": "ee2a48e307cecedacc6716351cbaa736dda9b89f15c5d506ac63286d9a8e5a2f",
+      "url": "net.minecraft.java/java8.json",
       "major": 8
     },
     {
-      "javaVersion": "java-16",
-      "sha256": "1396c3352dbcf3b712d276152786c493c8d37188a17ce245c8e036bd766a183b",
-      "url": "net.minecraft.java/java-16.json",
+      "javaVersion": "java16",
+      "sha256": "ade63a30071d9171b6d4b2e12d97fda88e7703071d9af74d49ed79d3ab0427f8",
+      "url": "net.minecraft.java/java16.json",
       "major": 16
     },
     {
-      "javaVersion": "java-17",
-      "sha256": "0ae69fb330893d0e58d24e5340f029077d2bd99554990f3d365fc3bce8b3cceb",
-      "url": "net.minecraft.java/java-17.json",
+      "javaVersion": "java17",
+      "sha256": "7764dfdacdfc0e3a5f0649c81478902824f0e93a33cb31fcefa60c08b034d26f",
+      "url": "net.minecraft.java/java17.json",
       "major": 17
     },
     {
-      "javaVersion": "java-21",
-      "sha256": "b9963f14921c1b890f8f326a0221712ec252c3640bec8e8924697bf091f5187f",
-      "url": "net.minecraft.java/java-21.json",
+      "javaVersion": "java21",
+      "sha256": "a4bcd49fad57a27011d2850eee3e64436ee6957381b4dc00c21696fb672bc468",
+      "url": "net.minecraft.java/java21.json",
       "major": 21
     },
     {
-      "javaVersion": "java-25",
-      "sha256": "70d23bfbd1ce45106680d57b3b1438a7b6215573f277d1b21b8704246c5d21d5",
-      "url": "net.minecraft.java/java-25.json",
+      "javaVersion": "java25",
+      "sha256": "a0196f1a9864400c8365da2806641cd43f83e88575fff93b96248acbb2887d0e",
+      "url": "net.minecraft.java/java25.json",
       "major": 25
     }
   ]
