@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-05-25T04:15:01.905450+00:00",
+  "generatedAt": "2026-05-25T10:44:37.380469+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -19,6 +19,12 @@
       "name": "Purpur",
       "sha256": "e0871d53ff117d3848cac5d05077c5860677b21a4f9ca578baf8e5752c38024f",
       "url": "build.purpurmc.purpur/package.json"
+    },
+    {
+      "uid": "net.neoforged",
+      "name": "NeoForge",
+      "sha256": "9da77c708bc0c2761e37b1b931198c13b80b83a5642487ddf57082cb74c0df64",
+      "url": "net.neoforged/package.json"
     },
     {
       "uid": "net.fabricmc.fabric",

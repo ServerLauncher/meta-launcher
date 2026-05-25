@@ -1,0 +1,1867 @@
+{
+  "formatVersion": 1,
+  "uid": "net.neoforged",
+  "mcVersion": "1.21.4",
+  "builds": [
+    {
+      "build": "21.4.0-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-03T16:34:09.280534+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.0-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.0-beta/neoforge-21.4.0-beta-installer.jar",
+        "sha1": "134ea6b06a18f60b88d969bb2218e260890bf97f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.1-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-03T19:31:08.608835+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.1-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.1-beta/neoforge-21.4.1-beta-installer.jar",
+        "sha1": "ded28cee8581083219658d3c71cb289d6fff4005",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.2-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-03T23:05:40.536835+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.2-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.2-beta/neoforge-21.4.2-beta-installer.jar",
+        "sha1": "e4aa7700c4840998a3da0b135bc3eaa0a9a6c659",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.3-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-04T16:30:56.911764+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.3-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.3-beta/neoforge-21.4.3-beta-installer.jar",
+        "sha1": "e12080687263d74c2b5f6efa21742c4387f90eda",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.4-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-04T20:26:20.847951+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.4-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.4-beta/neoforge-21.4.4-beta-installer.jar",
+        "sha1": "88a5c151a85787dccce2178efa17d574f91a6e90",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.5-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-04T20:29:37.283980+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.5-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.5-beta/neoforge-21.4.5-beta-installer.jar",
+        "sha1": "e498e957cb60be7f5333a54206d26098b195665d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.6-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-05T02:49:47.877231+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.6-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.6-beta/neoforge-21.4.6-beta-installer.jar",
+        "sha1": "64d9fedd99676cc43b5aeda63140ff41a246ea63",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.7-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-05T14:04:16.511535+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.7-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.7-beta/neoforge-21.4.7-beta-installer.jar",
+        "sha1": "24d86345b2af3a82703629fdb19eb49083c44a70",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.8-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-05T19:38:02.817548+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.8-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.8-beta/neoforge-21.4.8-beta-installer.jar",
+        "sha1": "8d0cc753731cda90a6bfe2b99f0da70b00f3d295",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.9-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-06T12:50:48.250777+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.9-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.9-beta/neoforge-21.4.9-beta-installer.jar",
+        "sha1": "216c755d114e3ebfc6654775c3ca04a0e6562dc0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.10-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-07T13:25:06.551772+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.10-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.10-beta/neoforge-21.4.10-beta-installer.jar",
+        "sha1": "c39f36951ae0d03afe73090248ebf3ba647d834c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.11-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-09T01:20:37.332572+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.11-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.11-beta/neoforge-21.4.11-beta-installer.jar",
+        "sha1": "6200fe4d05ae849321972eb61b9f6834fe12d0d8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.12-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-09T09:39:58.693349+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.12-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.12-beta/neoforge-21.4.12-beta-installer.jar",
+        "sha1": "85c1d83b0abf0aaf859289db009edd85e78bd036",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.13-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-09T23:23:47.245135+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.13-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.13-beta/neoforge-21.4.13-beta-installer.jar",
+        "sha1": "e2000b50cd19242280afdac68a5894a5b8eb1cfe",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.14-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-11T03:00:36.418693+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.14-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.14-beta/neoforge-21.4.14-beta-installer.jar",
+        "sha1": "1b07a09cf36b2f9ac6a98963d07bcac57fe0addf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.15-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-11T03:18:45.650490+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.15-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.15-beta/neoforge-21.4.15-beta-installer.jar",
+        "sha1": "1c1b91257b4bc6ee3eb54238f5d1d860afdfb58b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.16-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-11T03:21:36.018458+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.16-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.16-beta/neoforge-21.4.16-beta-installer.jar",
+        "sha1": "3c26dfe3bd8fd3afafd3fe9b9d93af573662d78d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.17-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-11T12:11:36.069360+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.17-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.17-beta/neoforge-21.4.17-beta-installer.jar",
+        "sha1": "4f8aa0e113f216a8e516e56d84f0b5dfc2195785",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.18-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-11T17:14:48.799840+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.18-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.18-beta/neoforge-21.4.18-beta-installer.jar",
+        "sha1": "b40dbfe820d8237fdc980ea032b51e4895c65250",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.19-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-12T09:14:34.887891+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.19-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.19-beta/neoforge-21.4.19-beta-installer.jar",
+        "sha1": "2f51015874cbc2f9d5ba6dfe309dde2f22012e7b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.20-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-12T18:14:28.066975+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.20-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.20-beta/neoforge-21.4.20-beta-installer.jar",
+        "sha1": "6197cbbefda4bce0293e8a85b8a17d8ad9bfaca4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.21-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-13T20:34:20.395104+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.21-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.21-beta/neoforge-21.4.21-beta-installer.jar",
+        "sha1": "63fa4662d5ce20b24b69d58e72e87f32ea2454d2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.22-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-13T20:42:31.070994+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.22-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.22-beta/neoforge-21.4.22-beta-installer.jar",
+        "sha1": "383f4dd355e0459924ad7e18de841b65e4475379",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.23-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-14T17:59:58.492924+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.23-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.23-beta/neoforge-21.4.23-beta-installer.jar",
+        "sha1": "27bad04a95caf8c3a249a61b0429654dfd768e9a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.24-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-15T00:44:29.387496+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.24-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.24-beta/neoforge-21.4.24-beta-installer.jar",
+        "sha1": "9e22a0a69319a5db14d50228c359cdeed599b4ad",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.25-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-15T01:19:02.215403+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.25-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.25-beta/neoforge-21.4.25-beta-installer.jar",
+        "sha1": "d52a9c99d8e00c2007b99bf96d93294d14e3d000",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.26-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-15T01:49:24.987005+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.26-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.26-beta/neoforge-21.4.26-beta-installer.jar",
+        "sha1": "c4bad868e35481e26f5d711d224493b4551019f5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.27-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-15T12:30:15.325051+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.27-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.27-beta/neoforge-21.4.27-beta-installer.jar",
+        "sha1": "02790728a875853d27868b2f0bd25c063034fc5d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.28-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-16T09:01:34.326950+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.28-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.28-beta/neoforge-21.4.28-beta-installer.jar",
+        "sha1": "b202150c60728d2fcc168735665cbec2afe0bb17",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.29-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-16T09:20:37.990950+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.29-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.29-beta/neoforge-21.4.29-beta-installer.jar",
+        "sha1": "efe3c646e30aed9b5ddd2e1ba9c0a95bef521c2f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.30-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-16T09:22:49.394775+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.30-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.30-beta/neoforge-21.4.30-beta-installer.jar",
+        "sha1": "2323e2bde02b776a41f687a9022071071d1cc61b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.33-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-19T12:33:43.874686+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.33-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.33-beta/neoforge-21.4.33-beta-installer.jar",
+        "sha1": "c68964dc7b58c32dacd90a2d81f26a25472c81f0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.34-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-21T19:16:03.573563+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.34-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.34-beta/neoforge-21.4.34-beta-installer.jar",
+        "sha1": "42a8538ed33085a2670f5ba8b5dd04ef0a17c7f0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.35-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-21T19:15:56.069563+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.35-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.35-beta/neoforge-21.4.35-beta-installer.jar",
+        "sha1": "ed9de8a00edfde14e33e638071141e03de61031b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.36-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-21T19:18:27.965567+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.36-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.36-beta/neoforge-21.4.36-beta-installer.jar",
+        "sha1": "495523913b4b480df40f261b70a659f422de91a2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.37-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-21T19:19:47.201569+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.37-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.37-beta/neoforge-21.4.37-beta-installer.jar",
+        "sha1": "fdb542d04e86036c5651cfde51e1495b8bc7d2d6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.38-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-21T19:20:25.181569+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.38-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.38-beta/neoforge-21.4.38-beta-installer.jar",
+        "sha1": "f1514a9caa09eaa857899618222df2526631bfb6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.39-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-23T18:44:52.170244+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.39-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.39-beta/neoforge-21.4.39-beta-installer.jar",
+        "sha1": "7636889ae8631fdc04ce82f51ddfb081fb3c7bbc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.40-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-24T11:16:06.684419+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.40-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.40-beta/neoforge-21.4.40-beta-installer.jar",
+        "sha1": "7136cc29c39598735988c7d01f9e761ad1ef0e9a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.41-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-24T12:04:10.220045+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.41-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.41-beta/neoforge-21.4.41-beta-installer.jar",
+        "sha1": "f94d6f401a64da419d137923fe3b087a1349f0a1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.42-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-24T13:54:50.819114+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.42-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.42-beta/neoforge-21.4.42-beta-installer.jar",
+        "sha1": "216e7d68cb5a91bd703ec4feb3826789c36d912f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.43-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-25T23:21:18.588811+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.43-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.43-beta/neoforge-21.4.43-beta-installer.jar",
+        "sha1": "cdd0160ac8e3673ed6ede7cf98e5392599c322e4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.44-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-27T00:53:28.066410+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.44-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.44-beta/neoforge-21.4.44-beta-installer.jar",
+        "sha1": "9ec0e38b2632faa7a262cfb03c5600e7812165b7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.45-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-27T19:18:58.934302+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.45-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.45-beta/neoforge-21.4.45-beta-installer.jar",
+        "sha1": "02a146ed2eb8465f0b9999b1df19556c0fc32e3b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.46-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-27T21:32:09.981446+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.46-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.46-beta/neoforge-21.4.46-beta-installer.jar",
+        "sha1": "21cda3110c0b8a2e2b540f1f7afdaeba4225b88f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.47-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-12-28T19:51:01.292805+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.47-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.47-beta/neoforge-21.4.47-beta-installer.jar",
+        "sha1": "5f529242e2a604f525e684021dbd8a0a733873c6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.48-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-03T07:02:40.319636+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.48-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.48-beta/neoforge-21.4.48-beta-installer.jar",
+        "sha1": "6fe8d6aa22200524a8bc1c091c727af787380ee9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.49-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-04T11:38:57.319384+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.49-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.49-beta/neoforge-21.4.49-beta-installer.jar",
+        "sha1": "913062adb507988b2ee19a284928083adb37c4f9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.50-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-05T22:03:03.472062+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.50-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.50-beta/neoforge-21.4.50-beta-installer.jar",
+        "sha1": "9b5a7c79b67d2d433079d8b632e55811f16a6af8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.51-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-10T20:27:10.517290+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.51-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.51-beta/neoforge-21.4.51-beta-installer.jar",
+        "sha1": "d165175fe2d4e86871f396906f46f43ab58a3025",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.52-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-12T10:04:01.463589+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.52-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.52-beta/neoforge-21.4.52-beta-installer.jar",
+        "sha1": "02e10eb83eeb7a711890a88c12fa7996f8aff88b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.53-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-13T08:50:34.053731+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.53-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.53-beta/neoforge-21.4.53-beta-installer.jar",
+        "sha1": "34099b8782f94ef70ed23937f3e3b6e0d3bad060",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.54-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-13T08:57:06.861723+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.54-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.54-beta/neoforge-21.4.54-beta-installer.jar",
+        "sha1": "eefd68a0fe1df4648d3c9ce050f33f9a97417f4f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.55-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-14T13:54:51.225222+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.55-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.55-beta/neoforge-21.4.55-beta-installer.jar",
+        "sha1": "c03243bf71488a2df34b963d1360523390daa7f5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.56-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-14T14:00:59.649120+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.56-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.56-beta/neoforge-21.4.56-beta-installer.jar",
+        "sha1": "c9258daa8a17ce5e62be84155439d3b718fd58a1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.57-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-14T15:40:55.691966+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.57-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.57-beta/neoforge-21.4.57-beta-installer.jar",
+        "sha1": "e851030f43ac0cc790febd49ea174bbec1d36818",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.58-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-14T23:12:29.489611+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.58-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.58-beta/neoforge-21.4.58-beta-installer.jar",
+        "sha1": "afdb2d1eea4b164a3a37931d72fab6bece808f59",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.59-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-15T18:56:20.667025+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.59-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.59-beta/neoforge-21.4.59-beta-installer.jar",
+        "sha1": "ff0e595de5eab08757c821c2b1a345208ec88a73",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.60-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-18T02:21:43.867479+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.60-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.60-beta/neoforge-21.4.60-beta-installer.jar",
+        "sha1": "26f0451368297950fc72d5517a4dda0bc53ca6ac",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.61-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-18T08:03:14.769311+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.61-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.61-beta/neoforge-21.4.61-beta-installer.jar",
+        "sha1": "50c132418a444a9e5471f050ce2006a066124b50",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.62-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-18T08:12:18.297293+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.62-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.62-beta/neoforge-21.4.62-beta-installer.jar",
+        "sha1": "cf4da70ae4c28d96697c10d19b714cb2f138a859",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.63-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-18T13:39:28.914327+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.63-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.63-beta/neoforge-21.4.63-beta-installer.jar",
+        "sha1": "505bedd09969e6821a5530db2d51cff5c22d4d7d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.64-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-18T15:56:43.965042+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.64-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.64-beta/neoforge-21.4.64-beta-installer.jar",
+        "sha1": "df7b67b29e1f4777a392c1308054243ec01cc04f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.65-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-19T10:17:00.760320+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.65-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.65-beta/neoforge-21.4.65-beta-installer.jar",
+        "sha1": "10b245af8444f8bb069b8ab0952f8d96e97ecdba",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.66-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-19T22:00:12.949943+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.66-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.66-beta/neoforge-21.4.66-beta-installer.jar",
+        "sha1": "f9ac04169f93f935371e9ee8b793979d4fc868d7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.67-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-20T09:17:15.556101+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.67-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.67-beta/neoforge-21.4.67-beta-installer.jar",
+        "sha1": "ef1e51f3a18f76a0c8d82dd699b01116cb601d0c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.68-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-20T18:43:12.994080+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.68-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.68-beta/neoforge-21.4.68-beta-installer.jar",
+        "sha1": "6ec7e3aaf643d2250cebb4a9dfd7dad8d7e7f87b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.69-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-21T00:06:47.883255+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.69-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.69-beta/neoforge-21.4.69-beta-installer.jar",
+        "sha1": "033eb56a212ee15c2bc7c9f60c65d8d6f8fc80c3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.70-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-21T07:40:31.823741+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.70-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.70-beta/neoforge-21.4.70-beta-installer.jar",
+        "sha1": "08150b3e1b1b4980e3fe8e6007ac5baf12abb6d1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.71-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-21T19:07:18.070904+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.71-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.71-beta/neoforge-21.4.71-beta-installer.jar",
+        "sha1": "7d9ab43d316adc1f04ff0e01fb551f1d3c112c4a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.72-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-21T19:30:18.822695+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.72-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.72-beta/neoforge-21.4.72-beta-installer.jar",
+        "sha1": "e87e6fde08246420dc200afad1d527eb58ddddee",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.73-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-23T14:44:55.144261+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.73-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.73-beta/neoforge-21.4.73-beta-installer.jar",
+        "sha1": "22dcb435df3d83d5d06c54ddf3c72e84a6a9556f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.74-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-23T19:15:29.523283+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.74-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.74-beta/neoforge-21.4.74-beta-installer.jar",
+        "sha1": "c6700b31348989e38878a183bef8237ba90764ce",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.75-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-24T10:32:00.765180+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.75-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.75-beta/neoforge-21.4.75-beta-installer.jar",
+        "sha1": "030b77cbabe9a66457b1a4ed2b4ba2a0601c8793",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.76-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-25T21:51:44.671300+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.76-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.76-beta/neoforge-21.4.76-beta-installer.jar",
+        "sha1": "e21e0eb004f56355d1ee9947e4d763f2ba35453d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.77-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-28T09:54:33.511227+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.77-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.77-beta/neoforge-21.4.77-beta-installer.jar",
+        "sha1": "ca8e02077c8efa867b52da48886d49e74af55098",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.78-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-01-29T20:32:08.416800+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.78-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.78-beta/neoforge-21.4.78-beta-installer.jar",
+        "sha1": "de89181dfefafc27143392f0764b6865403f413e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.79-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-02T20:05:43.123959+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.79-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.79-beta/neoforge-21.4.79-beta-installer.jar",
+        "sha1": "2c274f4312f224cf812551c3863d6b3602fcf0a1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.80-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-04T01:19:18.226871+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.80-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.80-beta/neoforge-21.4.80-beta-installer.jar",
+        "sha1": "b0d51a6c858c11013d756f26d376f4ef7052f0e8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.81-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-05T12:46:36.422481+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.81-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.81-beta/neoforge-21.4.81-beta-installer.jar",
+        "sha1": "56e85cde28fa9a3e400779aad877965f7313dffa",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.82-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-05T22:00:01.333684+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.82-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.82-beta/neoforge-21.4.82-beta-installer.jar",
+        "sha1": "2b3010e2799680c4236e2112489b359be3d25d75",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.83-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-06T18:49:16.872916+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.83-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.83-beta/neoforge-21.4.83-beta-installer.jar",
+        "sha1": "23707e9084637c0890f8b0a711aa70f2f622c285",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.84-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-06T19:01:39.048789+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.84-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.84-beta/neoforge-21.4.84-beta-installer.jar",
+        "sha1": "2cb9b1274defedc7c8725239990f7f91df7c77ea",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.85-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-06T19:03:53.948769+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.85-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.85-beta/neoforge-21.4.85-beta-installer.jar",
+        "sha1": "4beaa82c63063e3a5d87d643893942c2163d483c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.86-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-06T19:04:30.824763+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.86-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.86-beta/neoforge-21.4.86-beta-installer.jar",
+        "sha1": "cb76f4b4515c17c3ede0a90774037142e32d1b89",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.87-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-08T02:08:53.379801+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.87-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.87-beta/neoforge-21.4.87-beta-installer.jar",
+        "sha1": "c3a4fda250c85e95aab57ec7aa4037a2bc0d4ff3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.88-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-09T10:13:23.174199+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.88-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.88-beta/neoforge-21.4.88-beta-installer.jar",
+        "sha1": "1e9eed3a9373a795a60e787db5473826e8f42b13",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.89-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-12T16:51:42.295652+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.89-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.89-beta/neoforge-21.4.89-beta-installer.jar",
+        "sha1": "717d628d5a61095e0699491f26f693289fc51392",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.90-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-17T05:19:48.088194+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.90-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.90-beta/neoforge-21.4.90-beta-installer.jar",
+        "sha1": "a2e91ac46f84706b658e81d6e95304ef843cf358",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.91-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-17T10:22:51.454727+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.91-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.91-beta/neoforge-21.4.91-beta-installer.jar",
+        "sha1": "2ab6600dcd645c1153b09146e4ac1628bd83d295",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.92-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-18T08:03:20.329479+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.92-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.92-beta/neoforge-21.4.92-beta-installer.jar",
+        "sha1": "224af4d8b1dbd6b49186ecdf1c474f16e6b2dae6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.93-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-20T20:19:06.140726+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.93-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.93-beta/neoforge-21.4.93-beta-installer.jar",
+        "sha1": "78a6ab0df9348c1f0a57e2b78a282903693c4273",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.94-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-20T20:27:12.964689+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.94-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.94-beta/neoforge-21.4.94-beta-installer.jar",
+        "sha1": "21397b1656aada74a4ada9276e782187f48e8db6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.95-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-23T16:49:37.758147+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.95-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.95-beta/neoforge-21.4.95-beta-installer.jar",
+        "sha1": "c36b41a442bd66f9193e87210fb5c79655c2886f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.96-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-25T19:55:10.979244+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.96-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.96-beta/neoforge-21.4.96-beta-installer.jar",
+        "sha1": "784d4183d14863df11f1081c893cfffc4aebf366",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.97-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-25T21:48:50.843541+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.97-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.97-beta/neoforge-21.4.97-beta-installer.jar",
+        "sha1": "82eac30615f3f428b2f8c8c7731859039b69bf62",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.98-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-27T13:17:38.453501+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.98-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.98-beta/neoforge-21.4.98-beta-installer.jar",
+        "sha1": "409b1f30c430591fafccfc061e53860e9fa15181",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.99-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-27T13:20:21.197477+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.99-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.99-beta/neoforge-21.4.99-beta-installer.jar",
+        "sha1": "5e1eb018ad3d4e4b7d7817bee8da4337de7d40c5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.100-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-02-28T22:25:53.185613+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.100-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.100-beta/neoforge-21.4.100-beta-installer.jar",
+        "sha1": "80d0b64006071e221b20391d8cf9f9933b48437f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.101-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-01T15:38:58.766634+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.101-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.101-beta/neoforge-21.4.101-beta-installer.jar",
+        "sha1": "966f55bb719da242b2786257927a6dfc76572b75",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.102-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-02T17:42:55.575803+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.102-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.102-beta/neoforge-21.4.102-beta-installer.jar",
+        "sha1": "61026575ff99fb2e4de94c605769043ba74fbbc8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.103-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-04T08:34:36.300000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.103-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.103-beta/neoforge-21.4.103-beta-installer.jar",
+        "sha1": "fabb1850e3de82b7188efa251f89a05498a3001e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.104-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-05T09:38:43.034007+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.104-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.104-beta/neoforge-21.4.104-beta-installer.jar",
+        "sha1": "50820d8042963952c77fd578ea8b67d952902d72",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.105-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-05T10:48:43.250587+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.105-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.105-beta/neoforge-21.4.105-beta-installer.jar",
+        "sha1": "ed9413f7b35a5f305bb9ca2b136e916b15b068f0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.106-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-06T17:59:42.278941+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.106-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.106-beta/neoforge-21.4.106-beta-installer.jar",
+        "sha1": "622c38a48b8fb3593c022ff3ebb95170975b9031",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.107-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-06T18:22:33.975035+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.107-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.107-beta/neoforge-21.4.107-beta-installer.jar",
+        "sha1": "7d089bc4e7414388d3b481538eac73973b28b96b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.108-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-07T07:23:15.658209+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.108-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.108-beta/neoforge-21.4.108-beta-installer.jar",
+        "sha1": "0acfad4e13b70feb3ca9902aec0a279de1d939a0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.109-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-07T07:23:45.562216+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.109-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.109-beta/neoforge-21.4.109-beta-installer.jar",
+        "sha1": "9f9e6f0b904286731d40cf37a2082dde6323c5ad",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.110-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-09T16:47:09.409128+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.110-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.110-beta/neoforge-21.4.110-beta-installer.jar",
+        "sha1": "777c0b41a1e3ae8db25a2c470f7d2ce7a287b504",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.111-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-10T08:45:35.491677+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.111-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.111-beta/neoforge-21.4.111-beta-installer.jar",
+        "sha1": "9ef735e88aa69ba031ce44db8777c32facd4013d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.112-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-15T21:51:01.007689+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.112-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.112-beta/neoforge-21.4.112-beta-installer.jar",
+        "sha1": "2e0400bdbd99342c333bc9cb045cd12906eb3118",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.113-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-16T15:32:30.683316+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.113-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.113-beta/neoforge-21.4.113-beta-installer.jar",
+        "sha1": "4bb97fedbc3732cad90c88c027cbd6f6b0679299",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.114-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-16T17:33:31.732454+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.114-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.114-beta/neoforge-21.4.114-beta-installer.jar",
+        "sha1": "2ef8b2af401eef2913704e16963d739a29038e7d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.115-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-18T08:03:18.237501+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.115-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.115-beta/neoforge-21.4.115-beta-installer.jar",
+        "sha1": "01ac93814dc2619376845f9ff0fb062cce327801",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.116-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-18T18:50:11.315734+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.116-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.116-beta/neoforge-21.4.116-beta-installer.jar",
+        "sha1": "bf323f417f082c447cd63c7171dacbfef02eb073",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.118-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-19T19:43:15.551776+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.118-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.118-beta/neoforge-21.4.118-beta-installer.jar",
+        "sha1": "aabdc80bd3feff94ff7d74ed159faae113e4a864",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.119-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-19T23:15:29.305966+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.119-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.119-beta/neoforge-21.4.119-beta-installer.jar",
+        "sha1": "0e9fe6345b790fdf3a816faefb3784900e364ef3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.120-beta",
+      "type": "snapshot",
+      "releaseTime": "2025-03-20T18:15:38.647218+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.4.120-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.120-beta/neoforge-21.4.120-beta-installer.jar",
+        "sha1": "80a3ac76ea5c6917ba9745ab2a002ae50e67d2eb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.121",
+      "type": "stable",
+      "releaseTime": "2025-03-21T06:35:43.817367+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.121-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.121/neoforge-21.4.121-installer.jar",
+        "sha1": "1f72fb1cd08c07cf5fcb446421c4e8090b75dedb",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.122",
+      "type": "stable",
+      "releaseTime": "2025-03-21T16:52:10.577114+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.122-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.122/neoforge-21.4.122-installer.jar",
+        "sha1": "97942308373e99038abb8d4c146a14f464de8a0d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.123",
+      "type": "stable",
+      "releaseTime": "2025-03-21T17:25:32.525500+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.123-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.123/neoforge-21.4.123-installer.jar",
+        "sha1": "d10c8c1822dee89be588a5351fe67c5e7c831f28",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.124",
+      "type": "stable",
+      "releaseTime": "2025-04-02T07:58:02.612941+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.124-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.124/neoforge-21.4.124-installer.jar",
+        "sha1": "ef9c332561633464d4977aef8daa16a24fe0ee2a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.125",
+      "type": "stable",
+      "releaseTime": "2025-04-17T15:28:57.411158+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.125-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.125/neoforge-21.4.125-installer.jar",
+        "sha1": "77c3fecda3f56d5b081765867cc75671cf26cce7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.126",
+      "type": "stable",
+      "releaseTime": "2025-04-18T12:38:40.609240+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.126-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.126/neoforge-21.4.126-installer.jar",
+        "sha1": "b2a31814dd03f2a3744f7d3b3b4c3aee6be0fdd9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.127",
+      "type": "stable",
+      "releaseTime": "2025-04-18T15:15:09.439906+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.127-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.127/neoforge-21.4.127-installer.jar",
+        "sha1": "36b4b66d3b7ef3087e5bc22a98866e46bfb89909",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.128",
+      "type": "stable",
+      "releaseTime": "2025-04-18T16:43:08.625441+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.128-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.128/neoforge-21.4.128-installer.jar",
+        "sha1": "0ed3003e1076c854a68b403db9fb0fbca1153d92",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.129",
+      "type": "stable",
+      "releaseTime": "2025-04-19T11:46:39.411371+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.129-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.129/neoforge-21.4.129-installer.jar",
+        "sha1": "2d0d3595637c8e4fd0ffd65c8b15829ee46c2420",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.130",
+      "type": "stable",
+      "releaseTime": "2025-04-19T23:16:07.496486+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.130-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.130/neoforge-21.4.130-installer.jar",
+        "sha1": "c7956a95235dfb80cc8724fb3d2515600f337aa0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.131",
+      "type": "stable",
+      "releaseTime": "2025-04-19T23:18:15.220521+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.131-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.131/neoforge-21.4.131-installer.jar",
+        "sha1": "833e44175a84afde0d3395208c9defee82b7c34e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.132",
+      "type": "stable",
+      "releaseTime": "2025-04-20T17:25:07.185844+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.132-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.132/neoforge-21.4.132-installer.jar",
+        "sha1": "87b18cdf01ec2503fb45e7bba5d75a2769072ccc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.133",
+      "type": "stable",
+      "releaseTime": "2025-04-20T22:36:38.759674+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.133-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.133/neoforge-21.4.133-installer.jar",
+        "sha1": "b33a1c9b53bbd54d671f4f83c185c11f028968f9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.134",
+      "type": "stable",
+      "releaseTime": "2025-04-23T11:25:09.284436+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.134-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.134/neoforge-21.4.134-installer.jar",
+        "sha1": "3503ee2c107e8b248868b0c01dabb8678b8eb943",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.135",
+      "type": "stable",
+      "releaseTime": "2025-04-23T19:04:05.012460+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.135-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.135/neoforge-21.4.135-installer.jar",
+        "sha1": "892824df835771c215e5e2d183baa198c8371f9e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.136",
+      "type": "stable",
+      "releaseTime": "2025-05-08T20:42:25.066213+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.136-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.136/neoforge-21.4.136-installer.jar",
+        "sha1": "c38b1d039bfe723b4d2df7f992b44ffe2d3cd662",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.137",
+      "type": "stable",
+      "releaseTime": "2025-05-31T13:24:06.568564+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.137-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.137/neoforge-21.4.137-installer.jar",
+        "sha1": "1633a4a28dd1b86720315152e51920d41d5526e6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.138",
+      "type": "stable",
+      "releaseTime": "2025-06-11T15:27:21.350438+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.138-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.138/neoforge-21.4.138-installer.jar",
+        "sha1": "4f1c06e4766327767a98d489db4a80167d238647",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.139",
+      "type": "stable",
+      "releaseTime": "2025-06-20T14:56:49.887410+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.139-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.139/neoforge-21.4.139-installer.jar",
+        "sha1": "ee377b3846a1df19ccdf42625ab7c43b8fc1df13",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.140",
+      "type": "stable",
+      "releaseTime": "2025-06-20T15:45:34.982251+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.140-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.140/neoforge-21.4.140-installer.jar",
+        "sha1": "b259f893952c056b6ca7887e394cafd295d83160",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.141",
+      "type": "stable",
+      "releaseTime": "2025-06-24T17:16:03.139819+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.141-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.141/neoforge-21.4.141-installer.jar",
+        "sha1": "a79fb51faa7a1ab24f1ae3baccb17870f301403a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.142",
+      "type": "stable",
+      "releaseTime": "2025-07-06T11:38:50.808102+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.142-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.142/neoforge-21.4.142-installer.jar",
+        "sha1": "57564f2eeb0636f799ad1140ea0f30785d6519d1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.143",
+      "type": "stable",
+      "releaseTime": "2025-07-09T10:22:15.427324+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.143-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.143/neoforge-21.4.143-installer.jar",
+        "sha1": "0e13cc71f507315552de4221610d9c96df9f5255",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.144",
+      "type": "stable",
+      "releaseTime": "2025-07-10T13:48:43.294034+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.144-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.144/neoforge-21.4.144-installer.jar",
+        "sha1": "a7e548123776c035f6d96b24e6cbb77ffe9d4331",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.145",
+      "type": "stable",
+      "releaseTime": "2025-07-10T14:50:28.722951+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.145-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.145/neoforge-21.4.145-installer.jar",
+        "sha1": "3a9490370562af47e34ea2edf9305c327a628632",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.146",
+      "type": "stable",
+      "releaseTime": "2025-07-11T19:05:30.322354+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.146-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.146/neoforge-21.4.146-installer.jar",
+        "sha1": "b7118e4e3247bfe6007e9e28f121aa77eca10b0c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.147",
+      "type": "stable",
+      "releaseTime": "2025-07-12T19:39:13.570541+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.147-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.147/neoforge-21.4.147-installer.jar",
+        "sha1": "20b2aba520b0ae1a280b2c7ec46eeddbd115fe25",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.148",
+      "type": "stable",
+      "releaseTime": "2025-07-29T23:28:13.000258+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.148-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.148/neoforge-21.4.148-installer.jar",
+        "sha1": "61dc3392b7dffba877a346b2ebfe459b8fe31c56",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.149",
+      "type": "stable",
+      "releaseTime": "2025-08-03T12:24:31.823426+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.149-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.149/neoforge-21.4.149-installer.jar",
+        "sha1": "4d251726509a51c6c12307b3c60215b366e9d550",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.150",
+      "type": "stable",
+      "releaseTime": "2025-08-09T20:58:11.086686+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.150-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.150/neoforge-21.4.150-installer.jar",
+        "sha1": "a778a879443fb4b8a21b88aae74962c0e5ac95d8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.151",
+      "type": "stable",
+      "releaseTime": "2025-08-19T12:10:03.519911+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.151-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.151/neoforge-21.4.151-installer.jar",
+        "sha1": "bc2aa2acdafbc115751207aa29f0f9d399c192d3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.152",
+      "type": "stable",
+      "releaseTime": "2025-08-26T16:16:41.504199+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.152-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.152/neoforge-21.4.152-installer.jar",
+        "sha1": "3388ca5861a405b3073cbbc3e8a4efb743dc1e90",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.153",
+      "type": "stable",
+      "releaseTime": "2025-09-05T15:20:13.122715+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.153-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.153/neoforge-21.4.153-installer.jar",
+        "sha1": "c4d0a0fe8e2046cd77b5eaed016b06614ae0e28b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.154",
+      "type": "stable",
+      "releaseTime": "2025-09-06T13:25:16.277750+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.154-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.154/neoforge-21.4.154-installer.jar",
+        "sha1": "4db860381db820a5e99d74833c29a5c9588cd52d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.155",
+      "type": "stable",
+      "releaseTime": "2025-10-10T14:12:03.083820+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.155-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.155/neoforge-21.4.155-installer.jar",
+        "sha1": "74fabe763db092e573b84b8019f729f586b602c7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.156",
+      "type": "stable",
+      "releaseTime": "2025-11-29T09:38:00.079703+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.156-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.156/neoforge-21.4.156-installer.jar",
+        "sha1": "31eda2ad349a16f4ece09e2e0284ed34feb42f15",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.4.157",
+      "type": "stable",
+      "releaseTime": "2026-03-23T17:54:18.968628+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.4.157-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.4.157/neoforge-21.4.157-installer.jar",
+        "sha1": "d236181b9ff421c4f54bda550ad4a58093c004d4",
+        "sha256": null
+      }
+    }
+  ]
+}
