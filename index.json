@@ -1,48 +1,12 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-05-29T04:05:13.460595+00:00",
+  "generatedAt": "2026-05-29T14:34:54.624072+00:00",
   "platforms": [
     {
-      "uid": "net.minecraft",
-      "name": "Mojang",
-      "sha256": "bcbb7116537cbb8dc7855dd5e6ccde3e80b77783bd44417d464c8b502750743e",
-      "url": "net.minecraft/package.json"
-    },
-    {
-      "uid": "io.papermc.paper",
-      "name": "Paper",
-      "sha256": "438ec1d617506c662823eb413f12b435b6ff35af37d627962d2c869a66bb4303",
-      "url": "io.papermc.paper/package.json"
-    },
-    {
-      "uid": "build.purpurmc.purpur",
-      "name": "Purpur",
-      "sha256": "e0871d53ff117d3848cac5d05077c5860677b21a4f9ca578baf8e5752c38024f",
-      "url": "build.purpurmc.purpur/package.json"
-    },
-    {
-      "uid": "net.neoforged",
-      "name": "NeoForge",
-      "sha256": "652f6e6ac9da85f91bd23a26ef3d846c3df4b77b9ae874d707cc4dde88208f1e",
-      "url": "net.neoforged/package.json"
-    },
-    {
-      "uid": "net.fabricmc.fabric",
-      "name": "Fabric",
-      "sha256": "4270c39e8e41f6b53ffb4be6234fb083f8e79cfc3b7b06b212ef7eaea3cb7c60",
-      "url": "net.fabricmc.fabric/package.json"
-    },
-    {
-      "uid": "net.minecraft.java",
-      "name": "Java Runtimes",
-      "sha256": "506fab000f3d53439d9a94496b5c81cd2a7bb5ebd86897dafe04f005f62e56c3",
-      "url": "net.minecraft.java/package.json"
-    },
-    {
-      "uid": "net.adoptium.java",
-      "name": "Java Runtimes",
-      "sha256": "00ab5698c338b630a75971a9e26d469352bc42acbaf649ebeec2c5894eeab2ee",
-      "url": "net.adoptium.java/package.json"
+      "uid": "net.minecraftforge.forge",
+      "name": "Forge",
+      "sha256": "ca568d070019c018c2124841529926c9e8bc366f5fa2c7841d08b026e6486a81",
+      "url": "net.minecraftforge.forge/package.json"
     }
   ]
 }
