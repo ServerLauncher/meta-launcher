@@ -1,0 +1,1399 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraftforge",
+  "mcVersion": "1.19.2",
+  "builds": [
+    {
+      "build": "1.19.2-43.0.0",
+      "type": "snapshot",
+      "releaseTime": "2022-08-05T23:55:31+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.0-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.0/forge-1.19.2-43.0.0-installer.jar",
+        "sha1": "91d28846b623e9b30ff7f454c74b0d1d608924de",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.1",
+      "type": "snapshot",
+      "releaseTime": "2022-08-08T00:52:10+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.1-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.1/forge-1.19.2-43.0.1-installer.jar",
+        "sha1": "a21946db8059ed92ce335ae41016d143708e4f04",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.2",
+      "type": "snapshot",
+      "releaseTime": "2022-08-08T13:34:43+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.2-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.2/forge-1.19.2-43.0.2-installer.jar",
+        "sha1": "50867152955ab99a0fda3fc100b90907d4ad2e1f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.3",
+      "type": "snapshot",
+      "releaseTime": "2022-08-09T19:36:12+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.3-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.3/forge-1.19.2-43.0.3-installer.jar",
+        "sha1": "5d8e672d625de46e9dfbc92884c05df393450ab2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.4",
+      "type": "snapshot",
+      "releaseTime": "2022-08-09T19:47:13+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.4-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.4/forge-1.19.2-43.0.4-installer.jar",
+        "sha1": "576b2c19f1e08a077c2a55610137cbc336d51037",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.5",
+      "type": "snapshot",
+      "releaseTime": "2022-08-09T19:47:50+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.5-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.5/forge-1.19.2-43.0.5-installer.jar",
+        "sha1": "52d17497068d7986a212decf33f8c19f800aa607",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.7",
+      "type": "snapshot",
+      "releaseTime": "2022-08-09T20:05:31+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.7-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.7/forge-1.19.2-43.0.7-installer.jar",
+        "sha1": "f6f6b4891a8cb3827bcc4796a0e298df598794fe",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.8",
+      "type": "snapshot",
+      "releaseTime": "2022-08-11T06:31:01+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.8-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.8/forge-1.19.2-43.0.8-installer.jar",
+        "sha1": "e4341c865be8389443a3ace756c65fb32913bd97",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.10",
+      "type": "snapshot",
+      "releaseTime": "2022-08-14T19:38:11+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.10-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.10/forge-1.19.2-43.0.10-installer.jar",
+        "sha1": "33c86fd5d6e1afcef761c2c05026eb1a6e2dc8a8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.11",
+      "type": "snapshot",
+      "releaseTime": "2022-08-14T19:42:01+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.11-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.11/forge-1.19.2-43.0.11-installer.jar",
+        "sha1": "799163848a09ec29cdb0533b3770c1ff13234279",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.12",
+      "type": "snapshot",
+      "releaseTime": "2022-08-16T20:35:36+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.12-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.12/forge-1.19.2-43.0.12-installer.jar",
+        "sha1": "75d32b37695b21d16e09641de23de97b5a40c503",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.13",
+      "type": "snapshot",
+      "releaseTime": "2022-08-16T20:56:55+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.13-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.13/forge-1.19.2-43.0.13-installer.jar",
+        "sha1": "10036764126253b1248b1ddf06a7442eb8b4fe29",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.15",
+      "type": "snapshot",
+      "releaseTime": "2022-08-16T21:08:14+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.15-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.15/forge-1.19.2-43.0.15-installer.jar",
+        "sha1": "420e17cc7d2108cd37b56ba2e8646dc366aa1109",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.16",
+      "type": "snapshot",
+      "releaseTime": "2022-08-16T21:14:44+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.16-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.16/forge-1.19.2-43.0.16-installer.jar",
+        "sha1": "8cbf5e9f073ed9cf4a27ed12de2df04d30de0b45",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.17",
+      "type": "snapshot",
+      "releaseTime": "2022-08-16T21:26:47+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.17-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.17/forge-1.19.2-43.0.17-installer.jar",
+        "sha1": "876a14c638f97291316e0cff8e0ea5456476a299",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.18",
+      "type": "snapshot",
+      "releaseTime": "2022-08-16T21:31:31+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.18-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.18/forge-1.19.2-43.0.18-installer.jar",
+        "sha1": "36c65da03dd61c51cf0460475446e5437ced4a30",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.19",
+      "type": "snapshot",
+      "releaseTime": "2022-08-16T22:19:04+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.19-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.19/forge-1.19.2-43.0.19-installer.jar",
+        "sha1": "466d2876d315cf87f9cdc215dd224e03792c4c66",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.20",
+      "type": "snapshot",
+      "releaseTime": "2022-08-17T21:09:30+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.20-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.20/forge-1.19.2-43.0.20-installer.jar",
+        "sha1": "566714079168a6bbe65e794caf08b50299fd9e4a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.21",
+      "type": "snapshot",
+      "releaseTime": "2022-08-17T21:26:15+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.21-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.21/forge-1.19.2-43.0.21-installer.jar",
+        "sha1": "a4a109206ccb3d534a2a58ff9d12c17a9fdd2fcd",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.0.22",
+      "type": "snapshot",
+      "releaseTime": "2022-08-17T21:57:58+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.0.22-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.0.22/forge-1.19.2-43.0.22-installer.jar",
+        "sha1": "5266fd936ea0c4f54e58ad3946383fe23c35d965",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.0",
+      "type": "snapshot",
+      "releaseTime": "2022-08-17T22:15:28+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.0-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.0/forge-1.19.2-43.1.0-installer.jar",
+        "sha1": "76d2aa2c288b83614094d6db47f5546e9bc30ae6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.1",
+      "type": "snapshot",
+      "releaseTime": "2022-08-17T22:23:10+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.1-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.1/forge-1.19.2-43.1.1-installer.jar",
+        "sha1": "98f75962cb706e3c892aa7bfe4b1b2c9346b9fa3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.2",
+      "type": "snapshot",
+      "releaseTime": "2022-08-20T09:57:19+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.2-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.2/forge-1.19.2-43.1.2-installer.jar",
+        "sha1": "da06ef9e7d7c2c514c35122385f89641c748b7ea",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.3",
+      "type": "snapshot",
+      "releaseTime": "2022-08-25T19:01:05+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.3-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.3/forge-1.19.2-43.1.3-installer.jar",
+        "sha1": "550457378e3c3f6620aee25f7280672c32cce267",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.4",
+      "type": "snapshot",
+      "releaseTime": "2022-09-03T19:23:38+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.4-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.4/forge-1.19.2-43.1.4-installer.jar",
+        "sha1": "e84f61b3ce000201746fd1262684abb6bcfa1f54",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.7",
+      "type": "snapshot",
+      "releaseTime": "2022-09-03T19:34:58+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.7-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.7/forge-1.19.2-43.1.7-installer.jar",
+        "sha1": "e5b210195a9670c8563b4ce257289eb0f1294b5a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.10",
+      "type": "snapshot",
+      "releaseTime": "2022-09-03T19:37:24+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.10-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.10/forge-1.19.2-43.1.10-installer.jar",
+        "sha1": "b01d248e89eca5cda825b1eea74f2ae3f4b83ae9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.12",
+      "type": "snapshot",
+      "releaseTime": "2022-09-03T19:43:12+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.12-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.12/forge-1.19.2-43.1.12-installer.jar",
+        "sha1": "84054d364086f7820ced005c086b62be5e4f6ac4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.13",
+      "type": "snapshot",
+      "releaseTime": "2022-09-03T19:50:39+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.13-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.13/forge-1.19.2-43.1.13-installer.jar",
+        "sha1": "46784cc43224e26bc0dee19232485b1107947328",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.14",
+      "type": "snapshot",
+      "releaseTime": "2022-09-03T20:44:14+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.14-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.14/forge-1.19.2-43.1.14-installer.jar",
+        "sha1": "8722b19248ad020275e27f6fc34aca5e7c524b2e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.15",
+      "type": "snapshot",
+      "releaseTime": "2022-09-03T21:06:40+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.15-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.15/forge-1.19.2-43.1.15-installer.jar",
+        "sha1": "9919c902d8e85684f8c4abe9167b59d977fec7fc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.16",
+      "type": "snapshot",
+      "releaseTime": "2022-09-04T19:06:05+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.16-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.16/forge-1.19.2-43.1.16-installer.jar",
+        "sha1": "4b013b984e16640cb9658ff8f251ed3afec14b3c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.17",
+      "type": "snapshot",
+      "releaseTime": "2022-09-08T15:13:11+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.17-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.17/forge-1.19.2-43.1.17-installer.jar",
+        "sha1": "ec19c0723a90f6a15abd693e8013e1d03ca095b8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.23",
+      "type": "snapshot",
+      "releaseTime": "2022-09-08T15:35:38+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.23-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.23/forge-1.19.2-43.1.23-installer.jar",
+        "sha1": "016429e00c2125e79d8435dc367e691ee93de116",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.24",
+      "type": "snapshot",
+      "releaseTime": "2022-09-08T15:43:31+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.24-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.24/forge-1.19.2-43.1.24-installer.jar",
+        "sha1": "bb9007ebf356f984b1fb920a9e135726fd4b8c23",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.25",
+      "type": "snapshot",
+      "releaseTime": "2022-09-09T18:46:11+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.25-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.25/forge-1.19.2-43.1.25-installer.jar",
+        "sha1": "65d708fbe8e9a1092592de4439a3ab7d3e4ba2c1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.26",
+      "type": "snapshot",
+      "releaseTime": "2022-09-21T20:40:11+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.26-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.26/forge-1.19.2-43.1.26-installer.jar",
+        "sha1": "4b8a3fef2a2edb747f1f352fcf897fcf90703ea3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.27",
+      "type": "snapshot",
+      "releaseTime": "2022-09-21T20:44:45+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.27-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.27/forge-1.19.2-43.1.27-installer.jar",
+        "sha1": "7a090c39d1f29740989004086084eec4ddaae936",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.28",
+      "type": "snapshot",
+      "releaseTime": "2022-09-26T18:26:32+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.28-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.28/forge-1.19.2-43.1.28-installer.jar",
+        "sha1": "ee84dea680f22333c534f903d4f212dfa2846db7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.29",
+      "type": "snapshot",
+      "releaseTime": "2022-09-27T18:32:47+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.29-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.29/forge-1.19.2-43.1.29-installer.jar",
+        "sha1": "fff3fd6b51391e84638be635b36b003057032248",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.30",
+      "type": "snapshot",
+      "releaseTime": "2022-09-28T06:41:01+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.30-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.30/forge-1.19.2-43.1.30-installer.jar",
+        "sha1": "436b9e7487dcc55748a64491711a9753ebd2636f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.32",
+      "type": "snapshot",
+      "releaseTime": "2022-09-30T05:28:15+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.32-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.32/forge-1.19.2-43.1.32-installer.jar",
+        "sha1": "014802cbdb43838e3222069aca15cbc07241ae98",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.33",
+      "type": "snapshot",
+      "releaseTime": "2022-10-03T19:07:56+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.33-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.33/forge-1.19.2-43.1.33-installer.jar",
+        "sha1": "23fc83f2be82726f90ad8026cbaab0b9307e4faf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.34",
+      "type": "snapshot",
+      "releaseTime": "2022-10-08T03:14:39+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.34-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.34/forge-1.19.2-43.1.34-installer.jar",
+        "sha1": "1ef6733f016d8319cb6db6448a368c9990beae6b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.35",
+      "type": "snapshot",
+      "releaseTime": "2022-10-12T19:19:13+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.35-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.35/forge-1.19.2-43.1.35-installer.jar",
+        "sha1": "d24a3a284961cf66a19c6d4eb2d965402439a423",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.36",
+      "type": "snapshot",
+      "releaseTime": "2022-10-12T20:04:25+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.36-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.36/forge-1.19.2-43.1.36-installer.jar",
+        "sha1": "17b1c4e1e7bba19b97f2d0dbfa4162da466ef0fc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.37",
+      "type": "snapshot",
+      "releaseTime": "2022-10-12T20:11:47+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.37-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.37/forge-1.19.2-43.1.37-installer.jar",
+        "sha1": "b4acb90b34e9e81123e77cbbcba9439dcf31f0a1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.38",
+      "type": "snapshot",
+      "releaseTime": "2022-10-12T20:14:35+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.38-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.38/forge-1.19.2-43.1.38-installer.jar",
+        "sha1": "2e8a0d43a9cbe3b30744451a3d5714fe72d32ddf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.39",
+      "type": "snapshot",
+      "releaseTime": "2022-10-13T18:58:02+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.39-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.39/forge-1.19.2-43.1.39-installer.jar",
+        "sha1": "4efbb7fba78be2d030d129301f2360fd057c467a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.40",
+      "type": "snapshot",
+      "releaseTime": "2022-10-14T16:39:51+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.40-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.40/forge-1.19.2-43.1.40-installer.jar",
+        "sha1": "150e2827f4bd0d385f3f62dfec2e09f5a76cff7c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.41",
+      "type": "snapshot",
+      "releaseTime": "2022-10-14T16:54:29+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.41-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.41/forge-1.19.2-43.1.41-installer.jar",
+        "sha1": "28e65072287f789d56caf3650d680f03d3be4b76",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.42",
+      "type": "snapshot",
+      "releaseTime": "2022-10-14T17:05:00+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.42-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.42/forge-1.19.2-43.1.42-installer.jar",
+        "sha1": "c5d77667bf3c0473ee92132511dd47d5c7207653",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.43",
+      "type": "snapshot",
+      "releaseTime": "2022-10-14T17:08:49+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.43-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.43/forge-1.19.2-43.1.43-installer.jar",
+        "sha1": "820acd6af509963a05f951b42557d2425a491db6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.47",
+      "type": "snapshot",
+      "releaseTime": "2022-10-21T20:41:26+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.47-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.47/forge-1.19.2-43.1.47-installer.jar",
+        "sha1": "1edf87ec6515240f8764f59b3a8f0d1db149b772",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.52",
+      "type": "snapshot",
+      "releaseTime": "2022-11-08T20:38:14+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.52-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.52/forge-1.19.2-43.1.52-installer.jar",
+        "sha1": "39fbf6ee8c31b5ce9bb44a48c923d219a1ffdf5e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.53",
+      "type": "snapshot",
+      "releaseTime": "2022-11-21T02:52:57+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.53-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.53/forge-1.19.2-43.1.53-installer.jar",
+        "sha1": "ab9ad06058858c0b6f34bbf4c8e1790844804824",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.55",
+      "type": "snapshot",
+      "releaseTime": "2022-11-21T20:08:59+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.55-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.55/forge-1.19.2-43.1.55-installer.jar",
+        "sha1": "4e9d0477510a2a68f7d280233153435e92582a29",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.57",
+      "type": "snapshot",
+      "releaseTime": "2022-11-23T08:36:07+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.57-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.57/forge-1.19.2-43.1.57-installer.jar",
+        "sha1": "052df834402ab4a08d1ab5a2e50b6ec328cd2c27",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.58",
+      "type": "snapshot",
+      "releaseTime": "2022-11-28T17:10:44+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.58-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.58/forge-1.19.2-43.1.58-installer.jar",
+        "sha1": "39023df4a34d09d217319f55fba46116ff06911b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.59",
+      "type": "snapshot",
+      "releaseTime": "2022-11-30T22:20:57+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.59-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.59/forge-1.19.2-43.1.59-installer.jar",
+        "sha1": "34eafe726dfc11f98a0f35ee32515f71427040e9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.60",
+      "type": "snapshot",
+      "releaseTime": "2022-11-30T22:27:13+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.60-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.60/forge-1.19.2-43.1.60-installer.jar",
+        "sha1": "7bfa25d6d921f4ec5c12756aabeacb1d43a36d96",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.64",
+      "type": "snapshot",
+      "releaseTime": "2022-11-30T23:02:50+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.64-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.64/forge-1.19.2-43.1.64-installer.jar",
+        "sha1": "9eee865a66ac25594968e191e6f7f6177b86782b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.65",
+      "type": "snapshot",
+      "releaseTime": "2022-11-30T23:09:22+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.65-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.65/forge-1.19.2-43.1.65-installer.jar",
+        "sha1": "aa755d079664c20a6fad2ad344a72241d2257721",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.0",
+      "type": "snapshot",
+      "releaseTime": "2022-12-08T07:41:18+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.0-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-installer.jar",
+        "sha1": "b41f7e592272d71405e3516e09734556a7526093",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.1.63",
+      "type": "snapshot",
+      "releaseTime": "2022-12-11T22:56:30+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.1.63-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.63/forge-1.19.2-43.1.63-installer.jar",
+        "sha1": "4f1cf43328794f5a068fc5c46b2f25247fcb6dbe",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.1",
+      "type": "snapshot",
+      "releaseTime": "2022-12-17T18:12:07+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.1-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.1/forge-1.19.2-43.2.1-installer.jar",
+        "sha1": "721e891b64c4226593f0d84e93d0fade11a589a6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.2",
+      "type": "snapshot",
+      "releaseTime": "2022-12-26T21:41:02+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.2-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.2/forge-1.19.2-43.2.2-installer.jar",
+        "sha1": "de7e519a035acc06cc2e3fcffb689c421eed2598",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.3",
+      "type": "snapshot",
+      "releaseTime": "2022-12-30T17:21:47+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.3-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.3/forge-1.19.2-43.2.3-installer.jar",
+        "sha1": "3a5695ade33a2592e609e1fa884cda2fcf5f78c7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.4",
+      "type": "snapshot",
+      "releaseTime": "2023-01-25T22:01:27+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.4-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.4/forge-1.19.2-43.2.4-installer.jar",
+        "sha1": "f7eeebb38eee534c051590e5ffc86fe65d20ac56",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.5",
+      "type": "snapshot",
+      "releaseTime": "2023-02-24T19:09:48+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.5-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.5/forge-1.19.2-43.2.5-installer.jar",
+        "sha1": "83cbb9e52ee0aea4d292d3c677504b82ebfc8999",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.6",
+      "type": "snapshot",
+      "releaseTime": "2023-02-24T21:40:26+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.6-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.6/forge-1.19.2-43.2.6-installer.jar",
+        "sha1": "42de8a84f1696c39a0d5319c567b723342f0d037",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.7",
+      "type": "snapshot",
+      "releaseTime": "2023-03-15T19:12:19+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.7-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.7/forge-1.19.2-43.2.7-installer.jar",
+        "sha1": "5f48a9205bed91374973b3890d53e76f2ffd0eca",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.8",
+      "type": "snapshot",
+      "releaseTime": "2023-03-22T10:31:36+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.8-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.8/forge-1.19.2-43.2.8-installer.jar",
+        "sha1": "5ad2ab3264b9c0e996fba031e942755e1ee1a818",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.9",
+      "type": "snapshot",
+      "releaseTime": "2023-05-01T23:58:41+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.9-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.9/forge-1.19.2-43.2.9-installer.jar",
+        "sha1": "03e9f84ddf6feb42b9b0fb244e24130bd47a68c1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.10",
+      "type": "snapshot",
+      "releaseTime": "2023-05-03T06:25:14+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.10-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.10/forge-1.19.2-43.2.10-installer.jar",
+        "sha1": "9df5e9d1a3e224178881daf75f227c651776e21a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.11",
+      "type": "snapshot",
+      "releaseTime": "2023-05-08T22:11:04+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.11-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.11/forge-1.19.2-43.2.11-installer.jar",
+        "sha1": "5ffdb53a65a2589d88972378acf27e46daa07cf6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.12",
+      "type": "snapshot",
+      "releaseTime": "2023-05-29T19:38:15+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.12-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.12/forge-1.19.2-43.2.12-installer.jar",
+        "sha1": "e2e5ef1276a5b528169cba2bc1dca14747e5c91c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.13",
+      "type": "snapshot",
+      "releaseTime": "2023-05-31T12:12:58+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.13-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.13/forge-1.19.2-43.2.13-installer.jar",
+        "sha1": "8395a19589fe1806665309ea75903c97db3ef465",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.14",
+      "type": "snapshot",
+      "releaseTime": "2023-06-07T13:41:44+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.14-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.14/forge-1.19.2-43.2.14-installer.jar",
+        "sha1": "a35271b7a6162dd82ccf4425e45602e196913684",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.17",
+      "type": "snapshot",
+      "releaseTime": "2023-07-11T16:46:39+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.17-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.17/forge-1.19.2-43.2.17-installer.jar",
+        "sha1": "7cdedada9707def3b7be6adfe156663b46db2261",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.18",
+      "type": "snapshot",
+      "releaseTime": "2023-07-14T01:00:40+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.18-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.18/forge-1.19.2-43.2.18-installer.jar",
+        "sha1": "b88b857e59ddefa0f69d42528800729d7cff81cc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.19",
+      "type": "snapshot",
+      "releaseTime": "2023-07-15T18:21:21+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.19-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.19/forge-1.19.2-43.2.19-installer.jar",
+        "sha1": "0491e0ea952a47cbc9e18d8da878f74476d4ab77",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.20",
+      "type": "snapshot",
+      "releaseTime": "2023-07-17T16:19:22+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.20-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.20/forge-1.19.2-43.2.20-installer.jar",
+        "sha1": "5d45b3a5c1615fe182791b95e3e884417015ef05",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.21",
+      "type": "snapshot",
+      "releaseTime": "2023-07-17T17:08:51+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.21-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.21/forge-1.19.2-43.2.21-installer.jar",
+        "sha1": "1d1d2cf44d6580fdc40c3868a9bff99e7abccc85",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.22",
+      "type": "snapshot",
+      "releaseTime": "2023-09-02T23:44:07+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.22-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.22/forge-1.19.2-43.2.22-installer.jar",
+        "sha1": "66c2e4681700dcdeaa8d1fc8ebf166b1a59ecacd",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.2.23",
+      "type": "snapshot",
+      "releaseTime": "2023-09-03T18:23:19+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.2.23-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.23/forge-1.19.2-43.2.23-installer.jar",
+        "sha1": "eb7496fd957b89663b07dadb45ca5b5ec7e1e59e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.0",
+      "type": "snapshot",
+      "releaseTime": "2023-09-21T19:20:10+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.0-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.0/forge-1.19.2-43.3.0-installer.jar",
+        "sha1": "9b39c17ecec056b271b775f2618baa226f86f95f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.2",
+      "type": "snapshot",
+      "releaseTime": "2023-09-28T23:58:51+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.2-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.2/forge-1.19.2-43.3.2-installer.jar",
+        "sha1": "603911b457caaba09ae1673d9518bf2f7461782e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.5",
+      "type": "snapshot",
+      "releaseTime": "2023-11-02T20:59:30+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.5-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.5/forge-1.19.2-43.3.5-installer.jar",
+        "sha1": "73e9b33e11011ceac484e8013973fee39bd6de88",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.6",
+      "type": "snapshot",
+      "releaseTime": "2023-12-30T21:37:16+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.6-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.6/forge-1.19.2-43.3.6-installer.jar",
+        "sha1": "b54c34c5bceabd2b505e40992e2da45cb71bc1a2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.7",
+      "type": "snapshot",
+      "releaseTime": "2023-12-31T15:58:50+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.7-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.7/forge-1.19.2-43.3.7-installer.jar",
+        "sha1": "e9a32470af52ede9bef893f2aeaacf1b234f0706",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.8",
+      "type": "snapshot",
+      "releaseTime": "2024-02-11T00:22:46+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.8-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.8/forge-1.19.2-43.3.8-installer.jar",
+        "sha1": "9c016579118d619ba2318846c844b94da1b560ec",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.9",
+      "type": "snapshot",
+      "releaseTime": "2024-03-15T22:50:42+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.9-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.9/forge-1.19.2-43.3.9-installer.jar",
+        "sha1": "1840076543c34038953af08d84a4dd9236692c7d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.10",
+      "type": "snapshot",
+      "releaseTime": "2024-04-18T19:15:18+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.10-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.10/forge-1.19.2-43.3.10-installer.jar",
+        "sha1": "ba7940d3a9f04b2e1406bb19b9165b7129a77ec7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.12",
+      "type": "snapshot",
+      "releaseTime": "2024-04-18T20:36:19+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.12-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.12/forge-1.19.2-43.3.12-installer.jar",
+        "sha1": "9051f30de12497ce0d1d0d5de054c26ae4549cc3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.13",
+      "type": "snapshot",
+      "releaseTime": "2024-04-18T20:58:42+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.13-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.13/forge-1.19.2-43.3.13-installer.jar",
+        "sha1": "8b802d4eb2bc8e6f70bcedb8318756047530f376",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.3.14",
+      "type": "snapshot",
+      "releaseTime": "2024-06-06T21:54:46+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.3.14-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.3.14/forge-1.19.2-43.3.14-installer.jar",
+        "sha1": "37d8dba5ec1ab48309ab3299a190c93e0124ce32",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.0",
+      "type": "snapshot",
+      "releaseTime": "2024-06-06T22:19:55+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.0-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.0/forge-1.19.2-43.4.0-installer.jar",
+        "sha1": "3cf86bde9ae968eeac44a6f1b1f88f92f73e67b7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.1",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T19:21:23+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.1-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.1/forge-1.19.2-43.4.1-installer.jar",
+        "sha1": "6446c965065da8b5273434596dfb27db5c6d5568",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.2",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T19:58:46+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.2-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-installer.jar",
+        "sha1": "9a469d3546382685b9a9e77c49b34e864936a127",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.4",
+      "type": "snapshot",
+      "releaseTime": "2024-09-12T13:34:14+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.4-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.4/forge-1.19.2-43.4.4-installer.jar",
+        "sha1": "6b63a94617d2ca73f5bb73066038258091bd5758",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.5",
+      "type": "snapshot",
+      "releaseTime": "2024-11-10T21:41:45+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.5-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.5/forge-1.19.2-43.4.5-installer.jar",
+        "sha1": "825298db0cda61b489070e5bc5e20ee7c2f87850",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.6",
+      "type": "snapshot",
+      "releaseTime": "2024-11-26T20:27:15+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.6-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.6/forge-1.19.2-43.4.6-installer.jar",
+        "sha1": "ba4c4e8e936c810ec024c92e12074e39cf9e8f0d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.7",
+      "type": "snapshot",
+      "releaseTime": "2024-12-24T05:21:12+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.7-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.7/forge-1.19.2-43.4.7-installer.jar",
+        "sha1": "39d127006348cd6b0225bcaa2cece451b25f75e1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.9",
+      "type": "snapshot",
+      "releaseTime": "2024-12-24T05:36:39+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.9-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.9/forge-1.19.2-43.4.9-installer.jar",
+        "sha1": "c8f02b48858847ef749cae98cedf1d411ac29625",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.10",
+      "type": "snapshot",
+      "releaseTime": "2024-12-24T05:50:32+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.10-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.10/forge-1.19.2-43.4.10-installer.jar",
+        "sha1": "80a86dc5ca024b56c5bf9736b8304dbd3ff5b306",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.12",
+      "type": "snapshot",
+      "releaseTime": "2024-12-24T06:15:17+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.12-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.12/forge-1.19.2-43.4.12-installer.jar",
+        "sha1": "2eacfdef0ab3ffc827aeaf43dee54a9a7c20e4e4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.13",
+      "type": "snapshot",
+      "releaseTime": "2025-01-22T22:48:51+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.13-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.13/forge-1.19.2-43.4.13-installer.jar",
+        "sha1": "fe1b9b0370aa837dac43e22c920fa8272de8ee04",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.16",
+      "type": "snapshot",
+      "releaseTime": "2025-01-28T04:53:25+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.16-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.16/forge-1.19.2-43.4.16-installer.jar",
+        "sha1": "ff25efc68c9506bbc93e8db5414f074e2771c1e8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.19",
+      "type": "snapshot",
+      "releaseTime": "2025-02-18T22:28:34+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.19-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.19/forge-1.19.2-43.4.19-installer.jar",
+        "sha1": "0a9a3b52b175c6b8c8b13419bbfae554fe001555",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.20",
+      "type": "snapshot",
+      "releaseTime": "2025-02-18T22:38:31+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.20-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.20/forge-1.19.2-43.4.20-installer.jar",
+        "sha1": "a1aab6667d24efa1ee687ae1d0069c5f8310c027",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.22",
+      "type": "snapshot",
+      "releaseTime": "2025-03-04T22:51:09+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.22-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.22/forge-1.19.2-43.4.22-installer.jar",
+        "sha1": "330acc73a4b529606f09a65752340720c99cf3b9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.4.23",
+      "type": "snapshot",
+      "releaseTime": "2025-03-04T22:58:17+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.4.23-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.4.23/forge-1.19.2-43.4.23-installer.jar",
+        "sha1": "06c46a5371b1c6b22c7b88f17d50a95beb867c07",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.5.0",
+      "type": "stable",
+      "releaseTime": "2025-03-05T01:15:40+00:00",
+      "recommended": true,
+      "download": {
+        "name": "forge-1.19.2-43.5.0-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.5.0/forge-1.19.2-43.5.0-installer.jar",
+        "sha1": "0a45a1d96388403c5f16556df81165ba4d96987a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.5.1",
+      "type": "snapshot",
+      "releaseTime": "2025-07-16T17:17:33+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.5.1-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.5.1/forge-1.19.2-43.5.1-installer.jar",
+        "sha1": "cabe57df73003fda0554d2d35d7dd7f48264a752",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.19.2-43.5.2",
+      "type": "snapshot",
+      "releaseTime": "2025-12-02T23:47:44+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.19.2-43.5.2-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.5.2/forge-1.19.2-43.5.2-installer.jar",
+        "sha1": "d242b6786039d4acb9ea7579624772b6809bda91",
+        "sha256": null
+      }
+    }
+  ]
+}
