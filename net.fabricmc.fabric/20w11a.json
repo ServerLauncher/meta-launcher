@@ -4,6 +4,18 @@
   "mcVersion": "20w11a",
   "builds": [
     {
+      "build": "0.19.3",
+      "type": "snapshot",
+      "releaseTime": "2026-06-01T17:23:10",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-20w11a-0.19.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/20w11a/0.19.3/1.1.1/server/jar",
+        "sha1": "354dfaa02d0552e11867f85dff7cdbfaf813ba3e",
+        "sha256": null
+      }
+    },
+    {
       "build": "0.19.2",
       "type": "stable",
       "releaseTime": "2026-04-15T18:24:37",
@@ -599,7 +611,7 @@
       "download": {
         "name": "fabric-server-20w11a-0.14.17.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/20w11a/0.14.17/1.1.1/server/jar",
-        "sha1": null,
+        "sha1": "7b875f1276f3005ab1956c54a0bffded6558c16b",
         "sha256": null
       }
     },
@@ -822,7 +834,7 @@
     {
       "build": "0.13.2",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2022-02-11T16:56:49",
       "recommended": false,
       "download": {
         "name": "fabric-server-20w11a-0.13.2.jar",
@@ -942,7 +954,7 @@
     {
       "build": "0.12.5",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2021-11-05T15:21:29",
       "recommended": false,
       "download": {
         "name": "fabric-server-20w11a-0.12.5.jar",
@@ -1950,7 +1962,7 @@
     {
       "build": "0.4.5+build.140",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2019-04-28T14:51:10",
       "recommended": false,
       "download": {
         "name": "fabric-server-20w11a-0.4.5+build.140.jar",
@@ -2010,7 +2022,7 @@
     {
       "build": "0.4.3+build.135",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2019-04-26T08:41:24",
       "recommended": false,
       "download": {
         "name": "fabric-server-20w11a-0.4.3+build.135.jar",

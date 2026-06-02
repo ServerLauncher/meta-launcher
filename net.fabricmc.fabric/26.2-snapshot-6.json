@@ -4,6 +4,18 @@
   "mcVersion": "26.2-snapshot-6",
   "builds": [
     {
+      "build": "0.19.3",
+      "type": "snapshot",
+      "releaseTime": "2026-06-01T17:23:10",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-26.2-snapshot-6-0.19.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/26.2-snapshot-6/0.19.3/1.1.1/server/jar",
+        "sha1": "354dfaa02d0552e11867f85dff7cdbfaf813ba3e",
+        "sha256": null
+      }
+    },
+    {
       "build": "0.19.2",
       "type": "stable",
       "releaseTime": "2026-04-15T18:24:37",
@@ -2010,7 +2022,7 @@
     {
       "build": "0.4.3+build.135",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2019-04-26T08:41:24",
       "recommended": false,
       "download": {
         "name": "fabric-server-26.2-snapshot-6-0.4.3+build.135.jar",

@@ -4,6 +4,18 @@
   "mcVersion": "1.21-pre4",
   "builds": [
     {
+      "build": "0.19.3",
+      "type": "snapshot",
+      "releaseTime": "2026-06-01T17:23:10",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.21-pre4-0.19.3.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21-pre4/0.19.3/1.1.1/server/jar",
+        "sha1": "354dfaa02d0552e11867f85dff7cdbfaf813ba3e",
+        "sha256": null
+      }
+    },
+    {
       "build": "0.19.2",
       "type": "stable",
       "releaseTime": "2026-04-15T18:24:37",
