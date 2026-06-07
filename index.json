@@ -1,53 +1,53 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-06-07T13:59:17.582667+00:00",
+  "generatedAt": "2026-06-07T14:14:31.389922+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
       "name": "Mojang",
-      "sha256": "f11d18ef26b63bc23eb1ab727f69c27c374536f430b43127919e136439a60836",
+      "sha256": "b8bf94d8f3f93bc50cd4a4dc27aae0a8fc659349ddceaf1f751b8f623c35a29b",
       "url": "net.minecraft/package.json"
     },
     {
       "uid": "io.papermc.paper",
       "name": "Paper",
-      "sha256": "438ec1d617506c662823eb413f12b435b6ff35af37d627962d2c869a66bb4303",
+      "sha256": "298547d21f83c79fc1a54861a33f4758c1d5eb6cb851c8e447e95685830c9112",
       "url": "io.papermc.paper/package.json"
     },
     {
       "uid": "build.purpurmc.purpur",
       "name": "Purpur",
-      "sha256": "0ccde8f108984b1b355d7edcca0e91ec27a49fd7c8251c1ecfc5c868e60db7a3",
+      "sha256": "224fe19e0d5c7f72f1c886b697eeb0efcc65e1056e79b9389f25660b6db3d940",
       "url": "build.purpurmc.purpur/package.json"
     },
     {
       "uid": "net.neoforged",
       "name": "NeoForge",
-      "sha256": "71a1ce5f471433a15511b8ca6546432a86463f693e2dc0b86d932842de68f86b",
+      "sha256": "99d1e97dd04529bef1032b24b0f8e1b1951e95cb15f8be68b8e4f08373159da3",
       "url": "net.neoforged/package.json"
     },
     {
       "uid": "net.fabricmc.fabric",
       "name": "Fabric",
-      "sha256": "2578c8120e5154d6537af16d032a6f59c841dcf26120e36065e332ee707a19a2",
+      "sha256": "97446c3a2d678f2c2fdd835e4374ff282ec5202b8757dcaf574a0c5f882c7138",
       "url": "net.fabricmc.fabric/package.json"
     },
     {
       "uid": "net.minecraft.java",
       "name": "Java Runtimes",
-      "sha256": "506fab000f3d53439d9a94496b5c81cd2a7bb5ebd86897dafe04f005f62e56c3",
+      "sha256": "986684b2ff7c772b1176a347e3df7fcd7424753af66723a4e25d6c773a598c5b",
       "url": "net.minecraft.java/package.json"
     },
     {
       "uid": "net.adoptium.java",
       "name": "Java Runtimes",
-      "sha256": "00ab5698c338b630a75971a9e26d469352bc42acbaf649ebeec2c5894eeab2ee",
+      "sha256": "adf949b183cafcf6c6e9b9370b465a42a9e1ae439944f1c79645cff861e4c2b6",
       "url": "net.adoptium.java/package.json"
     },
     {
       "uid": "net.minecraftforge",
       "name": "Forge",
-      "sha256": "87451d5871a45e39fd7a5d7f6b3d7c742a83dd39a3b29e587d4429d406cf32e5",
+      "sha256": "04de5d22d175cb6ebe37ae96b898abcb3edd77a66bdd57751a4c159d85a7bf8f",
       "url": "net.minecraftforge/package.json"
     }
   ]
