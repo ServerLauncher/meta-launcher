@@ -7,285 +7,63 @@
   ],
   "versions": [
     {
-      "mcVersion": "1.7.10",
-      "sha256": "7cc76a0cd3ff7c0bab977f94acf09bd84c77cda2f57dddd02da929884fa69bb0",
-      "url": "io.papermc.paper/1.7.10.json",
-      "latestBuild": "2025"
+      "mcVersion": "1.21.11",
+      "sha256": "365d0a8d095b10450a3dd0e26ce9d39b814907ffd8178132be46ec0069afab8b",
+      "url": "io.papermc.paper/1.21.11.json",
+      "latestBuild": "34"
     },
     {
-      "mcVersion": "1.8.8",
-      "sha256": "1ed3057636c4c23d0c4aa89598cda6244fdda333fe9c0b268d6ee778d2dd7ffc",
-      "url": "io.papermc.paper/1.8.8.json",
-      "latestBuild": "443"
-    },
-    {
-      "mcVersion": "1.9.4",
-      "sha256": "7ffeb9f9e613ea8b5b0c5bbdd88dc39955a9e277a7fec1b189340e080834b8ec",
-      "url": "io.papermc.paper/1.9.4.json",
-      "latestBuild": "773"
-    },
-    {
-      "mcVersion": "1.10.2",
-      "sha256": "a6eb0761ff3d7b2f0afd04f3a378923a88014017d9ac2bbdaefdf62d18df0e8c",
-      "url": "io.papermc.paper/1.10.2.json",
-      "latestBuild": "916"
-    },
-    {
-      "mcVersion": "1.11.2",
-      "sha256": "5836624f45e0f6e61feb31f5fcd2ea5f2cf04f8e1411bd00b7fadf217f712722",
-      "url": "io.papermc.paper/1.11.2.json",
-      "latestBuild": "1104"
-    },
-    {
-      "mcVersion": "1.12",
-      "sha256": "9c19ea9d01a5298a02c5395e89589470abb1c98f3ce3b3a6183affce53f2de8b",
-      "url": "io.papermc.paper/1.12.json",
-      "latestBuild": "1105"
-    },
-    {
-      "mcVersion": "1.12.1",
-      "sha256": "278216e23b6920fde04a6024faf962e4aa7e4219488b28120ffabeb812b2f469",
-      "url": "io.papermc.paper/1.12.1.json",
-      "latestBuild": "1170"
-    },
-    {
-      "mcVersion": "1.12.2",
-      "sha256": "f02a97d69589df781b758ed44ff63aaf29f38f83bbb019796da4aa764fcaaa4b",
-      "url": "io.papermc.paper/1.12.2.json",
-      "latestBuild": "1205"
-    },
-    {
-      "mcVersion": "1.13-pre7",
-      "sha256": "6a281d36f93164e364289886100b0f38baca8f3dd31c2768ea8bda938421bc44",
-      "url": "io.papermc.paper/1.13-pre7.json",
-      "latestBuild": "1"
-    },
-    {
-      "mcVersion": "1.13",
-      "sha256": "6ca986f1fa541afed7dffb7c9a76cca38b98f1f15ebc6519c551ebad9541bde7",
-      "url": "io.papermc.paper/1.13.json",
+      "mcVersion": "1.21.11-pre5",
+      "sha256": "eec629fe11526099dbf7bc9ecefd4765339354b0ec8d0b796b3368f520c2157b",
+      "url": "io.papermc.paper/1.21.11-pre5.json",
       "latestBuild": "14"
     },
     {
-      "mcVersion": "1.13.1",
-      "sha256": "0ac28520600fffda90ac12f5365a1ed33ac658526bd987c4205fce1eb4b8129b",
-      "url": "io.papermc.paper/1.13.1.json",
-      "latestBuild": "174"
+      "mcVersion": "1.21.11-pre4",
+      "sha256": "33a3a64ac1b11cba2e6d62c8fca88786abf0006cbdd5b019ca529a4bbde5f8f4",
+      "url": "io.papermc.paper/1.21.11-pre4.json",
+      "latestBuild": "9"
     },
     {
-      "mcVersion": "1.13.2",
-      "sha256": "b55e35d016353e327c80102862493c4760e7d1bea252f41abc634dda56f999f3",
-      "url": "io.papermc.paper/1.13.2.json",
-      "latestBuild": "387"
-    },
-    {
-      "mcVersion": "1.14",
-      "sha256": "3e53b2d1dab29e27b221b4aedc395978c7c3a3354ebc34805ca25e1ee53e711a",
-      "url": "io.papermc.paper/1.14.json",
-      "latestBuild": "2"
-    },
-    {
-      "mcVersion": "1.14.1",
-      "sha256": "b0a1cd1ed9e522b5c1dbe56de7a11fd5fa38735c36df09edeff13bbbb94712e7",
-      "url": "io.papermc.paper/1.14.1.json",
-      "latestBuild": "18"
-    },
-    {
-      "mcVersion": "1.14.2",
-      "sha256": "10ce5d8286ef8c7b8bfb822daf2e0ed7b859d8b120b282ca48359eabafa3fdd1",
-      "url": "io.papermc.paper/1.14.2.json",
-      "latestBuild": "51"
-    },
-    {
-      "mcVersion": "1.14.3",
-      "sha256": "0749ec52b47c461f31a5fd54543d544005a363ec111bb056e36011ad7919d112",
-      "url": "io.papermc.paper/1.14.3.json",
-      "latestBuild": "108"
-    },
-    {
-      "mcVersion": "1.14.4",
-      "sha256": "7da40dd10094e90db35acc1c3ed5e074d97797d885cbf801c8a2edaaff26a811",
-      "url": "io.papermc.paper/1.14.4.json",
-      "latestBuild": "135"
-    },
-    {
-      "mcVersion": "1.15",
-      "sha256": "50d39bb2a21dd7a6202b50ea9bc1616f62ec197c19ea5b7f839fa1c146098126",
-      "url": "io.papermc.paper/1.15.json",
+      "mcVersion": "1.21.11-pre3",
+      "sha256": "5dcf1e38d10f95c10df283ddfbebb488940357d7e8d011a725a41b7a413a0541",
+      "url": "io.papermc.paper/1.21.11-pre3.json",
       "latestBuild": "1"
     },
     {
-      "mcVersion": "1.15.1",
-      "sha256": "3879d219281bbb465c29a60ae2fb9b746a1167959fdd9484c5d15d3f0e2335f8",
-      "url": "io.papermc.paper/1.15.1.json",
-      "latestBuild": "22"
+      "mcVersion": "1.21.10",
+      "sha256": "599ed7b1958984fb291f42dde608c9d01a1c49475678ae198346fd00c581e1a3",
+      "url": "io.papermc.paper/1.21.10.json",
+      "latestBuild": "61"
     },
     {
-      "mcVersion": "1.15.2",
-      "sha256": "a6c1b4dd8c5144ed26e0da52ca0dae4f5107a99811529426eaef703afaaadd79",
-      "url": "io.papermc.paper/1.15.2.json",
-      "latestBuild": "63"
+      "mcVersion": "1.21.9",
+      "sha256": "d75d24802de1ed1e204d115ae7d384994f97aecd7578e506f83ca49b96d13517",
+      "url": "io.papermc.paper/1.21.9.json",
+      "latestBuild": "37"
     },
     {
-      "mcVersion": "1.16.1",
-      "sha256": "5baaf4b38fef90acceb89df33e3881442aaade47c04cbf02af1e4d4f7fa0c7c2",
-      "url": "io.papermc.paper/1.16.1.json",
+      "mcVersion": "1.21.9-pre4",
+      "sha256": "0e317d95a99253511ccf96f4f82711b4706b1cd0f046ab1cb73f782721b06b0a",
+      "url": "io.papermc.paper/1.21.9-pre4.json",
+      "latestBuild": "13"
+    },
+    {
+      "mcVersion": "1.21.9-pre3",
+      "sha256": "f5f7b0bd7a5036cc28ae86f2de444f9426eea0e1d89babef4b5c9a5723b52d34",
+      "url": "io.papermc.paper/1.21.9-pre3.json",
+      "latestBuild": "8"
+    },
+    {
+      "mcVersion": "1.21.9-pre2",
+      "sha256": "979b088fbe7c9062a4cf1d87fa3a1b0ca280f0f2b1dc0fd3fe72a6b571e8d365",
+      "url": "io.papermc.paper/1.21.9-pre2.json",
       "latestBuild": "1"
     },
     {
-      "mcVersion": "1.16.2",
-      "sha256": "e9a608113f383018cafe3c77c767fbbce47e56741ff88adbfd6a9e289a1d3902",
-      "url": "io.papermc.paper/1.16.2.json",
-      "latestBuild": "141"
-    },
-    {
-      "mcVersion": "1.16.3",
-      "sha256": "10a2d836008fa0031a1c0179af173f31ee3ed13842710ae34e93be5d184673e4",
-      "url": "io.papermc.paper/1.16.3.json",
-      "latestBuild": "191"
-    },
-    {
-      "mcVersion": "1.16.4",
-      "sha256": "2d92ed3303543f9e9c4097e86281289806b1df912e0bcf6ff2f4fd95d8da3e58",
-      "url": "io.papermc.paper/1.16.4.json",
-      "latestBuild": "256"
-    },
-    {
-      "mcVersion": "1.16.5",
-      "sha256": "b2305b098892784f1d418d9bb1c598d382c132eadc0e703fe6129763c94e5198",
-      "url": "io.papermc.paper/1.16.5.json",
-      "latestBuild": "427"
-    },
-    {
-      "mcVersion": "1.17",
-      "sha256": "ab2ec95914a5ccf4d71cc05b74b616d790f5c8b54351253a9d91065d7d1edb47",
-      "url": "io.papermc.paper/1.17.json",
-      "latestBuild": "4"
-    },
-    {
-      "mcVersion": "1.17.1",
-      "sha256": "4c9163da3c44e32fb4643b70261a5cd9ea89dce84cbe595be8613e1d6ac73051",
-      "url": "io.papermc.paper/1.17.1.json",
-      "latestBuild": "81"
-    },
-    {
-      "mcVersion": "1.18",
-      "sha256": "39ba9bb8c0c59a3261aaa70a2f97861c192069e137d570c6196903220d244c93",
-      "url": "io.papermc.paper/1.18.json",
-      "latestBuild": "10"
-    },
-    {
-      "mcVersion": "1.18.1",
-      "sha256": "d182383338af5976be199b0dddd9729a1b03fb94857a15de6cb395ffec239202",
-      "url": "io.papermc.paper/1.18.1.json",
-      "latestBuild": "68"
-    },
-    {
-      "mcVersion": "1.18.2",
-      "sha256": "208d614f96b78bfbdda6a62576742e3b11bab99ce4547dedc1ae414e0d9ecc52",
-      "url": "io.papermc.paper/1.18.2.json",
-      "latestBuild": "217"
-    },
-    {
-      "mcVersion": "1.19",
-      "sha256": "1724a8cbd5d522fda5c53bb404d42b3c1fa3403c38f1ec89de1fdba92e795283",
-      "url": "io.papermc.paper/1.19.json",
-      "latestBuild": "0"
-    },
-    {
-      "mcVersion": "1.19.1",
-      "sha256": "6d6eda87ed832510d9ca7b3bee24896838b94b8b9eaab6246310d412a38724e2",
-      "url": "io.papermc.paper/1.19.1.json",
-      "latestBuild": "82"
-    },
-    {
-      "mcVersion": "1.19.2",
-      "sha256": "5f35ecf5ab385080a687c8d084af4ed35ee78886232c52da69de423e2e00e862",
-      "url": "io.papermc.paper/1.19.2.json",
-      "latestBuild": "112"
-    },
-    {
-      "mcVersion": "1.19.3",
-      "sha256": "b73e3b1447f2b89ef21a4af3ea2069bb3884d38fd4ba9c67a842af49e6e5dae7",
-      "url": "io.papermc.paper/1.19.3.json",
-      "latestBuild": "308"
-    },
-    {
-      "mcVersion": "1.19.4",
-      "sha256": "58c2b82c6b80d40c916c6b8f9728f8ac78137f264c528c042fea952fb6c266cf",
-      "url": "io.papermc.paper/1.19.4.json",
-      "latestBuild": "449"
-    },
-    {
-      "mcVersion": "1.20",
-      "sha256": "d4058438d644fd931dcb50ff68cac209a12ece75ecce3e80510538f6c7b5262f",
-      "url": "io.papermc.paper/1.20.json",
-      "latestBuild": "1"
-    },
-    {
-      "mcVersion": "1.20.1",
-      "sha256": "d8ac309f01ed9ca4d0523389c7a1e401e014975287e3068c041ae817b491478e",
-      "url": "io.papermc.paper/1.20.1.json",
-      "latestBuild": "18"
-    },
-    {
-      "mcVersion": "1.20.2",
-      "sha256": "dfc2d18fe404727555f1e52c0a9ea7fa0512d29901607387fead422d080d16dc",
-      "url": "io.papermc.paper/1.20.2.json",
-      "latestBuild": "197"
-    },
-    {
-      "mcVersion": "1.20.4",
-      "sha256": "14f1391ee97cf79fcd5780fd3943bebcc7080d27ba37424b8b9106b1973495bf",
-      "url": "io.papermc.paper/1.20.4.json",
-      "latestBuild": "319"
-    },
-    {
-      "mcVersion": "1.20.5",
-      "sha256": "f99e8104ac02dd451de7ec993076f3bc6400b697ded53a9a4fbec7964d99a3f1",
-      "url": "io.papermc.paper/1.20.5.json",
-      "latestBuild": "4"
-    },
-    {
-      "mcVersion": "1.20.6",
-      "sha256": "acee8100f82460cc28cafe2e04325a6c48597891074ca9b43798fda053a0455d",
-      "url": "io.papermc.paper/1.20.6.json",
-      "latestBuild": "23"
-    },
-    {
-      "mcVersion": "1.21",
-      "sha256": "2ee6b8f017cd55d3c6d7a49beb2d4ddfd103de0913dc2e8f1b7c79b22c32e344",
-      "url": "io.papermc.paper/1.21.json",
-      "latestBuild": "1"
-    },
-    {
-      "mcVersion": "1.21.1",
-      "sha256": "2a38f76e04608e439d7b37de6645c31dd145d0b5640a87f3b9c509ad67917834",
-      "url": "io.papermc.paper/1.21.1.json",
-      "latestBuild": "2"
-    },
-    {
-      "mcVersion": "1.21.3",
-      "sha256": "acb4498702dbc5771794a6218e6cd04529f9f37b5b9d4aa53dd01c5b2593b1a3",
-      "url": "io.papermc.paper/1.21.3.json",
-      "latestBuild": "1"
-    },
-    {
-      "mcVersion": "1.21.4",
-      "sha256": "9dd605332be5031175271c7227b8a6bd1c4b88221e88896f095e9f1716ca5121",
-      "url": "io.papermc.paper/1.21.4.json",
-      "latestBuild": "1"
-    },
-    {
-      "mcVersion": "1.21.5",
-      "sha256": "4470bd72091420e037459376bd6af01ac72a5dadcc73e684afd658022c194eec",
-      "url": "io.papermc.paper/1.21.5.json",
-      "latestBuild": "1"
-    },
-    {
-      "mcVersion": "1.21.6",
-      "sha256": "14997229ddafafadf783f49ddd7c08d66b828d7f519be3756e3467846e1c7dda",
-      "url": "io.papermc.paper/1.21.6.json",
+      "mcVersion": "1.21.8",
+      "sha256": "6ccef762a72138e806b1f2237cffeced9aa7c212e2be77779b97e4d1778de77e",
+      "url": "io.papermc.paper/1.21.8.json",
       "latestBuild": "1"
     },
     {
@@ -295,64 +73,286 @@
       "latestBuild": "2"
     },
     {
-      "mcVersion": "1.21.8",
-      "sha256": "6ccef762a72138e806b1f2237cffeced9aa7c212e2be77779b97e4d1778de77e",
-      "url": "io.papermc.paper/1.21.8.json",
+      "mcVersion": "1.21.6",
+      "sha256": "14997229ddafafadf783f49ddd7c08d66b828d7f519be3756e3467846e1c7dda",
+      "url": "io.papermc.paper/1.21.6.json",
       "latestBuild": "1"
     },
     {
-      "mcVersion": "1.21.9-pre2",
-      "sha256": "979b088fbe7c9062a4cf1d87fa3a1b0ca280f0f2b1dc0fd3fe72a6b571e8d365",
-      "url": "io.papermc.paper/1.21.9-pre2.json",
+      "mcVersion": "1.21.5",
+      "sha256": "4470bd72091420e037459376bd6af01ac72a5dadcc73e684afd658022c194eec",
+      "url": "io.papermc.paper/1.21.5.json",
       "latestBuild": "1"
     },
     {
-      "mcVersion": "1.21.9-pre3",
-      "sha256": "f5f7b0bd7a5036cc28ae86f2de444f9426eea0e1d89babef4b5c9a5723b52d34",
-      "url": "io.papermc.paper/1.21.9-pre3.json",
-      "latestBuild": "8"
-    },
-    {
-      "mcVersion": "1.21.9-pre4",
-      "sha256": "0e317d95a99253511ccf96f4f82711b4706b1cd0f046ab1cb73f782721b06b0a",
-      "url": "io.papermc.paper/1.21.9-pre4.json",
-      "latestBuild": "13"
-    },
-    {
-      "mcVersion": "1.21.9",
-      "sha256": "d75d24802de1ed1e204d115ae7d384994f97aecd7578e506f83ca49b96d13517",
-      "url": "io.papermc.paper/1.21.9.json",
-      "latestBuild": "37"
-    },
-    {
-      "mcVersion": "1.21.10",
-      "sha256": "599ed7b1958984fb291f42dde608c9d01a1c49475678ae198346fd00c581e1a3",
-      "url": "io.papermc.paper/1.21.10.json",
-      "latestBuild": "61"
-    },
-    {
-      "mcVersion": "1.21.11-pre3",
-      "sha256": "5dcf1e38d10f95c10df283ddfbebb488940357d7e8d011a725a41b7a413a0541",
-      "url": "io.papermc.paper/1.21.11-pre3.json",
+      "mcVersion": "1.21.4",
+      "sha256": "9dd605332be5031175271c7227b8a6bd1c4b88221e88896f095e9f1716ca5121",
+      "url": "io.papermc.paper/1.21.4.json",
       "latestBuild": "1"
     },
     {
-      "mcVersion": "1.21.11-pre4",
-      "sha256": "33a3a64ac1b11cba2e6d62c8fca88786abf0006cbdd5b019ca529a4bbde5f8f4",
-      "url": "io.papermc.paper/1.21.11-pre4.json",
-      "latestBuild": "9"
+      "mcVersion": "1.21.3",
+      "sha256": "acb4498702dbc5771794a6218e6cd04529f9f37b5b9d4aa53dd01c5b2593b1a3",
+      "url": "io.papermc.paper/1.21.3.json",
+      "latestBuild": "1"
     },
     {
-      "mcVersion": "1.21.11-pre5",
-      "sha256": "eec629fe11526099dbf7bc9ecefd4765339354b0ec8d0b796b3368f520c2157b",
-      "url": "io.papermc.paper/1.21.11-pre5.json",
+      "mcVersion": "1.21.1",
+      "sha256": "2a38f76e04608e439d7b37de6645c31dd145d0b5640a87f3b9c509ad67917834",
+      "url": "io.papermc.paper/1.21.1.json",
+      "latestBuild": "2"
+    },
+    {
+      "mcVersion": "1.21",
+      "sha256": "2ee6b8f017cd55d3c6d7a49beb2d4ddfd103de0913dc2e8f1b7c79b22c32e344",
+      "url": "io.papermc.paper/1.21.json",
+      "latestBuild": "1"
+    },
+    {
+      "mcVersion": "1.20.6",
+      "sha256": "acee8100f82460cc28cafe2e04325a6c48597891074ca9b43798fda053a0455d",
+      "url": "io.papermc.paper/1.20.6.json",
+      "latestBuild": "23"
+    },
+    {
+      "mcVersion": "1.20.5",
+      "sha256": "f99e8104ac02dd451de7ec993076f3bc6400b697ded53a9a4fbec7964d99a3f1",
+      "url": "io.papermc.paper/1.20.5.json",
+      "latestBuild": "4"
+    },
+    {
+      "mcVersion": "1.20.4",
+      "sha256": "14f1391ee97cf79fcd5780fd3943bebcc7080d27ba37424b8b9106b1973495bf",
+      "url": "io.papermc.paper/1.20.4.json",
+      "latestBuild": "319"
+    },
+    {
+      "mcVersion": "1.20.2",
+      "sha256": "dfc2d18fe404727555f1e52c0a9ea7fa0512d29901607387fead422d080d16dc",
+      "url": "io.papermc.paper/1.20.2.json",
+      "latestBuild": "197"
+    },
+    {
+      "mcVersion": "1.20.1",
+      "sha256": "d8ac309f01ed9ca4d0523389c7a1e401e014975287e3068c041ae817b491478e",
+      "url": "io.papermc.paper/1.20.1.json",
+      "latestBuild": "18"
+    },
+    {
+      "mcVersion": "1.20",
+      "sha256": "d4058438d644fd931dcb50ff68cac209a12ece75ecce3e80510538f6c7b5262f",
+      "url": "io.papermc.paper/1.20.json",
+      "latestBuild": "1"
+    },
+    {
+      "mcVersion": "1.19.4",
+      "sha256": "58c2b82c6b80d40c916c6b8f9728f8ac78137f264c528c042fea952fb6c266cf",
+      "url": "io.papermc.paper/1.19.4.json",
+      "latestBuild": "449"
+    },
+    {
+      "mcVersion": "1.19.3",
+      "sha256": "b73e3b1447f2b89ef21a4af3ea2069bb3884d38fd4ba9c67a842af49e6e5dae7",
+      "url": "io.papermc.paper/1.19.3.json",
+      "latestBuild": "308"
+    },
+    {
+      "mcVersion": "1.19.2",
+      "sha256": "5f35ecf5ab385080a687c8d084af4ed35ee78886232c52da69de423e2e00e862",
+      "url": "io.papermc.paper/1.19.2.json",
+      "latestBuild": "112"
+    },
+    {
+      "mcVersion": "1.19.1",
+      "sha256": "6d6eda87ed832510d9ca7b3bee24896838b94b8b9eaab6246310d412a38724e2",
+      "url": "io.papermc.paper/1.19.1.json",
+      "latestBuild": "82"
+    },
+    {
+      "mcVersion": "1.19",
+      "sha256": "1724a8cbd5d522fda5c53bb404d42b3c1fa3403c38f1ec89de1fdba92e795283",
+      "url": "io.papermc.paper/1.19.json",
+      "latestBuild": "0"
+    },
+    {
+      "mcVersion": "1.18.2",
+      "sha256": "208d614f96b78bfbdda6a62576742e3b11bab99ce4547dedc1ae414e0d9ecc52",
+      "url": "io.papermc.paper/1.18.2.json",
+      "latestBuild": "217"
+    },
+    {
+      "mcVersion": "1.18.1",
+      "sha256": "d182383338af5976be199b0dddd9729a1b03fb94857a15de6cb395ffec239202",
+      "url": "io.papermc.paper/1.18.1.json",
+      "latestBuild": "68"
+    },
+    {
+      "mcVersion": "1.18",
+      "sha256": "39ba9bb8c0c59a3261aaa70a2f97861c192069e137d570c6196903220d244c93",
+      "url": "io.papermc.paper/1.18.json",
+      "latestBuild": "10"
+    },
+    {
+      "mcVersion": "1.17.1",
+      "sha256": "4c9163da3c44e32fb4643b70261a5cd9ea89dce84cbe595be8613e1d6ac73051",
+      "url": "io.papermc.paper/1.17.1.json",
+      "latestBuild": "81"
+    },
+    {
+      "mcVersion": "1.17",
+      "sha256": "ab2ec95914a5ccf4d71cc05b74b616d790f5c8b54351253a9d91065d7d1edb47",
+      "url": "io.papermc.paper/1.17.json",
+      "latestBuild": "4"
+    },
+    {
+      "mcVersion": "1.16.5",
+      "sha256": "b2305b098892784f1d418d9bb1c598d382c132eadc0e703fe6129763c94e5198",
+      "url": "io.papermc.paper/1.16.5.json",
+      "latestBuild": "427"
+    },
+    {
+      "mcVersion": "1.16.4",
+      "sha256": "2d92ed3303543f9e9c4097e86281289806b1df912e0bcf6ff2f4fd95d8da3e58",
+      "url": "io.papermc.paper/1.16.4.json",
+      "latestBuild": "256"
+    },
+    {
+      "mcVersion": "1.16.3",
+      "sha256": "10a2d836008fa0031a1c0179af173f31ee3ed13842710ae34e93be5d184673e4",
+      "url": "io.papermc.paper/1.16.3.json",
+      "latestBuild": "191"
+    },
+    {
+      "mcVersion": "1.16.2",
+      "sha256": "e9a608113f383018cafe3c77c767fbbce47e56741ff88adbfd6a9e289a1d3902",
+      "url": "io.papermc.paper/1.16.2.json",
+      "latestBuild": "141"
+    },
+    {
+      "mcVersion": "1.16.1",
+      "sha256": "5baaf4b38fef90acceb89df33e3881442aaade47c04cbf02af1e4d4f7fa0c7c2",
+      "url": "io.papermc.paper/1.16.1.json",
+      "latestBuild": "1"
+    },
+    {
+      "mcVersion": "1.15.2",
+      "sha256": "a6c1b4dd8c5144ed26e0da52ca0dae4f5107a99811529426eaef703afaaadd79",
+      "url": "io.papermc.paper/1.15.2.json",
+      "latestBuild": "63"
+    },
+    {
+      "mcVersion": "1.15.1",
+      "sha256": "3879d219281bbb465c29a60ae2fb9b746a1167959fdd9484c5d15d3f0e2335f8",
+      "url": "io.papermc.paper/1.15.1.json",
+      "latestBuild": "22"
+    },
+    {
+      "mcVersion": "1.15",
+      "sha256": "50d39bb2a21dd7a6202b50ea9bc1616f62ec197c19ea5b7f839fa1c146098126",
+      "url": "io.papermc.paper/1.15.json",
+      "latestBuild": "1"
+    },
+    {
+      "mcVersion": "1.14.4",
+      "sha256": "7da40dd10094e90db35acc1c3ed5e074d97797d885cbf801c8a2edaaff26a811",
+      "url": "io.papermc.paper/1.14.4.json",
+      "latestBuild": "135"
+    },
+    {
+      "mcVersion": "1.14.3",
+      "sha256": "0749ec52b47c461f31a5fd54543d544005a363ec111bb056e36011ad7919d112",
+      "url": "io.papermc.paper/1.14.3.json",
+      "latestBuild": "108"
+    },
+    {
+      "mcVersion": "1.14.2",
+      "sha256": "10ce5d8286ef8c7b8bfb822daf2e0ed7b859d8b120b282ca48359eabafa3fdd1",
+      "url": "io.papermc.paper/1.14.2.json",
+      "latestBuild": "51"
+    },
+    {
+      "mcVersion": "1.14.1",
+      "sha256": "b0a1cd1ed9e522b5c1dbe56de7a11fd5fa38735c36df09edeff13bbbb94712e7",
+      "url": "io.papermc.paper/1.14.1.json",
+      "latestBuild": "18"
+    },
+    {
+      "mcVersion": "1.14",
+      "sha256": "3e53b2d1dab29e27b221b4aedc395978c7c3a3354ebc34805ca25e1ee53e711a",
+      "url": "io.papermc.paper/1.14.json",
+      "latestBuild": "2"
+    },
+    {
+      "mcVersion": "1.13.2",
+      "sha256": "b55e35d016353e327c80102862493c4760e7d1bea252f41abc634dda56f999f3",
+      "url": "io.papermc.paper/1.13.2.json",
+      "latestBuild": "387"
+    },
+    {
+      "mcVersion": "1.13.1",
+      "sha256": "0ac28520600fffda90ac12f5365a1ed33ac658526bd987c4205fce1eb4b8129b",
+      "url": "io.papermc.paper/1.13.1.json",
+      "latestBuild": "174"
+    },
+    {
+      "mcVersion": "1.13",
+      "sha256": "6ca986f1fa541afed7dffb7c9a76cca38b98f1f15ebc6519c551ebad9541bde7",
+      "url": "io.papermc.paper/1.13.json",
       "latestBuild": "14"
     },
     {
-      "mcVersion": "1.21.11",
-      "sha256": "365d0a8d095b10450a3dd0e26ce9d39b814907ffd8178132be46ec0069afab8b",
-      "url": "io.papermc.paper/1.21.11.json",
-      "latestBuild": "34"
+      "mcVersion": "1.13-pre7",
+      "sha256": "6a281d36f93164e364289886100b0f38baca8f3dd31c2768ea8bda938421bc44",
+      "url": "io.papermc.paper/1.13-pre7.json",
+      "latestBuild": "1"
+    },
+    {
+      "mcVersion": "1.12.2",
+      "sha256": "f02a97d69589df781b758ed44ff63aaf29f38f83bbb019796da4aa764fcaaa4b",
+      "url": "io.papermc.paper/1.12.2.json",
+      "latestBuild": "1205"
+    },
+    {
+      "mcVersion": "1.12.1",
+      "sha256": "278216e23b6920fde04a6024faf962e4aa7e4219488b28120ffabeb812b2f469",
+      "url": "io.papermc.paper/1.12.1.json",
+      "latestBuild": "1170"
+    },
+    {
+      "mcVersion": "1.12",
+      "sha256": "9c19ea9d01a5298a02c5395e89589470abb1c98f3ce3b3a6183affce53f2de8b",
+      "url": "io.papermc.paper/1.12.json",
+      "latestBuild": "1105"
+    },
+    {
+      "mcVersion": "1.11.2",
+      "sha256": "5836624f45e0f6e61feb31f5fcd2ea5f2cf04f8e1411bd00b7fadf217f712722",
+      "url": "io.papermc.paper/1.11.2.json",
+      "latestBuild": "1104"
+    },
+    {
+      "mcVersion": "1.10.2",
+      "sha256": "a6eb0761ff3d7b2f0afd04f3a378923a88014017d9ac2bbdaefdf62d18df0e8c",
+      "url": "io.papermc.paper/1.10.2.json",
+      "latestBuild": "916"
+    },
+    {
+      "mcVersion": "1.9.4",
+      "sha256": "7ffeb9f9e613ea8b5b0c5bbdd88dc39955a9e277a7fec1b189340e080834b8ec",
+      "url": "io.papermc.paper/1.9.4.json",
+      "latestBuild": "773"
+    },
+    {
+      "mcVersion": "1.8.8",
+      "sha256": "1ed3057636c4c23d0c4aa89598cda6244fdda333fe9c0b268d6ee778d2dd7ffc",
+      "url": "io.papermc.paper/1.8.8.json",
+      "latestBuild": "443"
+    },
+    {
+      "mcVersion": "1.7.10",
+      "sha256": "7cc76a0cd3ff7c0bab977f94acf09bd84c77cda2f57dddd02da929884fa69bb0",
+      "url": "io.papermc.paper/1.7.10.json",
+      "latestBuild": "2025"
     }
   ]
 }
