@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "uid": "io.papermc.paper",
+  "mcVersion": "1.10.2",
+  "builds": [
+    {
+      "build": "916",
+      "type": "stable",
+      "releaseTime": "2016-11-14T02:22:27.367Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-1.10.2-916.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.10.2/builds/916/downloads/paper-1.10.2-916.jar",
+        "sha1": null,
+        "sha256": "7f34cdef1e8b7e359759541688a93930db77c73b826daa0f349e56f25b495bce"
+      }
+    },
+    {
+      "build": "917",
+      "type": "stable",
+      "releaseTime": "2021-12-11T04:23:50.834Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.10.2-917.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.10.2/builds/917/downloads/paper-1.10.2-917.jar",
+        "sha1": null,
+        "sha256": "4e13d01269fd6b01051ae8b92ae3f6377c369f0a2c5430fe2c67a7a13c2d7a5e"
+      }
+    },
+    {
+      "build": "918",
+      "type": "stable",
+      "releaseTime": "2021-12-20T00:10:49.755Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.10.2-918.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.10.2/builds/918/downloads/paper-1.10.2-918.jar",
+        "sha1": null,
+        "sha256": "83354d24a22b6265e76c089b3d17a568abb446c0ccd12c2452f5e148412b16c2"
+      }
+    }
+  ]
+}

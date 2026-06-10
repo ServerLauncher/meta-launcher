@@ -1,0 +1,2479 @@
+{
+  "formatVersion": 1,
+  "uid": "io.papermc.paper",
+  "mcVersion": "1.13.1",
+  "builds": [
+    {
+      "build": "174",
+      "type": "stable",
+      "releaseTime": "2018-08-27T00:52:09.162Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-1.13.1-174.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/174/downloads/paper-1.13.1-174.jar",
+        "sha1": null,
+        "sha256": "8c8d75fde7cd34482ec9fa7c29d4b856af76842bd71f08cedc965ed225c3e47f"
+      }
+    },
+    {
+      "build": "175",
+      "type": "stable",
+      "releaseTime": "2018-08-27T01:21:49.230Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-175.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/175/downloads/paper-1.13.1-175.jar",
+        "sha1": null,
+        "sha256": "dd69351f13e8a6e4946e15f6d74c3299cd0b00b6dd5c01081e980d2051e4593b"
+      }
+    },
+    {
+      "build": "176",
+      "type": "stable",
+      "releaseTime": "2018-08-27T02:10:09.343Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-176.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/176/downloads/paper-1.13.1-176.jar",
+        "sha1": null,
+        "sha256": "c53f090ead5743eb32433ac92d744c659ac155cad2be9868fc8ad5156f49bdf4"
+      }
+    },
+    {
+      "build": "177",
+      "type": "stable",
+      "releaseTime": "2018-08-27T03:05:19.473Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-177.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/177/downloads/paper-1.13.1-177.jar",
+        "sha1": null,
+        "sha256": "ff8c5ed963d3464354927dd32ebb5b260d17173732c832bda93d2e76ca99e587"
+      }
+    },
+    {
+      "build": "178",
+      "type": "stable",
+      "releaseTime": "2018-08-27T04:27:34.636Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-178.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/178/downloads/paper-1.13.1-178.jar",
+        "sha1": null,
+        "sha256": "83e6f64e05a9aa6b7659b3711da5a94ed7a872a37846f788875eca22979eea3b"
+      }
+    },
+    {
+      "build": "179",
+      "type": "stable",
+      "releaseTime": "2018-08-27T06:51:34.967Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-179.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/179/downloads/paper-1.13.1-179.jar",
+        "sha1": null,
+        "sha256": "e7d944cf350fda0fbefd6f16480000679a2e854dcbf7d25eed45b0cbbd1bb629"
+      }
+    },
+    {
+      "build": "180",
+      "type": "stable",
+      "releaseTime": "2018-08-27T07:01:24.990Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-180.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/180/downloads/paper-1.13.1-180.jar",
+        "sha1": null,
+        "sha256": "11cf8328c832d401ec38c30a8e20ab8add7c5512cd95670cb075cacaf1c17176"
+      }
+    },
+    {
+      "build": "181",
+      "type": "stable",
+      "releaseTime": "2018-08-27T15:08:16.097Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-181.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/181/downloads/paper-1.13.1-181.jar",
+        "sha1": null,
+        "sha256": "db7255eeb7a19a4e7f0282b6bd694c93af12aff83d89960a274db1f6747b8857"
+      }
+    },
+    {
+      "build": "182",
+      "type": "stable",
+      "releaseTime": "2018-08-27T17:59:26.496Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-182.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/182/downloads/paper-1.13.1-182.jar",
+        "sha1": null,
+        "sha256": "40d91f407825049c9a6dc63eefd31073af0fc2fc527314ed015569c20ebea215"
+      }
+    },
+    {
+      "build": "183",
+      "type": "stable",
+      "releaseTime": "2018-08-27T22:31:12.104Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-183.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/183/downloads/paper-1.13.1-183.jar",
+        "sha1": null,
+        "sha256": "2db799370603561f769de5ea4ac072fb9dc16df00c45d19220f4ff89abf48131"
+      }
+    },
+    {
+      "build": "184",
+      "type": "stable",
+      "releaseTime": "2018-08-28T11:10:03.826Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-184.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/184/downloads/paper-1.13.1-184.jar",
+        "sha1": null,
+        "sha256": "94183a0c75562bf7e0db1949144e9e89cf8d0d708e1688d547b543b8b57f0550"
+      }
+    },
+    {
+      "build": "185",
+      "type": "stable",
+      "releaseTime": "2018-08-28T21:35:05.291Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-185.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/185/downloads/paper-1.13.1-185.jar",
+        "sha1": null,
+        "sha256": "4bbd5e5ec91b62e7e9a75b9a6b9e3baa7ceb9765ea2d02cad6a46f0916b7a0d1"
+      }
+    },
+    {
+      "build": "186",
+      "type": "stable",
+      "releaseTime": "2018-08-28T21:49:55.327Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-186.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/186/downloads/paper-1.13.1-186.jar",
+        "sha1": null,
+        "sha256": "9536e886d69e27156e3422dbaad7213248635b20f67193f136cb1b32482e7c76"
+      }
+    },
+    {
+      "build": "187",
+      "type": "stable",
+      "releaseTime": "2018-08-29T02:13:00.911Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-187.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/187/downloads/paper-1.13.1-187.jar",
+        "sha1": null,
+        "sha256": "2993408ee22d914ffa1bca8099cbf83ecd8c1649d53da6a2770fcf89b10a3a6f"
+      }
+    },
+    {
+      "build": "188",
+      "type": "stable",
+      "releaseTime": "2018-08-29T03:14:41.099Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-188.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/188/downloads/paper-1.13.1-188.jar",
+        "sha1": null,
+        "sha256": "9f0c827f1f9c5a55b635ea5fc3708e38fc40933da225f632aceaf6b8f9433743"
+      }
+    },
+    {
+      "build": "189",
+      "type": "stable",
+      "releaseTime": "2018-08-29T07:09:51.619Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-189.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/189/downloads/paper-1.13.1-189.jar",
+        "sha1": null,
+        "sha256": "3089f318de8ab57aa4ff243badae999719679694c7e198a4854aadb34cf104ba"
+      }
+    },
+    {
+      "build": "190",
+      "type": "stable",
+      "releaseTime": "2018-08-29T09:04:43.273Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-190.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/190/downloads/paper-1.13.1-190.jar",
+        "sha1": null,
+        "sha256": "9e5eb7bbe27cb54f0ad818d6901bb8d289516a7e086b9275d57dc867125a3df0"
+      }
+    },
+    {
+      "build": "191",
+      "type": "stable",
+      "releaseTime": "2018-08-29T09:19:43.310Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-191.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/191/downloads/paper-1.13.1-191.jar",
+        "sha1": null,
+        "sha256": "14669caf322274501bf82dcf54b8a6aa291814aca0def71b29898fa8c996a8c8"
+      }
+    },
+    {
+      "build": "192",
+      "type": "stable",
+      "releaseTime": "2018-08-29T09:36:53.451Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-192.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/192/downloads/paper-1.13.1-192.jar",
+        "sha1": null,
+        "sha256": "b9aa4f72b3c41004c4db58dc9c1f9952c6d6e2e145e2f9921a10da5d14e39348"
+      }
+    },
+    {
+      "build": "193",
+      "type": "stable",
+      "releaseTime": "2018-08-29T16:36:09.406Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-193.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/193/downloads/paper-1.13.1-193.jar",
+        "sha1": null,
+        "sha256": "e3bc57c1881728c0fdcfbfa685603775c1d772ad4aba20ad6cadd1f985ab6b25"
+      }
+    },
+    {
+      "build": "194",
+      "type": "stable",
+      "releaseTime": "2018-08-30T01:42:43.848Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-194.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/194/downloads/paper-1.13.1-194.jar",
+        "sha1": null,
+        "sha256": "40c70a7e1ef868155020224e0decef57a330e1eceb2fc5d47bc1e875eae5143a"
+      }
+    },
+    {
+      "build": "195",
+      "type": "stable",
+      "releaseTime": "2018-08-30T01:54:48.877Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-195.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/195/downloads/paper-1.13.1-195.jar",
+        "sha1": null,
+        "sha256": "7b601209bea0fd6876ae8923bdfd7a4577df666194b67141a9783b497ecd6b77"
+      }
+    },
+    {
+      "build": "196",
+      "type": "stable",
+      "releaseTime": "2018-08-30T02:12:43.935Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-196.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/196/downloads/paper-1.13.1-196.jar",
+        "sha1": null,
+        "sha256": "bb81b125ed9cc4cc630b507e9be12bde6677c0bcc3e39213b8a5fd92421f75e4"
+      }
+    },
+    {
+      "build": "197",
+      "type": "stable",
+      "releaseTime": "2018-08-30T03:01:09.047Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-197.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/197/downloads/paper-1.13.1-197.jar",
+        "sha1": null,
+        "sha256": "fc0a082d837d00a4e54fab781ca6f6fb6238e0d5a45baa79b6681f46fd42454d"
+      }
+    },
+    {
+      "build": "198",
+      "type": "stable",
+      "releaseTime": "2018-08-31T00:48:01.987Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-198.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/198/downloads/paper-1.13.1-198.jar",
+        "sha1": null,
+        "sha256": "7a608a62cc00e84c122298d9e71ee1bf7cd9b1bb441218a022926e952bd66508"
+      }
+    },
+    {
+      "build": "199",
+      "type": "stable",
+      "releaseTime": "2018-08-31T00:57:52.010Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-199.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/199/downloads/paper-1.13.1-199.jar",
+        "sha1": null,
+        "sha256": "ba5442d1d7c1bf3b7413ce794ceb7f600448efdcf1387ef2e9454d4d6dc2dca0"
+      }
+    },
+    {
+      "build": "200",
+      "type": "stable",
+      "releaseTime": "2018-08-31T15:53:39.037Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-200.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/200/downloads/paper-1.13.1-200.jar",
+        "sha1": null,
+        "sha256": "2fffe0d981559135c8d64a2334bcb61e19c42960daa92afb96f4ace102d18a64"
+      }
+    },
+    {
+      "build": "202",
+      "type": "stable",
+      "releaseTime": "2018-09-01T03:59:35.669Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-202.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/202/downloads/paper-1.13.1-202.jar",
+        "sha1": null,
+        "sha256": "c3a8f8bd8d4ab49071ae7e9fb855375b8fa6845634727f2006cc1837f84f9f68"
+      }
+    },
+    {
+      "build": "203",
+      "type": "stable",
+      "releaseTime": "2018-09-01T04:30:30.742Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-203.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/203/downloads/paper-1.13.1-203.jar",
+        "sha1": null,
+        "sha256": "15a0db0796b7b51ff87f824c7fbd6bf9a44505d626c537b0ca68ff63f7a6f41c"
+      }
+    },
+    {
+      "build": "204",
+      "type": "stable",
+      "releaseTime": "2018-09-01T09:35:42.203Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-204.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/204/downloads/paper-1.13.1-204.jar",
+        "sha1": null,
+        "sha256": "fb7d2f9138a18a093623f11abdbc5357339c0ad26cf21f16670991c7b6338189"
+      }
+    },
+    {
+      "build": "205",
+      "type": "stable",
+      "releaseTime": "2018-09-01T10:27:57.327Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-205.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/205/downloads/paper-1.13.1-205.jar",
+        "sha1": null,
+        "sha256": "fd877cad23060ab9c7ffe54a676091ec2ad713b4dd220d9371d74ef480317e8c"
+      }
+    },
+    {
+      "build": "206",
+      "type": "stable",
+      "releaseTime": "2018-09-01T10:34:17.343Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-206.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/206/downloads/paper-1.13.1-206.jar",
+        "sha1": null,
+        "sha256": "c128b1078b724bad9a09dc8663c514511813aa1ada149a07c3b7d7d36295fe26"
+      }
+    },
+    {
+      "build": "207",
+      "type": "stable",
+      "releaseTime": "2018-09-03T01:44:48.892Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-207.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/207/downloads/paper-1.13.1-207.jar",
+        "sha1": null,
+        "sha256": "c58e5fa84281a42b30452d88e4f2a8c52c7cdec598eead0db40dde4b950e6b35"
+      }
+    },
+    {
+      "build": "208",
+      "type": "stable",
+      "releaseTime": "2018-09-03T03:40:29.706Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-208.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/208/downloads/paper-1.13.1-208.jar",
+        "sha1": null,
+        "sha256": "5cad49e016e6ffe772e17660f85b4d718a9fce307d723f2b192681410455b330"
+      }
+    },
+    {
+      "build": "209",
+      "type": "stable",
+      "releaseTime": "2018-09-03T08:14:58.531Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-209.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/209/downloads/paper-1.13.1-209.jar",
+        "sha1": null,
+        "sha256": "53b67e16f608bc866a364d61c59e9c6fb8893247cad494cf6fee2dc5e2923b60"
+      }
+    },
+    {
+      "build": "210",
+      "type": "stable",
+      "releaseTime": "2018-09-03T14:06:08.916Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-210.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/210/downloads/paper-1.13.1-210.jar",
+        "sha1": null,
+        "sha256": "3e579a415d40409bd04ac9596c27034347dd60b59c356b3706dcae5259c0dbef"
+      }
+    },
+    {
+      "build": "212",
+      "type": "stable",
+      "releaseTime": "2018-09-03T14:38:49.885Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-212.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/212/downloads/paper-1.13.1-212.jar",
+        "sha1": null,
+        "sha256": "21943f0e37d144104c310095572df1a41f110e1580e4fba3e41993b236e39bd5"
+      }
+    },
+    {
+      "build": "213",
+      "type": "stable",
+      "releaseTime": "2018-09-03T16:27:26.290Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-213.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/213/downloads/paper-1.13.1-213.jar",
+        "sha1": null,
+        "sha256": "175dab753d82dd5f29e205d6db14e38d48988eaa57f4a9cd283aac3079090203"
+      }
+    },
+    {
+      "build": "214",
+      "type": "stable",
+      "releaseTime": "2018-09-03T19:23:46.703Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-214.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/214/downloads/paper-1.13.1-214.jar",
+        "sha1": null,
+        "sha256": "1fcf10f3e20eb463edee44c4f537725b7a09ab2b9758a74471ec9797e564201f"
+      }
+    },
+    {
+      "build": "215",
+      "type": "stable",
+      "releaseTime": "2018-09-04T00:00:07.413Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-215.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/215/downloads/paper-1.13.1-215.jar",
+        "sha1": null,
+        "sha256": "33500162609b75a434fb3ae0b50e33d4ac5d7a849cce78e4a7992959b70a4ec9"
+      }
+    },
+    {
+      "build": "216",
+      "type": "stable",
+      "releaseTime": "2018-09-04T02:37:27.769Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-216.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/216/downloads/paper-1.13.1-216.jar",
+        "sha1": null,
+        "sha256": "2a8a808f2c520bbc6cdcaeb94a5d7ef648248e6d966409b73c9510a1743a2afe"
+      }
+    },
+    {
+      "build": "217",
+      "type": "stable",
+      "releaseTime": "2018-09-04T04:03:02.983Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-217.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/217/downloads/paper-1.13.1-217.jar",
+        "sha1": null,
+        "sha256": "5265e7a5a00a7ad77dda36df418d71606f9f6c4508562e2e65607cde29c1e38b"
+      }
+    },
+    {
+      "build": "218",
+      "type": "stable",
+      "releaseTime": "2018-09-04T05:50:53.248Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-218.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/218/downloads/paper-1.13.1-218.jar",
+        "sha1": null,
+        "sha256": "ea85211453c65915010ba35a1f2d8a485786b1bea32a37f5663c52764c922dfb"
+      }
+    },
+    {
+      "build": "219",
+      "type": "stable",
+      "releaseTime": "2018-09-04T11:04:53.992Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-219.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/219/downloads/paper-1.13.1-219.jar",
+        "sha1": null,
+        "sha256": "8b2bf4b953e71f964f05270f2999b03e197b2f117d6d2d5dda93df2e10042a3a"
+      }
+    },
+    {
+      "build": "220",
+      "type": "stable",
+      "releaseTime": "2018-09-04T11:09:49.006Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-220.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/220/downloads/paper-1.13.1-220.jar",
+        "sha1": null,
+        "sha256": "9801bb7dbc612a899bcd2d63d0d5b1db11b3166f4de61a47027277d2e2539da8"
+      }
+    },
+    {
+      "build": "221",
+      "type": "stable",
+      "releaseTime": "2018-09-04T23:26:40.784Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-221.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/221/downloads/paper-1.13.1-221.jar",
+        "sha1": null,
+        "sha256": "075a17f42f7a6f666b9aa2fbe34c0e22b3544cbc9b88f435c5757968c5513812"
+      }
+    },
+    {
+      "build": "222",
+      "type": "stable",
+      "releaseTime": "2018-09-07T02:08:53.239Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-222.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/222/downloads/paper-1.13.1-222.jar",
+        "sha1": null,
+        "sha256": "7169805198d47310e60a79afa112d6e3563b9a452425c0e01a00079081dd3cc3"
+      }
+    },
+    {
+      "build": "223",
+      "type": "stable",
+      "releaseTime": "2018-09-07T10:39:59.516Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-223.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/223/downloads/paper-1.13.1-223.jar",
+        "sha1": null,
+        "sha256": "13e6b4f3a13b97146287cd3b3f76956a72e3493f50a8426c0746b62df435764d"
+      }
+    },
+    {
+      "build": "224",
+      "type": "stable",
+      "releaseTime": "2018-09-07T10:59:49.694Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-224.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/224/downloads/paper-1.13.1-224.jar",
+        "sha1": null,
+        "sha256": "44f65d8dd0880814cfd7e739adf87fd73ffde143c09cb11720487975d47a8ab3"
+      }
+    },
+    {
+      "build": "225",
+      "type": "stable",
+      "releaseTime": "2018-09-08T00:03:53.347Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-225.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/225/downloads/paper-1.13.1-225.jar",
+        "sha1": null,
+        "sha256": "444e1467db80a2db1dd5824caa592c579b424a66db3838d2c909fa1d523f9fe3"
+      }
+    },
+    {
+      "build": "227",
+      "type": "stable",
+      "releaseTime": "2018-09-08T03:51:49.012Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-227.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/227/downloads/paper-1.13.1-227.jar",
+        "sha1": null,
+        "sha256": "0c2f48fd5e918003cbdc1d51fa77ce48b3158e23be3a7ab82c4bbad04ded8015"
+      }
+    },
+    {
+      "build": "228",
+      "type": "stable",
+      "releaseTime": "2018-09-08T23:13:22.042Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-228.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/228/downloads/paper-1.13.1-228.jar",
+        "sha1": null,
+        "sha256": "905a90b133065e0c4ee6687c96aff945f95b169be8b9559ea793ddb449615bba"
+      }
+    },
+    {
+      "build": "229",
+      "type": "stable",
+      "releaseTime": "2018-09-08T23:53:12.619Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-229.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/229/downloads/paper-1.13.1-229.jar",
+        "sha1": null,
+        "sha256": "4d54c55ce51e6c80064580879367b72f0848b581f62efb1819d5264f08b4b477"
+      }
+    },
+    {
+      "build": "231",
+      "type": "stable",
+      "releaseTime": "2018-09-09T05:19:58.520Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-231.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/231/downloads/paper-1.13.1-231.jar",
+        "sha1": null,
+        "sha256": "0515bb63fdcef2d4701f4c7b70fc9b5d7f53cd797492fdeb8ea9fb880b719e40"
+      }
+    },
+    {
+      "build": "232",
+      "type": "stable",
+      "releaseTime": "2018-09-09T16:53:37.436Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-232.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/232/downloads/paper-1.13.1-232.jar",
+        "sha1": null,
+        "sha256": "1c06466378bfe65652ed7c70a4796824e6dbdcc7f507753a53a321a673633b47"
+      }
+    },
+    {
+      "build": "233",
+      "type": "stable",
+      "releaseTime": "2018-09-09T18:38:42.691Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-233.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/233/downloads/paper-1.13.1-233.jar",
+        "sha1": null,
+        "sha256": "57e46a8e9d2030b6ff8808802dbcdcdeb0d5a3b066758d4f3ef5cc26347bbb9e"
+      }
+    },
+    {
+      "build": "235",
+      "type": "stable",
+      "releaseTime": "2018-09-09T19:29:52.820Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-235.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/235/downloads/paper-1.13.1-235.jar",
+        "sha1": null,
+        "sha256": "9e38dbe5bae102608399a39ae22edf5ae047a59a956f19e23f71820a2d7df2df"
+      }
+    },
+    {
+      "build": "236",
+      "type": "stable",
+      "releaseTime": "2018-09-09T21:53:18.266Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-236.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/236/downloads/paper-1.13.1-236.jar",
+        "sha1": null,
+        "sha256": "0b3268b06ad13d3873f3e8be30589a3a952eba0a19f16be56949562f03bfa734"
+      }
+    },
+    {
+      "build": "237",
+      "type": "stable",
+      "releaseTime": "2018-09-09T22:48:03.403Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-237.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/237/downloads/paper-1.13.1-237.jar",
+        "sha1": null,
+        "sha256": "dd55f68330c18f036e05292f14d6b69a203953a5e1d24bb5432ee1073de8bba0"
+      }
+    },
+    {
+      "build": "238",
+      "type": "stable",
+      "releaseTime": "2018-09-10T01:50:43.851Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-238.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/238/downloads/paper-1.13.1-238.jar",
+        "sha1": null,
+        "sha256": "6c937d2235d29f13a71ae77995e8e0c220179f9a94e99e95e9b6e1b4cce57d71"
+      }
+    },
+    {
+      "build": "239",
+      "type": "stable",
+      "releaseTime": "2018-09-11T03:14:52.725Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-239.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/239/downloads/paper-1.13.1-239.jar",
+        "sha1": null,
+        "sha256": "3a13a0f196798d953929ae58e8106255f46a0c126184d53555dcd87732638a82"
+      }
+    },
+    {
+      "build": "240",
+      "type": "stable",
+      "releaseTime": "2018-09-11T04:08:07.860Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-240.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/240/downloads/paper-1.13.1-240.jar",
+        "sha1": null,
+        "sha256": "5b43d3e1c6d5f34c6ff4aac04f88a8165ae84f6c9413ed137e8d2ffde74ecd17"
+      }
+    },
+    {
+      "build": "241",
+      "type": "stable",
+      "releaseTime": "2018-09-11T10:42:58.895Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-241.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/241/downloads/paper-1.13.1-241.jar",
+        "sha1": null,
+        "sha256": "98561dafad29607da736b0262ac188c671c6e48119b16ab4cc0c744ac524baf1"
+      }
+    },
+    {
+      "build": "242",
+      "type": "stable",
+      "releaseTime": "2018-09-11T11:12:43.971Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-242.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/242/downloads/paper-1.13.1-242.jar",
+        "sha1": null,
+        "sha256": "f3be9f31b6341e1209c96165f206f81f6acb06f033f1098a004960e0c2ca7406"
+      }
+    },
+    {
+      "build": "243",
+      "type": "stable",
+      "releaseTime": "2018-09-11T21:48:40.738Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-243.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/243/downloads/paper-1.13.1-243.jar",
+        "sha1": null,
+        "sha256": "720b9699ccfe8883a5a63c53d0db662f93fe51fe36ccad10d2eb0b9f1aa292a6"
+      }
+    },
+    {
+      "build": "244",
+      "type": "stable",
+      "releaseTime": "2018-09-11T23:11:00.938Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-244.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/244/downloads/paper-1.13.1-244.jar",
+        "sha1": null,
+        "sha256": "0cb8e54b5f97d03a544fc1ad823af33536c19c57dcf6cc2b1fa80f19949d9376"
+      }
+    },
+    {
+      "build": "245",
+      "type": "stable",
+      "releaseTime": "2018-09-11T23:14:02.479Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-245.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/245/downloads/paper-1.13.1-245.jar",
+        "sha1": null,
+        "sha256": "f9383dbaeb3056087a817389f1b6cee5077c693362ffb96c7ddb7b3dea97a944"
+      }
+    },
+    {
+      "build": "246",
+      "type": "stable",
+      "releaseTime": "2018-09-13T01:51:00.402Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-246.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/246/downloads/paper-1.13.1-246.jar",
+        "sha1": null,
+        "sha256": "9f0e70bcdc790a1efb0d334a606d69c12e92bc7b1836c0664820dbb4967bb1dd"
+      }
+    },
+    {
+      "build": "247",
+      "type": "stable",
+      "releaseTime": "2018-09-13T01:54:08.706Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-247.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/247/downloads/paper-1.13.1-247.jar",
+        "sha1": null,
+        "sha256": "177e70e024bad55d3889027ac25b9cbf899d2b67c76bded2d33a561eb98fe872"
+      }
+    },
+    {
+      "build": "248",
+      "type": "stable",
+      "releaseTime": "2018-09-13T01:59:00.423Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-248.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/248/downloads/paper-1.13.1-248.jar",
+        "sha1": null,
+        "sha256": "4fdd253026e9120867961222d4dc1e590cca7a49cd2ecb3c980dd1f9c1fbf0cf"
+      }
+    },
+    {
+      "build": "249",
+      "type": "stable",
+      "releaseTime": "2018-09-13T16:20:27.978Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-249.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/249/downloads/paper-1.13.1-249.jar",
+        "sha1": null,
+        "sha256": "395bdab16399e4d3ec0b816bd72bcc8ee91eb830437fab39d815055ea9c7cd60"
+      }
+    },
+    {
+      "build": "251",
+      "type": "stable",
+      "releaseTime": "2018-09-14T00:55:54.629Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-251.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/251/downloads/paper-1.13.1-251.jar",
+        "sha1": null,
+        "sha256": "73eb1546acf42164453c74569508820eaa7fae374d68c62c10cf9b3d54e054cc"
+      }
+    },
+    {
+      "build": "252",
+      "type": "stable",
+      "releaseTime": "2018-09-14T01:41:44.777Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-252.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/252/downloads/paper-1.13.1-252.jar",
+        "sha1": null,
+        "sha256": "f5634cb34e23909057155a41040d1065bec6c1d2d8291648c921b8d6f085b5c8"
+      }
+    },
+    {
+      "build": "253",
+      "type": "stable",
+      "releaseTime": "2018-09-14T02:37:44.966Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-253.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/253/downloads/paper-1.13.1-253.jar",
+        "sha1": null,
+        "sha256": "cae37fb1883a25b4f9fe07753f767e536669560184deec44d18e1c61ffc7a6ba"
+      }
+    },
+    {
+      "build": "254",
+      "type": "stable",
+      "releaseTime": "2018-09-15T16:15:50.858Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-254.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/254/downloads/paper-1.13.1-254.jar",
+        "sha1": null,
+        "sha256": "5c10982e8b746631cdd81d4224e9fa613145d1104f92a5a4a364740a988d1f4b"
+      }
+    },
+    {
+      "build": "255",
+      "type": "stable",
+      "releaseTime": "2018-09-15T17:23:31.079Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-255.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/255/downloads/paper-1.13.1-255.jar",
+        "sha1": null,
+        "sha256": "71f2ae462bb4151be648d2be18ddbfb156e02a38f729daed4eb5a9582ddab3d0"
+      }
+    },
+    {
+      "build": "256",
+      "type": "stable",
+      "releaseTime": "2018-09-15T17:47:16.144Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-256.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/256/downloads/paper-1.13.1-256.jar",
+        "sha1": null,
+        "sha256": "e3809707b1e827d844d57acc5230bf08c3afde3f8bb021233c181affce9da4d2"
+      }
+    },
+    {
+      "build": "257",
+      "type": "stable",
+      "releaseTime": "2018-09-15T23:34:21.997Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-257.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/257/downloads/paper-1.13.1-257.jar",
+        "sha1": null,
+        "sha256": "2ca70fe203d5c8c37786e1ca60c2eed1c6b0bd77aa5739bcd5483d698b3e71ae"
+      }
+    },
+    {
+      "build": "258",
+      "type": "stable",
+      "releaseTime": "2018-09-16T04:02:07.899Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-258.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/258/downloads/paper-1.13.1-258.jar",
+        "sha1": null,
+        "sha256": "2e26989709a352e3277ea8b44e535cc98e0792cd6c414cbeaae3f38dc8b49ad0"
+      }
+    },
+    {
+      "build": "259",
+      "type": "stable",
+      "releaseTime": "2018-09-16T04:27:02.964Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-259.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/259/downloads/paper-1.13.1-259.jar",
+        "sha1": null,
+        "sha256": "d26b651a462feef708decd9a0fef211897cfdd602da0459c7a3ae5cc8eb61a58"
+      }
+    },
+    {
+      "build": "260",
+      "type": "stable",
+      "releaseTime": "2018-09-16T05:05:28.060Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-260.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/260/downloads/paper-1.13.1-260.jar",
+        "sha1": null,
+        "sha256": "db24d11df4a6a28ebf6d082c6807b5c0eadb47dba7d54bc5aee935ecb91c0273"
+      }
+    },
+    {
+      "build": "261",
+      "type": "stable",
+      "releaseTime": "2018-09-16T07:00:58.353Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-261.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/261/downloads/paper-1.13.1-261.jar",
+        "sha1": null,
+        "sha256": "c3cd6610cfd9ab50e3822f899d75c8510d9701bb4a74ac961351d34e67e007e1"
+      }
+    },
+    {
+      "build": "262",
+      "type": "stable",
+      "releaseTime": "2018-09-16T07:22:33.409Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-262.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/262/downloads/paper-1.13.1-262.jar",
+        "sha1": null,
+        "sha256": "8af1c80ccaa830058a5706ca1dd0b121e94fc874c909733b62c8030abe2da4f3"
+      }
+    },
+    {
+      "build": "263",
+      "type": "stable",
+      "releaseTime": "2018-09-17T04:42:06.662Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-263.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/263/downloads/paper-1.13.1-263.jar",
+        "sha1": null,
+        "sha256": "750bcdc4309c7ffb38921e777e0b07cd1f02c6d0ebbc08c7f6593ab30d1de76c"
+      }
+    },
+    {
+      "build": "264",
+      "type": "stable",
+      "releaseTime": "2018-09-17T06:47:51.982Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-264.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/264/downloads/paper-1.13.1-264.jar",
+        "sha1": null,
+        "sha256": "5377631b4f0679901136e6c1c728601769d72078bf000f5afd7a5b65cdd31de5"
+      }
+    },
+    {
+      "build": "265",
+      "type": "stable",
+      "releaseTime": "2018-09-17T07:07:22.031Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-265.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/265/downloads/paper-1.13.1-265.jar",
+        "sha1": null,
+        "sha256": "51d6d4ae6383021c189507bcb1c7404b136249fdad17e7581ae259e0199d9ceb"
+      }
+    },
+    {
+      "build": "266",
+      "type": "stable",
+      "releaseTime": "2018-09-17T22:53:44.752Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-266.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/266/downloads/paper-1.13.1-266.jar",
+        "sha1": null,
+        "sha256": "67a68e5af24b7d1aa8258dd622b42b2bab37817e54c66964b70ecf8b202cc4c5"
+      }
+    },
+    {
+      "build": "267",
+      "type": "stable",
+      "releaseTime": "2018-09-18T01:50:55.214Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-267.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/267/downloads/paper-1.13.1-267.jar",
+        "sha1": null,
+        "sha256": "9a7beb9887460f2b445a73ce4ac0d443f413a125f9dab255276f85e04fda2f56"
+      }
+    },
+    {
+      "build": "268",
+      "type": "stable",
+      "releaseTime": "2018-09-18T02:05:05.251Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-268.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/268/downloads/paper-1.13.1-268.jar",
+        "sha1": null,
+        "sha256": "50297a4b88b478a55683f1758539243d5f35bd2ae329c967ef63aded7dfcd4f7"
+      }
+    },
+    {
+      "build": "269",
+      "type": "stable",
+      "releaseTime": "2018-09-18T02:38:10.338Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-269.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/269/downloads/paper-1.13.1-269.jar",
+        "sha1": null,
+        "sha256": "d6ec340c0bf4206e903e7dd6f1b08cc9630c124e09324573b2366e773d990e7c"
+      }
+    },
+    {
+      "build": "270",
+      "type": "stable",
+      "releaseTime": "2018-09-18T05:25:50.736Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-270.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/270/downloads/paper-1.13.1-270.jar",
+        "sha1": null,
+        "sha256": "d1e9a61ef39740ba9b4eaf53c291e2392c53809bf0f45a78d681d91877fd8c6a"
+      }
+    },
+    {
+      "build": "271",
+      "type": "stable",
+      "releaseTime": "2018-09-18T05:35:27.072Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-271.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/271/downloads/paper-1.13.1-271.jar",
+        "sha1": null,
+        "sha256": "a19f0b253aa350116375896b269fdbcac4c0e508b3235a8245731b6afbe7ceef"
+      }
+    },
+    {
+      "build": "272",
+      "type": "stable",
+      "releaseTime": "2018-09-18T23:34:15.133Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-272.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/272/downloads/paper-1.13.1-272.jar",
+        "sha1": null,
+        "sha256": "b319005b1d54ab77bf5f33549b433b9c51a2610149a4a080fa0a84538eddd3df"
+      }
+    },
+    {
+      "build": "273",
+      "type": "stable",
+      "releaseTime": "2018-09-19T08:37:26.622Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-273.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/273/downloads/paper-1.13.1-273.jar",
+        "sha1": null,
+        "sha256": "5ab62b1d4fb0c4724fe12def50893dd2ee6763764e405f0230fcb375ab6eeeb6"
+      }
+    },
+    {
+      "build": "274",
+      "type": "stable",
+      "releaseTime": "2018-09-20T15:44:11.868Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-274.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/274/downloads/paper-1.13.1-274.jar",
+        "sha1": null,
+        "sha256": "237f16b0905592e0a64df0a5a6f0db416e82831ec1d14ba2c2ff8706a491c540"
+      }
+    },
+    {
+      "build": "275",
+      "type": "stable",
+      "releaseTime": "2018-09-20T23:14:28.795Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-275.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/275/downloads/paper-1.13.1-275.jar",
+        "sha1": null,
+        "sha256": "3555c1d10c425d3d71c51726b23c8a6da43d6d4a93f762e54670c99a3307ed19"
+      }
+    },
+    {
+      "build": "276",
+      "type": "stable",
+      "releaseTime": "2018-09-21T15:38:11.297Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-276.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/276/downloads/paper-1.13.1-276.jar",
+        "sha1": null,
+        "sha256": "b24ff46eecf3d445e9202aca00267bb389b677a7d64dadef304992c78b09e878"
+      }
+    },
+    {
+      "build": "277",
+      "type": "stable",
+      "releaseTime": "2018-09-21T21:01:47.519Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-277.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/277/downloads/paper-1.13.1-277.jar",
+        "sha1": null,
+        "sha256": "fedbc7ae55903a40b3d5c60e3b3c355e6a0795ab6ef8e4851967e6e99daa8c6a"
+      }
+    },
+    {
+      "build": "278",
+      "type": "stable",
+      "releaseTime": "2018-09-22T01:44:33.274Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-278.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/278/downloads/paper-1.13.1-278.jar",
+        "sha1": null,
+        "sha256": "e5cb13bd4983d49d4e8acbfa7a8394871b4573a2003c0fdddc3aa8e55419b282"
+      }
+    },
+    {
+      "build": "279",
+      "type": "stable",
+      "releaseTime": "2018-09-22T07:21:18.900Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-279.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/279/downloads/paper-1.13.1-279.jar",
+        "sha1": null,
+        "sha256": "d913d3634e2f7cefcd32b97a4ac3e10ccaba4d1ecfce7726e811a55b3a479a9a"
+      }
+    },
+    {
+      "build": "280",
+      "type": "stable",
+      "releaseTime": "2018-09-22T16:16:15.249Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-280.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/280/downloads/paper-1.13.1-280.jar",
+        "sha1": null,
+        "sha256": "bc4727210c80bb7fb2378a168007206d0016313a629e7b778383687662683014"
+      }
+    },
+    {
+      "build": "281",
+      "type": "stable",
+      "releaseTime": "2018-09-22T16:31:15.292Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-281.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/281/downloads/paper-1.13.1-281.jar",
+        "sha1": null,
+        "sha256": "534ebaf623a3ecd82008a4bfaa2a74e9d2e3b7d214ff65bcb1da0c971288eef5"
+      }
+    },
+    {
+      "build": "282",
+      "type": "stable",
+      "releaseTime": "2018-09-22T17:01:16.597Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-282.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/282/downloads/paper-1.13.1-282.jar",
+        "sha1": null,
+        "sha256": "807d410735c93e2479da2bea59e76805f452f3deecf06323adec477d431d6099"
+      }
+    },
+    {
+      "build": "283",
+      "type": "stable",
+      "releaseTime": "2018-09-22T20:01:27.043Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-283.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/283/downloads/paper-1.13.1-283.jar",
+        "sha1": null,
+        "sha256": "2e459e0b1d2a7a472710c64d25d3895f5c815d0a9d7236744e89547f0e8e2511"
+      }
+    },
+    {
+      "build": "284",
+      "type": "stable",
+      "releaseTime": "2018-09-22T22:42:32.454Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-284.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/284/downloads/paper-1.13.1-284.jar",
+        "sha1": null,
+        "sha256": "af406097ab7a768ab35eddc5597871cbd52b2131bc7fbcd210e51c3592ce4263"
+      }
+    },
+    {
+      "build": "285",
+      "type": "stable",
+      "releaseTime": "2018-09-23T02:28:32.996Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-285.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/285/downloads/paper-1.13.1-285.jar",
+        "sha1": null,
+        "sha256": "9cc800102eb27f7cae6658921571d4e6c0de9e8c9b24248ecd813c25ee212e80"
+      }
+    },
+    {
+      "build": "286",
+      "type": "stable",
+      "releaseTime": "2018-09-23T02:48:48.046Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-286.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/286/downloads/paper-1.13.1-286.jar",
+        "sha1": null,
+        "sha256": "9962e64fe12153be89edf7f70ea57ed9a16ff2e3460ab8f166f37be2cf946a4c"
+      }
+    },
+    {
+      "build": "287",
+      "type": "stable",
+      "releaseTime": "2018-09-23T03:04:08.088Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-287.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/287/downloads/paper-1.13.1-287.jar",
+        "sha1": null,
+        "sha256": "e9ea265aa11bea9306d6789d8021bd9b34520c80cd6ad9677f7094925d1911bb"
+      }
+    },
+    {
+      "build": "288",
+      "type": "stable",
+      "releaseTime": "2018-09-23T03:31:08.159Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-288.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/288/downloads/paper-1.13.1-288.jar",
+        "sha1": null,
+        "sha256": "6fccd4fc15dd83c5f76429e8458f88846238add11d03794276b690d3ba26e710"
+      }
+    },
+    {
+      "build": "289",
+      "type": "stable",
+      "releaseTime": "2018-09-23T03:57:33.227Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-289.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/289/downloads/paper-1.13.1-289.jar",
+        "sha1": null,
+        "sha256": "dd71b066aaea88848ca59cc741ba80268d240590f2481096b650b956eb29fc60"
+      }
+    },
+    {
+      "build": "290",
+      "type": "stable",
+      "releaseTime": "2018-09-23T09:07:34.030Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-290.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/290/downloads/paper-1.13.1-290.jar",
+        "sha1": null,
+        "sha256": "8e706b8d0f84fa696213d538a7730db06258d6561a102922307489e44ecbc2ef"
+      }
+    },
+    {
+      "build": "291",
+      "type": "stable",
+      "releaseTime": "2018-09-23T09:27:24.081Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-291.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/291/downloads/paper-1.13.1-291.jar",
+        "sha1": null,
+        "sha256": "d574598d05e09df4901ce77955eac0ecf1f1de8b6a497902a9ddcf3cf268e916"
+      }
+    },
+    {
+      "build": "292",
+      "type": "stable",
+      "releaseTime": "2018-09-23T19:01:00.510Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-292.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/292/downloads/paper-1.13.1-292.jar",
+        "sha1": null,
+        "sha256": "0a5c8384b4b4c452ef5fdd6405f0bc8d4a6bb5fb503a6fa0a5a631a051dab97a"
+      }
+    },
+    {
+      "build": "293",
+      "type": "stable",
+      "releaseTime": "2018-09-24T00:11:41.514Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-293.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/293/downloads/paper-1.13.1-293.jar",
+        "sha1": null,
+        "sha256": "bd247e6036ba4dbb4f2fd214371db3d9d4b8f3bbe8ed09efb9004ca07a9c4c9b"
+      }
+    },
+    {
+      "build": "294",
+      "type": "stable",
+      "releaseTime": "2018-09-24T01:29:26.704Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-294.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/294/downloads/paper-1.13.1-294.jar",
+        "sha1": null,
+        "sha256": "9e67efb56878cc6ef15da9adc68f10737caa94a935725d170fd7ac64f5a85200"
+      }
+    },
+    {
+      "build": "295",
+      "type": "stable",
+      "releaseTime": "2018-09-24T05:07:42.269Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-295.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/295/downloads/paper-1.13.1-295.jar",
+        "sha1": null,
+        "sha256": "5aa086876b7d1856fc2f628328fe02e5b37d068bf84e14f0bbb81d91659c9e97"
+      }
+    },
+    {
+      "build": "296",
+      "type": "stable",
+      "releaseTime": "2018-09-24T09:22:32.904Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-296.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/296/downloads/paper-1.13.1-296.jar",
+        "sha1": null,
+        "sha256": "5fd95945d32d0bfc8208c0c00b2fcf6ce83d4516d085d5ec80f4c797dc72a29a"
+      }
+    },
+    {
+      "build": "297",
+      "type": "stable",
+      "releaseTime": "2018-09-24T09:42:27.956Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-297.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/297/downloads/paper-1.13.1-297.jar",
+        "sha1": null,
+        "sha256": "ed472ed6d6c2ca05f62bf19759c9ae34b753ea09f7cab61cb42bebc99c302354"
+      }
+    },
+    {
+      "build": "298",
+      "type": "stable",
+      "releaseTime": "2018-09-25T00:50:00.276Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-298.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/298/downloads/paper-1.13.1-298.jar",
+        "sha1": null,
+        "sha256": "848e578df4606140b2964f449e507efb22a3edb4b5d3fe717883b3637223c857"
+      }
+    },
+    {
+      "build": "299",
+      "type": "stable",
+      "releaseTime": "2018-09-25T04:37:35.829Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-299.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/299/downloads/paper-1.13.1-299.jar",
+        "sha1": null,
+        "sha256": "05150401d428aa7864fd20d7c8e0542163982ec104792785630e43107e1cccc6"
+      }
+    },
+    {
+      "build": "300",
+      "type": "stable",
+      "releaseTime": "2018-09-25T14:54:07.370Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-300.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/300/downloads/paper-1.13.1-300.jar",
+        "sha1": null,
+        "sha256": "0df68ec3aa382006609831f8860137b73fd8a055596e6866d5570d13a6866de3"
+      }
+    },
+    {
+      "build": "301",
+      "type": "stable",
+      "releaseTime": "2018-09-26T05:00:07.807Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-301.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/301/downloads/paper-1.13.1-301.jar",
+        "sha1": null,
+        "sha256": "365d54c874c25326bfc1344dc9957bb46e0b2e743c090890000ca2393fe9cdd3"
+      }
+    },
+    {
+      "build": "302",
+      "type": "stable",
+      "releaseTime": "2018-09-26T22:22:00.786Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-302.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/302/downloads/paper-1.13.1-302.jar",
+        "sha1": null,
+        "sha256": "092da3fa9a12e997fda4474f12e614a7dbd90773524c184b0933536967261ef6"
+      }
+    },
+    {
+      "build": "303",
+      "type": "stable",
+      "releaseTime": "2018-09-27T02:43:16.461Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-303.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/303/downloads/paper-1.13.1-303.jar",
+        "sha1": null,
+        "sha256": "4a9ee869390be189441307e1fcc7abdcc8e05d3c2deee83b9c3fc7bc8c28d406"
+      }
+    },
+    {
+      "build": "304",
+      "type": "stable",
+      "releaseTime": "2018-09-27T04:12:11.664Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-304.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/304/downloads/paper-1.13.1-304.jar",
+        "sha1": null,
+        "sha256": "9e16d9aac90f7a993c97d075db999e43cbc0250236db186a64d8be8bdc26c835"
+      }
+    },
+    {
+      "build": "305",
+      "type": "stable",
+      "releaseTime": "2018-09-28T17:58:22.361Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-305.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/305/downloads/paper-1.13.1-305.jar",
+        "sha1": null,
+        "sha256": "db22a79f2ba1a0f2a7ff64e7794af415ccbcb440f30173698ada4c148b818f29"
+      }
+    },
+    {
+      "build": "306",
+      "type": "stable",
+      "releaseTime": "2018-09-28T23:32:18.295Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-306.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/306/downloads/paper-1.13.1-306.jar",
+        "sha1": null,
+        "sha256": "d1da7a767178f9befd47c4edd442fbbfdd00a4d2772ce49dcca6c771f7c6d429"
+      }
+    },
+    {
+      "build": "307",
+      "type": "stable",
+      "releaseTime": "2018-09-29T01:27:53.587Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-307.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/307/downloads/paper-1.13.1-307.jar",
+        "sha1": null,
+        "sha256": "56383349042021886a463f43a1f61ae5d0705e7db01c64cf6e2b018386908afd"
+      }
+    },
+    {
+      "build": "308",
+      "type": "stable",
+      "releaseTime": "2018-09-29T01:39:28.602Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-308.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/308/downloads/paper-1.13.1-308.jar",
+        "sha1": null,
+        "sha256": "494fad39dbac76ec2f55bfab4317db4a2383ccd7050b27cb0632c88083399be1"
+      }
+    },
+    {
+      "build": "309",
+      "type": "stable",
+      "releaseTime": "2018-09-29T02:40:33.749Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-309.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/309/downloads/paper-1.13.1-309.jar",
+        "sha1": null,
+        "sha256": "a1996755c72f7f2b76f90f1d2be5979a154979d9d90afb7208d9acce1c7b27f3"
+      }
+    },
+    {
+      "build": "310",
+      "type": "stable",
+      "releaseTime": "2018-09-29T03:13:18.832Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-310.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/310/downloads/paper-1.13.1-310.jar",
+        "sha1": null,
+        "sha256": "aec25e004665f617bed5714482bdb00da133ebd1db596750e248f88a2ede1ad4"
+      }
+    },
+    {
+      "build": "311",
+      "type": "stable",
+      "releaseTime": "2018-09-29T05:57:49.246Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-311.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/311/downloads/paper-1.13.1-311.jar",
+        "sha1": null,
+        "sha256": "e8a6f21e401f2082b952dc7e39eae11c2488141a7b448e4bc1d0d7f7069ff4f3"
+      }
+    },
+    {
+      "build": "313",
+      "type": "stable",
+      "releaseTime": "2018-09-29T16:21:15.829Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-313.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/313/downloads/paper-1.13.1-313.jar",
+        "sha1": null,
+        "sha256": "85834ca186d5039eedbdf82eea2058b770cd0535b024551e430f52f6a98af3a4"
+      }
+    },
+    {
+      "build": "314",
+      "type": "stable",
+      "releaseTime": "2018-09-29T18:08:51.351Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-314.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/314/downloads/paper-1.13.1-314.jar",
+        "sha1": null,
+        "sha256": "636aa90cb80b1bb868de6f22352899a098f0817ace6f98feb665dbad381f1789"
+      }
+    },
+    {
+      "build": "315",
+      "type": "stable",
+      "releaseTime": "2018-09-29T20:06:56.643Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-315.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/315/downloads/paper-1.13.1-315.jar",
+        "sha1": null,
+        "sha256": "8566a62e191ae7b87e9ed0cc5c1bc05256a657130c0cbbb38fc7fc7046c05b18"
+      }
+    },
+    {
+      "build": "316",
+      "type": "stable",
+      "releaseTime": "2018-09-30T01:58:17.553Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-316.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/316/downloads/paper-1.13.1-316.jar",
+        "sha1": null,
+        "sha256": "49cd1ec060f514c8cf86d3624c822a48397b4283683424ac110601ece7cf14dd"
+      }
+    },
+    {
+      "build": "317",
+      "type": "stable",
+      "releaseTime": "2018-09-30T02:17:52.594Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-317.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/317/downloads/paper-1.13.1-317.jar",
+        "sha1": null,
+        "sha256": "3a28b4f366eedaece5098dafc2b63242c2a3f6b78a0e36f1c3ee96b80e1e68d2"
+      }
+    },
+    {
+      "build": "318",
+      "type": "stable",
+      "releaseTime": "2018-10-01T00:37:55.934Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-318.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/318/downloads/paper-1.13.1-318.jar",
+        "sha1": null,
+        "sha256": "b917c479900878de3f70610c5b3759ec874aa08be0ebf88f2759d10a55657755"
+      }
+    },
+    {
+      "build": "319",
+      "type": "stable",
+      "releaseTime": "2018-10-01T05:01:11.601Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-319.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/319/downloads/paper-1.13.1-319.jar",
+        "sha1": null,
+        "sha256": "b91e70281c60bffc46d033a3fe83675d5d7e91d55dab8a68db5cbef7d80d19f6"
+      }
+    },
+    {
+      "build": "320",
+      "type": "stable",
+      "releaseTime": "2018-10-02T09:41:15.800Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-320.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/320/downloads/paper-1.13.1-320.jar",
+        "sha1": null,
+        "sha256": "534f6139d48458a11123787c4866c7b8862fdf544c5cbb1c305d5f57da06e878"
+      }
+    },
+    {
+      "build": "321",
+      "type": "stable",
+      "releaseTime": "2018-10-02T10:03:46.075Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-321.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/321/downloads/paper-1.13.1-321.jar",
+        "sha1": null,
+        "sha256": "6783361a8af9b222318dab6c00e117fcd4e71e1e9d82d5d293e537b31a357551"
+      }
+    },
+    {
+      "build": "322",
+      "type": "stable",
+      "releaseTime": "2018-10-02T10:57:31.218Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-322.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/322/downloads/paper-1.13.1-322.jar",
+        "sha1": null,
+        "sha256": "aea2b0b3dc5abef260a6edfde6ff00961cc3f873466b895981cb0c5dc0febc18"
+      }
+    },
+    {
+      "build": "323",
+      "type": "stable",
+      "releaseTime": "2018-10-02T13:07:51.559Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-323.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/323/downloads/paper-1.13.1-323.jar",
+        "sha1": null,
+        "sha256": "a3f7755cd49ee268785df0388a1afb56ca7e532fb88f8bd73580241148b9bfe2"
+      }
+    },
+    {
+      "build": "324",
+      "type": "stable",
+      "releaseTime": "2018-10-02T14:21:26.723Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-324.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/324/downloads/paper-1.13.1-324.jar",
+        "sha1": null,
+        "sha256": "d0c110f847259cfe57e45ce5abd1188cbcb59fb599e9991a1c3ae63674c8f260"
+      }
+    },
+    {
+      "build": "325",
+      "type": "stable",
+      "releaseTime": "2018-10-03T02:32:13.998Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-325.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/325/downloads/paper-1.13.1-325.jar",
+        "sha1": null,
+        "sha256": "6f319f2ded4e7a6514eb69afae184740f5318207bbffd21b82701d67d5df178a"
+      }
+    },
+    {
+      "build": "326",
+      "type": "stable",
+      "releaseTime": "2018-10-03T02:55:24.096Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-326.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/326/downloads/paper-1.13.1-326.jar",
+        "sha1": null,
+        "sha256": "fac5721d26a58df6c3d82a15e8f47118a651ed945f4145c8a54c5ce24a74b52f"
+      }
+    },
+    {
+      "build": "327",
+      "type": "stable",
+      "releaseTime": "2018-10-03T03:51:49.246Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-327.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/327/downloads/paper-1.13.1-327.jar",
+        "sha1": null,
+        "sha256": "e4facee8c49608dbb3734330f71c43415cbee23b52776b43f7ced9cbcc88c804"
+      }
+    },
+    {
+      "build": "328",
+      "type": "stable",
+      "releaseTime": "2018-10-03T18:12:36.422Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-328.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/328/downloads/paper-1.13.1-328.jar",
+        "sha1": null,
+        "sha256": "02f0a3a71955a09aff21951e70c9079f186f8d2dee8c98d730394b2732e966f7"
+      }
+    },
+    {
+      "build": "329",
+      "type": "stable",
+      "releaseTime": "2018-10-03T19:20:16.595Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-329.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/329/downloads/paper-1.13.1-329.jar",
+        "sha1": null,
+        "sha256": "4c9fb530fb05069d008469482afbb8ba34f269e03e9c79cd2ab445dc44353c55"
+      }
+    },
+    {
+      "build": "330",
+      "type": "stable",
+      "releaseTime": "2018-10-03T22:16:37.036Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-330.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/330/downloads/paper-1.13.1-330.jar",
+        "sha1": null,
+        "sha256": "842dfc8347e301cb145b277310a9363fb1e352e3a0c45c17f71d1a2ac35253ee"
+      }
+    },
+    {
+      "build": "331",
+      "type": "stable",
+      "releaseTime": "2018-10-04T05:24:03.368Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-331.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/331/downloads/paper-1.13.1-331.jar",
+        "sha1": null,
+        "sha256": "d986d849163ef93903f7733e9529d43e6c2924467e50ae6c65fad0f287f3d775"
+      }
+    },
+    {
+      "build": "332",
+      "type": "stable",
+      "releaseTime": "2018-10-04T05:48:33.433Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-332.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/332/downloads/paper-1.13.1-332.jar",
+        "sha1": null,
+        "sha256": "eb6a85fd71749a0d69078e3138835b0f636d22e5ffe7d7e3b9b25affd53f20e0"
+      }
+    },
+    {
+      "build": "333",
+      "type": "stable",
+      "releaseTime": "2018-10-05T03:20:26.998Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-333.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/333/downloads/paper-1.13.1-333.jar",
+        "sha1": null,
+        "sha256": "5fb5db824973c22b92324c0e9322a39da5183ba5fb313388ce1acf69bb2b5216"
+      }
+    },
+    {
+      "build": "334",
+      "type": "stable",
+      "releaseTime": "2018-10-05T15:23:33.948Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-334.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/334/downloads/paper-1.13.1-334.jar",
+        "sha1": null,
+        "sha256": "e54064c8f616ab085e590a4cf56b021b76944b427d5b3c9c6b65b56d2dd7d689"
+      }
+    },
+    {
+      "build": "335",
+      "type": "stable",
+      "releaseTime": "2018-10-05T15:26:37.566Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-335.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/335/downloads/paper-1.13.1-335.jar",
+        "sha1": null,
+        "sha256": "632d236e978a97fc3e143cb5a05bb52692c480931cc1784a9c5c0f5c23af999a"
+      }
+    },
+    {
+      "build": "336",
+      "type": "stable",
+      "releaseTime": "2018-10-06T00:09:00.832Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-336.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/336/downloads/paper-1.13.1-336.jar",
+        "sha1": null,
+        "sha256": "a546b947d906c8a16a83f8e3bb4c9d4d73cf14f3b4c7f467cdaa4d660fa2ade9"
+      }
+    },
+    {
+      "build": "337",
+      "type": "stable",
+      "releaseTime": "2018-10-06T00:22:40.868Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-337.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/337/downloads/paper-1.13.1-337.jar",
+        "sha1": null,
+        "sha256": "0f06c76a3d6a229689b26fdef40309cdf7b0fa0a2e0fbe649314ae088f058581"
+      }
+    },
+    {
+      "build": "338",
+      "type": "stable",
+      "releaseTime": "2018-10-06T01:02:30.974Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-338.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/338/downloads/paper-1.13.1-338.jar",
+        "sha1": null,
+        "sha256": "9bb86a6ea4125a25d544dac560d19eedc9947614087e4219de55a013d89ebe72"
+      }
+    },
+    {
+      "build": "339",
+      "type": "stable",
+      "releaseTime": "2018-10-06T04:16:26.591Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-339.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/339/downloads/paper-1.13.1-339.jar",
+        "sha1": null,
+        "sha256": "4c52ec62050a83019b6ded5ee2acf850afda6affb0b6f6860669cbe1b5f0b065"
+      }
+    },
+    {
+      "build": "340",
+      "type": "stable",
+      "releaseTime": "2018-10-06T04:57:31.795Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-340.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/340/downloads/paper-1.13.1-340.jar",
+        "sha1": null,
+        "sha256": "a2a0049e8e6538c5f9b526c25f7d9b39ad5232aa07441fe7bf6286540a9e8f38"
+      }
+    },
+    {
+      "build": "341",
+      "type": "stable",
+      "releaseTime": "2018-10-06T05:18:10.074Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-341.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/341/downloads/paper-1.13.1-341.jar",
+        "sha1": null,
+        "sha256": "8e4e29d2065cbe5583b746381e223344e2170e6dc5906171cfe0af009ffb5c78"
+      }
+    },
+    {
+      "build": "342",
+      "type": "stable",
+      "releaseTime": "2018-10-06T09:32:40.880Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-342.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/342/downloads/paper-1.13.1-342.jar",
+        "sha1": null,
+        "sha256": "8e856f43facdce7b2e9eff542c2989a0771fc28931f5f326143e86b2e67f1254"
+      }
+    },
+    {
+      "build": "343",
+      "type": "stable",
+      "releaseTime": "2018-10-06T23:12:48.463Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-343.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/343/downloads/paper-1.13.1-343.jar",
+        "sha1": null,
+        "sha256": "3f30b694d72a501d19f899d94287244d14626af1c1b2baefae95f25fb63405aa"
+      }
+    },
+    {
+      "build": "344",
+      "type": "stable",
+      "releaseTime": "2018-10-07T01:47:03.807Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-344.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/344/downloads/paper-1.13.1-344.jar",
+        "sha1": null,
+        "sha256": "bd67158efe9e0657a4eb81149ad85c219e94325696cd3cc2c8a289fb248725ac"
+      }
+    },
+    {
+      "build": "345",
+      "type": "stable",
+      "releaseTime": "2018-10-07T02:00:53.837Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-345.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/345/downloads/paper-1.13.1-345.jar",
+        "sha1": null,
+        "sha256": "bc710b809c3ea2862dc8487f8e64249a76d87144401b8403211e97d987f7abb8"
+      }
+    },
+    {
+      "build": "346",
+      "type": "stable",
+      "releaseTime": "2018-10-07T03:31:34.030Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-346.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/346/downloads/paper-1.13.1-346.jar",
+        "sha1": null,
+        "sha256": "7926349cfb859d24ec4420c83b7e905f10822bb7dd09632a674fc1cece16536f"
+      }
+    },
+    {
+      "build": "347",
+      "type": "stable",
+      "releaseTime": "2018-10-07T16:58:06.209Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-347.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/347/downloads/paper-1.13.1-347.jar",
+        "sha1": null,
+        "sha256": "d209d8d3057548fe99166be2db47430beb2d16efec74d8aae22ae3cdc0f90e89"
+      }
+    },
+    {
+      "build": "348",
+      "type": "stable",
+      "releaseTime": "2018-10-07T17:01:06.647Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-348.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/348/downloads/paper-1.13.1-348.jar",
+        "sha1": null,
+        "sha256": "6725e104d1c7611c27e54d8c8bbc8b1e9dab001ee270a7b0e638fdf61fcb1c54"
+      }
+    },
+    {
+      "build": "349",
+      "type": "stable",
+      "releaseTime": "2018-10-07T17:04:11.973Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-349.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/349/downloads/paper-1.13.1-349.jar",
+        "sha1": null,
+        "sha256": "f21fbd64615368d1cd78be2673b25c24a1729840c6fd04c3598eb87cec33d14f"
+      }
+    },
+    {
+      "build": "350",
+      "type": "stable",
+      "releaseTime": "2018-10-07T19:11:21.798Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-350.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/350/downloads/paper-1.13.1-350.jar",
+        "sha1": null,
+        "sha256": "dd99feeb7866afd9bba4339766a3e0642aa4886cbd0c3af912878733d76c6749"
+      }
+    },
+    {
+      "build": "351",
+      "type": "stable",
+      "releaseTime": "2018-10-08T04:48:53.331Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-351.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/351/downloads/paper-1.13.1-351.jar",
+        "sha1": null,
+        "sha256": "6db4544ba23a55b7f9b568e3dada97083da686a6bcd97c67d7babaa9c65b8ea6"
+      }
+    },
+    {
+      "build": "352",
+      "type": "stable",
+      "releaseTime": "2018-10-08T05:34:13.610Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-352.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/352/downloads/paper-1.13.1-352.jar",
+        "sha1": null,
+        "sha256": "b404a03b51e80bdde2bd46f41c19f5eefa7793ec912b01ea93f2615565ea1a00"
+      }
+    },
+    {
+      "build": "353",
+      "type": "stable",
+      "releaseTime": "2018-10-09T00:28:42.254Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-353.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/353/downloads/paper-1.13.1-353.jar",
+        "sha1": null,
+        "sha256": "c346b876884b115d437f1a26493618dc5e8305ecbe7c1be13b0ea3a3917c76c0"
+      }
+    },
+    {
+      "build": "354",
+      "type": "stable",
+      "releaseTime": "2018-10-09T01:14:52.375Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-354.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/354/downloads/paper-1.13.1-354.jar",
+        "sha1": null,
+        "sha256": "e8f64e4841a14b15f31b02d7a448a007e60487ed477e543364aeb3df0f9fbbb6"
+      }
+    },
+    {
+      "build": "355",
+      "type": "stable",
+      "releaseTime": "2018-10-09T01:17:58.681Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-355.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/355/downloads/paper-1.13.1-355.jar",
+        "sha1": null,
+        "sha256": "47413521077ed0096a719af86c5121158404b2fb83da0ce0c003f5b1107dbbd9"
+      }
+    },
+    {
+      "build": "356",
+      "type": "stable",
+      "releaseTime": "2018-10-11T01:37:20.248Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-356.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/356/downloads/paper-1.13.1-356.jar",
+        "sha1": null,
+        "sha256": "99ec5b9ed155e419c1f6ea3ff2a44ab08e17c8d2fc2c96ffa8b8e43dcd4d2797"
+      }
+    },
+    {
+      "build": "357",
+      "type": "stable",
+      "releaseTime": "2018-10-11T02:50:55.440Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-357.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/357/downloads/paper-1.13.1-357.jar",
+        "sha1": null,
+        "sha256": "b6057cee179c1d2e8e512b8dca2f767d21dbe415929eeac7d07cfb139d270a46"
+      }
+    },
+    {
+      "build": "358",
+      "type": "stable",
+      "releaseTime": "2018-10-11T03:01:30.626Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-358.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/358/downloads/paper-1.13.1-358.jar",
+        "sha1": null,
+        "sha256": "d7dddba3ca592ee70ee65082928be34c09771410d5ceae951b31843bfa89957c"
+      }
+    },
+    {
+      "build": "359",
+      "type": "stable",
+      "releaseTime": "2018-10-11T03:23:05.680Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-359.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/359/downloads/paper-1.13.1-359.jar",
+        "sha1": null,
+        "sha256": "b515b95173c043fd17074a9f07833a490f8967942fcb0a3315775654da23f12a"
+      }
+    },
+    {
+      "build": "360",
+      "type": "stable",
+      "releaseTime": "2018-10-11T03:41:05.727Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-360.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/360/downloads/paper-1.13.1-360.jar",
+        "sha1": null,
+        "sha256": "cb065773d8b54284e7bc147a95d5e6ed7f2ddd5a5a5e0b8fd3ac3c33d053afaa"
+      }
+    },
+    {
+      "build": "361",
+      "type": "stable",
+      "releaseTime": "2018-10-12T01:43:02.613Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-361.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/361/downloads/paper-1.13.1-361.jar",
+        "sha1": null,
+        "sha256": "e92b47bfd4377ec2f59fedd0438f6fc22e82b3f81de51e1363b4ed236916f354"
+      }
+    },
+    {
+      "build": "362",
+      "type": "stable",
+      "releaseTime": "2018-10-12T05:30:13.193Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-362.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/362/downloads/paper-1.13.1-362.jar",
+        "sha1": null,
+        "sha256": "8c91430f158ae3069cbe8fa29b70cffa51f3878f623c1e1205e7c9b679be94c7"
+      }
+    },
+    {
+      "build": "363",
+      "type": "stable",
+      "releaseTime": "2018-10-12T07:10:08.450Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-363.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/363/downloads/paper-1.13.1-363.jar",
+        "sha1": null,
+        "sha256": "e54d677a009ea34251a62dcdcbfc762d2516c4ac137316b92201a788e3eff76b"
+      }
+    },
+    {
+      "build": "364",
+      "type": "stable",
+      "releaseTime": "2018-10-12T14:52:34.605Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-364.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/364/downloads/paper-1.13.1-364.jar",
+        "sha1": null,
+        "sha256": "334b85cc728a1919da51935c94156d35dca2b41c912b58a63c976718dcbad439"
+      }
+    },
+    {
+      "build": "365",
+      "type": "stable",
+      "releaseTime": "2018-10-12T22:47:56.823Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-365.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/365/downloads/paper-1.13.1-365.jar",
+        "sha1": null,
+        "sha256": "1211e2831477d524060414517d1e8dc83b96f1838ca1a5cc0d02d99738486104"
+      }
+    },
+    {
+      "build": "366",
+      "type": "stable",
+      "releaseTime": "2018-10-12T23:07:56.971Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-366.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/366/downloads/paper-1.13.1-366.jar",
+        "sha1": null,
+        "sha256": "ae80313f8e34a96259748cb20b373e62cfaa1e8d1b90b18aa0be0295d3f05df5"
+      }
+    },
+    {
+      "build": "367",
+      "type": "stable",
+      "releaseTime": "2018-10-15T05:05:17.890Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-367.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/367/downloads/paper-1.13.1-367.jar",
+        "sha1": null,
+        "sha256": "75831930e0f4f9cb6e1124c39e8a3691cc2f12d14a97d255e81aa30ccdf0190d"
+      }
+    },
+    {
+      "build": "368",
+      "type": "stable",
+      "releaseTime": "2018-10-15T08:27:53.578Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-368.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/368/downloads/paper-1.13.1-368.jar",
+        "sha1": null,
+        "sha256": "16b652b0241794ada924bb8045b816c388b72477b5f6bada458ae299ee39b4b5"
+      }
+    },
+    {
+      "build": "369",
+      "type": "stable",
+      "releaseTime": "2018-10-16T21:22:57.339Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-369.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/369/downloads/paper-1.13.1-369.jar",
+        "sha1": null,
+        "sha256": "d3efc9a59085d5bbbaa6edaf0c6d6a2a8efed024d49ec38288508e691d3d1aeb"
+      }
+    },
+    {
+      "build": "370",
+      "type": "stable",
+      "releaseTime": "2018-10-17T00:40:12.973Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-370.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/370/downloads/paper-1.13.1-370.jar",
+        "sha1": null,
+        "sha256": "275ff6e686a031d4fefba1ca781872c9c3934d2f5ae8468f82707a329588f66f"
+      }
+    },
+    {
+      "build": "371",
+      "type": "stable",
+      "releaseTime": "2018-10-17T01:29:28.123Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-371.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/371/downloads/paper-1.13.1-371.jar",
+        "sha1": null,
+        "sha256": "4ecd2b12c24281f4e7ac95c4a2e9a1f0d7f82e712b978c05618d8bb7e6931efb"
+      }
+    },
+    {
+      "build": "372",
+      "type": "stable",
+      "releaseTime": "2018-10-17T01:41:23.244Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-372.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/372/downloads/paper-1.13.1-372.jar",
+        "sha1": null,
+        "sha256": "57f5164132f42d4f847e060495d8e26e4d5537617a5d61cc5b9a286aec286864"
+      }
+    },
+    {
+      "build": "373",
+      "type": "stable",
+      "releaseTime": "2018-10-17T02:19:03.355Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-373.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/373/downloads/paper-1.13.1-373.jar",
+        "sha1": null,
+        "sha256": "c3a2ee2446d6959bfafc73942264e294acc89900c38000164769981049146760"
+      }
+    },
+    {
+      "build": "374",
+      "type": "stable",
+      "releaseTime": "2018-10-18T02:47:57.668Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-374.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/374/downloads/paper-1.13.1-374.jar",
+        "sha1": null,
+        "sha256": "082cd2044c878f08b9bc71c0461d4d9ed9e79f7030076384885f1eb1ee2e1bac"
+      }
+    },
+    {
+      "build": "375",
+      "type": "stable",
+      "releaseTime": "2018-10-18T03:04:37.717Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-375.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/375/downloads/paper-1.13.1-375.jar",
+        "sha1": null,
+        "sha256": "1fe9930b46c83c891e9b0223966cebb24748a86d4ed1904d04c68ebf718a1d6b"
+      }
+    },
+    {
+      "build": "376",
+      "type": "stable",
+      "releaseTime": "2018-10-18T20:53:25.777Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-376.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/376/downloads/paper-1.13.1-376.jar",
+        "sha1": null,
+        "sha256": "39e805d722f1a7f342b2377f9315073a670c92b67260a0174771fd059d0e336f"
+      }
+    },
+    {
+      "build": "377",
+      "type": "stable",
+      "releaseTime": "2018-10-19T00:45:16.499Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-377.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/377/downloads/paper-1.13.1-377.jar",
+        "sha1": null,
+        "sha256": "e634508275984fc260686c23aa374c29b487d97aead86ab479f91706cc84a3d4"
+      }
+    },
+    {
+      "build": "378",
+      "type": "stable",
+      "releaseTime": "2018-10-19T02:53:46.843Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-378.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/378/downloads/paper-1.13.1-378.jar",
+        "sha1": null,
+        "sha256": "dd698b5597e2b612fec12ccb87931ec9ff4e39f57a89639f57c2125b3c808081"
+      }
+    },
+    {
+      "build": "379",
+      "type": "stable",
+      "releaseTime": "2018-10-19T03:24:27.024Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-379.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/379/downloads/paper-1.13.1-379.jar",
+        "sha1": null,
+        "sha256": "73a2695ce01e145024cd2b81a87719a8d9ae418094610a009dd5e4373549e6ef"
+      }
+    },
+    {
+      "build": "380",
+      "type": "stable",
+      "releaseTime": "2018-10-19T09:33:08.147Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-380.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/380/downloads/paper-1.13.1-380.jar",
+        "sha1": null,
+        "sha256": "1abd90afabf971e6cff6faa44889b162a1de5748663221a239f45e82eb49f8a1"
+      }
+    },
+    {
+      "build": "381",
+      "type": "stable",
+      "releaseTime": "2018-10-20T00:47:10.684Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-381.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/381/downloads/paper-1.13.1-381.jar",
+        "sha1": null,
+        "sha256": "c51b612992f4e2a927c58edf23c92504bd6a090defca5c5f03e185afd4eef55e"
+      }
+    },
+    {
+      "build": "382",
+      "type": "stable",
+      "releaseTime": "2018-10-20T14:03:52.990Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-382.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/382/downloads/paper-1.13.1-382.jar",
+        "sha1": null,
+        "sha256": "7aee67838692d55fb65c60b570157512183c8417d59c66e563bc31a4eda4f487"
+      }
+    },
+    {
+      "build": "383",
+      "type": "stable",
+      "releaseTime": "2018-10-21T19:28:08.216Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-383.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/383/downloads/paper-1.13.1-383.jar",
+        "sha1": null,
+        "sha256": "917bbfd1c18db7771fbf130ef393b038193440569f75f50d77aa05a39e455c9a"
+      }
+    },
+    {
+      "build": "384",
+      "type": "stable",
+      "releaseTime": "2018-10-21T19:39:38.250Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-384.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/384/downloads/paper-1.13.1-384.jar",
+        "sha1": null,
+        "sha256": "a37c42eb8655c68c4d4b3eac89c52d55314c0f77e37e8560ce30923a2fce2b69"
+      }
+    },
+    {
+      "build": "385",
+      "type": "stable",
+      "releaseTime": "2018-10-21T23:17:48.896Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-385.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/385/downloads/paper-1.13.1-385.jar",
+        "sha1": null,
+        "sha256": "cb297398d458fbfc23d47d119de66f4ef26365d9d37ae8fae214bb651c7540a6"
+      }
+    },
+    {
+      "build": "386",
+      "type": "stable",
+      "releaseTime": "2018-10-22T20:25:57.601Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.13.1-386.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.13.1/builds/386/downloads/paper-1.13.1-386.jar",
+        "sha1": null,
+        "sha256": "6637401d87d0f5db5aaee90d7103f52c5e1baaf6b6d4643a5793e7b02b5775cb"
+      }
+    }
+  ]
+}

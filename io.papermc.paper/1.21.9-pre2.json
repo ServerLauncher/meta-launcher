@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "uid": "io.papermc.paper",
+  "mcVersion": "1.21.9-pre2",
+  "builds": [
+    {
+      "build": "1",
+      "type": "alpha",
+      "releaseTime": "2025-09-19T19:47:44.152Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-1.21.9-pre2-1.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.9-pre2/builds/1/downloads/paper-1.21.9-pre2-1.jar",
+        "sha1": null,
+        "sha256": "70a648ff819ab434e1197c09308fa131aa021e020377a532b161a2f6dca88085"
+      }
+    },
+    {
+      "build": "2",
+      "type": "alpha",
+      "releaseTime": "2025-09-19T22:32:56.357Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.9-pre2-2.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.9-pre2/builds/2/downloads/paper-1.21.9-pre2-2.jar",
+        "sha1": null,
+        "sha256": "5013a34e97cc91a0208917c1e26631a81dbf7ab946264a7018e60402317b55fa"
+      }
+    },
+    {
+      "build": "3",
+      "type": "alpha",
+      "releaseTime": "2025-09-20T17:25:47.964Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.9-pre2-3.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.9-pre2/builds/3/downloads/paper-1.21.9-pre2-3.jar",
+        "sha1": null,
+        "sha256": "7d8cc56891096f340925da7378b83ebae1c040744b9f4d3b92b6d9bee0357aeb"
+      }
+    },
+    {
+      "build": "6",
+      "type": "alpha",
+      "releaseTime": "2025-09-20T19:21:43.977Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.9-pre2-6.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.9-pre2/builds/6/downloads/paper-1.21.9-pre2-6.jar",
+        "sha1": null,
+        "sha256": "7697ca35b9169889424ff614efc3618147d154e6e0e90fe9b2a4239aae7ee5cd"
+      }
+    },
+    {
+      "build": "7",
+      "type": "alpha",
+      "releaseTime": "2025-09-21T19:29:13.119Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.9-pre2-7.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.9-pre2/builds/7/downloads/paper-1.21.9-pre2-7.jar",
+        "sha1": null,
+        "sha256": "f24f81421449bbcf125be5501223bf9faa9a3ef2006b16988be25601c015757e"
+      }
+    }
+  ]
+}

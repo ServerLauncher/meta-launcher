@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "uid": "io.papermc.paper",
+  "mcVersion": "1.21.11-pre3",
+  "builds": [
+    {
+      "build": "1",
+      "type": "alpha",
+      "releaseTime": "2025-11-26T17:26:16Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-1.21.11-pre3-1.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre3/builds/1/downloads/paper-1.21.11-pre3-1.jar",
+        "sha1": null,
+        "sha256": "d66a7677d2372e7ef8a2462054659536c568c1c0e85e79baaa3a20912b0dbf6a"
+      }
+    },
+    {
+      "build": "2",
+      "type": "alpha",
+      "releaseTime": "2025-11-26T17:48:47Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.11-pre3-2.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre3/builds/2/downloads/paper-1.21.11-pre3-2.jar",
+        "sha1": null,
+        "sha256": "255a4fe98fb414c86180c668e144d53410a51c9e24e15902a6ad46b9adb16a0a"
+      }
+    },
+    {
+      "build": "4",
+      "type": "alpha",
+      "releaseTime": "2025-11-30T22:26:17Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.11-pre3-4.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre3/builds/4/downloads/paper-1.21.11-pre3-4.jar",
+        "sha1": null,
+        "sha256": "4a54fbdae8319b1e504e9f00b276715e3706337929901e36ae0f927e7e058edb"
+      }
+    },
+    {
+      "build": "6",
+      "type": "alpha",
+      "releaseTime": "2025-11-30T23:13:19Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.11-pre3-6.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre3/builds/6/downloads/paper-1.21.11-pre3-6.jar",
+        "sha1": null,
+        "sha256": "5f7079d6ec5862bc03195012eea2f6e0b3cba6922e7cefa0ac660ebf279decda"
+      }
+    }
+  ]
+}

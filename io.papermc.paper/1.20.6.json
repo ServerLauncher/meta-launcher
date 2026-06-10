@@ -1,0 +1,1531 @@
+{
+  "formatVersion": 1,
+  "uid": "io.papermc.paper",
+  "mcVersion": "1.20.6",
+  "builds": [
+    {
+      "build": "23",
+      "type": "alpha",
+      "releaseTime": "2024-04-29T22:26:16.128Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-23.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/23/downloads/paper-1.20.6-23.jar",
+        "sha1": null,
+        "sha256": "2f0cb274440da51d0145d63e9988c2566eb7401c69b625196595a768c5fa809c"
+      }
+    },
+    {
+      "build": "24",
+      "type": "alpha",
+      "releaseTime": "2024-04-29T22:43:03.291Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-24.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/24/downloads/paper-1.20.6-24.jar",
+        "sha1": null,
+        "sha256": "8ce8bb1d297e39e4fbad85f88129654aba1a78d644ea4e9a8c3566b2e9a3967e"
+      }
+    },
+    {
+      "build": "25",
+      "type": "alpha",
+      "releaseTime": "2024-04-30T01:57:07.711Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-25.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/25/downloads/paper-1.20.6-25.jar",
+        "sha1": null,
+        "sha256": "f919955c60370cc6d2e84659e830cd89fdf7c165874b3bf25b3588a22d797309"
+      }
+    },
+    {
+      "build": "26",
+      "type": "alpha",
+      "releaseTime": "2024-04-30T08:29:20.727Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-26.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/26/downloads/paper-1.20.6-26.jar",
+        "sha1": null,
+        "sha256": "db3698672ba714ea164b20d9100be1626656a15509a0bb5617f53f3163d921f5"
+      }
+    },
+    {
+      "build": "27",
+      "type": "alpha",
+      "releaseTime": "2024-04-30T09:21:18.093Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-27.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/27/downloads/paper-1.20.6-27.jar",
+        "sha1": null,
+        "sha256": "0c58caf298f34f5e663826cd90bc746c4538de359f6e7ec7f30e08ce889fe9ad"
+      }
+    },
+    {
+      "build": "28",
+      "type": "alpha",
+      "releaseTime": "2024-04-30T17:38:25.167Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-28.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/28/downloads/paper-1.20.6-28.jar",
+        "sha1": null,
+        "sha256": "1f63fd90f449623be3c7e281b1d358ba5c178d41e30241c8ff64d23988d5b8c5"
+      }
+    },
+    {
+      "build": "29",
+      "type": "alpha",
+      "releaseTime": "2024-04-30T23:51:08.249Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-29.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/29/downloads/paper-1.20.6-29.jar",
+        "sha1": null,
+        "sha256": "961832f4ecd955944d4c68401de433d474ac7e0b7fdd111a22bc3d8c89b922ee"
+      }
+    },
+    {
+      "build": "30",
+      "type": "alpha",
+      "releaseTime": "2024-05-01T00:01:24.563Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-30.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/30/downloads/paper-1.20.6-30.jar",
+        "sha1": null,
+        "sha256": "de31ee1d37dcf87af26b95b96201d5cf1503beff6ddd39478285c9570bbbad87"
+      }
+    },
+    {
+      "build": "31",
+      "type": "alpha",
+      "releaseTime": "2024-05-01T10:12:13.687Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-31.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/31/downloads/paper-1.20.6-31.jar",
+        "sha1": null,
+        "sha256": "c8caec5f2de95996e28774c3c58311e9dd252894c24f71cede2042e0292f5105"
+      }
+    },
+    {
+      "build": "32",
+      "type": "alpha",
+      "releaseTime": "2024-05-01T10:22:03.437Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-32.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/32/downloads/paper-1.20.6-32.jar",
+        "sha1": null,
+        "sha256": "eed5c9db5f2910230d383cf80a4b571762be0d545a5eac0451b0512d5b2e2752"
+      }
+    },
+    {
+      "build": "33",
+      "type": "alpha",
+      "releaseTime": "2024-05-01T16:52:11.431Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-33.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/33/downloads/paper-1.20.6-33.jar",
+        "sha1": null,
+        "sha256": "9e2baff6ec36f5ad38f714f5535d6969be5b10aed90b1033d840bb5982784dd0"
+      }
+    },
+    {
+      "build": "34",
+      "type": "alpha",
+      "releaseTime": "2024-05-01T17:21:33.207Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-34.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/34/downloads/paper-1.20.6-34.jar",
+        "sha1": null,
+        "sha256": "fa7cb37f6998354b3d6039ac28b1dcb83c45cc2ba9494f42cc17c21abb369f74"
+      }
+    },
+    {
+      "build": "35",
+      "type": "alpha",
+      "releaseTime": "2024-05-02T09:01:58.312Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-35.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/35/downloads/paper-1.20.6-35.jar",
+        "sha1": null,
+        "sha256": "a5f90153307ffc4c60822fd75827dcb0e5ec6c6ade9091b5e26ac98c82eea93a"
+      }
+    },
+    {
+      "build": "36",
+      "type": "alpha",
+      "releaseTime": "2024-05-02T18:30:42.602Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-36.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/36/downloads/paper-1.20.6-36.jar",
+        "sha1": null,
+        "sha256": "42f987f672327e71bab2295166c323a749c1ca5e04e1d42a4c5b242aad202446"
+      }
+    },
+    {
+      "build": "37",
+      "type": "alpha",
+      "releaseTime": "2024-05-04T11:06:51.845Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-37.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/37/downloads/paper-1.20.6-37.jar",
+        "sha1": null,
+        "sha256": "664c9dfce584590411020486dd9fd12284c2b13a9450b3cd3727f0b048872601"
+      }
+    },
+    {
+      "build": "38",
+      "type": "alpha",
+      "releaseTime": "2024-05-04T18:31:33.670Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-38.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/38/downloads/paper-1.20.6-38.jar",
+        "sha1": null,
+        "sha256": "db31288ffd5ace90a525d23c47e1910c2b80cca2245d8803967fdce980aa560b"
+      }
+    },
+    {
+      "build": "39",
+      "type": "alpha",
+      "releaseTime": "2024-05-04T20:58:12.773Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-39.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/39/downloads/paper-1.20.6-39.jar",
+        "sha1": null,
+        "sha256": "084215885f5bbf53b73f471bb4e8eacf4d7925ab4896472b5ae773780420e3ac"
+      }
+    },
+    {
+      "build": "40",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T05:58:34.915Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-40.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/40/downloads/paper-1.20.6-40.jar",
+        "sha1": null,
+        "sha256": "59cddb54db367c09f7031c2897d49176a8d1e3a4d13fff15b9b3a2c6c9efaaf8"
+      }
+    },
+    {
+      "build": "41",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T09:47:13.176Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-41.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/41/downloads/paper-1.20.6-41.jar",
+        "sha1": null,
+        "sha256": "dfd0363d5ee3b3317a876f5fae39be79dd7cae21f2f7e7a3e581ad5509634a21"
+      }
+    },
+    {
+      "build": "42",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T16:08:56.484Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-42.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/42/downloads/paper-1.20.6-42.jar",
+        "sha1": null,
+        "sha256": "9cb526ba5c1d6fa5a99ad22bc4e3ce503ba7011f1780e01314baa5fe33185712"
+      }
+    },
+    {
+      "build": "43",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T16:21:55.764Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-43.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/43/downloads/paper-1.20.6-43.jar",
+        "sha1": null,
+        "sha256": "9d69a76da9b222c04a46a844968b02cb862e1d1b2721db13ae279b5943629764"
+      }
+    },
+    {
+      "build": "44",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T16:47:46.045Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-44.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/44/downloads/paper-1.20.6-44.jar",
+        "sha1": null,
+        "sha256": "92c0e14d7f06ab6150bcea87edde85fa3a1309a77620bee08c11cc2b00c6db29"
+      }
+    },
+    {
+      "build": "45",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T16:53:53.307Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-45.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/45/downloads/paper-1.20.6-45.jar",
+        "sha1": null,
+        "sha256": "580b944195ce38695648bee8e5b6b3d7caebc76179caf2fed51115f6ef7c3303"
+      }
+    },
+    {
+      "build": "46",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T17:01:08.677Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-46.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/46/downloads/paper-1.20.6-46.jar",
+        "sha1": null,
+        "sha256": "0271a137e4a3af3abffe4ef7c27a13b8a346143a60de8aef8361e0bd6e719d31"
+      }
+    },
+    {
+      "build": "47",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T17:16:43.055Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-47.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/47/downloads/paper-1.20.6-47.jar",
+        "sha1": null,
+        "sha256": "7fcfd8a5f6f38577efcb26d9bded47185b45f1b1a8b2d16eca3fafc0698ccc23"
+      }
+    },
+    {
+      "build": "48",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T18:06:00.958Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-48.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/48/downloads/paper-1.20.6-48.jar",
+        "sha1": null,
+        "sha256": "a52251b02fb046c6ae2afe9d7596afdf3b56f94464cfec003db18915e1276544"
+      }
+    },
+    {
+      "build": "49",
+      "type": "alpha",
+      "releaseTime": "2024-05-05T20:04:01.478Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-49.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/49/downloads/paper-1.20.6-49.jar",
+        "sha1": null,
+        "sha256": "c2284b23a82c3487139edb2cf05e5a00272f8cc5ccb6c2c6498031f09c67f00d"
+      }
+    },
+    {
+      "build": "50",
+      "type": "alpha",
+      "releaseTime": "2024-05-07T12:41:33.115Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-50.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/50/downloads/paper-1.20.6-50.jar",
+        "sha1": null,
+        "sha256": "577da68b5b9ab3ff80c6389470568150d2f17678fc6d28f6edf5bb571b653de2"
+      }
+    },
+    {
+      "build": "51",
+      "type": "alpha",
+      "releaseTime": "2024-05-07T12:58:00.855Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-51.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/51/downloads/paper-1.20.6-51.jar",
+        "sha1": null,
+        "sha256": "dea0dd26f3aee4bede6ed6b79fb0dd79ff5351fe43894daab3e4d9ca689dc53a"
+      }
+    },
+    {
+      "build": "52",
+      "type": "alpha",
+      "releaseTime": "2024-05-08T01:26:52.737Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-52.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/52/downloads/paper-1.20.6-52.jar",
+        "sha1": null,
+        "sha256": "027c50078a0d7d27f1afab88b39ce67976bcbeb208a63132814ed10523441ef1"
+      }
+    },
+    {
+      "build": "53",
+      "type": "alpha",
+      "releaseTime": "2024-05-08T15:03:20.310Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-53.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/53/downloads/paper-1.20.6-53.jar",
+        "sha1": null,
+        "sha256": "5ff172cc43fedef8914a2d40e9896d8d5f83304564975e7b10283bb56b67c7ef"
+      }
+    },
+    {
+      "build": "54",
+      "type": "alpha",
+      "releaseTime": "2024-05-09T13:19:53.982Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-54.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/54/downloads/paper-1.20.6-54.jar",
+        "sha1": null,
+        "sha256": "2a67ad4c59dbff601448ecb2fb8e3aaa20e84924e8f5bfa6d65518e2cabe8776"
+      }
+    },
+    {
+      "build": "55",
+      "type": "alpha",
+      "releaseTime": "2024-05-10T00:27:09.645Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-55.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/55/downloads/paper-1.20.6-55.jar",
+        "sha1": null,
+        "sha256": "dc771e5fb6c31f72b04a001e0b4ced775837b4973d3a5b3545a288a9a938f535"
+      }
+    },
+    {
+      "build": "56",
+      "type": "alpha",
+      "releaseTime": "2024-05-10T06:19:05.955Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-56.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/56/downloads/paper-1.20.6-56.jar",
+        "sha1": null,
+        "sha256": "7b9f510b89486a8230ee4ebefdb143c5d1d98bb182a0e33bcdd27d82fec04b72"
+      }
+    },
+    {
+      "build": "57",
+      "type": "alpha",
+      "releaseTime": "2024-05-10T06:57:12.455Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-57.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/57/downloads/paper-1.20.6-57.jar",
+        "sha1": null,
+        "sha256": "d2e072f8d62d41219667b6028a3895c7b50499d3c707c473e5e9bd03134aa05a"
+      }
+    },
+    {
+      "build": "58",
+      "type": "alpha",
+      "releaseTime": "2024-05-10T07:44:55.465Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-58.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/58/downloads/paper-1.20.6-58.jar",
+        "sha1": null,
+        "sha256": "e7b01eacd4e339d48d0312a16db60c805dff2b8413d8d31de122d933df5965e0"
+      }
+    },
+    {
+      "build": "59",
+      "type": "alpha",
+      "releaseTime": "2024-05-10T11:04:00.913Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-59.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/59/downloads/paper-1.20.6-59.jar",
+        "sha1": null,
+        "sha256": "da601993da81ac5a3165c7ac4dd0bf189988bdb3c9f687c10aec62ec65cf554e"
+      }
+    },
+    {
+      "build": "60",
+      "type": "alpha",
+      "releaseTime": "2024-05-10T11:11:18.746Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-60.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/60/downloads/paper-1.20.6-60.jar",
+        "sha1": null,
+        "sha256": "9de4b3c593e7beedbfdfcdf2f317761817d23c765fca89400acbb288ae2e1d04"
+      }
+    },
+    {
+      "build": "61",
+      "type": "alpha",
+      "releaseTime": "2024-05-10T19:15:03.893Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-61.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/61/downloads/paper-1.20.6-61.jar",
+        "sha1": null,
+        "sha256": "99b8320423cadcc479b6505929ca533ba4985e02a8a9bf1a7f152907a6ea4681"
+      }
+    },
+    {
+      "build": "62",
+      "type": "alpha",
+      "releaseTime": "2024-05-11T00:31:58.070Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-62.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/62/downloads/paper-1.20.6-62.jar",
+        "sha1": null,
+        "sha256": "7d3f3ca687955eeb543579a3530ff0a69c1b7bf8666b4e47db0a660e3ef56221"
+      }
+    },
+    {
+      "build": "64",
+      "type": "alpha",
+      "releaseTime": "2024-05-11T16:23:47.488Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-64.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/64/downloads/paper-1.20.6-64.jar",
+        "sha1": null,
+        "sha256": "58230b36717e202399192beadc81c50955cce2976c810dcf948dec6dcbdf6468"
+      }
+    },
+    {
+      "build": "65",
+      "type": "alpha",
+      "releaseTime": "2024-05-11T20:43:03.396Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-65.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/65/downloads/paper-1.20.6-65.jar",
+        "sha1": null,
+        "sha256": "c698465e4613f276d51197b5896cdbfeb506e4921324e172318c8a20a7d2b459"
+      }
+    },
+    {
+      "build": "66",
+      "type": "alpha",
+      "releaseTime": "2024-05-11T20:54:15.773Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-66.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/66/downloads/paper-1.20.6-66.jar",
+        "sha1": null,
+        "sha256": "501428763d247db25577964a4cd56a3a1dc907f07c41d9375071fdf67955ea66"
+      }
+    },
+    {
+      "build": "67",
+      "type": "alpha",
+      "releaseTime": "2024-05-11T22:02:05.793Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-67.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/67/downloads/paper-1.20.6-67.jar",
+        "sha1": null,
+        "sha256": "1c1dceac3da8540aa08890df94f8d0929605864042f210a8dd7d4dee330f8261"
+      }
+    },
+    {
+      "build": "68",
+      "type": "alpha",
+      "releaseTime": "2024-05-11T22:23:25.099Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-68.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/68/downloads/paper-1.20.6-68.jar",
+        "sha1": null,
+        "sha256": "2ab53018597d344b3f327085b02d03d267a8f3b8f804d0584c3fe9364d79bdc3"
+      }
+    },
+    {
+      "build": "69",
+      "type": "alpha",
+      "releaseTime": "2024-05-12T06:53:45.787Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-69.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/69/downloads/paper-1.20.6-69.jar",
+        "sha1": null,
+        "sha256": "9dd9dd74f11952ca89ab2851c73576c11fb67599aefbd34905d55c915033bbbd"
+      }
+    },
+    {
+      "build": "70",
+      "type": "alpha",
+      "releaseTime": "2024-05-12T15:50:17.780Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-70.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/70/downloads/paper-1.20.6-70.jar",
+        "sha1": null,
+        "sha256": "bd3991c4bf47d8e52d20d70960097ce12a7013adf4da2af04d25a7e312c29187"
+      }
+    },
+    {
+      "build": "71",
+      "type": "alpha",
+      "releaseTime": "2024-05-12T20:56:30.144Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-71.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/71/downloads/paper-1.20.6-71.jar",
+        "sha1": null,
+        "sha256": "4734c1787e8ee9274cfebcb4e97cc4dc4c1bc51ad2ed9c85c7ac37f2a309efb6"
+      }
+    },
+    {
+      "build": "72",
+      "type": "alpha",
+      "releaseTime": "2024-05-13T04:59:01.004Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-72.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/72/downloads/paper-1.20.6-72.jar",
+        "sha1": null,
+        "sha256": "b4ebd2ae2f536e3d98bb5faf09c613d37acf9a4bbe4d342ab572d6e8e25b486a"
+      }
+    },
+    {
+      "build": "73",
+      "type": "alpha",
+      "releaseTime": "2024-05-13T13:27:01.481Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-73.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/73/downloads/paper-1.20.6-73.jar",
+        "sha1": null,
+        "sha256": "c43fb276de8e1108888b40725bf3095eb8e8870117e890f3aa3975fc9430dd5b"
+      }
+    },
+    {
+      "build": "74",
+      "type": "alpha",
+      "releaseTime": "2024-05-13T17:43:30.748Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-74.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/74/downloads/paper-1.20.6-74.jar",
+        "sha1": null,
+        "sha256": "4c878c2af4356c27ebbffdf871bc2833455cf668f781ec0747d726e276e405ad"
+      }
+    },
+    {
+      "build": "75",
+      "type": "alpha",
+      "releaseTime": "2024-05-13T21:49:01.746Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-75.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/75/downloads/paper-1.20.6-75.jar",
+        "sha1": null,
+        "sha256": "02ae71394e7589e2e2198530d8faacb22b8f649f058ca6543943130f231b8ef0"
+      }
+    },
+    {
+      "build": "76",
+      "type": "alpha",
+      "releaseTime": "2024-05-13T23:07:52.153Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-76.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/76/downloads/paper-1.20.6-76.jar",
+        "sha1": null,
+        "sha256": "6f94712546fc52c649a5f20a3d867db7acb85df293324a0b85657151b8b172bb"
+      }
+    },
+    {
+      "build": "77",
+      "type": "alpha",
+      "releaseTime": "2024-05-13T23:19:22.469Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-77.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/77/downloads/paper-1.20.6-77.jar",
+        "sha1": null,
+        "sha256": "41c5670b0f977316c996e4a2e7b47613e85cb2e21ab7c15e0da1195d1e084c3c"
+      }
+    },
+    {
+      "build": "78",
+      "type": "alpha",
+      "releaseTime": "2024-05-14T06:08:03.786Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-78.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/78/downloads/paper-1.20.6-78.jar",
+        "sha1": null,
+        "sha256": "577177b9c8eaf785387b3744016b768977b866450c4ae0df0fd22a4ac33616ca"
+      }
+    },
+    {
+      "build": "79",
+      "type": "alpha",
+      "releaseTime": "2024-05-16T00:17:36.944Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-79.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/79/downloads/paper-1.20.6-79.jar",
+        "sha1": null,
+        "sha256": "8e4227533b273f6ec1024257fbf8c3e5eb3ed33d1f03e07b4c78a8fe130862a2"
+      }
+    },
+    {
+      "build": "80",
+      "type": "alpha",
+      "releaseTime": "2024-05-17T21:39:03.441Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-80.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/80/downloads/paper-1.20.6-80.jar",
+        "sha1": null,
+        "sha256": "0fb4d203c1a459a646157f61f18a2a999de179617c39414bbb22fbc95005fd50"
+      }
+    },
+    {
+      "build": "81",
+      "type": "alpha",
+      "releaseTime": "2024-05-17T21:47:41.072Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-81.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/81/downloads/paper-1.20.6-81.jar",
+        "sha1": null,
+        "sha256": "e91de54667a0799ed4786e40b0d38f4b6d2a4dcbbdd418e64cb70afddeef1f90"
+      }
+    },
+    {
+      "build": "82",
+      "type": "alpha",
+      "releaseTime": "2024-05-18T20:27:21.105Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-82.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/82/downloads/paper-1.20.6-82.jar",
+        "sha1": null,
+        "sha256": "c18be2957e2ac348b9398b711894a295b5a6aea6c7a9a7bf9e39035ffde7b770"
+      }
+    },
+    {
+      "build": "83",
+      "type": "alpha",
+      "releaseTime": "2024-05-20T00:25:46.787Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-83.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/83/downloads/paper-1.20.6-83.jar",
+        "sha1": null,
+        "sha256": "cc02efaf5cb7d121b65793fe1adab9a8a8332a1dea50899455bb4bc649efc196"
+      }
+    },
+    {
+      "build": "84",
+      "type": "alpha",
+      "releaseTime": "2024-05-20T00:54:19.467Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-84.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/84/downloads/paper-1.20.6-84.jar",
+        "sha1": null,
+        "sha256": "e9af04a37a24edf05400ecdf96d9d2f8cde020acca5e69878ce1de19767dfc65"
+      }
+    },
+    {
+      "build": "85",
+      "type": "alpha",
+      "releaseTime": "2024-05-20T14:31:00.192Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-85.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/85/downloads/paper-1.20.6-85.jar",
+        "sha1": null,
+        "sha256": "784fe3193469ff9e18f9edbec7d0201f1547032fffe3cf9939ca5afa43d3d7e1"
+      }
+    },
+    {
+      "build": "86",
+      "type": "alpha",
+      "releaseTime": "2024-05-20T18:25:01.615Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-86.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/86/downloads/paper-1.20.6-86.jar",
+        "sha1": null,
+        "sha256": "fdbc96d807a9cd24fc5533b1f05d27d4b103861a530ce142b8707bbde6e9d56c"
+      }
+    },
+    {
+      "build": "88",
+      "type": "alpha",
+      "releaseTime": "2024-05-21T15:54:33.436Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-88.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/88/downloads/paper-1.20.6-88.jar",
+        "sha1": null,
+        "sha256": "7f7ca7e09d30bec927798c4c550cfed1afda1e3318b5e6daac95c017870069b5"
+      }
+    },
+    {
+      "build": "89",
+      "type": "alpha",
+      "releaseTime": "2024-05-22T14:27:19.052Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-89.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/89/downloads/paper-1.20.6-89.jar",
+        "sha1": null,
+        "sha256": "2574490efc414de3f297646f3fed205f9ee7db4ca8cad6d9031314e928aa3fdf"
+      }
+    },
+    {
+      "build": "90",
+      "type": "alpha",
+      "releaseTime": "2024-05-22T17:32:39.012Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-90.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/90/downloads/paper-1.20.6-90.jar",
+        "sha1": null,
+        "sha256": "5d141c14ed9b9f0d0ef1076d0a94c10eb834fa18d9c3cf523d0a4a11b5ecbdef"
+      }
+    },
+    {
+      "build": "91",
+      "type": "alpha",
+      "releaseTime": "2024-05-23T17:49:27.298Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-91.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/91/downloads/paper-1.20.6-91.jar",
+        "sha1": null,
+        "sha256": "c744f80ea85e765506936b32d0e61f6703ff4ba0ce8280c65f62752dd10ab3aa"
+      }
+    },
+    {
+      "build": "92",
+      "type": "alpha",
+      "releaseTime": "2024-05-23T17:59:03.701Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-92.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/92/downloads/paper-1.20.6-92.jar",
+        "sha1": null,
+        "sha256": "7f75b3e3faf6ad0e15c4e4eab0dd8f59f340e09b49ba4715a257418331b4f00f"
+      }
+    },
+    {
+      "build": "93",
+      "type": "alpha",
+      "releaseTime": "2024-05-23T18:53:00.381Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-93.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/93/downloads/paper-1.20.6-93.jar",
+        "sha1": null,
+        "sha256": "0d46a9e81e9f99a14c82493e1a75c26d4245193ad4bf88288f4754b6628a7f75"
+      }
+    },
+    {
+      "build": "94",
+      "type": "alpha",
+      "releaseTime": "2024-05-23T19:57:09.330Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-94.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/94/downloads/paper-1.20.6-94.jar",
+        "sha1": null,
+        "sha256": "0bc77de6a3b344bb56985d494fa0401aef8f56bf4bb72f7835a2c1e07351a938"
+      }
+    },
+    {
+      "build": "95",
+      "type": "alpha",
+      "releaseTime": "2024-05-23T20:21:32.638Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-95.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/95/downloads/paper-1.20.6-95.jar",
+        "sha1": null,
+        "sha256": "8b1305be864b81977e3121b1b3fe7e3504ade7d15502d34bc2d09a77005650e9"
+      }
+    },
+    {
+      "build": "96",
+      "type": "alpha",
+      "releaseTime": "2024-05-24T14:31:00.715Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-96.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/96/downloads/paper-1.20.6-96.jar",
+        "sha1": null,
+        "sha256": "c1a8d3677b93d6f87da555834d71fb9ffa93b7918b5bd89c14db9f4d1b9d8524"
+      }
+    },
+    {
+      "build": "97",
+      "type": "alpha",
+      "releaseTime": "2024-05-24T18:03:39.238Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-97.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/97/downloads/paper-1.20.6-97.jar",
+        "sha1": null,
+        "sha256": "d4b7dfbf88f5fea307d610a83179e105eb30c78cd37ea839742ec9583fda4a6f"
+      }
+    },
+    {
+      "build": "98",
+      "type": "alpha",
+      "releaseTime": "2024-05-25T22:12:59.996Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-98.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/98/downloads/paper-1.20.6-98.jar",
+        "sha1": null,
+        "sha256": "5824fc8540cd0b4113d29eecb8ed7d3c20417e410d39b20297767a40fee7a57c"
+      }
+    },
+    {
+      "build": "99",
+      "type": "alpha",
+      "releaseTime": "2024-05-25T23:09:09.429Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-99.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/99/downloads/paper-1.20.6-99.jar",
+        "sha1": null,
+        "sha256": "e3c8b4eee7052839f2a1f78b2122e7ff3fbbe6aaac1e50c867265752e159936b"
+      }
+    },
+    {
+      "build": "100",
+      "type": "alpha",
+      "releaseTime": "2024-05-25T23:46:24.682Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-100.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/100/downloads/paper-1.20.6-100.jar",
+        "sha1": null,
+        "sha256": "2cf2148bf396316e0de62a1f8ca2fced9766f70d597981f8f303fbdfbd1b55ec"
+      }
+    },
+    {
+      "build": "101",
+      "type": "alpha",
+      "releaseTime": "2024-05-25T23:55:05.730Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-101.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/101/downloads/paper-1.20.6-101.jar",
+        "sha1": null,
+        "sha256": "068537f39b98f606b696e23cf595537267d322c6e9eba50a1cf394eb9f4b6460"
+      }
+    },
+    {
+      "build": "102",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T03:03:36.285Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-102.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/102/downloads/paper-1.20.6-102.jar",
+        "sha1": null,
+        "sha256": "49db14e0152388ae3b69465f5b06a363cf9f346804edcb7690e9e8361c412ebe"
+      }
+    },
+    {
+      "build": "103",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T05:45:08.021Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-103.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/103/downloads/paper-1.20.6-103.jar",
+        "sha1": null,
+        "sha256": "399cc5e7935906ca1ce8d6ff39d22af7a25641cef202a07717e87e574e86de5d"
+      }
+    },
+    {
+      "build": "104",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T18:07:23.246Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-104.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/104/downloads/paper-1.20.6-104.jar",
+        "sha1": null,
+        "sha256": "a8be20d478bd47b96105f45743f038c75bf7828b8ce39ed85c7d8c7a8f06b700"
+      }
+    },
+    {
+      "build": "105",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T18:19:05.984Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-105.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/105/downloads/paper-1.20.6-105.jar",
+        "sha1": null,
+        "sha256": "34603c36f501424a98f4c0e76b0e3dacde0ef5e2698e06866ee1857a8ddefc67"
+      }
+    },
+    {
+      "build": "106",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T20:01:46.929Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-106.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/106/downloads/paper-1.20.6-106.jar",
+        "sha1": null,
+        "sha256": "bdbc088c26247a3d628eab598b6bd6215e4747838931a1f87a139d6070e7d90a"
+      }
+    },
+    {
+      "build": "107",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T20:44:14.208Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-107.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/107/downloads/paper-1.20.6-107.jar",
+        "sha1": null,
+        "sha256": "8b9cb0be2e471f156472b6473164a3e1d96db9718122d5313bf964645e7fb2d0"
+      }
+    },
+    {
+      "build": "108",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T20:56:54.245Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-108.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/108/downloads/paper-1.20.6-108.jar",
+        "sha1": null,
+        "sha256": "f76d117b33f1ab1b3161c7c172914c1d0dbf91339b932226f4367610130ee124"
+      }
+    },
+    {
+      "build": "109",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T21:05:25.783Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-109.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/109/downloads/paper-1.20.6-109.jar",
+        "sha1": null,
+        "sha256": "f40e59457f6c5f3820a6fba0dfa5c1b33fa586a223ab431ebe44277bba5a4ad9"
+      }
+    },
+    {
+      "build": "110",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T21:40:21.651Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-110.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/110/downloads/paper-1.20.6-110.jar",
+        "sha1": null,
+        "sha256": "b8c48586079d7b5d4f62fe361f202362fce88a777c98b7f31b549a1846b9d701"
+      }
+    },
+    {
+      "build": "111",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T21:51:54.692Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-111.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/111/downloads/paper-1.20.6-111.jar",
+        "sha1": null,
+        "sha256": "2d90a6ba86e28595d8aa7f730732d18fcd93237552a1962d492d231548e936fb"
+      }
+    },
+    {
+      "build": "112",
+      "type": "alpha",
+      "releaseTime": "2024-05-26T22:20:00.589Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-112.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/112/downloads/paper-1.20.6-112.jar",
+        "sha1": null,
+        "sha256": "87168532364d63cf39afabd6ba570d304534efce7ca8a6394946d8a1b02ada47"
+      }
+    },
+    {
+      "build": "113",
+      "type": "alpha",
+      "releaseTime": "2024-05-27T17:42:44.250Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-113.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/113/downloads/paper-1.20.6-113.jar",
+        "sha1": null,
+        "sha256": "d9dff67d9417d4e5a77f30cd25249f0b1ca89d6b3ac647b08804288819a58172"
+      }
+    },
+    {
+      "build": "114",
+      "type": "alpha",
+      "releaseTime": "2024-05-28T09:53:41.668Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-114.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/114/downloads/paper-1.20.6-114.jar",
+        "sha1": null,
+        "sha256": "92b827fe3d6c20c25e5b9758705a72bdee98fbf10d2b9de4b4ad9b64aa1d69a8"
+      }
+    },
+    {
+      "build": "115",
+      "type": "stable",
+      "releaseTime": "2024-05-28T14:57:20.120Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-1.20.6-115.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/115/downloads/paper-1.20.6-115.jar",
+        "sha1": null,
+        "sha256": "cbafa94b5026a042b35b80b23fe12c960d6485bed944566bd875516ff8575fa7"
+      }
+    },
+    {
+      "build": "116",
+      "type": "stable",
+      "releaseTime": "2024-05-29T18:32:56.536Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-116.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/116/downloads/paper-1.20.6-116.jar",
+        "sha1": null,
+        "sha256": "3278031e3298340bb0dbef336d4e9193fb6a9c66a80c367fce0a06561d71c148"
+      }
+    },
+    {
+      "build": "117",
+      "type": "stable",
+      "releaseTime": "2024-05-29T18:43:03.249Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-117.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/117/downloads/paper-1.20.6-117.jar",
+        "sha1": null,
+        "sha256": "3e051d86a3e0daba21947374d43c06323cbb0f00a5fbf9a1f551f8afa2a5224f"
+      }
+    },
+    {
+      "build": "118",
+      "type": "stable",
+      "releaseTime": "2024-05-29T18:59:46.827Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-118.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/118/downloads/paper-1.20.6-118.jar",
+        "sha1": null,
+        "sha256": "2af206abbf252efb294ed6526a6847297e24b02ae7b0aa0820343dc74a2f6308"
+      }
+    },
+    {
+      "build": "119",
+      "type": "stable",
+      "releaseTime": "2024-05-29T19:33:14.507Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-119.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/119/downloads/paper-1.20.6-119.jar",
+        "sha1": null,
+        "sha256": "da7419a4ad288c0bbef1076f2e61cf10cd92fe29b68766e7ef07abafd0cad2f0"
+      }
+    },
+    {
+      "build": "120",
+      "type": "stable",
+      "releaseTime": "2024-05-29T20:00:10.345Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-120.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/120/downloads/paper-1.20.6-120.jar",
+        "sha1": null,
+        "sha256": "e6a086943d9bb6ea4f8a0469121d44faeb4c97e778c0e744de76e8fc7dba627d"
+      }
+    },
+    {
+      "build": "121",
+      "type": "stable",
+      "releaseTime": "2024-05-29T21:10:06.116Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-121.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/121/downloads/paper-1.20.6-121.jar",
+        "sha1": null,
+        "sha256": "97314c4b07133d5cf19e307ebe4dd8ce0f561721b203a9e211f1c5d3dca8314a"
+      }
+    },
+    {
+      "build": "122",
+      "type": "stable",
+      "releaseTime": "2024-05-29T21:20:44.555Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-122.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/122/downloads/paper-1.20.6-122.jar",
+        "sha1": null,
+        "sha256": "2b32be89dca06890c17f657881a4525d2f39a32c88d306f8776e24e4cd9d80c3"
+      }
+    },
+    {
+      "build": "123",
+      "type": "stable",
+      "releaseTime": "2024-05-29T21:58:51.256Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-123.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/123/downloads/paper-1.20.6-123.jar",
+        "sha1": null,
+        "sha256": "3d0fc9fd5c399bbcad7de692f6cd777dac92d96bf29b70f6fe464f03eac41b6d"
+      }
+    },
+    {
+      "build": "124",
+      "type": "stable",
+      "releaseTime": "2024-05-29T22:07:23.914Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-124.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/124/downloads/paper-1.20.6-124.jar",
+        "sha1": null,
+        "sha256": "aa5e83231421658d37cbccbd535e48a469eb5d4ddf9e17839520b45bfa7aac36"
+      }
+    },
+    {
+      "build": "125",
+      "type": "stable",
+      "releaseTime": "2024-05-30T18:17:13.210Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-125.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/125/downloads/paper-1.20.6-125.jar",
+        "sha1": null,
+        "sha256": "2ae013b27b2d5be7177603ddb6ec7a5e5074f3a4bf6a2501bd9fa5b36eafd9d5"
+      }
+    },
+    {
+      "build": "126",
+      "type": "stable",
+      "releaseTime": "2024-05-30T18:41:04.353Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-126.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/126/downloads/paper-1.20.6-126.jar",
+        "sha1": null,
+        "sha256": "d8fefe735a8134d349ec8c1183b8a392dfeeae23b0d0c9ee51a80327e44429b4"
+      }
+    },
+    {
+      "build": "127",
+      "type": "stable",
+      "releaseTime": "2024-05-30T20:31:32.457Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-127.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/127/downloads/paper-1.20.6-127.jar",
+        "sha1": null,
+        "sha256": "f432a75f74acb721befd08109b153c4b8454f22af0ddcb697eef25e90556f26e"
+      }
+    },
+    {
+      "build": "128",
+      "type": "stable",
+      "releaseTime": "2024-05-30T20:43:50.779Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-128.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/128/downloads/paper-1.20.6-128.jar",
+        "sha1": null,
+        "sha256": "90cf0845a1148c79e694f5c7fbe84f889ef5f9e2ae2db68f2d2a498723f3d710"
+      }
+    },
+    {
+      "build": "129",
+      "type": "stable",
+      "releaseTime": "2024-05-31T15:55:42.042Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-129.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/129/downloads/paper-1.20.6-129.jar",
+        "sha1": null,
+        "sha256": "15da2ed448fdcb3a7a6aa8e69726dad27c83c3f24b6e6609a04f6efc365139bf"
+      }
+    },
+    {
+      "build": "130",
+      "type": "stable",
+      "releaseTime": "2024-06-01T14:35:21.537Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-130.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/130/downloads/paper-1.20.6-130.jar",
+        "sha1": null,
+        "sha256": "803bd42701210e86b8cc9e384b414d85246615747d3ebff513fc02f76860154f"
+      }
+    },
+    {
+      "build": "131",
+      "type": "stable",
+      "releaseTime": "2024-06-02T22:29:55.820Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-131.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/131/downloads/paper-1.20.6-131.jar",
+        "sha1": null,
+        "sha256": "a3d14719bb02bc2f109805b956a74a05ae5c03977d8d3317f57818a1424507af"
+      }
+    },
+    {
+      "build": "132",
+      "type": "stable",
+      "releaseTime": "2024-06-03T17:29:49.923Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-132.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/132/downloads/paper-1.20.6-132.jar",
+        "sha1": null,
+        "sha256": "5ae196399d850c6ad57167ca5856b16448ff3b9674729a0624b68a867cbc8aab"
+      }
+    },
+    {
+      "build": "133",
+      "type": "stable",
+      "releaseTime": "2024-06-03T17:47:10.946Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-133.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/133/downloads/paper-1.20.6-133.jar",
+        "sha1": null,
+        "sha256": "63dc5aa27d76a800d9968e05a2b11d7e5a36b6bb94f73771689ba9a3e830724e"
+      }
+    },
+    {
+      "build": "134",
+      "type": "stable",
+      "releaseTime": "2024-06-03T20:43:22.452Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-134.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/134/downloads/paper-1.20.6-134.jar",
+        "sha1": null,
+        "sha256": "73553d799ab1911aa8b72e86e57c3b687c123a939251b7dd0428de8bb3802918"
+      }
+    },
+    {
+      "build": "135",
+      "type": "stable",
+      "releaseTime": "2024-06-04T19:52:37.734Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-135.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/135/downloads/paper-1.20.6-135.jar",
+        "sha1": null,
+        "sha256": "47b197a51afc83ea1ea469271bec86a782c1a22b50a9a4040a8dc81cd5bfd7ac"
+      }
+    },
+    {
+      "build": "136",
+      "type": "stable",
+      "releaseTime": "2024-06-04T20:35:38.844Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-136.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/136/downloads/paper-1.20.6-136.jar",
+        "sha1": null,
+        "sha256": "a47976eeeb0f1b18fff53219cedeeaaad5d716c8acd1bc40380e2c1253bb8f53"
+      }
+    },
+    {
+      "build": "137",
+      "type": "stable",
+      "releaseTime": "2024-06-04T21:06:35.498Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-137.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/137/downloads/paper-1.20.6-137.jar",
+        "sha1": null,
+        "sha256": "afd0a6132727104e0fa411dbce168b6a6b773f291048ed09fae5ede9f22a5759"
+      }
+    },
+    {
+      "build": "138",
+      "type": "stable",
+      "releaseTime": "2024-06-10T06:34:47.127Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-138.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/138/downloads/paper-1.20.6-138.jar",
+        "sha1": null,
+        "sha256": "98d508ee207647d892af77348af873939b218fec81e9bfd946a295c9c4dee34b"
+      }
+    },
+    {
+      "build": "139",
+      "type": "stable",
+      "releaseTime": "2024-06-13T14:57:58.245Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-139.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/139/downloads/paper-1.20.6-139.jar",
+        "sha1": null,
+        "sha256": "3ef77600243c45edd3770e6d6c17714313b495579fb84e23e2d88d8ab20de758"
+      }
+    },
+    {
+      "build": "140",
+      "type": "stable",
+      "releaseTime": "2024-06-14T11:55:18.963Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-140.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/140/downloads/paper-1.20.6-140.jar",
+        "sha1": null,
+        "sha256": "393c5a7860f7500d6dcc6a3c2654fd6714cddd196c7f7f098173a0f558da5e78"
+      }
+    },
+    {
+      "build": "141",
+      "type": "stable",
+      "releaseTime": "2024-06-15T14:52:24.035Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-141.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/141/downloads/paper-1.20.6-141.jar",
+        "sha1": null,
+        "sha256": "9cfc027898075805db96ab22cef590301892b8e3c479700b802068d20bef1be0"
+      }
+    },
+    {
+      "build": "142",
+      "type": "stable",
+      "releaseTime": "2024-06-15T15:16:23.761Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-142.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/142/downloads/paper-1.20.6-142.jar",
+        "sha1": null,
+        "sha256": "d3b4ff2be73e6c6484c6c0ad42d8aa8b983010829e2dee957a38f3f590f9beaf"
+      }
+    },
+    {
+      "build": "143",
+      "type": "stable",
+      "releaseTime": "2024-06-15T15:40:22.685Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-143.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/143/downloads/paper-1.20.6-143.jar",
+        "sha1": null,
+        "sha256": "d84faac77d60134e8bfacc1006226b08d09558a13692f31ad253555a8c17ce6a"
+      }
+    },
+    {
+      "build": "144",
+      "type": "stable",
+      "releaseTime": "2024-06-15T20:00:39.735Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-144.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/144/downloads/paper-1.20.6-144.jar",
+        "sha1": null,
+        "sha256": "0a085b3a2eb7d2a2a168b6f679a69406340dd288c9fa94843a5c78a0056b12e2"
+      }
+    },
+    {
+      "build": "145",
+      "type": "stable",
+      "releaseTime": "2024-06-15T21:18:14.220Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-145.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/145/downloads/paper-1.20.6-145.jar",
+        "sha1": null,
+        "sha256": "5d8056e415cd4197b0c8c6f135e06b808ee64f7ed55f68bf7a482d12b87ff427"
+      }
+    },
+    {
+      "build": "146",
+      "type": "stable",
+      "releaseTime": "2024-06-17T12:02:18.264Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-146.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/146/downloads/paper-1.20.6-146.jar",
+        "sha1": null,
+        "sha256": "b57b26c50c38b2dfcb36bdd71c9a29aaaf7aaaabb66fe4682510d6ee3cf4a4fc"
+      }
+    },
+    {
+      "build": "147",
+      "type": "stable",
+      "releaseTime": "2024-06-17T19:27:49.215Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-147.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/147/downloads/paper-1.20.6-147.jar",
+        "sha1": null,
+        "sha256": "24c58de34153160f3b466c70c94afcec9b3d2b20a6681863e839df7b7bdb9594"
+      }
+    },
+    {
+      "build": "148",
+      "type": "stable",
+      "releaseTime": "2024-07-02T15:39:48.835Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-148.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/148/downloads/paper-1.20.6-148.jar",
+        "sha1": null,
+        "sha256": "bbd69d83848e25bdf0ecb040cc98a2263d95ed66e3bd5128a8c8552f7bf994bd"
+      }
+    },
+    {
+      "build": "149",
+      "type": "stable",
+      "releaseTime": "2024-08-24T09:39:05.840Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-149.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/149/downloads/paper-1.20.6-149.jar",
+        "sha1": null,
+        "sha256": "84e14605acc369bf66a0bc09cb2d70c329ac2c6cde1d985c465b974877cc2ba3"
+      }
+    },
+    {
+      "build": "150",
+      "type": "stable",
+      "releaseTime": "2024-09-16T19:20:23.403Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-150.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/150/downloads/paper-1.20.6-150.jar",
+        "sha1": null,
+        "sha256": "929a1f127b50ad4b4e30188c8097c500bfb6c8b3bdeef1a8c0a611a1c03c3fb8"
+      }
+    },
+    {
+      "build": "151",
+      "type": "stable",
+      "releaseTime": "2024-10-30T19:15:37.756Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.20.6-151.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/151/downloads/paper-1.20.6-151.jar",
+        "sha1": null,
+        "sha256": "4b011f5adb5f6c72007686a223174fce82f31aeb4b34faf4652abc840b47e640"
+      }
+    }
+  ]
+}

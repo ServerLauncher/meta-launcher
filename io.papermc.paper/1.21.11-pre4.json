@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "uid": "io.papermc.paper",
+  "mcVersion": "1.21.11-pre4",
+  "builds": [
+    {
+      "build": "9",
+      "type": "alpha",
+      "releaseTime": "2025-12-01T17:39:21Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-1.21.11-pre4-9.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre4/builds/9/downloads/paper-1.21.11-pre4-9.jar",
+        "sha1": null,
+        "sha256": "48cb58d174cf40bb0e68e2b8dc66f0893b0f9c5b4ab071b6af0d38b3da78a270"
+      }
+    },
+    {
+      "build": "10",
+      "type": "alpha",
+      "releaseTime": "2025-12-02T05:25:03Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.11-pre4-10.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre4/builds/10/downloads/paper-1.21.11-pre4-10.jar",
+        "sha1": null,
+        "sha256": "fd093974a7a960c8bb3029dbfefc23b6f9e1f981c6463d89cead6c22f2e1b15a"
+      }
+    },
+    {
+      "build": "11",
+      "type": "alpha",
+      "releaseTime": "2025-12-03T02:02:53Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.11-pre4-11.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre4/builds/11/downloads/paper-1.21.11-pre4-11.jar",
+        "sha1": null,
+        "sha256": "f4e742fb93cc6b11acc63e8d57520619bdfa9d998abb34a8e8e6d2f22659414a"
+      }
+    },
+    {
+      "build": "12",
+      "type": "alpha",
+      "releaseTime": "2025-12-03T14:25:20Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.11-pre4-12.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre4/builds/12/downloads/paper-1.21.11-pre4-12.jar",
+        "sha1": null,
+        "sha256": "e36b66976ed946797903d8c1544629906a1285ac64968236286df566f5f80036"
+      }
+    },
+    {
+      "build": "13",
+      "type": "alpha",
+      "releaseTime": "2025-12-03T15:32:17Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-1.21.11-pre4-13.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.11-pre4/builds/13/downloads/paper-1.21.11-pre4-13.jar",
+        "sha1": null,
+        "sha256": "160ade98b0e697537d47335f9bb8b7c74f4d0b1d9f18f6ad6aba0549d42dd98f"
+      }
+    }
+  ]
+}
