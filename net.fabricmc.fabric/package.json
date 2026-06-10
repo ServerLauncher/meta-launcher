@@ -7,6 +7,11 @@
   ],
   "versions": [
     {
+      "mcVersion": "26.2-pre-6",
+      "sha256": "ec49cddc7d80b0b613652b0ee5c00141d49709a34e0c545ef33311ef77f1cc96",
+      "url": "net.fabricmc.fabric/26.2-pre-6.json"
+    },
+    {
       "mcVersion": "26.2-pre-5",
       "sha256": "a928c03a4013c609fc327c2399824d34c371973e6fc892dd745ce9d118c99fe7",
       "url": "net.fabricmc.fabric/26.2-pre-5.json"
@@ -1985,6 +1990,11 @@
       "mcVersion": "1.15.2-pre1",
       "sha256": "d5db072d8acd2b8e4abb5b7145289dd5ef8068b5314b656b84df4bf082d87d03",
       "url": "net.fabricmc.fabric/1.15.2-pre1.json"
+    },
+    {
+      "mcVersion": "1.15.1",
+      "sha256": "43be43e5f1b8c76ee0645a3d07cc440c2c20dc1eccecc01452cacf5c31e60b28",
+      "url": "net.fabricmc.fabric/1.15.1.json"
     },
     {
       "mcVersion": "1.15.1-pre1",
