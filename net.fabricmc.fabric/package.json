@@ -7,13 +7,18 @@
   ],
   "versions": [
     {
+      "mcVersion": "26.2-rc-1",
+      "sha256": "1cd541034623cb8a46346f5975721debacedcfd8b437d52eed2227ec9ee78e0c",
+      "url": "net.fabricmc.fabric/26.2-rc-1.json"
+    },
+    {
       "mcVersion": "26.2-pre-6",
       "sha256": "ec49cddc7d80b0b613652b0ee5c00141d49709a34e0c545ef33311ef77f1cc96",
       "url": "net.fabricmc.fabric/26.2-pre-6.json"
     },
     {
       "mcVersion": "26.2-pre-5",
-      "sha256": "f19b9c16759167a54ea80dec26633df943d2597345df0b20584e46a8e65990b0",
+      "sha256": "a928c03a4013c609fc327c2399824d34c371973e6fc892dd745ce9d118c99fe7",
       "url": "net.fabricmc.fabric/26.2-pre-5.json"
     },
     {
@@ -23,7 +28,7 @@
     },
     {
       "mcVersion": "26.2-pre-3",
-      "sha256": "3712ca23e23b07b59962e4d8093f241b007629465a3e93df03b9a9c9535cdc35",
+      "sha256": "289590b3edb2c79953c4b9784847c21216f52f741483643a62da1ccd50f52dfb",
       "url": "net.fabricmc.fabric/26.2-pre-3.json"
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "mcVersion": "26.2-snapshot-7",
-      "sha256": "8ccbe6d2b63f3a6902d47786e77f556ebdfdf29c0b72462221ee217ec46a3a8e",
+      "sha256": "63a1cb50d86086415015eff39bd9c9d646d14657bfb58e5b74289898c4b089b9",
       "url": "net.fabricmc.fabric/26.2-snapshot-7.json"
     },
     {
@@ -93,12 +98,12 @@
     },
     {
       "mcVersion": "26.1.1",
-      "sha256": "f5bd00006a342cf2e54870925c442c632fd2bc508200a4ef7832fe4172659a6b",
+      "sha256": "58ea6242081c68637b1bb432a81303c6abb20d51b72d4ee7d7f964e9266ddd60",
       "url": "net.fabricmc.fabric/26.1.1.json"
     },
     {
       "mcVersion": "26.1.1-rc-1",
-      "sha256": "c2501fc239ca30fdb7cdafd3b2a55551dbbb354d3446ea18aaa8fcf602c5031b",
+      "sha256": "087c8b04b0e05439e6bf4ba1ee99f8f1390b7d5b15eafc65d417ef8bd8f390de",
       "url": "net.fabricmc.fabric/26.1.1-rc-1.json"
     },
     {
@@ -828,7 +833,7 @@
     },
     {
       "mcVersion": "24w05b",
-      "sha256": "86611e457d989643e674d27e17f7c735b1e6657e2463a3d8aa30cd354e42e157",
+      "sha256": "77b8e11b1329ca5643d3a8bcb02bd45dc9bd4915cc47d91dd985ae60e7b73fdd",
       "url": "net.fabricmc.fabric/24w05b.json"
     },
     {
@@ -2423,7 +2428,7 @@
     },
     {
       "mcVersion": "1.21.11-rc2_unobfuscated",
-      "sha256": "71fb929d807e517b51b5022d65d8bf7ead902b3c6511f16671caca5578df3f60",
+      "sha256": "91bbac1b7a6c5d80d86d96419acf5ff06ef1b76c88bc70dbaa196eaf428c26af",
       "url": "net.fabricmc.fabric/1.21.11-rc2_unobfuscated.json"
     },
     {
