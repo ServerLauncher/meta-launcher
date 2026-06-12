@@ -7,6 +7,12 @@
   ],
   "versions": [
     {
+      "mcVersion": "26.2-rc-2",
+      "sha256": "4aaf5aef39d09d48c21065557d5a9d75dd3635567667ffe862f10ab75a7ced16",
+      "url": "net.minecraft/26.2-rc-2.json",
+      "type": "snapshot"
+    },
+    {
       "mcVersion": "26.2-rc-1",
       "sha256": "f18d77b75764871bab7d9f10266989b250e4539111cd86f9801110deb83579a5",
       "url": "net.minecraft/26.2-rc-1.json",
@@ -4915,15 +4921,15 @@
       "type": "release"
     },
     {
-      "mcVersion": "1.4.6",
-      "sha256": "8c8ca682c6dda462eb6d9d5d6ea096d88f3b98110e71554fb1740feeb5df262d",
-      "url": "net.minecraft/1.4.6.json",
-      "type": "release"
-    },
-    {
       "mcVersion": "1.4.5",
       "sha256": "6ab93e14439616534e4ad763c0b6a85fb9b2cabd7076785e84fd41e8294336ed",
       "url": "net.minecraft/1.4.5.json",
+      "type": "release"
+    },
+    {
+      "mcVersion": "1.4.6",
+      "sha256": "8c8ca682c6dda462eb6d9d5d6ea096d88f3b98110e71554fb1740feeb5df262d",
+      "url": "net.minecraft/1.4.6.json",
       "type": "release"
     },
     {
