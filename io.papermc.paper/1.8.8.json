@@ -4,15 +4,15 @@
   "mcVersion": "1.8.8",
   "builds": [
     {
-      "build": "443",
+      "build": "445",
       "type": "stable",
-      "releaseTime": "2016-02-29T01:43:34.279Z",
-      "recommended": false,
+      "releaseTime": "2021-12-20T00:10:48.936Z",
+      "recommended": true,
       "download": {
-        "name": "paper-1.8.8-443.jar",
-        "url": "https://api.papermc.io/v2/projects/paper/versions/1.8.8/builds/443/downloads/paper-1.8.8-443.jar",
+        "name": "paper-1.8.8-445.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.8.8/builds/445/downloads/paper-1.8.8-445.jar",
         "sha1": null,
-        "sha256": "621649a139ea51a703528eac1eccac40a1c8635bc4d376c05e248043b23cb3c3"
+        "sha256": "7ff6d2cec671ef0d95b3723b5c92890118fb882d73b7f8fa0a2cd31d97c55f86"
       }
     },
     {
@@ -28,15 +28,15 @@
       }
     },
     {
-      "build": "445",
+      "build": "443",
       "type": "stable",
-      "releaseTime": "2021-12-20T00:10:48.936Z",
-      "recommended": true,
+      "releaseTime": "2016-02-29T01:43:34.279Z",
+      "recommended": false,
       "download": {
-        "name": "paper-1.8.8-445.jar",
-        "url": "https://api.papermc.io/v2/projects/paper/versions/1.8.8/builds/445/downloads/paper-1.8.8-445.jar",
+        "name": "paper-1.8.8-443.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.8.8/builds/443/downloads/paper-1.8.8-443.jar",
         "sha1": null,
-        "sha256": "7ff6d2cec671ef0d95b3723b5c92890118fb882d73b7f8fa0a2cd31d97c55f86"
+        "sha256": "621649a139ea51a703528eac1eccac40a1c8635bc4d376c05e248043b23cb3c3"
       }
     }
   ]

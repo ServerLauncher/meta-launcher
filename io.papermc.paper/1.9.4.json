@@ -4,15 +4,15 @@
   "mcVersion": "1.9.4",
   "builds": [
     {
-      "build": "773",
+      "build": "775",
       "type": "stable",
-      "releaseTime": "2016-06-09T00:41:58.667Z",
-      "recommended": false,
+      "releaseTime": "2021-12-20T00:10:49.338Z",
+      "recommended": true,
       "download": {
-        "name": "paper-1.9.4-773.jar",
-        "url": "https://api.papermc.io/v2/projects/paper/versions/1.9.4/builds/773/downloads/paper-1.9.4-773.jar",
+        "name": "paper-1.9.4-775.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.9.4/builds/775/downloads/paper-1.9.4-775.jar",
         "sha1": null,
-        "sha256": "c59fb6364955e9209c22a01f1e4699727e08f31c06301d19eef5dd07cfe63edc"
+        "sha256": "15a5821ddeacc596432c3fbf24262a2d264f556060ecd6f1838fb01ab5629a81"
       }
     },
     {
@@ -28,15 +28,15 @@
       }
     },
     {
-      "build": "775",
+      "build": "773",
       "type": "stable",
-      "releaseTime": "2021-12-20T00:10:49.338Z",
-      "recommended": true,
+      "releaseTime": "2016-06-09T00:41:58.667Z",
+      "recommended": false,
       "download": {
-        "name": "paper-1.9.4-775.jar",
-        "url": "https://api.papermc.io/v2/projects/paper/versions/1.9.4/builds/775/downloads/paper-1.9.4-775.jar",
+        "name": "paper-1.9.4-773.jar",
+        "url": "https://api.papermc.io/v2/projects/paper/versions/1.9.4/builds/773/downloads/paper-1.9.4-773.jar",
         "sha1": null,
-        "sha256": "15a5821ddeacc596432c3fbf24262a2d264f556060ecd6f1838fb01ab5629a81"
+        "sha256": "c59fb6364955e9209c22a01f1e4699727e08f31c06301d19eef5dd07cfe63edc"
       }
     }
   ]
