@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "uid": "net.neoforged",
+  "mcVersion": "26.2",
+  "builds": [
+    {
+      "build": "26.2.0.0-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-06-16T15:36:22.134460+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.2.0.0-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.0-beta/neoforge-26.2.0.0-beta-installer.jar",
+        "sha1": "e66b28ccf38a5bfaa8931aeb7013aa17c0751549",
+        "sha256": null
+      }
+    }
+  ]
+}

@@ -3,9 +3,15 @@
   "uid": "net.minecraft",
   "name": "Mojang",
   "recommended": [
-    "26.1.2"
+    "26.2"
   ],
   "versions": [
+    {
+      "mcVersion": "26.2",
+      "sha256": "50f67d9fc6303db3e0fe1fa284a72c26c4771a3caa8228611f233fba568c2516",
+      "url": "net.minecraft/26.2.json",
+      "type": "release"
+    },
     {
       "mcVersion": "26.2-rc-2",
       "sha256": "4aaf5aef39d09d48c21065557d5a9d75dd3635567667ffe862f10ab75a7ced16",
