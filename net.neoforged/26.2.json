@@ -26,6 +26,30 @@
         "sha1": "cd1f225da86db96f58fed1670c37064876c29293",
         "sha256": null
       }
+    },
+    {
+      "build": "26.2.0.2-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-06-18T10:12:34.431486+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.2.0.2-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.2-beta/neoforge-26.2.0.2-beta-installer.jar",
+        "sha1": "b93f4544d28778e594835e67c82fe74558441afa",
+        "sha256": null
+      }
+    },
+    {
+      "build": "26.2.0.3-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-06-18T14:01:08.948995+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.2.0.3-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.3-beta/neoforge-26.2.0.3-beta-installer.jar",
+        "sha1": "00e4c0f0d4f4962dd233bffd65af75113ac6b0a8",
+        "sha256": null
+      }
     }
   ]
 }
