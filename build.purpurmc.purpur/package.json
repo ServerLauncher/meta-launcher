@@ -3,9 +3,15 @@
   "uid": "purpur",
   "name": "Purpur",
   "recommended": [
-    "26.1.2"
+    "26.2"
   ],
   "versions": [
+    {
+      "mcVersion": "26.2",
+      "sha256": "2ae02e9064441069cd5314230c1cbdca7ba5ea11d0d5ea271c33196827d4c2e3",
+      "url": "build.purpurmc.purpur/26.2.json",
+      "latestBuild": "2593"
+    },
     {
       "mcVersion": "26.1.2",
       "sha256": "9cf2e877c79a92ecf84c2ccc66565ada1ee209c8476fec26f81e8a7e709e234f",
@@ -230,7 +236,7 @@
     },
     {
       "mcVersion": "1.14.2",
-      "sha256": "fb135f892cf41765cc452dfe678db38332ba4f4783eb21558d6598a4672be100",
+      "sha256": "57042cb3add01cf9f3fd13a32c9f7d1576fcf08cf14e96854b770f9745658857",
       "url": "build.purpurmc.purpur/1.14.2.json",
       "latestBuild": "99"
     },
