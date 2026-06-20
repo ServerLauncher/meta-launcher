@@ -4,18 +4,6 @@
   "mcVersion": "1.21.2",
   "builds": [
     {
-      "build": "21.2.0-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-10-22T16:37:55.676139+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-21.2.0-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.2.0-beta/neoforge-21.2.0-beta-installer.jar",
-        "sha1": "2f2d467eb65106eb41d8a422c4abce4eea1f246a",
-        "sha256": null
-      }
-    },
-    {
       "build": "21.2.1-beta",
       "type": "snapshot",
       "releaseTime": "2024-10-23T08:12:11.964716+00:00",
@@ -24,6 +12,18 @@
         "name": "neoforge-21.2.1-beta-installer.jar",
         "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.2.1-beta/neoforge-21.2.1-beta-installer.jar",
         "sha1": "9f740d2b3c82ab783d564bfabf064fd54b4aea74",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.2.0-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-10-22T16:37:55.676139+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-21.2.0-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.2.0-beta/neoforge-21.2.0-beta-installer.jar",
+        "sha1": "2f2d467eb65106eb41d8a422c4abce4eea1f246a",
         "sha256": null
       }
     }

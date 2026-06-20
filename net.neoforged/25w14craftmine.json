@@ -4,14 +4,14 @@
   "mcVersion": "25w14craftmine",
   "builds": [
     {
-      "build": "0.25w14craftmine.3-beta",
+      "build": "0.25w14craftmine.5-beta",
       "type": "snapshot",
-      "releaseTime": "2025-04-12T19:39:27.735915+00:00",
+      "releaseTime": "2025-04-22T12:08:02.265055+00:00",
       "recommended": false,
       "download": {
-        "name": "neoforge-0.25w14craftmine.3-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/0.25w14craftmine.3-beta/neoforge-0.25w14craftmine.3-beta-installer.jar",
-        "sha1": "510ad25b2d2679efc88d3c7c913bb49001fe7f14",
+        "name": "neoforge-0.25w14craftmine.5-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/0.25w14craftmine.5-beta/neoforge-0.25w14craftmine.5-beta-installer.jar",
+        "sha1": "a01f0efca33b9cd49b91298a2b593689a7c7efa7",
         "sha256": null
       }
     },
@@ -28,14 +28,14 @@
       }
     },
     {
-      "build": "0.25w14craftmine.5-beta",
+      "build": "0.25w14craftmine.3-beta",
       "type": "snapshot",
-      "releaseTime": "2025-04-22T12:08:02.265055+00:00",
+      "releaseTime": "2025-04-12T19:39:27.735915+00:00",
       "recommended": false,
       "download": {
-        "name": "neoforge-0.25w14craftmine.5-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/0.25w14craftmine.5-beta/neoforge-0.25w14craftmine.5-beta-installer.jar",
-        "sha1": "a01f0efca33b9cd49b91298a2b593689a7c7efa7",
+        "name": "neoforge-0.25w14craftmine.3-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/0.25w14craftmine.3-beta/neoforge-0.25w14craftmine.3-beta-installer.jar",
+        "sha1": "510ad25b2d2679efc88d3c7c913bb49001fe7f14",
         "sha256": null
       }
     }

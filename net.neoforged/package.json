@@ -3,138 +3,138 @@
   "uid": "net.neoforged",
   "name": "NeoForge",
   "recommended": [
-    "1.20.2",
-    "1.20.4",
-    "1.20.6",
-    "1.21",
+    "26.1",
     "1.21.1",
-    "1.21.3",
-    "1.21.4",
+    "1.21.11",
     "1.21.5",
+    "1.21.4",
+    "1.21.3",
     "1.21.8",
     "1.21.10",
-    "1.21.11",
-    "26.1"
+    "1.20.6",
+    "1.20.4",
+    "1.20.2",
+    "1.21"
   ],
   "versions": [
     {
-      "mcVersion": "26.2",
-      "sha256": "f15dade2bbb91fa93f64335c94633c31971ec52dc73a725f9eba265ac7e9cec9",
-      "url": "net.neoforged/26.2.0.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "26.1",
-      "sha256": "983c57b51852d3ef8d9c09fa0805bb658be4dd5e39af3118e82e95a48e9c9602",
-      "url": "net.neoforged/26.1.0.0-alpha.1+snapshot-1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.11",
-      "sha256": "df0e2bb2e9dd27dbe2a5db3b941066e2308bdf1e8a439cca3a4741a7f5263be2",
-      "url": "net.neoforged/21.11.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.10",
-      "sha256": "453ab7acb5753fc90478be84f7455ed59a15274d6c9ced51b62df1563e507b4c",
-      "url": "net.neoforged/21.10.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.9",
-      "sha256": "4a4b58b10d42d16c5c3ad338f6b25abc584bd10841d171fcb2e1bcfdfac024ed",
-      "url": "net.neoforged/21.9.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.8",
-      "sha256": "f683f9e322479e83d57bfc039154903e29f461e0bec4ed76b9424b39477f1341",
-      "url": "net.neoforged/21.8.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.7",
-      "sha256": "f4d9919a51ba87e90546c9ba3d94ae71d9006366ae5ab43672223d7509b545f1",
-      "url": "net.neoforged/21.7.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.6",
-      "sha256": "b1743c1e60024b00e39de6e4250e9c7f10a38e7910b49fe82f8f04ca61fa18fe",
-      "url": "net.neoforged/21.6.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "25w14craftmine",
-      "sha256": "b28fc6deadc81d438306e3a81f1fb40e48d0eae9f15908e802951797166c2d20",
-      "url": "net.neoforged/0.25w14craftmine.3-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.5",
-      "sha256": "3b04ddcf4340eb17036a00a8bcf96295fc16d01070f81d42c8b196454ec85fb2",
-      "url": "net.neoforged/21.5.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.4",
-      "sha256": "092ff2834c73c06db96d3d2b79e11c8ca65ebdcc22ceb851464df06eb7bf653e",
-      "url": "net.neoforged/21.4.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.3",
-      "sha256": "b1f68a450ec0924c1ccf7a4aa9ea7f52f86cd81c8c5c8336281e1606dec01443",
-      "url": "net.neoforged/21.3.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.2",
-      "sha256": "3168207d68ad8d73015af72cf8c6024d6adf817fe578b62c4780f4bd0d77b168",
-      "url": "net.neoforged/21.2.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.1",
-      "sha256": "aa9d33b98cec401f245aa1a77efff171f29d30c049d116a3976245d938d1926e",
-      "url": "net.neoforged/21.1.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21",
-      "sha256": "3d8cf806a7bd9a43e23bd6bd574db55c7e68d98c6c343a93a346408e4dcb0d44",
-      "url": "net.neoforged/21.0.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.20.6",
-      "sha256": "df6cfabb4363854203f1f34f2e0cda3c3e80fc38b4430eb820100f8b0eec4911",
-      "url": "net.neoforged/20.6.1-beta.json",
+      "mcVersion": "1.20.3",
+      "sha256": "26abbb86726f62fb10a4003c5e23a4639297c3a4e313b6290b62b68143924204",
+      "url": "net.neoforged/20.3.8-beta.json",
       "type": "stable"
     },
     {
       "mcVersion": "1.20.5",
-      "sha256": "84835555065a451f6ecb5df1febfb48f456321c323d9e4e3e8054f25a70cfd3f",
-      "url": "net.neoforged/20.5.0-beta.json",
+      "sha256": "fbb9a14bddfdea3f267501232c72b35a5337e0be1ce067d8dfa89f04e7386af6",
+      "url": "net.neoforged/20.5.21-beta.json",
       "type": "stable"
     },
     {
-      "mcVersion": "1.20.4",
-      "sha256": "c46fc24af1ba7fa3e48442bbe27b400a5de35aa2a0f9654afdd9ca37dc7442db",
-      "url": "net.neoforged/20.4.0-beta.json",
+      "mcVersion": "1.21",
+      "sha256": "f5f279aa5cfeee3e2cb21ae63c7efad68d7b9684281b7a015b413e9448facaad",
+      "url": "net.neoforged/21.0.167.json",
       "type": "stable"
     },
     {
-      "mcVersion": "1.20.3",
-      "sha256": "811157db60fc4ae0cd012e5e2b02879cd3dbfb32c9cb69c1514fa9b7cb6ebcfe",
-      "url": "net.neoforged/20.3.1-beta.json",
+      "mcVersion": "1.21.2",
+      "sha256": "24e9d64a29d6e73c48007dde480feb63efab828f5f8240952fada52cb79f7347",
+      "url": "net.neoforged/21.2.1-beta.json",
       "type": "stable"
     },
     {
       "mcVersion": "1.20.2",
-      "sha256": "f827b11e6498900ef634b985c3fa58c2abcc3db9b64d2747775a04b8af7993d4",
-      "url": "net.neoforged/20.2.12-beta.json",
+      "sha256": "ee70a1be7bab9225833e7a8b052def55b144fcbd7cdf5254eafa734c80c78afb",
+      "url": "net.neoforged/20.2.93.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "25w14craftmine",
+      "sha256": "bf9ed8aeae933da8141f32ddafefe7994502bda302e17b71cb739e260e8b24fb",
+      "url": "net.neoforged/0.25w14craftmine.5-beta.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.6",
+      "sha256": "85541db516f2f4089e9e2ae9ecc27ea14b228560e52f13dfbe2c57d132d9b729",
+      "url": "net.neoforged/21.6.20-beta.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.7",
+      "sha256": "c72f24833eb9c15b7ee00b20ea4da997679c3f05921cc244ed16afa5b2cffd55",
+      "url": "net.neoforged/21.7.25-beta.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.9",
+      "sha256": "dc3f7c03b420757a393154d9d00923dccca987df604d76c0040c3613f3463e34",
+      "url": "net.neoforged/21.9.16-beta.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.20.4",
+      "sha256": "784c87675d016d3fca07692321f18e5f5391ece0078b73a3ba7e8aa20c5133fc",
+      "url": "net.neoforged/20.4.251.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.20.6",
+      "sha256": "9bee0776123a8cfc61bdec70d276e091f2158b875a9feac9287f4d092ba7fb30",
+      "url": "net.neoforged/20.6.139.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.10",
+      "sha256": "7a1a991e14f8e4ecdcb1de84a4c5041a4d74f335f304d7ce8c92751f0738d5eb",
+      "url": "net.neoforged/21.10.64.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.8",
+      "sha256": "d9406929ffd8e2f45a24c64b37567d0eb23f0cb69b6596611b06b5cb0a387270",
+      "url": "net.neoforged/21.8.53.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.3",
+      "sha256": "4adbffbfd4378435dac7b3fcfcea9a1c9d8416d8d0c093c8ec2fe3a5364adb4e",
+      "url": "net.neoforged/21.3.96.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.4",
+      "sha256": "e4e129f4207b7b712f644631236317ec7454d16d1d8a772e198a757747236ab1",
+      "url": "net.neoforged/21.4.157.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.5",
+      "sha256": "0fbc809155244271249c2ab4dec3e9b182e644fd9da9bf243d1275a8ad8ba02a",
+      "url": "net.neoforged/21.5.97.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.11",
+      "sha256": "4315676b9de1d4a90b523597625b8967d5e4085f2db753798e98e96dc32957e3",
+      "url": "net.neoforged/21.11.42.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.1",
+      "sha256": "03e11357a5585c7938dc62cb0484616416fd55ac292ad7a4e2f071a58227ca01",
+      "url": "net.neoforged/21.1.233.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.1",
+      "sha256": "2e15a097e568e4b40e2c411ea0eaf540e37c4a092f0059ac2b46a8c1511c4d84",
+      "url": "net.neoforged/26.1.2.76.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.2",
+      "sha256": "49c69756de3fddd08d02d4e78033bfc52200dade81bee592cedd93325ddab23f",
+      "url": "net.neoforged/26.2.0.6-beta.json",
       "type": "stable"
     }
   ]

@@ -3,406 +3,406 @@
   "uid": "net.minecraftforge",
   "name": "Forge",
   "recommended": [
-    "1.5.2",
-    "1.6.2",
-    "1.6.4",
-    "1.8",
-    "1.9",
-    "1.10.2",
-    "1.11",
-    "1.11.2",
-    "1.12",
-    "1.12.1",
-    "1.12.2",
-    "1.14.4",
-    "1.15.2",
-    "1.16.3",
-    "1.16.4",
-    "1.16.5",
-    "1.17.1",
-    "1.18.1",
-    "1.18.2",
-    "1.19",
-    "1.19.2",
-    "1.19.3",
-    "1.19.4",
-    "1.20.1",
-    "1.20.2",
-    "1.20.4",
-    "1.20.6",
-    "1.21.1",
-    "1.21.3",
-    "1.21.4",
-    "1.21.5",
-    "1.21.8",
+    "1.21.11",
     "1.21.10",
-    "1.21.11"
+    "1.21.8",
+    "1.21.5",
+    "1.21.4",
+    "1.21.3",
+    "1.21.1",
+    "1.20.6",
+    "1.20.4",
+    "1.20.2",
+    "1.20.1",
+    "1.19.4",
+    "1.19.3",
+    "1.19.2",
+    "1.19",
+    "1.18.2",
+    "1.18.1",
+    "1.17.1",
+    "1.16.5",
+    "1.16.4",
+    "1.16.3",
+    "1.15.2",
+    "1.14.4",
+    "1.12.2",
+    "1.12.1",
+    "1.12",
+    "1.11.2",
+    "1.11",
+    "1.10.2",
+    "1.9",
+    "1.8",
+    "1.6.4",
+    "1.6.2",
+    "1.5.2"
   ],
   "versions": [
     {
-      "mcVersion": "26.2",
-      "sha256": "637f4dce94bca892516b7f8f93551aedca0c1e1c9bc12ae8f1e706507a294dbc",
-      "url": "net.minecraftforge/26.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "26.1.2",
-      "sha256": "ff576ffdd614202dd20230dc0dcba1f1dc0835d9ffb9fd60375f334f204561ce",
-      "url": "net.minecraftforge/26.1.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "26.1.1",
-      "sha256": "7fcdd2a9bd7f22bd12db34acd54dd21df6023e1fb72a7a72a28176c3d7ef4653",
-      "url": "net.minecraftforge/26.1.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "26.1",
-      "sha256": "4a768aa71caf55ea12d2770d00f014f6ec964369c395dffda3cde5c11c15e82d",
-      "url": "net.minecraftforge/26.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.11",
-      "sha256": "cf40087e917a6b6adee99d296c8dd3b35d0a0daa7a99707ff612ada877190f6d",
-      "url": "net.minecraftforge/1.21.11.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.10",
-      "sha256": "620e153a072dfecac5ed5c28d83e46628ebb4092444b6fd94be19030e225a398",
-      "url": "net.minecraftforge/1.21.10.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.9",
-      "sha256": "de44d10254c29328e5fb4081dd653a35021e97c99f01396da32c65e790f831cc",
-      "url": "net.minecraftforge/1.21.9.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.8",
-      "sha256": "9a66a27bac9a098ea1c29b8c241971f6d77900527fd2cf5b0668de7d268166c6",
-      "url": "net.minecraftforge/1.21.8.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.7",
-      "sha256": "37e1eed74d3e9ddf667fd6c2dd76770fad3e04f10b315bff275b9a2826864099",
-      "url": "net.minecraftforge/1.21.7.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.6",
-      "sha256": "55dcbe70730bd625ea77beef7d281e8f37e7534810c143954f20466d27c6a688",
-      "url": "net.minecraftforge/1.21.6.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.5",
-      "sha256": "a7e74f7d2d8a7b5ee0eaefa8c20f9fed2e85d0f474649f814c74100d7dfbe63c",
-      "url": "net.minecraftforge/1.21.5.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.4",
-      "sha256": "656e9936396087ea9ce9c07521590b2bcc0c27382b4d4ae7de6610b4e2229453",
-      "url": "net.minecraftforge/1.21.4.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.3",
-      "sha256": "c84f1e948143168bd50851db32993bb6f6a6e96b6af98e2d91ea4eb975a5ee09",
-      "url": "net.minecraftforge/1.21.3.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.1",
-      "sha256": "5ad0e1f4ae3f33a82f0347f5687e712e7a377ea5440497fb331fe4070b95e5b0",
-      "url": "net.minecraftforge/1.21.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21",
-      "sha256": "132e32118a36717e4e6f13ce980466530df54e8082916871ea8da9bad52a47cb",
-      "url": "net.minecraftforge/1.21.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.20.6",
-      "sha256": "c61ee3aaba2796ff3b39c1a58da5e9812132c0d2e310c661f71f9fc7812c8cbf",
-      "url": "net.minecraftforge/1.20.6.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.20.4",
-      "sha256": "4a035f7f7500cc0d33bd0d249e8a3c0448ff4004b711b30c023aed597aa5bdc3",
-      "url": "net.minecraftforge/1.20.4.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.20.3",
-      "sha256": "2130e0a61a1050e113163882f16f422a1ad13baad576374706c90b5a1bf92740",
-      "url": "net.minecraftforge/1.20.3.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.20.2",
-      "sha256": "2804bceb90360785f87b136b57923fdee357395c49f4068c3e2e599621e558f3",
-      "url": "net.minecraftforge/1.20.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.20.1",
-      "sha256": "4f302596fe7c0ffa062b13f18eee87a039fbb094bc723f6ce687c16c53cdef07",
-      "url": "net.minecraftforge/1.20.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.20",
-      "sha256": "97d4d9f1c4774d1cc3d5a824edbf6630e28aba615c6f678e32049664dbdd4b27",
-      "url": "net.minecraftforge/1.20.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.19.4",
-      "sha256": "a4bf18293e9dd34263ab92d2bbd9cba59e873621045b5fa3756dc99197014d04",
-      "url": "net.minecraftforge/1.19.4.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.19.3",
-      "sha256": "0ffc3ad66686ca85fc4b00706e7af20fa7ead15984957ec987d06ccdb5a20340",
-      "url": "net.minecraftforge/1.19.3.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.19.2",
-      "sha256": "f0844c00045f929a23fa5ccb7a378db18e7caa1a2f074a88c959936df2928d85",
-      "url": "net.minecraftforge/1.19.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.19.1",
-      "sha256": "d3817f0153e8f977d7727b5269144f76433d2b59f8756fc7affd85c604c05cd1",
-      "url": "net.minecraftforge/1.19.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.19",
-      "sha256": "2b59cc076f73186f496d1b1df4bab171f7ed985406a9be621c9a0a98e99db00f",
-      "url": "net.minecraftforge/1.19.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.18.2",
-      "sha256": "459276b6841dc081fddaeed45f1dda0a37d0abb78427bf508011770f1a1d25bd",
-      "url": "net.minecraftforge/1.18.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.18.1",
-      "sha256": "abbf93f5a829ed594c1aacec9b65fe7dca51ae4ecb38dc917d07edf33eace059",
-      "url": "net.minecraftforge/1.18.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.18",
-      "sha256": "93eba755a96460b19c21ebd58db7afe8590f9de1376f8882f90fcdece0e54a3d",
-      "url": "net.minecraftforge/1.18.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.17.1",
-      "sha256": "a370f3da94200dc9638f8f621984677c391d949c45a7617a34605f76cbb04964",
-      "url": "net.minecraftforge/1.17.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.16.5",
-      "sha256": "821fb36fbf9b002420f4ee6791aeca2facb01cf4178132d30fc08382b042ed5f",
-      "url": "net.minecraftforge/1.16.5.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.16.4",
-      "sha256": "b06678130da6ae0e337f0b13dc7a8d8f801c3d5eb97413e1bb85868174e5193f",
-      "url": "net.minecraftforge/1.16.4.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.16.3",
-      "sha256": "48c8c36c0f6ef3dbb5a078cc660fc1abeb402762fe757de96d632dcff0ed2769",
-      "url": "net.minecraftforge/1.16.3.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.16.2",
-      "sha256": "c437f8352620259e5d22aa31210d7561a9adfbc29480a14f5bb56790b8e093ef",
-      "url": "net.minecraftforge/1.16.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.16.1",
-      "sha256": "e1a189b6c4627b324dc3c1f3a168d0f3d7975dbd34215ab6a2b218f5bfd84670",
-      "url": "net.minecraftforge/1.16.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.15.2",
-      "sha256": "597b813bad4740093be6e09d7f9032d16d6327650aef82c38ad60f3a4f3670da",
-      "url": "net.minecraftforge/1.15.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.15.1",
-      "sha256": "17bf05f9cd5160e50019b358f77968166bf81cc42cc9d2622e0004fafba4cc04",
-      "url": "net.minecraftforge/1.15.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.15",
-      "sha256": "e62de4df8e661e69193cf6f9ab2875cf63ce81c47fde370a7a06da679f9b0af2",
-      "url": "net.minecraftforge/1.15.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.14.4",
-      "sha256": "6efe302ea301890944a6bf162dbacd4c4dda3d38d62de0e8db16073717dafce5",
-      "url": "net.minecraftforge/1.14.4.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.14.3",
-      "sha256": "33ac4acbc0e454a5fbdd0fe952a00d283e7f7f2babbaab4337732326ded75e70",
-      "url": "net.minecraftforge/1.14.3.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.14.2",
-      "sha256": "700346705120b7cb70a53c06a7fd0c56bca28894ff0d03fe952a48c413555cc9",
-      "url": "net.minecraftforge/1.14.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.13.2",
-      "sha256": "c5d26fedfb6b73144a9ec8693f716ed07100190176597b6cd8f9d49fb35226b6",
-      "url": "net.minecraftforge/1.13.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.12.2",
-      "sha256": "b6a854c565b7fba10f9f4c6d178e583bd7a0890191f147a1b66e2cdadfd2e501",
-      "url": "net.minecraftforge/1.12.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.12.1",
-      "sha256": "df164c4d3cfe3fc5d583c67922d948cb3e5dcb66e251ff14920de87593378bd4",
-      "url": "net.minecraftforge/1.12.1.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.12",
-      "sha256": "2f78668b7c6a6d8bc8c40f77d973f0fab643b8b5de08f3c9adb7fb96a5324e07",
-      "url": "net.minecraftforge/1.12.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.11.2",
-      "sha256": "00c1f47322691e9ed5d5afb279ce05bf95f13df333aa22bfe28994cf7dbec32b",
-      "url": "net.minecraftforge/1.11.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.11",
-      "sha256": "501c64f233c2ad7a56ffc3eb16e382e910fd3823783511da8f994a08094edbf7",
-      "url": "net.minecraftforge/1.11.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.10.2",
-      "sha256": "91fb4fffeed0a256612ad938bb642d8480769a29abe9b5fc06fd62fd9c335374",
-      "url": "net.minecraftforge/1.10.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.10",
-      "sha256": "9551452412ba07bc21fb49a518f1a08e2407f585c3d38713f51b123ffe7c00a4",
-      "url": "net.minecraftforge/1.10.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.9.4",
-      "sha256": "93d3fce68a023348418053de8f34d21aabd8387cd3846e017cbe2e562782bdc6",
-      "url": "net.minecraftforge/1.9.4.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.9",
-      "sha256": "03019b789d5d7521d0784eaf93ded90035183ab35e4929bcaefba6006981e61e",
-      "url": "net.minecraftforge/1.9.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.8.9",
-      "sha256": "8680e2412b90dd6e6de797a02537d072b421e9641c4ec8b4ff4226d7fc9d9860",
-      "url": "net.minecraftforge/1.8.9.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.8.8",
-      "sha256": "d0cae5feae751085fca3009b566b70de20b6a7246877ada68937d660d69bdf1e",
-      "url": "net.minecraftforge/1.8.8.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.8",
-      "sha256": "ca10947b4659620ba20a9afb7a7e73adc58e4fa6dbe66b1f8125b54a0d2bbe1d",
-      "url": "net.minecraftforge/1.8.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.7.10",
-      "sha256": "cc96395cc2aa7ea9a2567913d7b4d448fb89485d5ffc78094c24029c7b0ccfd0",
-      "url": "net.minecraftforge/1.7.10.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.7.2",
-      "sha256": "8cecb9a5d4a0b21ba7482a0e95f9ffa10b2c23c972032a8d1bf543fdb7c153ae",
-      "url": "net.minecraftforge/1.7.2.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.6.4",
-      "sha256": "d5e9da8d2b6874b52b763492cf1acb56040015bbae2b7204d3889cf2749003cc",
-      "url": "net.minecraftforge/1.6.4.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.6.3",
-      "sha256": "6f37dc6561b2b26abfa98b96a7753fb7d6cee27893dcc900770de21a57613b48",
-      "url": "net.minecraftforge/1.6.3.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.6.2",
-      "sha256": "bee28369a1c928b16f4bff93e37f045c56165f08e79cd3184fd1176efded13ed",
-      "url": "net.minecraftforge/1.6.2.json",
+      "mcVersion": "1.5.2",
+      "sha256": "2746e89fd60f35b718b95836eec55ab29aa54d0d2c4355b8b08992fc9ff5e4ae",
+      "url": "net.minecraftforge/1.5.2.json",
       "type": "stable"
     },
     {
       "mcVersion": "1.6.1",
-      "sha256": "36438a290b79530846a98e71d5b5d55352a47bad6478772ebd07abc63decde7f",
+      "sha256": "4fb562ffdf6066b4a71b427a9977591e8b66ffebe0e8b2f964948e265bbda89a",
       "url": "net.minecraftforge/1.6.1.json",
       "type": "stable"
     },
     {
-      "mcVersion": "1.5.2",
-      "sha256": "b583099bbfbf13aec310df7ffd93247584c3f951c900911dc57d755089b3de0a",
-      "url": "net.minecraftforge/1.5.2.json",
+      "mcVersion": "1.6.2",
+      "sha256": "b51da3f0460e9faca7be64c07139d0223d77267d4a3e3e34bcd6f5ef46d92e93",
+      "url": "net.minecraftforge/1.6.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.6.3",
+      "sha256": "7f44dc73ca199c6a0093b1cf99ba26a97efc57ce7fc2bd79caa47316439da2c7",
+      "url": "net.minecraftforge/1.6.3.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.6.4",
+      "sha256": "7cdfa5133d548e835e113d7e5897b0bba54be4ce9684463f51ba5584ef75c3bc",
+      "url": "net.minecraftforge/1.6.4.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.7.2",
+      "sha256": "d5b94f4e45bd1dd72d1d2612b21f7e3380b60fb097be41f53a7797c642116d05",
+      "url": "net.minecraftforge/1.7.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.7.10",
+      "sha256": "63c13e6a1675d56732c077ccf326890193768ce1f0f319c362944b824a413cad",
+      "url": "net.minecraftforge/1.7.10.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.8",
+      "sha256": "cb6483f619187f8614b1dff757e3fee65de072aa30de23a72547a6d63e18fe6f",
+      "url": "net.minecraftforge/1.8.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.8.8",
+      "sha256": "b097918fe68af6251282e9e4327cd2fd8e331bb8cd18a4a4407e6ab53e35084f",
+      "url": "net.minecraftforge/1.8.8.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.8.9",
+      "sha256": "ffd3c6c7a6fe90ef386c4af1eb376fd25f61dc6b6307107d014dae820f3cf442",
+      "url": "net.minecraftforge/1.8.9.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.9",
+      "sha256": "ac9bcd1ec3a703b185f01174765a5c4590e150524daeeb0429b79ff5b56aabde",
+      "url": "net.minecraftforge/1.9.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.9.4",
+      "sha256": "712b1eb1d04d56b8f03c206f77e1a18dc65fe36a21db2d552a52c85c727ea0d4",
+      "url": "net.minecraftforge/1.9.4.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.10",
+      "sha256": "6a7a0ad7d64e8c484f46205ca2e640019386b3b48268990650e5963e4c08b4f6",
+      "url": "net.minecraftforge/1.10.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.10.2",
+      "sha256": "01c0e348208e98a61849bc80efd4dd4d5af87abe68774268d05085b28dae7eac",
+      "url": "net.minecraftforge/1.10.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.11",
+      "sha256": "1e61654b3d9304dfe6e13b8fc466701196a494cd783fd69e39ff15f5c82ae2d3",
+      "url": "net.minecraftforge/1.11.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.11.2",
+      "sha256": "0cf0e72ef0a592b1ffe5a1cacfcde344eca7c68493dfe340b6e7bd5a6e1686e2",
+      "url": "net.minecraftforge/1.11.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.12",
+      "sha256": "d112cf11101d31cda1f92756bcd10c4e9aa88764553743e7054b54c0f91e3d8e",
+      "url": "net.minecraftforge/1.12.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.12.1",
+      "sha256": "3243c3cb7dd1ffe30850c2c451aed2438aee2a9acafbf7ece0b11af2f4962ad5",
+      "url": "net.minecraftforge/1.12.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.12.2",
+      "sha256": "dbaf9f3315deda7d0802298fabf51201742b59cb8a2511ee791d4b04d106c701",
+      "url": "net.minecraftforge/1.12.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.13.2",
+      "sha256": "6b8965e121b270ec14987716a21b45b1a926a9cfadae2c6275ecd433c1fa0047",
+      "url": "net.minecraftforge/1.13.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.14.2",
+      "sha256": "6dc1d5724d63e25f4d736ab19f22551995a1a5904ceb305ad044ca6b2b0acd7a",
+      "url": "net.minecraftforge/1.14.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.14.3",
+      "sha256": "a3a1ab1bfbfe57aaf3d2bea5fdc6a33981a4d7025315d49d112251e84218cf24",
+      "url": "net.minecraftforge/1.14.3.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.14.4",
+      "sha256": "c1fd6083fdddea38dd07037f09fc23046907554b6b30f6d891793efadebb63aa",
+      "url": "net.minecraftforge/1.14.4.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.15",
+      "sha256": "bc1719c4c000b506785a3125397fa401ffb154855f52d88e935d2feb9dbb0695",
+      "url": "net.minecraftforge/1.15.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.15.1",
+      "sha256": "6becfc62322fe1b638b0fc54106a785cac52f93e3b156b728b87c051d0c1f2d4",
+      "url": "net.minecraftforge/1.15.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.15.2",
+      "sha256": "92588467885a949a31952047b4d09c810301ac53eee1ba6f88b8d2ae0ad83032",
+      "url": "net.minecraftforge/1.15.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.16.1",
+      "sha256": "20d76f5d5e9c637133c6e1977197e9db4420f28dd4e8d60e227e24e7e40e4db1",
+      "url": "net.minecraftforge/1.16.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.16.2",
+      "sha256": "af420cc51ffe7809083222cccefea773f8ea0107fe30983c8d38131bdbab63f5",
+      "url": "net.minecraftforge/1.16.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.16.3",
+      "sha256": "51daff628b59943cdabf6d0cf3e486ef1821e7725720111e12c3db8c3945e9f0",
+      "url": "net.minecraftforge/1.16.3.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.16.4",
+      "sha256": "54578c53f05a5935d8796d00feb2f12082e8c031594314e200fe066af680b93a",
+      "url": "net.minecraftforge/1.16.4.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.16.5",
+      "sha256": "ff31e782263b6f8c01ae52e23068b4ce678ac43b766d442cd9d6be7b4b86081b",
+      "url": "net.minecraftforge/1.16.5.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.17.1",
+      "sha256": "c86dba9d76e30f0504c428b8188601f1dfaf2db86661d8f94eb4507b141d74a6",
+      "url": "net.minecraftforge/1.17.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.18",
+      "sha256": "5e94fc642c6fd02730fba6260e46b5aea75887ff7752fe7348b23056e6c6910e",
+      "url": "net.minecraftforge/1.18.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.18.1",
+      "sha256": "c60069a94f254a25e805c13380e3f4a299a48352d4a2681d7fba70d5a24db0a6",
+      "url": "net.minecraftforge/1.18.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.18.2",
+      "sha256": "3d647affbe04790bb62f7948cac48a838203565b3d56a0555e1af5b2525e5286",
+      "url": "net.minecraftforge/1.18.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.19",
+      "sha256": "372b7d420422ee1f8ce1154c6a773c5f2e6e6de14d161e1431df6e4a2bfc85bd",
+      "url": "net.minecraftforge/1.19.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.19.1",
+      "sha256": "15490f213ee020105f848f7223f00ae92d6150605d9b5066dc6ceeb8e88569a5",
+      "url": "net.minecraftforge/1.19.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.19.2",
+      "sha256": "b19fe2aef413be76813ca27d493e13f1d5cf226e3cc0eaa78b9f25204f2a1f7f",
+      "url": "net.minecraftforge/1.19.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.19.3",
+      "sha256": "b17e9832d1331dd110c4297094b270aae078fc1aa0a84577c93e9cb4aabc412f",
+      "url": "net.minecraftforge/1.19.3.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.19.4",
+      "sha256": "99c2c0e75cc2a28285075fcaf23a3728e4ee2bcb16b7db0710bdf0ca646f7d68",
+      "url": "net.minecraftforge/1.19.4.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.20",
+      "sha256": "a648dddda12db3496379802559573f97fde3c1759ba47980afb4fa74889561a1",
+      "url": "net.minecraftforge/1.20.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.20.1",
+      "sha256": "0c855e7046b579a1643f6bab23ddd33e8d72fa3d14d6b3ea67b0c1ae8be81b28",
+      "url": "net.minecraftforge/1.20.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.20.2",
+      "sha256": "b7155e95e37762948bbd5fc7a4bbf54c17ab9a2b0324812793e99dfc1fa266f1",
+      "url": "net.minecraftforge/1.20.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.20.3",
+      "sha256": "3f59d984ca077077519c34a97fea5794f0b5d5a48f1bb658633dbf49fa54b7f3",
+      "url": "net.minecraftforge/1.20.3.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.20.4",
+      "sha256": "3ac1dea8d470b30e817e98f15670e471ffef62b311f918e868325d8ac87ad3ec",
+      "url": "net.minecraftforge/1.20.4.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.20.6",
+      "sha256": "89160be83cfce810be9867b393e6ca7096e30c99fdad6b8e65f8f4604125e4c3",
+      "url": "net.minecraftforge/1.20.6.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21",
+      "sha256": "2fec5a6cf99ace06696c4d00a32915a246099104fa14a3aca59b497be2d01647",
+      "url": "net.minecraftforge/1.21.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.1",
+      "sha256": "43e141eba8505eb13260391b97b601724e110c3d98f0a7458b3a1ec691c33025",
+      "url": "net.minecraftforge/1.21.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.3",
+      "sha256": "67f79c2db39d19013d70c25ddb4406e1fac19f5346b4c80567b4a820aeab93dd",
+      "url": "net.minecraftforge/1.21.3.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.4",
+      "sha256": "00ae1da5f5f8b638f2694284c3a3c484510b14a9938e2597f5c1aecd043b6284",
+      "url": "net.minecraftforge/1.21.4.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.5",
+      "sha256": "575cb74ec114bfc41d164faa8cb1609d8667308a2ee6fbdfa67ff5f6ea96e094",
+      "url": "net.minecraftforge/1.21.5.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.6",
+      "sha256": "d3c16108e098b4c03fd0c7785e167358e30facc86179a618f70a18b5cd0cae25",
+      "url": "net.minecraftforge/1.21.6.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.7",
+      "sha256": "1856e1bb591c644856e8dce72e3de2baee0ae1453be77cbcc688470865504c87",
+      "url": "net.minecraftforge/1.21.7.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.8",
+      "sha256": "dbe2b5af10e17cffc746ef7042f3da66bd76fbdc87c17e2f8b1f2ac33b380cbb",
+      "url": "net.minecraftforge/1.21.8.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.9",
+      "sha256": "83f947ff397507a2c92b1f2cf6444b74d7c577f731c5ac6f9a2dd13c2a1ce8f8",
+      "url": "net.minecraftforge/1.21.9.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.10",
+      "sha256": "d8fa2282cb92ee3f2dea573fa52d27c5f5026e6d9d1b292f3f8e62ffb396e976",
+      "url": "net.minecraftforge/1.21.10.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "1.21.11",
+      "sha256": "68c5a95db7b11466085fb513acd728869f44fe77e1c206b49fc9307a10c62467",
+      "url": "net.minecraftforge/1.21.11.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.1",
+      "sha256": "825c38721beb7ee5472524e5db9e1012b81725807a26e9c4358286c89636ece5",
+      "url": "net.minecraftforge/26.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.1.1",
+      "sha256": "d8dc231d2ba50ecad0cfb9001037db94618b669088074683bb38fb78bcca595c",
+      "url": "net.minecraftforge/26.1.1.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.1.2",
+      "sha256": "34cad0fceee945e2a4e7294c847d11f969254fdd2b4aa34dbe160a2ffcb4d4d9",
+      "url": "net.minecraftforge/26.1.2.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.2",
+      "sha256": "637f4dce94bca892516b7f8f93551aedca0c1e1c9bc12ae8f1e706507a294dbc",
+      "url": "net.minecraftforge/26.2.json",
       "type": "stable"
     }
   ]

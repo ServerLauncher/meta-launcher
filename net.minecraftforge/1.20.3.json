@@ -4,18 +4,6 @@
   "mcVersion": "1.20.3",
   "builds": [
     {
-      "build": "1.20.3-49.0.1",
-      "type": "snapshot",
-      "releaseTime": "2023-12-06T19:02:17+00:00",
-      "recommended": false,
-      "download": {
-        "name": "forge-1.20.3-49.0.1-installer.jar",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.3-49.0.1/forge-1.20.3-49.0.1-installer.jar",
-        "sha1": "368e171145a76fc70351c82498127844cab8c930",
-        "sha256": null
-      }
-    },
-    {
       "build": "1.20.3-49.0.2",
       "type": "snapshot",
       "releaseTime": "2023-12-07T00:45:33+00:00",
@@ -24,6 +12,18 @@
         "name": "forge-1.20.3-49.0.2-installer.jar",
         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.3-49.0.2/forge-1.20.3-49.0.2-installer.jar",
         "sha1": "652287f19aed44ad920631c6a62a9a3ffe62fb87",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.20.3-49.0.1",
+      "type": "snapshot",
+      "releaseTime": "2023-12-06T19:02:17+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.20.3-49.0.1-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.3-49.0.1/forge-1.20.3-49.0.1-installer.jar",
+        "sha1": "368e171145a76fc70351c82498127844cab8c930",
         "sha256": null
       }
     }

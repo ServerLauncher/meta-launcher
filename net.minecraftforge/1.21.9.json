@@ -4,50 +4,14 @@
   "mcVersion": "1.21.9",
   "builds": [
     {
-      "build": "1.21.9-59.0.0",
+      "build": "1.21.9-59.0.5",
       "type": "snapshot",
-      "releaseTime": "2025-10-01T20:27:19+00:00",
+      "releaseTime": "2025-10-06T19:28:20+00:00",
       "recommended": false,
       "download": {
-        "name": "forge-1.21.9-59.0.0-installer.jar",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.0/forge-1.21.9-59.0.0-installer.jar",
-        "sha1": "e0f60b6e547c02fef36a6501255c1052e56c153b",
-        "sha256": null
-      }
-    },
-    {
-      "build": "1.21.9-59.0.1",
-      "type": "snapshot",
-      "releaseTime": "2025-10-02T19:25:11+00:00",
-      "recommended": false,
-      "download": {
-        "name": "forge-1.21.9-59.0.1-installer.jar",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.1/forge-1.21.9-59.0.1-installer.jar",
-        "sha1": "aaabe57e90f9c726c708601153470af5b78d18d8",
-        "sha256": null
-      }
-    },
-    {
-      "build": "1.21.9-59.0.2",
-      "type": "snapshot",
-      "releaseTime": "2025-10-05T13:20:29+00:00",
-      "recommended": false,
-      "download": {
-        "name": "forge-1.21.9-59.0.2-installer.jar",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.2/forge-1.21.9-59.0.2-installer.jar",
-        "sha1": "68443979cccf613b7e3b91d0db1ef4416d287bf4",
-        "sha256": null
-      }
-    },
-    {
-      "build": "1.21.9-59.0.3",
-      "type": "snapshot",
-      "releaseTime": "2025-10-05T17:01:48+00:00",
-      "recommended": false,
-      "download": {
-        "name": "forge-1.21.9-59.0.3-installer.jar",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.3/forge-1.21.9-59.0.3-installer.jar",
-        "sha1": "34f6f45a5d751871898a00aee64bd11527bdff95",
+        "name": "forge-1.21.9-59.0.5-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.5/forge-1.21.9-59.0.5-installer.jar",
+        "sha1": "fb3387dce1ef5a71d99fd46653388fc068c46388",
         "sha256": null
       }
     },
@@ -64,14 +28,50 @@
       }
     },
     {
-      "build": "1.21.9-59.0.5",
+      "build": "1.21.9-59.0.3",
       "type": "snapshot",
-      "releaseTime": "2025-10-06T19:28:20+00:00",
+      "releaseTime": "2025-10-05T17:01:48+00:00",
       "recommended": false,
       "download": {
-        "name": "forge-1.21.9-59.0.5-installer.jar",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.5/forge-1.21.9-59.0.5-installer.jar",
-        "sha1": "fb3387dce1ef5a71d99fd46653388fc068c46388",
+        "name": "forge-1.21.9-59.0.3-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.3/forge-1.21.9-59.0.3-installer.jar",
+        "sha1": "34f6f45a5d751871898a00aee64bd11527bdff95",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.21.9-59.0.2",
+      "type": "snapshot",
+      "releaseTime": "2025-10-05T13:20:29+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.21.9-59.0.2-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.2/forge-1.21.9-59.0.2-installer.jar",
+        "sha1": "68443979cccf613b7e3b91d0db1ef4416d287bf4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.21.9-59.0.1",
+      "type": "snapshot",
+      "releaseTime": "2025-10-02T19:25:11+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.21.9-59.0.1-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.1/forge-1.21.9-59.0.1-installer.jar",
+        "sha1": "aaabe57e90f9c726c708601153470af5b78d18d8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "1.21.9-59.0.0",
+      "type": "snapshot",
+      "releaseTime": "2025-10-01T20:27:19+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.21.9-59.0.0-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.9-59.0.0/forge-1.21.9-59.0.0-installer.jar",
+        "sha1": "e0f60b6e547c02fef36a6501255c1052e56c153b",
         "sha256": null
       }
     }

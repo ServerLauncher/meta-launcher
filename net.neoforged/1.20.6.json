@@ -4,1490 +4,14 @@
   "mcVersion": "1.20.6",
   "builds": [
     {
-      "build": "20.6.1-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:38.756059+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.1-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.1-beta/neoforge-20.6.1-beta-installer.jar",
-        "sha1": "19caf764374051fd7ed54d9d04fde6aaae9d4f2f",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.2-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:15.000064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.2-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.2-beta/neoforge-20.6.2-beta-installer.jar",
-        "sha1": "8e35aedaa5f0930cb44e75f242da76de584a4be2",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.3-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:50.940061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.3-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.3-beta/neoforge-20.6.3-beta-installer.jar",
-        "sha1": "455a497bc576c20d3375477672322cc40e73a184",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.4-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:24.660066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.4-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.4-beta/neoforge-20.6.4-beta-installer.jar",
-        "sha1": "bd4fa2ad35e98fb7db31a5b114994901a3da1036",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.5-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:39.984059+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.5-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.5-beta/neoforge-20.6.5-beta-installer.jar",
-        "sha1": "a5019351ad366efcd24db6529caafbaa50235bb8",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.6-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:50.792061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.6-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.6-beta/neoforge-20.6.6-beta-installer.jar",
-        "sha1": "d74ff49c44801479d404762fc484261672a7e4dc",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.7-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:41.884060+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.7-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.7-beta/neoforge-20.6.7-beta-installer.jar",
-        "sha1": "712296fcd9e9030b89e0b9649bdf0a7ca7305e2a",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.8-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:09.576064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.8-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.8-beta/neoforge-20.6.8-beta-installer.jar",
-        "sha1": "c97d802e5bce6e35aa0ad3354c5106a2700aae5f",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.9-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:46.456060+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.9-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.9-beta/neoforge-20.6.9-beta-installer.jar",
-        "sha1": "413f7dd06cc81c4efabf2868edaf012da38240da",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.10-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:26.172066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.10-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.10-beta/neoforge-20.6.10-beta-installer.jar",
-        "sha1": "44ec48e0d5c3a8287b350bd71f2333798998118a",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.11-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:32.088067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.11-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.11-beta/neoforge-20.6.11-beta-installer.jar",
-        "sha1": "4c3af7b0e12de75f80fc4c63ead76d16cfafa4d4",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.12-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:51.344061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.12-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.12-beta/neoforge-20.6.12-beta-installer.jar",
-        "sha1": "69704a7b71d33c8a8318f9ac2c30939704e3627c",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.13-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:45.056060+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.13-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.13-beta/neoforge-20.6.13-beta-installer.jar",
-        "sha1": "2a342a4a0e42efed8bd96a828cb7104db95b20ee",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.14-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:02.872063+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.14-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.14-beta/neoforge-20.6.14-beta-installer.jar",
-        "sha1": "d0ae4af7e3124042283ad962d72931c913564696",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.15-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:49.172061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.15-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.15-beta/neoforge-20.6.15-beta-installer.jar",
-        "sha1": "13ef525e422246e16150e9b94213ce27dc4af5ff",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.16-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:51.708061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.16-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.16-beta/neoforge-20.6.16-beta-installer.jar",
-        "sha1": "41f6756fb3e7ddd49993283fdeaecea17ae71eb5",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.17-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:12.216064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.17-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.17-beta/neoforge-20.6.17-beta-installer.jar",
-        "sha1": "c79cfb9c71018e7e7e7f6fe77b56cbbbdf8ba2f4",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.18-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:54.464061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.18-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.18-beta/neoforge-20.6.18-beta-installer.jar",
-        "sha1": "0f366ffb6564d60c1289abd0502a8dc5f853583b",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.19-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:41.780060+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.19-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.19-beta/neoforge-20.6.19-beta-installer.jar",
-        "sha1": "148a436d5dc0d4b030ea4bac01dd49fc0a941ae3",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.20-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:38.508059+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.20-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.20-beta/neoforge-20.6.20-beta-installer.jar",
-        "sha1": "552cb396126d415466cfd7001f4d60303c9bdc1e",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.21-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:20.756065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.21-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.21-beta/neoforge-20.6.21-beta-installer.jar",
-        "sha1": "d07081241da7ac47999d95d28f9ecf1a93bbabdf",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.22-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:01.308062+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.22-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.22-beta/neoforge-20.6.22-beta-installer.jar",
-        "sha1": "a9ea5468082b4afebb65a94b11ae7aeba27107da",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.23-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:51.516061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.23-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.23-beta/neoforge-20.6.23-beta-installer.jar",
-        "sha1": "bbbee059f28354bd51fde5ed5e705558387c3aab",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.24-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:22.500065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.24-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.24-beta/neoforge-20.6.24-beta-installer.jar",
-        "sha1": "3542d32d3a46b901d94e41e632c188e2add4e7ec",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.25-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:51.140061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.25-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.25-beta/neoforge-20.6.25-beta-installer.jar",
-        "sha1": "aff7ed64c5af99ca3b1088130a716c0d5c2ffd66",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.26-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:13.808064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.26-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.26-beta/neoforge-20.6.26-beta-installer.jar",
-        "sha1": "46bbe0de96d767358975bea6ed4393cf626c8072",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.27-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:14.468064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.27-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.27-beta/neoforge-20.6.27-beta-installer.jar",
-        "sha1": "e1f981e388f49f1475991a31db28c28fd902fad6",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.28-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:22.220065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.28-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.28-beta/neoforge-20.6.28-beta-installer.jar",
-        "sha1": "a6212b2de8686bdca178aee3c2788e3da2b38cc8",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.30-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:27.500066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.30-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.30-beta/neoforge-20.6.30-beta-installer.jar",
-        "sha1": "8e2c2b0f1488f4735d115250c1419c7d1f579ec1",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.29-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:01.640063+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.29-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.29-beta/neoforge-20.6.29-beta-installer.jar",
-        "sha1": "73ad9c4335edc2d9c857f44ae43cfebb2d40ca31",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.31-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:03.032063+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.31-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.31-beta/neoforge-20.6.31-beta-installer.jar",
-        "sha1": "3dcbc022621f3fc22f5212714db124f954ddc270",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.32-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:58.668062+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.32-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.32-beta/neoforge-20.6.32-beta-installer.jar",
-        "sha1": "0272e9845c77c96c7d3d91a382189caeb434d119",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.39-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:29.580066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.39-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.39-beta/neoforge-20.6.39-beta-installer.jar",
-        "sha1": "e90255da8bbb36a4d546c6adab43cc942eda8964",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.40-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:29.964066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.40-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.40-beta/neoforge-20.6.40-beta-installer.jar",
-        "sha1": "5b7d061e9f9eaaca4cd095fa92202f68ee04220c",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.41-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:12.028064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.41-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.41-beta/neoforge-20.6.41-beta-installer.jar",
-        "sha1": "e1016e2a57b231ab2260ad01f59c3b20d9dbcf1c",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.42-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:45.220060+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.42-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.42-beta/neoforge-20.6.42-beta-installer.jar",
-        "sha1": "c225c280626d3ce84842f5f2d932fc5412b93374",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.43-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:40.104059+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.43-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.43-beta/neoforge-20.6.43-beta-installer.jar",
-        "sha1": "8980e9dd824d93dd99b7ea553e28d136f4c5eba5",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.44-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:14.300064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.44-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.44-beta/neoforge-20.6.44-beta-installer.jar",
-        "sha1": "d085ac0d212aafeb809e56b89ab07d03fc2ed1c8",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.47-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:09.388064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.47-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.47-beta/neoforge-20.6.47-beta-installer.jar",
-        "sha1": "e60774e6859f34789eb84e14f406ecf6dd7f46d5",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.45-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:15.588064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.45-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.45-beta/neoforge-20.6.45-beta-installer.jar",
-        "sha1": "8d4581b298ca7b4079606c2135daadf77a71bb23",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.46-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:22.324065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.46-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.46-beta/neoforge-20.6.46-beta-installer.jar",
-        "sha1": "88d6260f6e74bb86961104a51dd2f13d515213a4",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.48-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:26.808066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.48-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.48-beta/neoforge-20.6.48-beta-installer.jar",
-        "sha1": "d4f04d97f3065bfe043ff40b09427b5153a378f0",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.49-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:14.116064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.49-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.49-beta/neoforge-20.6.49-beta-installer.jar",
-        "sha1": "1b540e13d5fff99ac289b33e37947ec751d6cbf9",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.50-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:29.420066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.50-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.50-beta/neoforge-20.6.50-beta-installer.jar",
-        "sha1": "87878934a36cb0d4bc3a189d7098726b7ef95926",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.51-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:25.592066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.51-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.51-beta/neoforge-20.6.51-beta-installer.jar",
-        "sha1": "a95947d2d244b9a8e531710db18bf607f1f4d9ee",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.52-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:30.140066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.52-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.52-beta/neoforge-20.6.52-beta-installer.jar",
-        "sha1": "4d0b6f6bddf9c3c781fb32aced7b8a73b047896c",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.53-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:26.284066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.53-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.53-beta/neoforge-20.6.53-beta-installer.jar",
-        "sha1": "b5129f237c7ddcbe857880076afca51d776eab8c",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.55-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:08.428063+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.55-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.55-beta/neoforge-20.6.55-beta-installer.jar",
-        "sha1": "35c9899d0c77e6b2f216090ce9df3bbe3fc7235b",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.54-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:14.636064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.54-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.54-beta/neoforge-20.6.54-beta-installer.jar",
-        "sha1": "17c8aa615dbf23629aa38f939fd4b21f18dae96e",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.56-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:30.848067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.56-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.56-beta/neoforge-20.6.56-beta-installer.jar",
-        "sha1": "3ed79e17fb7959ba05bc2a779061a66b0b7ef134",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.57-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:23.596066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.57-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.57-beta/neoforge-20.6.57-beta-installer.jar",
-        "sha1": "e0ac421ea9c0ce7c078b5b1a36ea6ff9b2ae2b76",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.59-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:28.368066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.59-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.59-beta/neoforge-20.6.59-beta-installer.jar",
-        "sha1": "54dd6772af8af1f3aa1fa5d7032328aa92fe50b0",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.60-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:27.324066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.60-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.60-beta/neoforge-20.6.60-beta-installer.jar",
-        "sha1": "fc3d9f6875842760b4db59ad6345fe7bb2055f0e",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.61-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:02.708063+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.61-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.61-beta/neoforge-20.6.61-beta-installer.jar",
-        "sha1": "4e5a52614b94445a86c4716071e0afe83f7e0c08",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.62-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:25.392066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.62-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.62-beta/neoforge-20.6.62-beta-installer.jar",
-        "sha1": "2cb5214857a424d358305db11f09afc995c9fa32",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.63-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:29.780066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.63-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.63-beta/neoforge-20.6.63-beta-installer.jar",
-        "sha1": "07b1b70ce7afb95c52beb018e31cd85f15d135a4",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.66-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:25.920066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.66-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.66-beta/neoforge-20.6.66-beta-installer.jar",
-        "sha1": "2164e2d57913ea18099354a63c242e2d250b5b34",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.68-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:28.332066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.68-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.68-beta/neoforge-20.6.68-beta-installer.jar",
-        "sha1": "b3da49fef54913825d0c99b0130c004bbb91ba55",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.67-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:16.060065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.67-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.67-beta/neoforge-20.6.67-beta-installer.jar",
-        "sha1": "797ae480acd0a90f798ae458316123e4e7278018",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.69-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:21.884065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.69-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.69-beta/neoforge-20.6.69-beta-installer.jar",
-        "sha1": "c119ab461baf2fdea59275544d746cb0ff67f756",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.70-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:26.440066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.70-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.70-beta/neoforge-20.6.70-beta-installer.jar",
-        "sha1": "fef20beaeaef63a4b2f742a1ab06b9bbb553fba5",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.71-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:25:54.312061+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.71-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.71-beta/neoforge-20.6.71-beta-installer.jar",
-        "sha1": "6c9f5c79b0cd49151467d172dbaf5836aa96e113",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.72-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:27.136066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.72-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.72-beta/neoforge-20.6.72-beta-installer.jar",
-        "sha1": "cd093dbd3ee4bdfebc1beaeecf9d49c99e2c03a4",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.73-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:29.232066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.73-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.73-beta/neoforge-20.6.73-beta-installer.jar",
-        "sha1": "2479dc73c91d51586592b2f1c4703341591d24ef",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.74-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:24.324066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.74-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.74-beta/neoforge-20.6.74-beta-installer.jar",
-        "sha1": "f2f90f83d77f6b07fb23134ad3855f1772f43f98",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.75-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:28.748066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.75-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.75-beta/neoforge-20.6.75-beta-installer.jar",
-        "sha1": "b3928b971c719a6ad546f590bccbad170b492422",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.76-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:24.868066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.76-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.76-beta/neoforge-20.6.76-beta-installer.jar",
-        "sha1": "f3f399a75c133f321fa8af0b393b81fe5ade2ace",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.77-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:30.512067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.77-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.77-beta/neoforge-20.6.77-beta-installer.jar",
-        "sha1": "00ca2652dd47884946a1a09a2dc5884cabe6fbcc",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.78-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:21.452065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.78-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.78-beta/neoforge-20.6.78-beta-installer.jar",
-        "sha1": "7f22f93d4bda634d454b10966ca0b26b2d68c9d9",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.80-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:25.016066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.80-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.80-beta/neoforge-20.6.80-beta-installer.jar",
-        "sha1": "7195b5e1aed26685f8f98c456bd1cb443897446b",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.79-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:31.196067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.79-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.79-beta/neoforge-20.6.79-beta-installer.jar",
-        "sha1": "999b93756d5fd36047b1d78641fe545f700af78e",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.81-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:30.684067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.81-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.81-beta/neoforge-20.6.81-beta-installer.jar",
-        "sha1": "cc5c87a9e566455c4e9efa9d92d47c5bb1e3cb24",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.82-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:12.376064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.82-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.82-beta/neoforge-20.6.82-beta-installer.jar",
-        "sha1": "b59df5c5e85cef7eb6f266206a86d86b45fb25f7",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.83-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:27.848066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.83-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.83-beta/neoforge-20.6.83-beta-installer.jar",
-        "sha1": "fa85c69846f5a8a045ce45b5f0679f5e2e3e0b72",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.84-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:13.952064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.84-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.84-beta/neoforge-20.6.84-beta-installer.jar",
-        "sha1": "8394bd27419d2ea700a18b984869ec82cb9cd412",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.85-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:30.308067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.85-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.85-beta/neoforge-20.6.85-beta-installer.jar",
-        "sha1": "b916235ba00cdc2fb4407da1697c3337a291bece",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.87-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:31.008067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.87-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.87-beta/neoforge-20.6.87-beta-installer.jar",
-        "sha1": "feda2ecdede73657ea415400df46566c8356b850",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.88-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:24.160066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.88-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.88-beta/neoforge-20.6.88-beta-installer.jar",
-        "sha1": "e6acec22bcafc992e2dc0bc9a7dd32efa19f1bb7",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.89-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:22.884066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.89-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.89-beta/neoforge-20.6.89-beta-installer.jar",
-        "sha1": "d8fc5473d64143131e4b6e8bb3982af9b18cd048",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.91-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:25.760066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.91-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.91-beta/neoforge-20.6.91-beta-installer.jar",
-        "sha1": "5ba937ec6330073ff7ed804371be240e7175b66e",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.90-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:28.040066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.90-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.90-beta/neoforge-20.6.90-beta-installer.jar",
-        "sha1": "dadecf17734cfc2468b853ed3ce910d2a7886782",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.92-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:23.444066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.92-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.92-beta/neoforge-20.6.92-beta-installer.jar",
-        "sha1": "7b4b05b94f39df04b5dc2b0380fe3b9f25b13f88",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.93-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:31.896067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.93-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.93-beta/neoforge-20.6.93-beta-installer.jar",
-        "sha1": "f6b91872a5d52cc98f7e023a512b6076f8ed4924",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.95-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:23.084066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.95-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.95-beta/neoforge-20.6.95-beta-installer.jar",
-        "sha1": "ee72526ddfe589db6c5bacc633f176e393536a56",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.94-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:11.700064+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.94-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.94-beta/neoforge-20.6.94-beta-installer.jar",
-        "sha1": "214e8861dd837fe0e748673293d8cc7ca4534977",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.96-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:28.928066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.96-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.96-beta/neoforge-20.6.96-beta-installer.jar",
-        "sha1": "fb5a5ce6e5326b57ded03741457f48006e6c3a92",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.97-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:28.544066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.97-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.97-beta/neoforge-20.6.97-beta-installer.jar",
-        "sha1": "7ee1863c36bca13cb0334a1a31b055dcfd653467",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.98-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:23.244066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.98-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.98-beta/neoforge-20.6.98-beta-installer.jar",
-        "sha1": "cf4ed295e5acb31dcbb1610a2afb1d0edbe3aacc",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.99-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:27.676066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.99-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.99-beta/neoforge-20.6.99-beta-installer.jar",
-        "sha1": "1a4c1919ed84ada152f1eb7db25b04ff52e4eea6",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.100-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:21.980065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.100-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.100-beta/neoforge-20.6.100-beta-installer.jar",
-        "sha1": "acbeb35499a4a00672cdf1c06d577b83115bbfcf",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.103-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:24.496066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.103-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.103-beta/neoforge-20.6.103-beta-installer.jar",
-        "sha1": "b1cb053043308aaedc74060fb12e838574f89a20",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.104-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:25.188066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.104-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.104-beta/neoforge-20.6.104-beta-installer.jar",
-        "sha1": "fcf1dc9debf7af9c5d8a833985d014eee5142e7b",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.105-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:20.992065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.105-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.105-beta/neoforge-20.6.105-beta-installer.jar",
-        "sha1": "eb4a79f069761e12764df66f9e241e75f778ea09",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.106-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:23.840066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.106-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.106-beta/neoforge-20.6.106-beta-installer.jar",
-        "sha1": "252a7ec330b9dc4e00a079cff08649e757c2525b",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.107-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:26.624066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.107-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.107-beta/neoforge-20.6.107-beta-installer.jar",
-        "sha1": "3a1b43361bde3675d3cfe352eca9887ee44bd40b",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.108-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:15.772065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.108-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.108-beta/neoforge-20.6.108-beta-installer.jar",
-        "sha1": "1166d755d012a2df4197c0eaee693c7ec7842399",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.109-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:26.964066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.109-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.109-beta/neoforge-20.6.109-beta-installer.jar",
-        "sha1": "3a21afe1ca1d2233b60d6e08e64f3b86b9e6d67e",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.110-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:29.068066+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.110-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.110-beta/neoforge-20.6.110-beta-installer.jar",
-        "sha1": "38035bef229ac8734ad55d7a818f3be5343aa815",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.111-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:31.740067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.111-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.111-beta/neoforge-20.6.111-beta-installer.jar",
-        "sha1": "1cebc1be9fcbebf0e9d0d5e91d239fe35959d4c3",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.112-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:20.592065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.112-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.112-beta/neoforge-20.6.112-beta-installer.jar",
-        "sha1": "5b41c4942549c9c47518f9c262e563c6f92d628c",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.113-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:31.556067+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.113-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.113-beta/neoforge-20.6.113-beta-installer.jar",
-        "sha1": "08cda6049b329334607c2ac3eb56774264a8b766",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.114-beta",
-      "type": "snapshot",
-      "releaseTime": "2024-07-02T09:26:21.104065+00:00",
-      "recommended": false,
-      "download": {
-        "name": "neoforge-20.6.114-beta-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.114-beta/neoforge-20.6.114-beta-installer.jar",
-        "sha1": "f7359c4860013010cb5e41f4a3655326d909e580",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.115",
+      "build": "20.6.139",
       "type": "stable",
-      "releaseTime": "2024-07-02T09:26:31.360067+00:00",
+      "releaseTime": "2025-10-22T15:36:34.862156+00:00",
       "recommended": true,
       "download": {
-        "name": "neoforge-20.6.115-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.115/neoforge-20.6.115-installer.jar",
-        "sha1": "e7de2a83fd3213e91a295a84eb5184e078bc125c",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.116",
-      "type": "stable",
-      "releaseTime": "2024-07-02T09:26:23.972066+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.116-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.116/neoforge-20.6.116-installer.jar",
-        "sha1": "e87efc606cfba860bacd68f76fc8ef885903e4a9",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.117",
-      "type": "stable",
-      "releaseTime": "2024-07-02T09:26:22.692065+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.117-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.117/neoforge-20.6.117-installer.jar",
-        "sha1": "cd0c297a2951b5dc22d54124d2e30ad68cef1835",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.118",
-      "type": "stable",
-      "releaseTime": "2024-07-02T09:26:20.424065+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.118-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.118/neoforge-20.6.118-installer.jar",
-        "sha1": "0f6c463aab7c6f0ff85f1c43a3db84a01742a798",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.119",
-      "type": "stable",
-      "releaseTime": "2024-07-02T09:26:32.272067+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.119-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.119/neoforge-20.6.119-installer.jar",
-        "sha1": "eff6277a00b4c5016d348111e15264ff06b097a9",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.120",
-      "type": "stable",
-      "releaseTime": "2024-08-27T13:16:44.983853+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.120-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.120/neoforge-20.6.120-installer.jar",
-        "sha1": "c6053b4823d898f3c7ab47a8ec13a0c631d1dbcf",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.121",
-      "type": "stable",
-      "releaseTime": "2024-09-01T15:41:24.907338+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.121-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.121/neoforge-20.6.121-installer.jar",
-        "sha1": "8162d59441e596c4e3d5edea28f3a44ab0af3d97",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.122",
-      "type": "stable",
-      "releaseTime": "2024-12-15T22:16:41.700984+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.122-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.122/neoforge-20.6.122-installer.jar",
-        "sha1": "e9e080a0f750aa9453262630d40468dacd15d96b",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.123",
-      "type": "stable",
-      "releaseTime": "2024-12-26T11:23:31.236106+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.123-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.123/neoforge-20.6.123-installer.jar",
-        "sha1": "06a71fdb404e7cabe5707c5e7ea54a4190b754df",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.124",
-      "type": "stable",
-      "releaseTime": "2024-12-30T18:09:51.590789+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.124-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.124/neoforge-20.6.124-installer.jar",
-        "sha1": "29014bdc97189e76da5cbb123e2fd6c0118ff1b8",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.125",
-      "type": "stable",
-      "releaseTime": "2025-01-28T15:13:38.550748+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.125-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.125/neoforge-20.6.125-installer.jar",
-        "sha1": "42abd26d9206bb682baf9f2446bd552091fee0b4",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.127",
-      "type": "stable",
-      "releaseTime": "2025-04-18T10:54:44.155357+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.127-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.127/neoforge-20.6.127-installer.jar",
-        "sha1": "a02a6dfa43aca28aab11a69fe175f3e895824ba1",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.128",
-      "type": "stable",
-      "releaseTime": "2025-04-18T12:12:13.524594+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.128-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.128/neoforge-20.6.128-installer.jar",
-        "sha1": "1174ff13aa3cf81eece3f1df95385615fe8e9276",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.129",
-      "type": "stable",
-      "releaseTime": "2025-04-18T16:21:08.584959+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.129-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.129/neoforge-20.6.129-installer.jar",
-        "sha1": "d6496219c06589b49ed0a846526506fa8248760e",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.130",
-      "type": "stable",
-      "releaseTime": "2025-04-19T10:37:40.009971+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.130-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.130/neoforge-20.6.130-installer.jar",
-        "sha1": "47f8c8ade184a1aadeefeb20d785f6ad31985193",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.131",
-      "type": "stable",
-      "releaseTime": "2025-04-19T11:53:44.767508+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.131-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.131/neoforge-20.6.131-installer.jar",
-        "sha1": "cfcd621b6b730c2b94a1f580012a4fb29abf9961",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.132",
-      "type": "stable",
-      "releaseTime": "2025-04-19T23:23:30.724612+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.132-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.132/neoforge-20.6.132-installer.jar",
-        "sha1": "bd934bc791dc01247c28e7d242764772055cb0e9",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.133",
-      "type": "stable",
-      "releaseTime": "2025-04-20T17:31:50.298022+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.133-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.133/neoforge-20.6.133-installer.jar",
-        "sha1": "e862639cc59affbbae926b751fa23173293c3916",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.134",
-      "type": "stable",
-      "releaseTime": "2025-04-23T17:11:27.332610+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.134-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.134/neoforge-20.6.134-installer.jar",
-        "sha1": "a962e665f039ff676d2c8f5e1b1ec42384b09e2d",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.135",
-      "type": "stable",
-      "releaseTime": "2025-05-04T11:43:01.658152+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.135-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.135/neoforge-20.6.135-installer.jar",
-        "sha1": "de86d36e23702be1eada6825e1d073e261179f3e",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.136",
-      "type": "stable",
-      "releaseTime": "2025-07-09T10:34:24.556341+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.136-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.136/neoforge-20.6.136-installer.jar",
-        "sha1": "434cfb03d15e4b9e93bb3f818b12a8b42bb141c4",
-        "sha256": null
-      }
-    },
-    {
-      "build": "20.6.137",
-      "type": "stable",
-      "releaseTime": "2025-07-18T10:41:20.650967+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-20.6.137-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.137/neoforge-20.6.137-installer.jar",
-        "sha1": "f4129296ed8046a97dc00426b1b6ca662371911c",
+        "name": "neoforge-20.6.139-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.139/neoforge-20.6.139-installer.jar",
+        "sha1": "17a1801461d41fe5c0ed23e2ab77862701adf2f8",
         "sha256": null
       }
     },
@@ -1504,14 +28,1490 @@
       }
     },
     {
-      "build": "20.6.139",
+      "build": "20.6.137",
       "type": "stable",
-      "releaseTime": "2025-10-22T15:36:34.862156+00:00",
+      "releaseTime": "2025-07-18T10:41:20.650967+00:00",
       "recommended": true,
       "download": {
-        "name": "neoforge-20.6.139-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.139/neoforge-20.6.139-installer.jar",
-        "sha1": "17a1801461d41fe5c0ed23e2ab77862701adf2f8",
+        "name": "neoforge-20.6.137-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.137/neoforge-20.6.137-installer.jar",
+        "sha1": "f4129296ed8046a97dc00426b1b6ca662371911c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.136",
+      "type": "stable",
+      "releaseTime": "2025-07-09T10:34:24.556341+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.136-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.136/neoforge-20.6.136-installer.jar",
+        "sha1": "434cfb03d15e4b9e93bb3f818b12a8b42bb141c4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.135",
+      "type": "stable",
+      "releaseTime": "2025-05-04T11:43:01.658152+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.135-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.135/neoforge-20.6.135-installer.jar",
+        "sha1": "de86d36e23702be1eada6825e1d073e261179f3e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.134",
+      "type": "stable",
+      "releaseTime": "2025-04-23T17:11:27.332610+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.134-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.134/neoforge-20.6.134-installer.jar",
+        "sha1": "a962e665f039ff676d2c8f5e1b1ec42384b09e2d",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.133",
+      "type": "stable",
+      "releaseTime": "2025-04-20T17:31:50.298022+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.133-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.133/neoforge-20.6.133-installer.jar",
+        "sha1": "e862639cc59affbbae926b751fa23173293c3916",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.132",
+      "type": "stable",
+      "releaseTime": "2025-04-19T23:23:30.724612+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.132-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.132/neoforge-20.6.132-installer.jar",
+        "sha1": "bd934bc791dc01247c28e7d242764772055cb0e9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.131",
+      "type": "stable",
+      "releaseTime": "2025-04-19T11:53:44.767508+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.131-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.131/neoforge-20.6.131-installer.jar",
+        "sha1": "cfcd621b6b730c2b94a1f580012a4fb29abf9961",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.130",
+      "type": "stable",
+      "releaseTime": "2025-04-19T10:37:40.009971+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.130-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.130/neoforge-20.6.130-installer.jar",
+        "sha1": "47f8c8ade184a1aadeefeb20d785f6ad31985193",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.129",
+      "type": "stable",
+      "releaseTime": "2025-04-18T16:21:08.584959+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.129-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.129/neoforge-20.6.129-installer.jar",
+        "sha1": "d6496219c06589b49ed0a846526506fa8248760e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.128",
+      "type": "stable",
+      "releaseTime": "2025-04-18T12:12:13.524594+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.128-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.128/neoforge-20.6.128-installer.jar",
+        "sha1": "1174ff13aa3cf81eece3f1df95385615fe8e9276",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.127",
+      "type": "stable",
+      "releaseTime": "2025-04-18T10:54:44.155357+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.127-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.127/neoforge-20.6.127-installer.jar",
+        "sha1": "a02a6dfa43aca28aab11a69fe175f3e895824ba1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.125",
+      "type": "stable",
+      "releaseTime": "2025-01-28T15:13:38.550748+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.125-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.125/neoforge-20.6.125-installer.jar",
+        "sha1": "42abd26d9206bb682baf9f2446bd552091fee0b4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.124",
+      "type": "stable",
+      "releaseTime": "2024-12-30T18:09:51.590789+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.124-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.124/neoforge-20.6.124-installer.jar",
+        "sha1": "29014bdc97189e76da5cbb123e2fd6c0118ff1b8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.123",
+      "type": "stable",
+      "releaseTime": "2024-12-26T11:23:31.236106+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.123-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.123/neoforge-20.6.123-installer.jar",
+        "sha1": "06a71fdb404e7cabe5707c5e7ea54a4190b754df",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.122",
+      "type": "stable",
+      "releaseTime": "2024-12-15T22:16:41.700984+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.122-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.122/neoforge-20.6.122-installer.jar",
+        "sha1": "e9e080a0f750aa9453262630d40468dacd15d96b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.121",
+      "type": "stable",
+      "releaseTime": "2024-09-01T15:41:24.907338+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.121-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.121/neoforge-20.6.121-installer.jar",
+        "sha1": "8162d59441e596c4e3d5edea28f3a44ab0af3d97",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.120",
+      "type": "stable",
+      "releaseTime": "2024-08-27T13:16:44.983853+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.120-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.120/neoforge-20.6.120-installer.jar",
+        "sha1": "c6053b4823d898f3c7ab47a8ec13a0c631d1dbcf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.119",
+      "type": "stable",
+      "releaseTime": "2024-07-02T09:26:32.272067+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.119-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.119/neoforge-20.6.119-installer.jar",
+        "sha1": "eff6277a00b4c5016d348111e15264ff06b097a9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.118",
+      "type": "stable",
+      "releaseTime": "2024-07-02T09:26:20.424065+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.118-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.118/neoforge-20.6.118-installer.jar",
+        "sha1": "0f6c463aab7c6f0ff85f1c43a3db84a01742a798",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.117",
+      "type": "stable",
+      "releaseTime": "2024-07-02T09:26:22.692065+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.117-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.117/neoforge-20.6.117-installer.jar",
+        "sha1": "cd0c297a2951b5dc22d54124d2e30ad68cef1835",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.116",
+      "type": "stable",
+      "releaseTime": "2024-07-02T09:26:23.972066+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.116-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.116/neoforge-20.6.116-installer.jar",
+        "sha1": "e87efc606cfba860bacd68f76fc8ef885903e4a9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.115",
+      "type": "stable",
+      "releaseTime": "2024-07-02T09:26:31.360067+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-20.6.115-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.115/neoforge-20.6.115-installer.jar",
+        "sha1": "e7de2a83fd3213e91a295a84eb5184e078bc125c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.114-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:21.104065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.114-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.114-beta/neoforge-20.6.114-beta-installer.jar",
+        "sha1": "f7359c4860013010cb5e41f4a3655326d909e580",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.113-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:31.556067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.113-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.113-beta/neoforge-20.6.113-beta-installer.jar",
+        "sha1": "08cda6049b329334607c2ac3eb56774264a8b766",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.112-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:20.592065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.112-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.112-beta/neoforge-20.6.112-beta-installer.jar",
+        "sha1": "5b41c4942549c9c47518f9c262e563c6f92d628c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.111-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:31.740067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.111-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.111-beta/neoforge-20.6.111-beta-installer.jar",
+        "sha1": "1cebc1be9fcbebf0e9d0d5e91d239fe35959d4c3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.110-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:29.068066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.110-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.110-beta/neoforge-20.6.110-beta-installer.jar",
+        "sha1": "38035bef229ac8734ad55d7a818f3be5343aa815",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.109-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:26.964066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.109-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.109-beta/neoforge-20.6.109-beta-installer.jar",
+        "sha1": "3a21afe1ca1d2233b60d6e08e64f3b86b9e6d67e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.108-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:15.772065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.108-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.108-beta/neoforge-20.6.108-beta-installer.jar",
+        "sha1": "1166d755d012a2df4197c0eaee693c7ec7842399",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.107-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:26.624066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.107-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.107-beta/neoforge-20.6.107-beta-installer.jar",
+        "sha1": "3a1b43361bde3675d3cfe352eca9887ee44bd40b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.106-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:23.840066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.106-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.106-beta/neoforge-20.6.106-beta-installer.jar",
+        "sha1": "252a7ec330b9dc4e00a079cff08649e757c2525b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.105-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:20.992065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.105-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.105-beta/neoforge-20.6.105-beta-installer.jar",
+        "sha1": "eb4a79f069761e12764df66f9e241e75f778ea09",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.104-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:25.188066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.104-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.104-beta/neoforge-20.6.104-beta-installer.jar",
+        "sha1": "fcf1dc9debf7af9c5d8a833985d014eee5142e7b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.103-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:24.496066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.103-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.103-beta/neoforge-20.6.103-beta-installer.jar",
+        "sha1": "b1cb053043308aaedc74060fb12e838574f89a20",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.100-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:21.980065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.100-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.100-beta/neoforge-20.6.100-beta-installer.jar",
+        "sha1": "acbeb35499a4a00672cdf1c06d577b83115bbfcf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.99-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:27.676066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.99-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.99-beta/neoforge-20.6.99-beta-installer.jar",
+        "sha1": "1a4c1919ed84ada152f1eb7db25b04ff52e4eea6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.98-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:23.244066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.98-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.98-beta/neoforge-20.6.98-beta-installer.jar",
+        "sha1": "cf4ed295e5acb31dcbb1610a2afb1d0edbe3aacc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.97-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:28.544066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.97-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.97-beta/neoforge-20.6.97-beta-installer.jar",
+        "sha1": "7ee1863c36bca13cb0334a1a31b055dcfd653467",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.96-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:28.928066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.96-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.96-beta/neoforge-20.6.96-beta-installer.jar",
+        "sha1": "fb5a5ce6e5326b57ded03741457f48006e6c3a92",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.94-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:11.700064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.94-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.94-beta/neoforge-20.6.94-beta-installer.jar",
+        "sha1": "214e8861dd837fe0e748673293d8cc7ca4534977",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.95-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:23.084066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.95-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.95-beta/neoforge-20.6.95-beta-installer.jar",
+        "sha1": "ee72526ddfe589db6c5bacc633f176e393536a56",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.93-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:31.896067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.93-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.93-beta/neoforge-20.6.93-beta-installer.jar",
+        "sha1": "f6b91872a5d52cc98f7e023a512b6076f8ed4924",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.92-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:23.444066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.92-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.92-beta/neoforge-20.6.92-beta-installer.jar",
+        "sha1": "7b4b05b94f39df04b5dc2b0380fe3b9f25b13f88",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.90-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:28.040066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.90-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.90-beta/neoforge-20.6.90-beta-installer.jar",
+        "sha1": "dadecf17734cfc2468b853ed3ce910d2a7886782",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.91-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:25.760066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.91-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.91-beta/neoforge-20.6.91-beta-installer.jar",
+        "sha1": "5ba937ec6330073ff7ed804371be240e7175b66e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.89-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:22.884066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.89-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.89-beta/neoforge-20.6.89-beta-installer.jar",
+        "sha1": "d8fc5473d64143131e4b6e8bb3982af9b18cd048",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.88-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:24.160066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.88-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.88-beta/neoforge-20.6.88-beta-installer.jar",
+        "sha1": "e6acec22bcafc992e2dc0bc9a7dd32efa19f1bb7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.87-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:31.008067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.87-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.87-beta/neoforge-20.6.87-beta-installer.jar",
+        "sha1": "feda2ecdede73657ea415400df46566c8356b850",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.85-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:30.308067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.85-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.85-beta/neoforge-20.6.85-beta-installer.jar",
+        "sha1": "b916235ba00cdc2fb4407da1697c3337a291bece",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.84-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:13.952064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.84-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.84-beta/neoforge-20.6.84-beta-installer.jar",
+        "sha1": "8394bd27419d2ea700a18b984869ec82cb9cd412",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.83-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:27.848066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.83-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.83-beta/neoforge-20.6.83-beta-installer.jar",
+        "sha1": "fa85c69846f5a8a045ce45b5f0679f5e2e3e0b72",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.82-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:12.376064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.82-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.82-beta/neoforge-20.6.82-beta-installer.jar",
+        "sha1": "b59df5c5e85cef7eb6f266206a86d86b45fb25f7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.81-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:30.684067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.81-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.81-beta/neoforge-20.6.81-beta-installer.jar",
+        "sha1": "cc5c87a9e566455c4e9efa9d92d47c5bb1e3cb24",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.79-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:31.196067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.79-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.79-beta/neoforge-20.6.79-beta-installer.jar",
+        "sha1": "999b93756d5fd36047b1d78641fe545f700af78e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.80-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:25.016066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.80-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.80-beta/neoforge-20.6.80-beta-installer.jar",
+        "sha1": "7195b5e1aed26685f8f98c456bd1cb443897446b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.78-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:21.452065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.78-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.78-beta/neoforge-20.6.78-beta-installer.jar",
+        "sha1": "7f22f93d4bda634d454b10966ca0b26b2d68c9d9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.77-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:30.512067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.77-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.77-beta/neoforge-20.6.77-beta-installer.jar",
+        "sha1": "00ca2652dd47884946a1a09a2dc5884cabe6fbcc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.76-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:24.868066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.76-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.76-beta/neoforge-20.6.76-beta-installer.jar",
+        "sha1": "f3f399a75c133f321fa8af0b393b81fe5ade2ace",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.75-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:28.748066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.75-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.75-beta/neoforge-20.6.75-beta-installer.jar",
+        "sha1": "b3928b971c719a6ad546f590bccbad170b492422",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.74-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:24.324066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.74-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.74-beta/neoforge-20.6.74-beta-installer.jar",
+        "sha1": "f2f90f83d77f6b07fb23134ad3855f1772f43f98",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.73-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:29.232066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.73-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.73-beta/neoforge-20.6.73-beta-installer.jar",
+        "sha1": "2479dc73c91d51586592b2f1c4703341591d24ef",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.72-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:27.136066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.72-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.72-beta/neoforge-20.6.72-beta-installer.jar",
+        "sha1": "cd093dbd3ee4bdfebc1beaeecf9d49c99e2c03a4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.71-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:54.312061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.71-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.71-beta/neoforge-20.6.71-beta-installer.jar",
+        "sha1": "6c9f5c79b0cd49151467d172dbaf5836aa96e113",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.70-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:26.440066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.70-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.70-beta/neoforge-20.6.70-beta-installer.jar",
+        "sha1": "fef20beaeaef63a4b2f742a1ab06b9bbb553fba5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.69-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:21.884065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.69-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.69-beta/neoforge-20.6.69-beta-installer.jar",
+        "sha1": "c119ab461baf2fdea59275544d746cb0ff67f756",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.67-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:16.060065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.67-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.67-beta/neoforge-20.6.67-beta-installer.jar",
+        "sha1": "797ae480acd0a90f798ae458316123e4e7278018",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.68-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:28.332066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.68-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.68-beta/neoforge-20.6.68-beta-installer.jar",
+        "sha1": "b3da49fef54913825d0c99b0130c004bbb91ba55",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.66-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:25.920066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.66-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.66-beta/neoforge-20.6.66-beta-installer.jar",
+        "sha1": "2164e2d57913ea18099354a63c242e2d250b5b34",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.63-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:29.780066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.63-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.63-beta/neoforge-20.6.63-beta-installer.jar",
+        "sha1": "07b1b70ce7afb95c52beb018e31cd85f15d135a4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.62-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:25.392066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.62-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.62-beta/neoforge-20.6.62-beta-installer.jar",
+        "sha1": "2cb5214857a424d358305db11f09afc995c9fa32",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.61-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:02.708063+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.61-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.61-beta/neoforge-20.6.61-beta-installer.jar",
+        "sha1": "4e5a52614b94445a86c4716071e0afe83f7e0c08",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.60-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:27.324066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.60-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.60-beta/neoforge-20.6.60-beta-installer.jar",
+        "sha1": "fc3d9f6875842760b4db59ad6345fe7bb2055f0e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.59-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:28.368066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.59-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.59-beta/neoforge-20.6.59-beta-installer.jar",
+        "sha1": "54dd6772af8af1f3aa1fa5d7032328aa92fe50b0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.57-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:23.596066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.57-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.57-beta/neoforge-20.6.57-beta-installer.jar",
+        "sha1": "e0ac421ea9c0ce7c078b5b1a36ea6ff9b2ae2b76",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.56-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:30.848067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.56-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.56-beta/neoforge-20.6.56-beta-installer.jar",
+        "sha1": "3ed79e17fb7959ba05bc2a779061a66b0b7ef134",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.54-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:14.636064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.54-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.54-beta/neoforge-20.6.54-beta-installer.jar",
+        "sha1": "17c8aa615dbf23629aa38f939fd4b21f18dae96e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.55-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:08.428063+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.55-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.55-beta/neoforge-20.6.55-beta-installer.jar",
+        "sha1": "35c9899d0c77e6b2f216090ce9df3bbe3fc7235b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.53-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:26.284066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.53-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.53-beta/neoforge-20.6.53-beta-installer.jar",
+        "sha1": "b5129f237c7ddcbe857880076afca51d776eab8c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.52-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:30.140066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.52-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.52-beta/neoforge-20.6.52-beta-installer.jar",
+        "sha1": "4d0b6f6bddf9c3c781fb32aced7b8a73b047896c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.51-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:25.592066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.51-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.51-beta/neoforge-20.6.51-beta-installer.jar",
+        "sha1": "a95947d2d244b9a8e531710db18bf607f1f4d9ee",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.50-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:29.420066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.50-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.50-beta/neoforge-20.6.50-beta-installer.jar",
+        "sha1": "87878934a36cb0d4bc3a189d7098726b7ef95926",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.49-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:14.116064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.49-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.49-beta/neoforge-20.6.49-beta-installer.jar",
+        "sha1": "1b540e13d5fff99ac289b33e37947ec751d6cbf9",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.48-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:26.808066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.48-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.48-beta/neoforge-20.6.48-beta-installer.jar",
+        "sha1": "d4f04d97f3065bfe043ff40b09427b5153a378f0",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.46-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:22.324065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.46-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.46-beta/neoforge-20.6.46-beta-installer.jar",
+        "sha1": "88d6260f6e74bb86961104a51dd2f13d515213a4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.45-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:15.588064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.45-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.45-beta/neoforge-20.6.45-beta-installer.jar",
+        "sha1": "8d4581b298ca7b4079606c2135daadf77a71bb23",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.47-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:09.388064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.47-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.47-beta/neoforge-20.6.47-beta-installer.jar",
+        "sha1": "e60774e6859f34789eb84e14f406ecf6dd7f46d5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.44-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:14.300064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.44-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.44-beta/neoforge-20.6.44-beta-installer.jar",
+        "sha1": "d085ac0d212aafeb809e56b89ab07d03fc2ed1c8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.43-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:40.104059+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.43-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.43-beta/neoforge-20.6.43-beta-installer.jar",
+        "sha1": "8980e9dd824d93dd99b7ea553e28d136f4c5eba5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.42-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:45.220060+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.42-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.42-beta/neoforge-20.6.42-beta-installer.jar",
+        "sha1": "c225c280626d3ce84842f5f2d932fc5412b93374",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.41-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:12.028064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.41-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.41-beta/neoforge-20.6.41-beta-installer.jar",
+        "sha1": "e1016e2a57b231ab2260ad01f59c3b20d9dbcf1c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.40-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:29.964066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.40-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.40-beta/neoforge-20.6.40-beta-installer.jar",
+        "sha1": "5b7d061e9f9eaaca4cd095fa92202f68ee04220c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.39-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:29.580066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.39-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.39-beta/neoforge-20.6.39-beta-installer.jar",
+        "sha1": "e90255da8bbb36a4d546c6adab43cc942eda8964",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.32-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:58.668062+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.32-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.32-beta/neoforge-20.6.32-beta-installer.jar",
+        "sha1": "0272e9845c77c96c7d3d91a382189caeb434d119",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.31-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:03.032063+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.31-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.31-beta/neoforge-20.6.31-beta-installer.jar",
+        "sha1": "3dcbc022621f3fc22f5212714db124f954ddc270",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.29-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:01.640063+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.29-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.29-beta/neoforge-20.6.29-beta-installer.jar",
+        "sha1": "73ad9c4335edc2d9c857f44ae43cfebb2d40ca31",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.30-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:27.500066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.30-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.30-beta/neoforge-20.6.30-beta-installer.jar",
+        "sha1": "8e2c2b0f1488f4735d115250c1419c7d1f579ec1",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.28-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:22.220065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.28-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.28-beta/neoforge-20.6.28-beta-installer.jar",
+        "sha1": "a6212b2de8686bdca178aee3c2788e3da2b38cc8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.27-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:14.468064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.27-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.27-beta/neoforge-20.6.27-beta-installer.jar",
+        "sha1": "e1f981e388f49f1475991a31db28c28fd902fad6",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.26-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:13.808064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.26-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.26-beta/neoforge-20.6.26-beta-installer.jar",
+        "sha1": "46bbe0de96d767358975bea6ed4393cf626c8072",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.25-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:51.140061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.25-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.25-beta/neoforge-20.6.25-beta-installer.jar",
+        "sha1": "aff7ed64c5af99ca3b1088130a716c0d5c2ffd66",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.24-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:22.500065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.24-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.24-beta/neoforge-20.6.24-beta-installer.jar",
+        "sha1": "3542d32d3a46b901d94e41e632c188e2add4e7ec",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.23-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:51.516061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.23-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.23-beta/neoforge-20.6.23-beta-installer.jar",
+        "sha1": "bbbee059f28354bd51fde5ed5e705558387c3aab",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.22-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:01.308062+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.22-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.22-beta/neoforge-20.6.22-beta-installer.jar",
+        "sha1": "a9ea5468082b4afebb65a94b11ae7aeba27107da",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.21-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:20.756065+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.21-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.21-beta/neoforge-20.6.21-beta-installer.jar",
+        "sha1": "d07081241da7ac47999d95d28f9ecf1a93bbabdf",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.20-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:38.508059+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.20-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.20-beta/neoforge-20.6.20-beta-installer.jar",
+        "sha1": "552cb396126d415466cfd7001f4d60303c9bdc1e",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.19-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:41.780060+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.19-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.19-beta/neoforge-20.6.19-beta-installer.jar",
+        "sha1": "148a436d5dc0d4b030ea4bac01dd49fc0a941ae3",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.18-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:54.464061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.18-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.18-beta/neoforge-20.6.18-beta-installer.jar",
+        "sha1": "0f366ffb6564d60c1289abd0502a8dc5f853583b",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.17-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:12.216064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.17-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.17-beta/neoforge-20.6.17-beta-installer.jar",
+        "sha1": "c79cfb9c71018e7e7e7f6fe77b56cbbbdf8ba2f4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.16-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:51.708061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.16-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.16-beta/neoforge-20.6.16-beta-installer.jar",
+        "sha1": "41f6756fb3e7ddd49993283fdeaecea17ae71eb5",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.15-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:49.172061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.15-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.15-beta/neoforge-20.6.15-beta-installer.jar",
+        "sha1": "13ef525e422246e16150e9b94213ce27dc4af5ff",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.14-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:02.872063+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.14-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.14-beta/neoforge-20.6.14-beta-installer.jar",
+        "sha1": "d0ae4af7e3124042283ad962d72931c913564696",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.13-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:45.056060+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.13-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.13-beta/neoforge-20.6.13-beta-installer.jar",
+        "sha1": "2a342a4a0e42efed8bd96a828cb7104db95b20ee",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.12-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:51.344061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.12-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.12-beta/neoforge-20.6.12-beta-installer.jar",
+        "sha1": "69704a7b71d33c8a8318f9ac2c30939704e3627c",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.11-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:32.088067+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.11-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.11-beta/neoforge-20.6.11-beta-installer.jar",
+        "sha1": "4c3af7b0e12de75f80fc4c63ead76d16cfafa4d4",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.10-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:26.172066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.10-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.10-beta/neoforge-20.6.10-beta-installer.jar",
+        "sha1": "44ec48e0d5c3a8287b350bd71f2333798998118a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.9-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:46.456060+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.9-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.9-beta/neoforge-20.6.9-beta-installer.jar",
+        "sha1": "413f7dd06cc81c4efabf2868edaf012da38240da",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.8-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:09.576064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.8-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.8-beta/neoforge-20.6.8-beta-installer.jar",
+        "sha1": "c97d802e5bce6e35aa0ad3354c5106a2700aae5f",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.7-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:41.884060+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.7-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.7-beta/neoforge-20.6.7-beta-installer.jar",
+        "sha1": "712296fcd9e9030b89e0b9649bdf0a7ca7305e2a",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.6-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:50.792061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.6-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.6-beta/neoforge-20.6.6-beta-installer.jar",
+        "sha1": "d74ff49c44801479d404762fc484261672a7e4dc",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.5-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:39.984059+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.5-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.5-beta/neoforge-20.6.5-beta-installer.jar",
+        "sha1": "a5019351ad366efcd24db6529caafbaa50235bb8",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.4-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:24.660066+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.4-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.4-beta/neoforge-20.6.4-beta-installer.jar",
+        "sha1": "bd4fa2ad35e98fb7db31a5b114994901a3da1036",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.3-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:50.940061+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.3-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.3-beta/neoforge-20.6.3-beta-installer.jar",
+        "sha1": "455a497bc576c20d3375477672322cc40e73a184",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.2-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:26:15.000064+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.2-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.2-beta/neoforge-20.6.2-beta-installer.jar",
+        "sha1": "8e35aedaa5f0930cb44e75f242da76de584a4be2",
+        "sha256": null
+      }
+    },
+    {
+      "build": "20.6.1-beta",
+      "type": "snapshot",
+      "releaseTime": "2024-07-02T09:25:38.756059+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-20.6.1-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/20.6.1-beta/neoforge-20.6.1-beta-installer.jar",
+        "sha1": "19caf764374051fd7ed54d9d04fde6aaae9d4f2f",
         "sha256": null
       }
     }
