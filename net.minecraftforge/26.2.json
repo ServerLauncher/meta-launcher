@@ -4,6 +4,18 @@
   "mcVersion": "26.2",
   "builds": [
     {
+      "build": "26.2-65.0.1",
+      "type": "snapshot",
+      "releaseTime": "2026-06-25T16:08:51+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-26.2-65.0.1-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.0.1/forge-26.2-65.0.1-installer.jar",
+        "sha1": "f0e4d50325faeb49ef8254d5e3a0727f875168f4",
+        "sha256": null
+      }
+    },
+    {
       "build": "26.2-65.0.0",
       "type": "snapshot",
       "releaseTime": "2026-06-18T02:42:02+00:00",
