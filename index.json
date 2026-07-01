@@ -1,18 +1,12 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-06-30T13:35:37.443983+00:00",
+  "generatedAt": "2026-07-01T04:21:22.748631+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
       "name": "Mojang",
-      "sha256": "00dd2c32ea01bcafb150681532617409825aab5cf93938774dc7e89ed75b8831",
+      "sha256": "df70f7e84621d1100ac6afe5efada341397f64d4bb29a7c4b5357b438eb0c8de",
       "url": "net.minecraft/package.json"
-    },
-    {
-      "uid": "io.papermc.paper",
-      "name": "Paper",
-      "sha256": "030d80f852666c77e5802f7a5793594026922ae41c26d0e1290b810c71f63ab0",
-      "url": "io.papermc.paper/package.json"
     },
     {
       "uid": "build.purpurmc.purpur",
@@ -29,7 +23,7 @@
     {
       "uid": "net.fabricmc.fabric",
       "name": "Fabric",
-      "sha256": "0cd71f45c4c2d5cd31f2e7f87cd7792d51491c8203e98aef59297dcdcd4f503e",
+      "sha256": "9dbd57515fdb09f8d6f4b0896024ac5d57fb88790f77a722d89dc3be4cf10314",
       "url": "net.fabricmc.fabric/package.json"
     },
     {
@@ -47,7 +41,7 @@
     {
       "uid": "net.minecraftforge",
       "name": "Forge",
-      "sha256": "9946443c5c581e9ad4060425a415686988d4a5d8745f559e2a99e1b8498e9d59",
+      "sha256": "e9af76078744256908e3b8d45c710569b2504a83d9eb6f852fb74e7ed8c5891d",
       "url": "net.minecraftforge/package.json"
     }
   ]

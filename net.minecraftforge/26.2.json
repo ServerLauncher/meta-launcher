@@ -4,6 +4,30 @@
   "mcVersion": "26.2",
   "builds": [
     {
+      "build": "26.2-65.0.3",
+      "type": "snapshot",
+      "releaseTime": "2026-06-30T23:04:05+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-26.2-65.0.3-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.0.3/forge-26.2-65.0.3-installer.jar",
+        "sha1": "469663fffcb26fc8aec73072d9a36fba59c417d7",
+        "sha256": null
+      }
+    },
+    {
+      "build": "26.2-65.0.2",
+      "type": "snapshot",
+      "releaseTime": "2026-06-30T20:02:54+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-26.2-65.0.2-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.0.2/forge-26.2-65.0.2-installer.jar",
+        "sha1": "3df9811ca68e9aba86c09e78d1b49258ee8b1953",
+        "sha256": null
+      }
+    },
+    {
       "build": "26.2-65.0.1",
       "type": "snapshot",
       "releaseTime": "2026-06-25T16:08:51+00:00",
