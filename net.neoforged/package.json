@@ -3,8 +3,8 @@
   "uid": "net.neoforged",
   "name": "NeoForge",
   "recommended": [
-    "1.21.1",
     "26.1",
+    "1.21.1",
     "1.21.11",
     "1.21.5",
     "1.21.4",
@@ -120,21 +120,21 @@
       "type": "stable"
     },
     {
+      "mcVersion": "1.21.1",
+      "sha256": "b95deaa88f9e0dee2a3c6c760545db2922e5ed0802b613200dd618451fcd986d",
+      "url": "net.neoforged/21.1.235.json",
+      "type": "stable"
+    },
+    {
       "mcVersion": "26.1",
-      "sha256": "2e15a097e568e4b40e2c411ea0eaf540e37c4a092f0059ac2b46a8c1511c4d84",
-      "url": "net.neoforged/26.1.2.76.json",
+      "sha256": "0eec2e1304232a41ce1e702e36fee3a29c2ad3a9e24d4dd0cced2d1a32c79095",
+      "url": "net.neoforged/26.1.2.77.json",
       "type": "stable"
     },
     {
       "mcVersion": "26.2",
-      "sha256": "d34e545f29dbd9a065f1a7c813fbab69605c81f3f0143a3e6dd7c3a4f917e811",
-      "url": "net.neoforged/26.2.0.7-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "1.21.1",
-      "sha256": "b95deaa88f9e0dee2a3c6c760545db2922e5ed0802b613200dd618451fcd986d",
-      "url": "net.neoforged/21.1.235.json",
+      "sha256": "ef21cf0a9723e0991e63ec1cb89243bfa947c9ee0c295d21efe19d28eb053c38",
+      "url": "net.neoforged/26.2.0.8-beta.json",
       "type": "stable"
     }
   ]
