@@ -112,18 +112,6 @@
       }
     },
     {
-      "build": "21.1.225",
-      "type": "stable",
-      "releaseTime": "2026-04-11T13:06:20.748070+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-21.1.225-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.225/neoforge-21.1.225-installer.jar",
-        "sha1": "929ab2244f515fba3362bfef924b47d8f4a67eae",
-        "sha256": null
-      }
-    },
-    {
       "build": "21.1.226",
       "type": "stable",
       "releaseTime": "2026-04-11T13:06:04.540047+00:00",
@@ -132,6 +120,18 @@
         "name": "neoforge-21.1.226-installer.jar",
         "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.226/neoforge-21.1.226-installer.jar",
         "sha1": "308a60bcc70608ec10cdf6638547e832e9eb30ff",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.1.225",
+      "type": "stable",
+      "releaseTime": "2026-04-11T13:06:20.748070+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.1.225-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.225/neoforge-21.1.225-installer.jar",
+        "sha1": "929ab2244f515fba3362bfef924b47d8f4a67eae",
         "sha256": null
       }
     },
@@ -1612,18 +1612,6 @@
       }
     },
     {
-      "build": "21.1.100",
-      "type": "stable",
-      "releaseTime": "2025-01-23T17:20:43.704179+00:00",
-      "recommended": true,
-      "download": {
-        "name": "neoforge-21.1.100-installer.jar",
-        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.100/neoforge-21.1.100-installer.jar",
-        "sha1": "e80c757695de3eff5f2b679210e8e62c1074aed8",
-        "sha256": null
-      }
-    },
-    {
       "build": "21.1.101",
       "type": "stable",
       "releaseTime": "2025-01-23T17:19:40.520177+00:00",
@@ -1632,6 +1620,18 @@
         "name": "neoforge-21.1.101-installer.jar",
         "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.101/neoforge-21.1.101-installer.jar",
         "sha1": "b00f04c17fb9ab3573ac33457a4a0c5566f21503",
+        "sha256": null
+      }
+    },
+    {
+      "build": "21.1.100",
+      "type": "stable",
+      "releaseTime": "2025-01-23T17:20:43.704179+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.1.100-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.100/neoforge-21.1.100-installer.jar",
+        "sha1": "e80c757695de3eff5f2b679210e8e62c1074aed8",
         "sha256": null
       }
     },
