@@ -1,35 +1,35 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-07-09T03:45:14.275738+00:00",
+  "generatedAt": "2026-07-09T07:40:49.936701+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
       "name": "Mojang",
-      "sha256": "9f31e6695f1d0c34b7254b552f882758d0027aa06d8472ed2ce39765fef293fd",
+      "sha256": "0dc5d88b9883dd9df95e80e85f7b79102604703e41178a0137cc356ae1ace9fa",
       "url": "net.minecraft/package.json"
     },
     {
       "uid": "io.papermc.paper",
       "name": "Paper",
-      "sha256": "7efd0ded2da18575e9ec357e853920076713545b86ace56d796249a0040d6c88",
+      "sha256": "c16de8ee1e47a2ba7f0e90b78ee5e9e4ea6e8c1217f8fe3f23940d08809c0ee1",
       "url": "io.papermc.paper/package.json"
     },
     {
       "uid": "build.purpurmc.purpur",
       "name": "Purpur",
-      "sha256": "e388afdd308257f8f6b2495ad9e712d8a5ae03f707379604c41b46d5b380b2aa",
+      "sha256": "fba5def790875fca129a8c1f63132a0ae29d77cda857a9a0597e7bcd05d1a2b9",
       "url": "build.purpurmc.purpur/package.json"
     },
     {
       "uid": "net.neoforged",
       "name": "NeoForge",
-      "sha256": "c85a3d634ed2fbacb263b82015c1d8954652c80096827f8fc6075ebdeb72952e",
+      "sha256": "1a592091e0ea3635a097c51cf756dd5351ebe4857e2a06d0c5b2f4ab4d79a9d4",
       "url": "net.neoforged/package.json"
     },
     {
       "uid": "net.fabricmc.fabric",
       "name": "Fabric",
-      "sha256": "ce2f0d4622c9caaebb165b708c7d3fdb3d195c9f55ddd496328f421c2ee7a4d5",
+      "sha256": "10c47d8dd9bcd3ef948bc324901bd0eebd2893a43aa1932de07b39aa391dc7b5",
       "url": "net.fabricmc.fabric/package.json"
     },
     {
@@ -47,7 +47,7 @@
     {
       "uid": "net.minecraftforge",
       "name": "Forge",
-      "sha256": "6e2590f99b4e9211d1dac8a34311dc197aaca2c4cfff431f3ae319a0f85041df",
+      "sha256": "26b2b8b5368b2571b58c0dab1ad04ac378b44e3069e4cd358b47b8eba7fd040c",
       "url": "net.minecraftforge/package.json"
     }
   ]
