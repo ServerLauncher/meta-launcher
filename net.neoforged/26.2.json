@@ -4,6 +4,19 @@
   "mcVersion": "26.2",
   "builds": [
     {
+      "build": "26.2.0.13-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-07-14T06:54:00.687056+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.2.0.13-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.13-beta/neoforge-26.2.0.13-beta-installer.jar",
+        "sha1": "8d784e72923e6327106ec602fe82ba04d84bdef5",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.2.0.12-beta",
       "type": "snapshot",
       "releaseTime": "2026-07-12T21:29:50.625734+00:00",
