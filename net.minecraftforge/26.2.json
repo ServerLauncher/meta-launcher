@@ -4,6 +4,45 @@
   "mcVersion": "26.2",
   "builds": [
     {
+      "build": "26.2-65.0.9",
+      "type": "snapshot",
+      "releaseTime": "2026-07-21T23:11:36+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-26.2-65.0.9-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.0.9/forge-26.2-65.0.9-installer.jar",
+        "sha1": "2c27fc58bc955fb248829bb271b0844b607ad313",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.2-65.0.8",
+      "type": "snapshot",
+      "releaseTime": "2026-07-21T23:01:35+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-26.2-65.0.8-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.0.8/forge-26.2-65.0.8-installer.jar",
+        "sha1": "9cb5acd38a5c275519f07620de79ce618ce6823f",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.2-65.0.7",
+      "type": "snapshot",
+      "releaseTime": "2026-07-21T17:38:25+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-26.2-65.0.7-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.0.7/forge-26.2-65.0.7-installer.jar",
+        "sha1": "cfe47493aa181ecf5d8decc1fc6e9e6a80092074",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.2-65.0.6",
       "type": "snapshot",
       "releaseTime": "2026-07-19T16:20:01+00:00",
