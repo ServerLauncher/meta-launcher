@@ -4,6 +4,19 @@
   "mcVersion": "1.21.1",
   "builds": [
     {
+      "build": "21.1.243",
+      "type": "stable",
+      "releaseTime": "2026-07-22T12:38:16.368896+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-21.1.243-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.243/neoforge-21.1.243-installer.jar",
+        "sha1": "b3680601a092ace7afb66d32da1559953c158633",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "21.1.242",
       "type": "stable",
       "releaseTime": "2026-07-20T20:20:42.285717+00:00",
