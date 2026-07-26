@@ -4,10 +4,49 @@
   "mcVersion": "26.2",
   "builds": [
     {
+      "build": "71",
+      "type": "beta",
+      "releaseTime": "2026-07-25T13:55:11Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-26.2-71.jar",
+        "url": "https://fill-data.papermc.io/v1/objects/36fee4f3a7020eb2e2d6f8d70d849beaf0f024d86f09302b9ccf2d96f266127e/paper-26.2-71.jar",
+        "sha1": null,
+        "sha256": "36fee4f3a7020eb2e2d6f8d70d849beaf0f024d86f09302b9ccf2d96f266127e",
+        "md5": null
+      }
+    },
+    {
+      "build": "70",
+      "type": "beta",
+      "releaseTime": "2026-07-25T13:41:09Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-26.2-70.jar",
+        "url": "https://fill-data.papermc.io/v1/objects/ce7354444f837ffaff5b3ffe8674a41b6a30e0a730f8f8594e504c1bf9dbb25a/paper-26.2-70.jar",
+        "sha1": null,
+        "sha256": "ce7354444f837ffaff5b3ffe8674a41b6a30e0a730f8f8594e504c1bf9dbb25a",
+        "md5": null
+      }
+    },
+    {
+      "build": "69",
+      "type": "beta",
+      "releaseTime": "2026-07-25T13:32:56Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-26.2-69.jar",
+        "url": "https://fill-data.papermc.io/v1/objects/2d671738a6aeafc9623a235ae74dd63d715f36e02b3fa68d722b8c0a970fbfe8/paper-26.2-69.jar",
+        "sha1": null,
+        "sha256": "2d671738a6aeafc9623a235ae74dd63d715f36e02b3fa68d722b8c0a970fbfe8",
+        "md5": null
+      }
+    },
+    {
       "build": "68",
       "type": "beta",
       "releaseTime": "2026-07-25T12:21:55Z",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "paper-26.2-68.jar",
         "url": "https://fill-data.papermc.io/v1/objects/825963b3c22103c7501382d5d365b960a830e3f9c79d9aa2b06f32ad1a98659f/paper-26.2-68.jar",
