@@ -4,6 +4,45 @@
   "mcVersion": "26.2",
   "builds": [
     {
+      "build": "26.2.0.35-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-07-26T18:08:09.218769+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.2.0.35-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.35-beta/neoforge-26.2.0.35-beta-installer.jar",
+        "sha1": "9492312c2857577841af6c4d4e89effdd54b901e",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.2.0.34-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-07-26T17:57:52.705877+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.2.0.34-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.34-beta/neoforge-26.2.0.34-beta-installer.jar",
+        "sha1": "14b20d7cc6bb91ed1e7384a2f6a4ccb30016f4b7",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.2.0.33-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-07-26T17:53:37.309507+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.2.0.33-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.33-beta/neoforge-26.2.0.33-beta-installer.jar",
+        "sha1": "87b7e5e3ca9863baf9a1e0bc0de54de0862ac19e",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.2.0.32-beta",
       "type": "snapshot",
       "releaseTime": "2026-07-23T09:42:38.776431+00:00",
