@@ -3,6 +3,8 @@
   "uid": "net.minecraftforge",
   "name": "Forge",
   "recommended": [
+    "26.2",
+    "26.1.2",
     "1.21.11",
     "1.21.10",
     "1.21.8",
@@ -41,13 +43,13 @@
   "versions": [
     {
       "mcVersion": "26.2",
-      "sha256": "bc397fe6bb93fce7168f9ab9d8cca1ff8bf239e8585467b82ec68c38e2d4b9fc",
+      "sha256": "ecde4e0300a837b9f03613a3164a241ce65ae568e26d2eaa9aba37c03f035efd",
       "url": "net.minecraftforge/26.2.json",
       "type": "stable"
     },
     {
       "mcVersion": "26.1.2",
-      "sha256": "c668c7b632ac7a7b0293f25c7e935b3e59927516d2dc7c2d3bf4e201f07a3dee",
+      "sha256": "878f0cb4b9cf68ea0ca5ec689909915d028046643fd1975cd46996de1ab2df72",
       "url": "net.minecraftforge/26.1.2.json",
       "type": "stable"
     },
@@ -65,7 +67,7 @@
     },
     {
       "mcVersion": "1.21.11",
-      "sha256": "0a609c0e7cf90102944909455d22e18c92c0bf8fc81772e4c9b36f43ed0c0daa",
+      "sha256": "56155c9b44d1d2b9ed148c3d07c0f33a3c073ecaf1fb06dbd7f7a15af73721bf",
       "url": "net.minecraftforge/1.21.11.json",
       "type": "stable"
     },
