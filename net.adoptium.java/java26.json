@@ -130,6 +130,26 @@
     "linux-x64": [
       {
         "checksum": {
+          "hash": "585c4cce5807ce5677289a123680a8648c84c9afac66727a0e3027298d8e32c7",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre26.0.2+10",
+        "releaseTime": "2026-07-29T11:42:57Z",
+        "releaseName": "jdk-26.0.2+10",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_linux_hotspot_26.0.2_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 26,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
           "hash": "2e90cf68d31b28553fb2c8202d5a4c3a5e99a60285e125dc28c94ba5fb2ac1ef",
           "type": "sha256"
         },
