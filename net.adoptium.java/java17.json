@@ -1016,6 +1016,26 @@
     "mac-aarch64": [
       {
         "checksum": {
+          "hash": "3d1adc835e2e21fb7f3297c42a39bf07b8de58a83f8f05e01cf6c2890694c663",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.20+8",
+        "releaseTime": "2026-07-30T09:52:36Z",
+        "releaseName": "jdk-17.0.20+8",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.20_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 17,
+          "minor": 0,
+          "security": 20
+        }
+      },
+      {
+        "checksum": {
           "hash": "cef790b404cf168fd1a8a7abc5054fbb442c7d4bfe390cceccfe3f64b9b776a9",
           "type": "sha256"
         },
