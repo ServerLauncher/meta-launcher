@@ -734,6 +734,26 @@
     "mac-x64": [
       {
         "checksum": {
+          "hash": "56ba6743d1b5eb47e656f1f5e76501df44dea50579d8cab758176ec1b2277003",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre8.0.502+7",
+        "releaseTime": "2026-07-31T14:06:45Z",
+        "releaseName": "jdk8u502-b07",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u502-b07/OpenJDK8U-jre_x64_mac_hotspot_8u502b07.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 8,
+          "minor": 0,
+          "security": 502
+        }
+      },
+      {
+        "checksum": {
           "hash": "e4acfc82781f0a4ec1fb9785afee41dcb4bb444655d445a2b31edbacbe6bf040",
           "type": "sha256"
         },
