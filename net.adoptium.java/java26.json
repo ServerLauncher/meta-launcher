@@ -316,6 +316,26 @@
     "windows-x64": [
       {
         "checksum": {
+          "hash": "4323e886b6320e2166072bdfd604a4236c3dba6e5ab289e10aef623f09d355a0",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre26.0.2+10",
+        "releaseTime": "2026-08-03T08:47:23Z",
+        "releaseName": "jdk-26.0.2+10",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.zip",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 26,
+          "minor": 0,
+          "security": 2
+        }
+      },
+      {
+        "checksum": {
           "hash": "bab6b82ad8600dc177f45b3225d5810779fe9d90179561d877a731294e173404",
           "type": "sha256"
         },

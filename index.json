@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-08-03T03:27:21.668878+00:00",
+  "generatedAt": "2026-08-03T14:11:32.814936+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -23,13 +23,13 @@
     {
       "uid": "net.neoforged",
       "name": "NeoForge",
-      "sha256": "d5cc8e3b2fe7ff68eed5a7220682e9c50ed12fab58071cae6899a66e984c7f11",
+      "sha256": "fd856c17dff6d842388fa04b3d5c992f7ef217d32677bd1b940362efac298f3f",
       "url": "net.neoforged/package.json"
     },
     {
       "uid": "net.fabricmc.fabric",
       "name": "Fabric",
-      "sha256": "7ad21ee6a1321e24f7ec1790b3333f88c271dc85f2e43634713437e6dc133f5f",
+      "sha256": "ae40c455b75b1ed69ad4158e2d1a03597b06f43fe071887ef2a89599fbc39701",
       "url": "net.fabricmc.fabric/package.json"
     },
     {
@@ -41,7 +41,7 @@
     {
       "uid": "net.adoptium.java",
       "name": "Java Runtimes",
-      "sha256": "93abfb7be097c6060ac1d91dbb32f04ce69d760f5feb301b068babf74cdbdb62",
+      "sha256": "8b1cd8aa64a9691263b26fd40260935776c353d160a42d8f7d2fbcd6019a006a",
       "url": "net.adoptium.java/package.json"
     },
     {
