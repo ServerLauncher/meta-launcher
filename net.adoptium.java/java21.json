@@ -3,6 +3,612 @@
   "uid": "java21",
   "major": 21,
   "platforms": {
+    "mac-aarch64": [
+      {
+        "checksum": {
+          "hash": "36bb71d6fa5184e12a6483e7662783c2cbd383f5dca8034140f0a84dd5aa797d",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.12+8",
+        "releaseTime": "2026-07-30T08:38:52Z",
+        "releaseName": "jdk-21.0.12+8",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.12_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 21,
+          "minor": 0,
+          "security": 12
+        }
+      },
+      {
+        "checksum": {
+          "hash": "dec50fc6f9fcd4fe3ae8cabf5a5fa68f6afc48841f7698e468e9aa5d54beed84",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.12+1",
+        "releaseTime": "2026-08-19T12:10:24Z",
+        "releaseName": "jdk-21.0.12.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.12.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 21,
+          "minor": 0,
+          "security": 12
+        }
+      },
+      {
+        "checksum": {
+          "hash": "4b7a8cd23102c251c8b8be42a9a5f1263fb337cf1037f6f64b25f3070efe4b76",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.11+10",
+        "releaseTime": "2026-04-27T08:35:44Z",
+        "releaseName": "jdk-21.0.11+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.11_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 21,
+          "minor": 0,
+          "security": 11
+        }
+      },
+      {
+        "checksum": {
+          "hash": "c3be8c87f1a5cdc727903546eb810e112f94cd7222dac6a9d3f3146ee932008d",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.10+7",
+        "releaseTime": "2026-02-03T16:15:40Z",
+        "releaseName": "jdk-21.0.10+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.10_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 10
+        }
+      },
+      {
+        "checksum": {
+          "hash": "1f7f6506b598e85d7d8ff8b36563d98657d2d81b16bfca3cd242d7906cfbd11b",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.9+10",
+        "releaseTime": "2025-10-23T19:55:29Z",
+        "releaseName": "jdk-21.0.9+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 21,
+          "minor": 0,
+          "security": 9
+        }
+      },
+      {
+        "checksum": {
+          "hash": "7849fd9e0d48c6638a1f82a81000ef170e32600fd7a32fc257668e7e7ae041b4",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.8+9",
+        "releaseTime": "2025-07-18T14:57:36Z",
+        "releaseName": "jdk-21.0.8+9",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 21,
+          "minor": 0,
+          "security": 8
+        }
+      },
+      {
+        "checksum": {
+          "hash": "61dca7744d0b92d5d270f03e2ff32d64e95f3f7c8d0acbe642d7733ccb8523ac",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.7+6",
+        "releaseTime": "2025-04-16T14:22:17Z",
+        "releaseName": "jdk-21.0.7+6",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 6,
+          "major": 21,
+          "minor": 0,
+          "security": 7
+        }
+      },
+      {
+        "checksum": {
+          "hash": "9b792bbd408676483caaeb619439190abf1552fe11ab05b19c80d408e5f49c25",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.6+7",
+        "releaseTime": "2025-01-22T17:43:45Z",
+        "releaseName": "jdk-21.0.6+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 6
+        }
+      },
+      {
+        "checksum": {
+          "hash": "12249a1c5386957c93fc372260c483ae921b1ec6248a5136725eabd0abc07f93",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.5+11",
+        "releaseTime": "2024-10-18T11:42:00Z",
+        "releaseName": "jdk-21.0.5+11",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 11,
+          "major": 21,
+          "minor": 0,
+          "security": 5
+        }
+      },
+      {
+        "checksum": {
+          "hash": "14b39c00ec0ec6e0c465f784261449d0a1c4256b3b15c63c222397ccb31758aa",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.4+7",
+        "releaseTime": "2024-07-19T13:02:01Z",
+        "releaseName": "jdk-21.0.4+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 4
+        }
+      }
+    ],
+    "mac-x64": [
+      {
+        "checksum": {
+          "hash": "539706197baea8189c9a677aea5bf44671b74a71baa42dde436e312f2158fa3a",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.12+8",
+        "releaseTime": "2026-07-28T08:03:47Z",
+        "releaseName": "jdk-21.0.12+8",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_mac_hotspot_21.0.12_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 21,
+          "minor": 0,
+          "security": 12
+        }
+      },
+      {
+        "checksum": {
+          "hash": "6717ec641fd9ce0bb209ca083ee23b42202ac68cb6fcc5753496e0e4a0f41989",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.12+1",
+        "releaseTime": "2026-08-19T12:12:38Z",
+        "releaseName": "jdk-21.0.12.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_x64_mac_hotspot_21.0.12.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 21,
+          "minor": 0,
+          "security": 12
+        }
+      },
+      {
+        "checksum": {
+          "hash": "b341fb8ed5b70d49066b98176bc98e30f55082192403deb60e0cd5948b6e7923",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.11+10",
+        "releaseTime": "2026-04-27T09:28:34Z",
+        "releaseName": "jdk-21.0.11+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.11_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 21,
+          "minor": 0,
+          "security": 11
+        }
+      },
+      {
+        "checksum": {
+          "hash": "008d2bb904c0e07500b92bf4b0f8d434d694b13d5189f06358a52d46b1351f37",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.10+7",
+        "releaseTime": "2026-01-30T03:24:32Z",
+        "releaseName": "jdk-21.0.10+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.10_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 10
+        }
+      },
+      {
+        "checksum": {
+          "hash": "945abc49249f1e89a2a6a008d70d63dc42b25bbe5e1711ff97aeec70063008d2",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.9+10",
+        "releaseTime": "2025-11-03T20:11:53Z",
+        "releaseName": "jdk-21.0.9+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 21,
+          "minor": 0,
+          "security": 9
+        }
+      },
+      {
+        "checksum": {
+          "hash": "34464861ed170ea0e5acdf870011f9e92f836e712b620ba37c4b2d0e5aeb8675",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.8+9",
+        "releaseTime": "2025-07-17T18:25:45Z",
+        "releaseName": "jdk-21.0.8+9",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 21,
+          "minor": 0,
+          "security": 8
+        }
+      },
+      {
+        "checksum": {
+          "hash": "c43f6adf33cc76f9060cedc879f004958296d8f924c6c9838d2f6eec4478ac0f",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.7+6",
+        "releaseTime": "2025-04-16T14:26:09Z",
+        "releaseName": "jdk-21.0.7+6",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 6,
+          "major": 21,
+          "minor": 0,
+          "security": 7
+        }
+      },
+      {
+        "checksum": {
+          "hash": "632f7cba1aa752ae4108eccf3abc8b7e51b75d262e11e0cb9077b847438e5549",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.6+7",
+        "releaseTime": "2025-01-23T21:30:59Z",
+        "releaseName": "jdk-21.0.6+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 6
+        }
+      },
+      {
+        "checksum": {
+          "hash": "0e0dcb571f7bf7786c111fe066932066d9eab080c9f86d8178da3e564324ee81",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.5+11",
+        "releaseTime": "2024-10-16T16:39:56Z",
+        "releaseName": "jdk-21.0.5+11",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 11,
+          "major": 21,
+          "minor": 0,
+          "security": 5
+        }
+      },
+      {
+        "checksum": {
+          "hash": "f67f17413d012672da11163dd73600e0d92eef6f6ff27c6ae25523bd9df74222",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.4+7",
+        "releaseTime": "2024-07-19T09:50:02Z",
+        "releaseName": "jdk-21.0.4+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 4
+        }
+      }
+    ],
+    "linux-alpine-x64": [
+      {
+        "checksum": {
+          "hash": "9a7f8712a2741bb14e2452eed2de99f62d02e05617e27d59f1861a0cdad58486",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.12+8",
+        "releaseTime": "2026-07-28T08:01:04Z",
+        "releaseName": "jdk-21.0.12+8",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.12_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 21,
+          "minor": 0,
+          "security": 12
+        }
+      },
+      {
+        "checksum": {
+          "hash": "7bc7c2f9ba5ffea5f727e14581964bd54294b8edc2be9a79ea6393f8d0799200",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.12+1",
+        "releaseTime": "2026-08-19T12:14:28Z",
+        "releaseName": "jdk-21.0.12.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.12.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 21,
+          "minor": 0,
+          "security": 12
+        }
+      },
+      {
+        "checksum": {
+          "hash": "b75c9f0dd052adfd213f0c2c1cc0c8a6d4539a8de9f7947d2b8fc45d18289975",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.11+10",
+        "releaseTime": "2026-04-25T09:00:09Z",
+        "releaseName": "jdk-21.0.11+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.11_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 21,
+          "minor": 0,
+          "security": 11
+        }
+      },
+      {
+        "checksum": {
+          "hash": "4f6200277644afe6ad49218ae1dd45ab3d0d0b2ac4109163604e36156a93a306",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.10+7",
+        "releaseTime": "2026-01-21T18:40:47Z",
+        "releaseName": "jdk-21.0.10+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.10_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 10
+        }
+      },
+      {
+        "checksum": {
+          "hash": "17aca4ecc1600f70ec88ea0f8bf3a06ba6806bdae8c96d03c07683c800f0d4e8",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.9+10",
+        "releaseTime": "2025-10-24T08:03:17Z",
+        "releaseName": "jdk-21.0.9+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 21,
+          "minor": 0,
+          "security": 9
+        }
+      },
+      {
+        "checksum": {
+          "hash": "f499e2d5c596fd531c8427b2fb207c9eeabed783adad32aeed64b03dd476a231",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.8+9",
+        "releaseTime": "2025-07-18T13:29:54Z",
+        "releaseName": "jdk-21.0.8+9",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.8_9.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 21,
+          "minor": 0,
+          "security": 8
+        }
+      },
+      {
+        "checksum": {
+          "hash": "f252e13683b381f9f3bfa4948c827ebd80b8e5bd444a1f99de02c56d76c7ad4c",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.7+6",
+        "releaseTime": "2025-04-18T18:32:25Z",
+        "releaseName": "jdk-21.0.7+6",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 6,
+          "major": 21,
+          "minor": 0,
+          "security": 7
+        }
+      },
+      {
+        "checksum": {
+          "hash": "2330f38feb59ab7af0e2fffc12d5500005d35f7f53f49dd8a9f9aa1ae68aee5f",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.6+7",
+        "releaseTime": "2025-01-27T13:58:17Z",
+        "releaseName": "jdk-21.0.6+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.6_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 6
+        }
+      },
+      {
+        "checksum": {
+          "hash": "2dfa33fb8e9474e6967c6cf17964abb5ddce9c17fa6a9f8d7aa221a0ae295df9",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.5+11",
+        "releaseTime": "2024-10-17T16:22:16Z",
+        "releaseName": "jdk-21.0.5+11",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.5_11.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 11,
+          "major": 21,
+          "minor": 0,
+          "security": 5
+        }
+      },
+      {
+        "checksum": {
+          "hash": "0dfd0ebab44d777f65bceaff7f79e8e0b9deb74a5eb166922483f1864bcf2052",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.4+7",
+        "releaseTime": "2024-07-18T12:30:47Z",
+        "releaseName": "jdk-21.0.4+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 21,
+          "minor": 0,
+          "security": 4
+        }
+      }
+    ],
     "linux-x64": [
       {
         "checksum": {
@@ -19,6 +625,26 @@
         "vendor": "eclipse",
         "versionInfo": {
           "build": 8,
+          "major": 21,
+          "minor": 0,
+          "security": 12
+        }
+      },
+      {
+        "checksum": {
+          "hash": "2413149700df0f7d440500a84a8f764c535f21e5a5e87d38328b64eec2c5b500",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre21.0.12+1",
+        "releaseTime": "2026-08-19T17:12:57Z",
+        "releaseName": "jdk-21.0.12.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_x64_linux_hotspot_21.0.12.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
           "major": 21,
           "minor": 0,
           "security": 12
@@ -182,26 +808,6 @@
           "major": 21,
           "minor": 0,
           "security": 4
-        }
-      },
-      {
-        "checksum": {
-          "hash": "f1af100c4afca2035f446967323230150cfe5872b5a664d98c86963e5c066e0d",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.3+9",
-        "releaseTime": "2024-04-18T17:27:33Z",
-        "releaseName": "jdk-21.0.3+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_linux_hotspot_21.0.3_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 3
         }
       }
     ],
@@ -385,430 +991,6 @@
           "minor": 0,
           "security": 4
         }
-      },
-      {
-        "checksum": {
-          "hash": "c7c31bc6f5ab4c4b6f4559e11c2fa9541ae6757ab8da6dd85c29163913bd9238",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.3+9",
-        "releaseTime": "2024-04-18T17:30:38Z",
-        "releaseName": "jdk-21.0.3+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.3_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 3
-        }
-      }
-    ],
-    "linux-alpine-x64": [
-      {
-        "checksum": {
-          "hash": "9a7f8712a2741bb14e2452eed2de99f62d02e05617e27d59f1861a0cdad58486",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.12+8",
-        "releaseTime": "2026-07-28T08:01:04Z",
-        "releaseName": "jdk-21.0.12+8",
-        "recommended": true,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.12_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 21,
-          "minor": 0,
-          "security": 12
-        }
-      },
-      {
-        "checksum": {
-          "hash": "b75c9f0dd052adfd213f0c2c1cc0c8a6d4539a8de9f7947d2b8fc45d18289975",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.11+10",
-        "releaseTime": "2026-04-25T09:00:09Z",
-        "releaseName": "jdk-21.0.11+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.11_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 21,
-          "minor": 0,
-          "security": 11
-        }
-      },
-      {
-        "checksum": {
-          "hash": "4f6200277644afe6ad49218ae1dd45ab3d0d0b2ac4109163604e36156a93a306",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.10+7",
-        "releaseTime": "2026-01-21T18:40:47Z",
-        "releaseName": "jdk-21.0.10+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.10_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 10
-        }
-      },
-      {
-        "checksum": {
-          "hash": "17aca4ecc1600f70ec88ea0f8bf3a06ba6806bdae8c96d03c07683c800f0d4e8",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.9+10",
-        "releaseTime": "2025-10-24T08:03:17Z",
-        "releaseName": "jdk-21.0.9+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 21,
-          "minor": 0,
-          "security": 9
-        }
-      },
-      {
-        "checksum": {
-          "hash": "f499e2d5c596fd531c8427b2fb207c9eeabed783adad32aeed64b03dd476a231",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.8+9",
-        "releaseTime": "2025-07-18T13:29:54Z",
-        "releaseName": "jdk-21.0.8+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.8_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 8
-        }
-      },
-      {
-        "checksum": {
-          "hash": "f252e13683b381f9f3bfa4948c827ebd80b8e5bd444a1f99de02c56d76c7ad4c",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.7+6",
-        "releaseTime": "2025-04-18T18:32:25Z",
-        "releaseName": "jdk-21.0.7+6",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 6,
-          "major": 21,
-          "minor": 0,
-          "security": 7
-        }
-      },
-      {
-        "checksum": {
-          "hash": "2330f38feb59ab7af0e2fffc12d5500005d35f7f53f49dd8a9f9aa1ae68aee5f",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.6+7",
-        "releaseTime": "2025-01-27T13:58:17Z",
-        "releaseName": "jdk-21.0.6+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.6_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 6
-        }
-      },
-      {
-        "checksum": {
-          "hash": "2dfa33fb8e9474e6967c6cf17964abb5ddce9c17fa6a9f8d7aa221a0ae295df9",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.5+11",
-        "releaseTime": "2024-10-17T16:22:16Z",
-        "releaseName": "jdk-21.0.5+11",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.5_11.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 11,
-          "major": 21,
-          "minor": 0,
-          "security": 5
-        }
-      },
-      {
-        "checksum": {
-          "hash": "0dfd0ebab44d777f65bceaff7f79e8e0b9deb74a5eb166922483f1864bcf2052",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.4+7",
-        "releaseTime": "2024-07-18T12:30:47Z",
-        "releaseName": "jdk-21.0.4+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 4
-        }
-      },
-      {
-        "checksum": {
-          "hash": "b3e7170deab11a7089fe8e14f9f398424fd86db085f745dad212f6cfc4121df6",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.3+9",
-        "releaseTime": "2024-04-20T21:03:38Z",
-        "releaseName": "jdk-21.0.3+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.3_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 3
-        }
-      }
-    ],
-    "mac-x64": [
-      {
-        "checksum": {
-          "hash": "539706197baea8189c9a677aea5bf44671b74a71baa42dde436e312f2158fa3a",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.12+8",
-        "releaseTime": "2026-07-28T08:03:47Z",
-        "releaseName": "jdk-21.0.12+8",
-        "recommended": true,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_x64_mac_hotspot_21.0.12_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 21,
-          "minor": 0,
-          "security": 12
-        }
-      },
-      {
-        "checksum": {
-          "hash": "b341fb8ed5b70d49066b98176bc98e30f55082192403deb60e0cd5948b6e7923",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.11+10",
-        "releaseTime": "2026-04-27T09:28:34Z",
-        "releaseName": "jdk-21.0.11+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.11_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 21,
-          "minor": 0,
-          "security": 11
-        }
-      },
-      {
-        "checksum": {
-          "hash": "008d2bb904c0e07500b92bf4b0f8d434d694b13d5189f06358a52d46b1351f37",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.10+7",
-        "releaseTime": "2026-01-30T03:24:32Z",
-        "releaseName": "jdk-21.0.10+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.10_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 10
-        }
-      },
-      {
-        "checksum": {
-          "hash": "945abc49249f1e89a2a6a008d70d63dc42b25bbe5e1711ff97aeec70063008d2",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.9+10",
-        "releaseTime": "2025-11-03T20:11:53Z",
-        "releaseName": "jdk-21.0.9+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 21,
-          "minor": 0,
-          "security": 9
-        }
-      },
-      {
-        "checksum": {
-          "hash": "34464861ed170ea0e5acdf870011f9e92f836e712b620ba37c4b2d0e5aeb8675",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.8+9",
-        "releaseTime": "2025-07-17T18:25:45Z",
-        "releaseName": "jdk-21.0.8+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 8
-        }
-      },
-      {
-        "checksum": {
-          "hash": "c43f6adf33cc76f9060cedc879f004958296d8f924c6c9838d2f6eec4478ac0f",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.7+6",
-        "releaseTime": "2025-04-16T14:26:09Z",
-        "releaseName": "jdk-21.0.7+6",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 6,
-          "major": 21,
-          "minor": 0,
-          "security": 7
-        }
-      },
-      {
-        "checksum": {
-          "hash": "632f7cba1aa752ae4108eccf3abc8b7e51b75d262e11e0cb9077b847438e5549",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.6+7",
-        "releaseTime": "2025-01-23T21:30:59Z",
-        "releaseName": "jdk-21.0.6+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 6
-        }
-      },
-      {
-        "checksum": {
-          "hash": "0e0dcb571f7bf7786c111fe066932066d9eab080c9f86d8178da3e564324ee81",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.5+11",
-        "releaseTime": "2024-10-16T16:39:56Z",
-        "releaseName": "jdk-21.0.5+11",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 11,
-          "major": 21,
-          "minor": 0,
-          "security": 5
-        }
-      },
-      {
-        "checksum": {
-          "hash": "f67f17413d012672da11163dd73600e0d92eef6f6ff27c6ae25523bd9df74222",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.4+7",
-        "releaseTime": "2024-07-19T09:50:02Z",
-        "releaseName": "jdk-21.0.4+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 4
-        }
-      },
-      {
-        "checksum": {
-          "hash": "d7fc89c196ed03deb8a98f6599e1b2e78859ec8ec752142549cd3710f3e1a025",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.3+9",
-        "releaseTime": "2024-04-19T14:23:01Z",
-        "releaseName": "jdk-21.0.3+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 3
-        }
       }
     ],
     "windows-x64": [
@@ -990,228 +1172,6 @@
           "major": 21,
           "minor": 0,
           "security": 4
-        }
-      },
-      {
-        "checksum": {
-          "hash": "f79eaa741cb9ec4d20c7fd57a0fc52c715da183bc68eb19f4778b816b89ef003",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.3+9",
-        "releaseTime": "2024-04-18T17:23:37Z",
-        "releaseName": "jdk-21.0.3+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.zip",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 3
-        }
-      }
-    ],
-    "mac-aarch64": [
-      {
-        "checksum": {
-          "hash": "36bb71d6fa5184e12a6483e7662783c2cbd383f5dca8034140f0a84dd5aa797d",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.12+8",
-        "releaseTime": "2026-07-30T08:38:52Z",
-        "releaseName": "jdk-21.0.12+8",
-        "recommended": true,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.12_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 21,
-          "minor": 0,
-          "security": 12
-        }
-      },
-      {
-        "checksum": {
-          "hash": "4b7a8cd23102c251c8b8be42a9a5f1263fb337cf1037f6f64b25f3070efe4b76",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.11+10",
-        "releaseTime": "2026-04-27T08:35:44Z",
-        "releaseName": "jdk-21.0.11+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.11_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 21,
-          "minor": 0,
-          "security": 11
-        }
-      },
-      {
-        "checksum": {
-          "hash": "c3be8c87f1a5cdc727903546eb810e112f94cd7222dac6a9d3f3146ee932008d",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.10+7",
-        "releaseTime": "2026-02-03T16:15:40Z",
-        "releaseName": "jdk-21.0.10+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.10_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 10
-        }
-      },
-      {
-        "checksum": {
-          "hash": "1f7f6506b598e85d7d8ff8b36563d98657d2d81b16bfca3cd242d7906cfbd11b",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.9+10",
-        "releaseTime": "2025-10-23T19:55:29Z",
-        "releaseName": "jdk-21.0.9+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 21,
-          "minor": 0,
-          "security": 9
-        }
-      },
-      {
-        "checksum": {
-          "hash": "7849fd9e0d48c6638a1f82a81000ef170e32600fd7a32fc257668e7e7ae041b4",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.8+9",
-        "releaseTime": "2025-07-18T14:57:36Z",
-        "releaseName": "jdk-21.0.8+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 8
-        }
-      },
-      {
-        "checksum": {
-          "hash": "61dca7744d0b92d5d270f03e2ff32d64e95f3f7c8d0acbe642d7733ccb8523ac",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.7+6",
-        "releaseTime": "2025-04-16T14:22:17Z",
-        "releaseName": "jdk-21.0.7+6",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 6,
-          "major": 21,
-          "minor": 0,
-          "security": 7
-        }
-      },
-      {
-        "checksum": {
-          "hash": "9b792bbd408676483caaeb619439190abf1552fe11ab05b19c80d408e5f49c25",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.6+7",
-        "releaseTime": "2025-01-22T17:43:45Z",
-        "releaseName": "jdk-21.0.6+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 6
-        }
-      },
-      {
-        "checksum": {
-          "hash": "12249a1c5386957c93fc372260c483ae921b1ec6248a5136725eabd0abc07f93",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.5+11",
-        "releaseTime": "2024-10-18T11:42:00Z",
-        "releaseName": "jdk-21.0.5+11",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 11,
-          "major": 21,
-          "minor": 0,
-          "security": 5
-        }
-      },
-      {
-        "checksum": {
-          "hash": "14b39c00ec0ec6e0c465f784261449d0a1c4256b3b15c63c222397ccb31758aa",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.4+7",
-        "releaseTime": "2024-07-19T13:02:01Z",
-        "releaseName": "jdk-21.0.4+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 21,
-          "minor": 0,
-          "security": 4
-        }
-      },
-      {
-        "checksum": {
-          "hash": "8df56361b834c4681ef304ae9dc8406ce3d79c8572d2d6c2fefcbea55be7d86b",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre21.0.3+9",
-        "releaseTime": "2024-04-19T08:32:27Z",
-        "releaseName": "jdk-21.0.3+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 21,
-          "minor": 0,
-          "security": 3
         }
       }
     ],

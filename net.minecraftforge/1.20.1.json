@@ -4,6 +4,19 @@
   "mcVersion": "1.20.1",
   "builds": [
     {
+      "build": "1.20.1-47.4.23",
+      "type": "snapshot",
+      "releaseTime": "2026-08-19T17:18:08+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.20.1-47.4.23-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.23/forge-1.20.1-47.4.23-installer.jar",
+        "sha1": "ed31ce02ac69176f34353235cb2508d5a0f1e088",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "1.20.1-47.4.22",
       "type": "snapshot",
       "releaseTime": "2026-07-21T18:35:11+00:00",

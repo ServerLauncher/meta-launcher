@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-08-19T12:20:39.978511+00:00",
+  "generatedAt": "2026-08-20T01:29:43.784130+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -17,13 +17,13 @@
     {
       "uid": "build.purpurmc.purpur",
       "name": "Purpur",
-      "sha256": "49f6e8db73c05fb42b729777c971e5af26de04a45f776576b6461b1456cbcb59",
+      "sha256": "e2705d6ba5123997409aeea8c5de8a00c564320bcd0b8073360b74a4ff962e9c",
       "url": "build.purpurmc.purpur/package.json"
     },
     {
       "uid": "net.neoforged",
       "name": "NeoForge",
-      "sha256": "3cf8dc6962a742a2d33097c6c9a42dd0b65c7cb76c1c3055d0880d5fb816314e",
+      "sha256": "3bc1e717d6b0ca2c21806a0e96415c05a95691692de40fb4a11db770e09b5b22",
       "url": "net.neoforged/package.json"
     },
     {
@@ -41,13 +41,13 @@
     {
       "uid": "net.adoptium.java",
       "name": "Java Runtimes",
-      "sha256": "8b1cd8aa64a9691263b26fd40260935776c353d160a42d8f7d2fbcd6019a006a",
+      "sha256": "608e2f020bbd021cbaf189b51977a7220ece2061072670497da4fd664c1b8f2d",
       "url": "net.adoptium.java/package.json"
     },
     {
       "uid": "net.minecraftforge",
       "name": "Forge",
-      "sha256": "e3bc0b016f33f56a75dd1909ec29264eae7bf6870bea7c839bbe71c2596a3ebd",
+      "sha256": "20508e21bb650a88ef4b8b054cb0d16f2f36bcd0157d4c7a08c4a609e89066fd",
       "url": "net.minecraftforge/package.json"
     }
   ]

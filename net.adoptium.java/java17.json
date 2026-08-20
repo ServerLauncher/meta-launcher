@@ -3,6 +3,410 @@
   "uid": "java17",
   "major": 17,
   "platforms": {
+    "linux-alpine-x64": [
+      {
+        "checksum": {
+          "hash": "561ea743b8481ed75bf095bff8d156943360f3a6c0ba808215b946f73fc3b89a",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.20+8",
+        "releaseTime": "2026-07-24T17:18:53Z",
+        "releaseName": "jdk-17.0.20+8",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.20_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 17,
+          "minor": 0,
+          "security": 20
+        }
+      },
+      {
+        "checksum": {
+          "hash": "72423b1464907857f4e7ca854a2b8fd9f7cf6b9dd15bd3ea31ef6cf33b097aea",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.20+1",
+        "releaseTime": "2026-08-19T13:29:11Z",
+        "releaseName": "jdk-17.0.20.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.20.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 17,
+          "minor": 0,
+          "security": 20
+        }
+      },
+      {
+        "checksum": {
+          "hash": "22d4d5579902d134dede626d0fdfb95891abc7578e13dea9cb23775498c4cf51",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.19+10",
+        "releaseTime": "2026-04-24T10:16:48Z",
+        "releaseName": "jdk-17.0.19+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.19_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 17,
+          "minor": 0,
+          "security": 19
+        }
+      },
+      {
+        "checksum": {
+          "hash": "3226a10cf4f7ef8f835148ce8737490f0cf63e38a1e3ba26cf1e05d9e28adf5c",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.18+8",
+        "releaseTime": "2026-01-21T15:02:46Z",
+        "releaseName": "jdk-17.0.18+8",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.18_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 17,
+          "minor": 0,
+          "security": 18
+        }
+      },
+      {
+        "checksum": {
+          "hash": "6c3047e8edd3878e8d2a1cee95c04606042c6a55954ad365d20b58f88cc9ecd5",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.17+10",
+        "releaseTime": "2025-10-24T08:06:08Z",
+        "releaseName": "jdk-17.0.17+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.17_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 17,
+          "minor": 0,
+          "security": 17
+        }
+      },
+      {
+        "checksum": {
+          "hash": "88424be8b71d7c801c39866cf19d3b7c49b1c499cdccfa292e103c7cba08c21b",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.16+8",
+        "releaseTime": "2025-07-18T03:50:31Z",
+        "releaseName": "jdk-17.0.16+8",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.16_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 17,
+          "minor": 0,
+          "security": 16
+        }
+      },
+      {
+        "checksum": {
+          "hash": "38c90337ca2471085f9292d24bec75413b4e56c7826ef25e150a40cc2f727e36",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.15+6",
+        "releaseTime": "2025-04-20T13:46:32Z",
+        "releaseName": "jdk-17.0.15+6",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.15_6.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 6,
+          "major": 17,
+          "minor": 0,
+          "security": 15
+        }
+      },
+      {
+        "checksum": {
+          "hash": "9dcc53a30676692e604571a6e0bd13ac0c1b15f4bc2b78d19f88bd316075f84a",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.14+7",
+        "releaseTime": "2025-01-27T13:55:08Z",
+        "releaseName": "jdk-17.0.14+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.14_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 17,
+          "minor": 0,
+          "security": 14
+        }
+      },
+      {
+        "checksum": {
+          "hash": "7a2df4e2f86eca649af1e17d990ab8e354cb6dee389606025b9d05f75623c388",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.13+11",
+        "releaseTime": "2024-10-17T16:10:24Z",
+        "releaseName": "jdk-17.0.13+11",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.13_11.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 11,
+          "major": 17,
+          "minor": 0,
+          "security": 13
+        }
+      },
+      {
+        "checksum": {
+          "hash": "63bae276cc322532b451ae7473127c92a75db16cc95473577f133cd09349822a",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.12+7",
+        "releaseTime": "2024-07-19T10:51:27Z",
+        "releaseName": "jdk-17.0.12+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.12%2B7/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.12_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 17,
+          "minor": 0,
+          "security": 12
+        }
+      }
+    ],
+    "mac-x64": [
+      {
+        "checksum": {
+          "hash": "1f504265987954508cd2731520dcf356120c53c8d8196aab39cb1a4a50040d59",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.20+8",
+        "releaseTime": "2026-07-24T17:17:03Z",
+        "releaseName": "jdk-17.0.20+8",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 17,
+          "minor": 0,
+          "security": 20
+        }
+      },
+      {
+        "checksum": {
+          "hash": "333cb81123c36568586646c73c8fa2326dab8badc43f5ea388a90fff59c9df27",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.20+1",
+        "releaseTime": "2026-08-19T19:49:26Z",
+        "releaseName": "jdk-17.0.20.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_mac_hotspot_17.0.20.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 17,
+          "minor": 0,
+          "security": 20
+        }
+      },
+      {
+        "checksum": {
+          "hash": "91bbd07b9c65d9ecbe1fa0081b3c1ad549ed34ed21085a72fdb76598a740b54c",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.19+10",
+        "releaseTime": "2026-04-28T10:45:51Z",
+        "releaseName": "jdk-17.0.19+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_mac_hotspot_17.0.19_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 17,
+          "minor": 0,
+          "security": 19
+        }
+      },
+      {
+        "checksum": {
+          "hash": "486ab329956941fae40012f42d9f4bcbd48d036e11249b924e259fe7a86ee3dc",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.18+8",
+        "releaseTime": "2026-02-03T16:18:44Z",
+        "releaseName": "jdk-17.0.18+8",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.18_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 17,
+          "minor": 0,
+          "security": 18
+        }
+      },
+      {
+        "checksum": {
+          "hash": "0fe26252c258ec239ea6d39a6a1f42b75025bff0d237e9ab3acb4782cef29439",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.17+10",
+        "releaseTime": "2025-11-06T09:22:50Z",
+        "releaseName": "jdk-17.0.17+10",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_x64_mac_hotspot_17.0.17_10.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 17,
+          "minor": 0,
+          "security": 17
+        }
+      },
+      {
+        "checksum": {
+          "hash": "45438e511171f21ade709c6987ef4b88ea98b6c0124b4775a4b29d5822395cdd",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.16+8",
+        "releaseTime": "2025-07-17T18:20:50Z",
+        "releaseName": "jdk-17.0.16+8",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 17,
+          "minor": 0,
+          "security": 16
+        }
+      },
+      {
+        "checksum": {
+          "hash": "38f7bb3faaa3aec90290e6dd912a050cc895ee2aa8fb9d8ea6aac86822bb108b",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.15+6",
+        "releaseTime": "2025-04-17T09:09:18Z",
+        "releaseName": "jdk-17.0.15+6",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x64_mac_hotspot_17.0.15_6.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 6,
+          "major": 17,
+          "minor": 0,
+          "security": 15
+        }
+      },
+      {
+        "checksum": {
+          "hash": "f2c7454f7aba076cd414887b31da92e4a50fda7a13d97f6e295c911af60de0b6",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.14+7",
+        "releaseTime": "2025-01-23T21:11:01Z",
+        "releaseName": "jdk-17.0.14+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x64_mac_hotspot_17.0.14_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 17,
+          "minor": 0,
+          "security": 14
+        }
+      },
+      {
+        "checksum": {
+          "hash": "bf9faf4540001a251e6bfb52b99c7ec5b1f36d3ebe94e104f61a30f173ba8c78",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.13+11",
+        "releaseTime": "2024-10-18T08:25:13Z",
+        "releaseName": "jdk-17.0.13+11",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jre_x64_mac_hotspot_17.0.13_11.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 11,
+          "major": 17,
+          "minor": 0,
+          "security": 13
+        }
+      },
+      {
+        "checksum": {
+          "hash": "331aceddc402263c5e47529234965927573ead684ea2b7a0358fbb6c279c1510",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.12+7",
+        "releaseTime": "2024-07-17T15:50:12Z",
+        "releaseName": "jdk-17.0.12+7",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.12%2B7/OpenJDK17U-jre_x64_mac_hotspot_17.0.12_7.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 7,
+          "major": 17,
+          "minor": 0,
+          "security": 12
+        }
+      }
+    ],
     "linux-x64": [
       {
         "checksum": {
@@ -182,430 +586,6 @@
           "major": 17,
           "minor": 0,
           "security": 12
-        }
-      },
-      {
-        "checksum": {
-          "hash": "bcb1b7b8ad68c93093f09b591b7cb17161d39891f7d29d33a586f5a328603707",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.11+9",
-        "releaseTime": "2024-04-18T12:19:58Z",
-        "releaseName": "jdk-17.0.11+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.11%2B9/OpenJDK17U-jre_x64_linux_hotspot_17.0.11_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 17,
-          "minor": 0,
-          "security": 11
-        }
-      }
-    ],
-    "mac-x64": [
-      {
-        "checksum": {
-          "hash": "1f504265987954508cd2731520dcf356120c53c8d8196aab39cb1a4a50040d59",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.20+8",
-        "releaseTime": "2026-07-24T17:17:03Z",
-        "releaseName": "jdk-17.0.20+8",
-        "recommended": true,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.20_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 17,
-          "minor": 0,
-          "security": 20
-        }
-      },
-      {
-        "checksum": {
-          "hash": "91bbd07b9c65d9ecbe1fa0081b3c1ad549ed34ed21085a72fdb76598a740b54c",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.19+10",
-        "releaseTime": "2026-04-28T10:45:51Z",
-        "releaseName": "jdk-17.0.19+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_mac_hotspot_17.0.19_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 17,
-          "minor": 0,
-          "security": 19
-        }
-      },
-      {
-        "checksum": {
-          "hash": "486ab329956941fae40012f42d9f4bcbd48d036e11249b924e259fe7a86ee3dc",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.18+8",
-        "releaseTime": "2026-02-03T16:18:44Z",
-        "releaseName": "jdk-17.0.18+8",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.18_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 17,
-          "minor": 0,
-          "security": 18
-        }
-      },
-      {
-        "checksum": {
-          "hash": "0fe26252c258ec239ea6d39a6a1f42b75025bff0d237e9ab3acb4782cef29439",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.17+10",
-        "releaseTime": "2025-11-06T09:22:50Z",
-        "releaseName": "jdk-17.0.17+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_x64_mac_hotspot_17.0.17_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 17,
-          "minor": 0,
-          "security": 17
-        }
-      },
-      {
-        "checksum": {
-          "hash": "45438e511171f21ade709c6987ef4b88ea98b6c0124b4775a4b29d5822395cdd",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.16+8",
-        "releaseTime": "2025-07-17T18:20:50Z",
-        "releaseName": "jdk-17.0.16+8",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 17,
-          "minor": 0,
-          "security": 16
-        }
-      },
-      {
-        "checksum": {
-          "hash": "38f7bb3faaa3aec90290e6dd912a050cc895ee2aa8fb9d8ea6aac86822bb108b",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.15+6",
-        "releaseTime": "2025-04-17T09:09:18Z",
-        "releaseName": "jdk-17.0.15+6",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x64_mac_hotspot_17.0.15_6.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 6,
-          "major": 17,
-          "minor": 0,
-          "security": 15
-        }
-      },
-      {
-        "checksum": {
-          "hash": "f2c7454f7aba076cd414887b31da92e4a50fda7a13d97f6e295c911af60de0b6",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.14+7",
-        "releaseTime": "2025-01-23T21:11:01Z",
-        "releaseName": "jdk-17.0.14+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x64_mac_hotspot_17.0.14_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 17,
-          "minor": 0,
-          "security": 14
-        }
-      },
-      {
-        "checksum": {
-          "hash": "bf9faf4540001a251e6bfb52b99c7ec5b1f36d3ebe94e104f61a30f173ba8c78",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.13+11",
-        "releaseTime": "2024-10-18T08:25:13Z",
-        "releaseName": "jdk-17.0.13+11",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jre_x64_mac_hotspot_17.0.13_11.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 11,
-          "major": 17,
-          "minor": 0,
-          "security": 13
-        }
-      },
-      {
-        "checksum": {
-          "hash": "331aceddc402263c5e47529234965927573ead684ea2b7a0358fbb6c279c1510",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.12+7",
-        "releaseTime": "2024-07-17T15:50:12Z",
-        "releaseName": "jdk-17.0.12+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.12%2B7/OpenJDK17U-jre_x64_mac_hotspot_17.0.12_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 17,
-          "minor": 0,
-          "security": 12
-        }
-      },
-      {
-        "checksum": {
-          "hash": "232c40bebd6ddbb673862e86e7e6e09bcfe399e5a53c8a6b77bf1ceab8edefd0",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.11+9",
-        "releaseTime": "2024-04-18T12:14:59Z",
-        "releaseName": "jdk-17.0.11+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.11%2B9/OpenJDK17U-jre_x64_mac_hotspot_17.0.11_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 17,
-          "minor": 0,
-          "security": 11
-        }
-      }
-    ],
-    "linux-alpine-x64": [
-      {
-        "checksum": {
-          "hash": "561ea743b8481ed75bf095bff8d156943360f3a6c0ba808215b946f73fc3b89a",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.20+8",
-        "releaseTime": "2026-07-24T17:18:53Z",
-        "releaseName": "jdk-17.0.20+8",
-        "recommended": true,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.20_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 17,
-          "minor": 0,
-          "security": 20
-        }
-      },
-      {
-        "checksum": {
-          "hash": "22d4d5579902d134dede626d0fdfb95891abc7578e13dea9cb23775498c4cf51",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.19+10",
-        "releaseTime": "2026-04-24T10:16:48Z",
-        "releaseName": "jdk-17.0.19+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.19_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 17,
-          "minor": 0,
-          "security": 19
-        }
-      },
-      {
-        "checksum": {
-          "hash": "3226a10cf4f7ef8f835148ce8737490f0cf63e38a1e3ba26cf1e05d9e28adf5c",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.18+8",
-        "releaseTime": "2026-01-21T15:02:46Z",
-        "releaseName": "jdk-17.0.18+8",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.18_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 17,
-          "minor": 0,
-          "security": 18
-        }
-      },
-      {
-        "checksum": {
-          "hash": "6c3047e8edd3878e8d2a1cee95c04606042c6a55954ad365d20b58f88cc9ecd5",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.17+10",
-        "releaseTime": "2025-10-24T08:06:08Z",
-        "releaseName": "jdk-17.0.17+10",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.17_10.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 10,
-          "major": 17,
-          "minor": 0,
-          "security": 17
-        }
-      },
-      {
-        "checksum": {
-          "hash": "88424be8b71d7c801c39866cf19d3b7c49b1c499cdccfa292e103c7cba08c21b",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.16+8",
-        "releaseTime": "2025-07-18T03:50:31Z",
-        "releaseName": "jdk-17.0.16+8",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.16_8.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 8,
-          "major": 17,
-          "minor": 0,
-          "security": 16
-        }
-      },
-      {
-        "checksum": {
-          "hash": "38c90337ca2471085f9292d24bec75413b4e56c7826ef25e150a40cc2f727e36",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.15+6",
-        "releaseTime": "2025-04-20T13:46:32Z",
-        "releaseName": "jdk-17.0.15+6",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.15_6.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 6,
-          "major": 17,
-          "minor": 0,
-          "security": 15
-        }
-      },
-      {
-        "checksum": {
-          "hash": "9dcc53a30676692e604571a6e0bd13ac0c1b15f4bc2b78d19f88bd316075f84a",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.14+7",
-        "releaseTime": "2025-01-27T13:55:08Z",
-        "releaseName": "jdk-17.0.14+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.14_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 17,
-          "minor": 0,
-          "security": 14
-        }
-      },
-      {
-        "checksum": {
-          "hash": "7a2df4e2f86eca649af1e17d990ab8e354cb6dee389606025b9d05f75623c388",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.13+11",
-        "releaseTime": "2024-10-17T16:10:24Z",
-        "releaseName": "jdk-17.0.13+11",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.13_11.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 11,
-          "major": 17,
-          "minor": 0,
-          "security": 13
-        }
-      },
-      {
-        "checksum": {
-          "hash": "63bae276cc322532b451ae7473127c92a75db16cc95473577f133cd09349822a",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.12+7",
-        "releaseTime": "2024-07-19T10:51:27Z",
-        "releaseName": "jdk-17.0.12+7",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.12%2B7/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.12_7.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 7,
-          "major": 17,
-          "minor": 0,
-          "security": 12
-        }
-      },
-      {
-        "checksum": {
-          "hash": "b5dffd0be08c464d9c3903e2947508c1a5c21804ea1cff5556991a2a47d617d8",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.11+9",
-        "releaseTime": "2024-04-19T16:44:33Z",
-        "releaseName": "jdk-17.0.11+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.11%2B9/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.11_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 17,
-          "minor": 0,
-          "security": 11
         }
       }
     ],
@@ -789,26 +769,6 @@
           "minor": 0,
           "security": 12
         }
-      },
-      {
-        "checksum": {
-          "hash": "ccfa23c25790475c84df983cc5f729b94c04d9ea9863912deb15c6266782cf16",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.11+9",
-        "releaseTime": "2024-04-18T12:07:28Z",
-        "releaseName": "jdk-17.0.11+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.11%2B9/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.11_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 17,
-          "minor": 0,
-          "security": 11
-        }
       }
     ],
     "windows-x64": [
@@ -991,26 +951,6 @@
           "minor": 0,
           "security": 12
         }
-      },
-      {
-        "checksum": {
-          "hash": "4bafe2e94439c8193fc8c68247cb0dbaf4e80265b903288f63f128304f129bbe",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.11+9",
-        "releaseTime": "2024-04-18T12:24:56Z",
-        "releaseName": "jdk-17.0.11+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.11%2B9/OpenJDK17U-jre_x64_windows_hotspot_17.0.11_9.zip",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 17,
-          "minor": 0,
-          "security": 11
-        }
       }
     ],
     "mac-aarch64": [
@@ -1192,26 +1132,6 @@
           "major": 17,
           "minor": 0,
           "security": 12
-        }
-      },
-      {
-        "checksum": {
-          "hash": "003d3e0a65a2f0633b8bfed42be133724b490acb323c174c708d3a446d5fc660",
-          "type": "sha256"
-        },
-        "downloadType": "archive",
-        "name": "eclipse_temurin_jre17.0.11+9",
-        "releaseTime": "2024-04-18T12:11:03Z",
-        "releaseName": "jdk-17.0.11+9",
-        "recommended": false,
-        "packageType": "jre",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.11%2B9/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.11_9.tar.gz",
-        "vendor": "eclipse",
-        "versionInfo": {
-          "build": 9,
-          "major": 17,
-          "minor": 0,
-          "security": 11
         }
       }
     ]
