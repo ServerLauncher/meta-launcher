@@ -4,6 +4,19 @@
   "mcVersion": "23w40a",
   "builds": [
     {
+      "build": "0.19.5",
+      "type": "snapshot",
+      "releaseTime": "2026-08-28T11:01:04",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-23w40a-0.19.5.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/23w40a/0.19.5/1.1.2/server/jar",
+        "sha1": "ff9e65cffca4a67f31523e1807fe0855940fcbfa",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "0.19.4",
       "type": "snapshot",
       "releaseTime": "2026-08-26T17:49:36",
