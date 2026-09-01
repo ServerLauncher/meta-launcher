@@ -4,10 +4,62 @@
   "mcVersion": "26.2",
   "builds": [
     {
+      "build": "2632",
+      "type": "default",
+      "releaseTime": "2026-08-31T23:56:22.238000+00:00",
+      "recommended": true,
+      "download": {
+        "name": "purpur-26.2-2632.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/26.2/2632/download",
+        "sha1": null,
+        "sha256": null,
+        "md5": "e779f5aa2cf5e7481fd278c46edcfcb3"
+      }
+    },
+    {
+      "build": "2631",
+      "type": "default",
+      "releaseTime": "2026-08-31T22:55:02.110000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-26.2-2631.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/26.2/2631/download",
+        "sha1": null,
+        "sha256": null,
+        "md5": "ee7bdceb6e1b58ba07c31fb187154e23"
+      }
+    },
+    {
+      "build": "2630",
+      "type": "default",
+      "releaseTime": "2026-08-31T20:28:01.821000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-26.2-2630.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/26.2/2630/download",
+        "sha1": null,
+        "sha256": null,
+        "md5": "1a6ac7351165a5b493a2cf52f98e953c"
+      }
+    },
+    {
+      "build": "2629",
+      "type": "default",
+      "releaseTime": "2026-08-31T17:25:06.459000+00:00",
+      "recommended": false,
+      "download": {
+        "name": "purpur-26.2-2629.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/26.2/2629/download",
+        "sha1": null,
+        "sha256": null,
+        "md5": "1a9fb3b4e6b599e5f5ac1b4dd9500912"
+      }
+    },
+    {
       "build": "2628",
       "type": "default",
       "releaseTime": "2026-08-30T23:48:14.289000+00:00",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "purpur-26.2-2628.jar",
         "url": "https://api.purpurmc.org/v2/purpur/26.2/2628/download",
