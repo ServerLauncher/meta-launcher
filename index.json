@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-09-01T04:26:37.547941+00:00",
+  "generatedAt": "2026-09-01T15:39:45.250283+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
       "name": "Mojang",
-      "sha256": "0971d93daa9d7d4088b6115023c72a3209b5996849eb004c732c186e3ff84c11",
+      "sha256": "784b1f55df6ae149f45a6ea345e4a03bde67069495867a463ee97f81439792ea",
       "url": "net.minecraft/package.json"
     },
     {
@@ -29,7 +29,7 @@
     {
       "uid": "net.fabricmc.fabric",
       "name": "Fabric",
-      "sha256": "032bcf9035f68472375471035f5fc6356c3215198f5402b0b597688e75122538",
+      "sha256": "4c895450d9b962c1d7eed89a312215e60ab374c18ddb72442b164ef359faa831",
       "url": "net.fabricmc.fabric/package.json"
     },
     {
@@ -41,7 +41,7 @@
     {
       "uid": "net.adoptium.java",
       "name": "Java Runtimes",
-      "sha256": "8ee13413bd2209e7a37b2257b77edf08137a9e87a67f3b69f6e5d0236df6f392",
+      "sha256": "7fb9bf4b2f9b3624c465d5a0c90801cc63a61c455bb09b04e60335ee183a3b7f",
       "url": "net.adoptium.java/package.json"
     },
     {
