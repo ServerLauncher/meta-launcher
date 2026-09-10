@@ -4,6 +4,19 @@
   "mcVersion": "26.2",
   "builds": [
     {
+      "build": "26.2.0.84",
+      "type": "stable",
+      "releaseTime": "2026-09-09T17:09:49.739235+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-26.2.0.84-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.2.0.84/neoforge-26.2.0.84-installer.jar",
+        "sha1": "394594a0f1847d6f2252c63d7cb79446ab06fb51",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.2.0.83",
       "type": "stable",
       "releaseTime": "2026-09-09T12:34:36.990626+00:00",
