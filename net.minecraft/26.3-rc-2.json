@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "26.3-rc-2",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2026-09-11T10:34:40+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.26.3-rc-2.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/26191a9be8f6bc3490dc368f94700a28508e04f1/server.jar",
+        "sha1": "26191a9be8f6bc3490dc368f94700a28508e04f1",
+        "sha256": null,
+        "md5": null
+      },
+      "javaMajor": 25
+    }
+  ]
+}
