@@ -3,9 +3,14 @@
   "uid": "net.fabricmc.fabric",
   "name": "Fabric",
   "recommended": [
-    "26.2"
+    "26.3"
   ],
   "versions": [
+    {
+      "mcVersion": "26.3",
+      "sha256": "787c5cb7770526099872fd6eabf6b2005fa9958c54e1f958ece6781757c251f7",
+      "url": "net.fabricmc.fabric/26.3.json"
+    },
     {
       "mcVersion": "26.3-rc-3",
       "sha256": "fca58ed1040c13ac4cb39fdf38198a174c24f085ad11b167bc988feb759fc5f4",

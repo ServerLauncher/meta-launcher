@@ -3,9 +3,15 @@
   "uid": "paper",
   "name": "Paper",
   "recommended": [
-    "26.2"
+    "26.3"
   ],
   "versions": [
+    {
+      "mcVersion": "26.3",
+      "sha256": "7bafab31b24ca3ca6529786fdf8a592005822bc9e341d899a5460291d21a3bf8",
+      "url": "io.papermc.paper/26.3.json",
+      "latestBuild": "3"
+    },
     {
       "mcVersion": "26.2",
       "sha256": "4d09ca1a6e9fe5bdda49bfed0808293476cc70c104153a826b00291364fa9190",
