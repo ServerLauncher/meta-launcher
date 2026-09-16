@@ -3,9 +3,15 @@
   "uid": "purpur",
   "name": "Purpur",
   "recommended": [
-    "26.2"
+    "26.3"
   ],
   "versions": [
+    {
+      "mcVersion": "26.3",
+      "sha256": "7a9c95aff7ed53bf38ea85e782fdebd93653870111ce5f9fd00c58a350339f50",
+      "url": "build.purpurmc.purpur/26.3.json",
+      "latestBuild": "2634"
+    },
     {
       "mcVersion": "26.2",
       "sha256": "fe3a88405264b1fb0e6ba7323d02c5e02117ba52c90e7b60d30c81d80ca11f1a",

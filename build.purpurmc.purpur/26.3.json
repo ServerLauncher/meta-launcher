@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "uid": "build.purpurmc.purpur",
+  "mcVersion": "26.3",
+  "builds": [
+    {
+      "build": "2634",
+      "type": "default",
+      "releaseTime": "2026-09-16T01:08:56.368000+00:00",
+      "recommended": true,
+      "download": {
+        "name": "purpur-26.3-2634.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/26.3/2634/download",
+        "sha1": null,
+        "sha256": null,
+        "md5": "b61dda73d6a43d4912d52595ecd5892d"
+      }
+    }
+  ]
+}
