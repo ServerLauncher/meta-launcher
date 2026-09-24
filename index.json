@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-09-24T04:02:50.350728+00:00",
+  "generatedAt": "2026-09-24T16:01:27.083211+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -11,7 +11,7 @@
     {
       "uid": "io.papermc.paper",
       "name": "Paper",
-      "sha256": "e31dc7fdc7b1f598ac342c97b524088f24d4f54ba3624806370dbf6be456bc34",
+      "sha256": "9dae3dfe0547e89d5b9cf4de82a4aa4a7e60e336f6d919bc25eae983f212cc7c",
       "url": "io.papermc.paper/package.json"
     },
     {
@@ -19,6 +19,12 @@
       "name": "Purpur",
       "sha256": "268b8f6085267232f7eeeb41b9bb4676e40ef22eb1cdd8b866a32631da890609",
       "url": "build.purpurmc.purpur/package.json"
+    },
+    {
+      "uid": "net.neoforged",
+      "name": "NeoForge",
+      "sha256": "c412ae0893206fa0b17c2472be572ac5b8769c3d31d351909857bd9f482a8eb2",
+      "url": "net.neoforged/package.json"
     },
     {
       "uid": "net.fabricmc.fabric",
