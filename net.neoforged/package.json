@@ -3,7 +3,6 @@
   "uid": "net.neoforged",
   "name": "NeoForge",
   "recommended": [
-    "26.1",
     "1.20.2",
     "1.20.4",
     "1.20.6",
@@ -15,9 +14,16 @@
     "1.21.8",
     "1.21.10",
     "1.21.11",
+    "26.1",
     "26.2"
   ],
   "versions": [
+    {
+      "mcVersion": "26.3",
+      "sha256": "c3c23716e050bea137512898ed975a4a9a7e720f93962ce8f823f5d8b44bcd15",
+      "url": "net.neoforged/26.3.0.0-beta.json",
+      "type": "stable"
+    },
     {
       "mcVersion": "26.2",
       "sha256": "34eccd40201584a1b2f1e646a34afb8f6358afac69d6b808c683827f0b78c647",
@@ -135,13 +141,7 @@
     {
       "mcVersion": "26.1",
       "sha256": "1b34f4e9c42c5db109596d8db685d03960fee6770b9323395ca9f23bf08afec0",
-      "url": "net.neoforged/26.1.2.112.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "26.3",
-      "sha256": "78698a043fa7a6f3302b6e9ce460491ebe8ded7cf87a5d36dc559c32a372533d",
-      "url": "net.neoforged/26.3.0.24-beta.json",
+      "url": "net.neoforged/26.1.0.0-alpha.1+snapshot-1.json",
       "type": "stable"
     }
   ]
