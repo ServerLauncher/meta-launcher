@@ -3,6 +3,7 @@
   "uid": "net.neoforged",
   "name": "NeoForge",
   "recommended": [
+    "26.1",
     "1.20.2",
     "1.20.4",
     "1.20.6",
@@ -14,26 +15,13 @@
     "1.21.8",
     "1.21.10",
     "1.21.11",
-    "26.1",
     "26.2"
   ],
   "versions": [
     {
-      "mcVersion": "26.3",
-      "sha256": "216f280f77f11608cad70fcb494132ac9a53a2a904f1b0d9ecd36d0ce099c70d",
-      "url": "net.neoforged/26.3.0.0-beta.json",
-      "type": "stable"
-    },
-    {
       "mcVersion": "26.2",
       "sha256": "34eccd40201584a1b2f1e646a34afb8f6358afac69d6b808c683827f0b78c647",
       "url": "net.neoforged/26.2.0.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "26.1",
-      "sha256": "19de89726ab601037c363fb1e025dfd3c6d7f2da65e721553bbaebe668c9f9e4",
-      "url": "net.neoforged/26.1.0.0-alpha.1+snapshot-1.json",
       "type": "stable"
     },
     {
@@ -70,12 +58,6 @@
       "mcVersion": "1.21.6",
       "sha256": "ec4969d9f34a75df834a732e56768593f46a8bfec87d0e30fb7d54924fca48b6",
       "url": "net.neoforged/21.6.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "25w14craftmine",
-      "sha256": "8cc8bb2d407dec9306bf36b90b7f20da7a5a09fa0856a3ef0e87c2191bafedee",
-      "url": "net.neoforged/0.25w14craftmine.3-beta.json",
       "type": "stable"
     },
     {
@@ -141,7 +123,25 @@
     {
       "mcVersion": "1.20.2",
       "sha256": "763598c7160b7619ea328257ef045fc7008dd8568eb46c76b62e67f24cf658cd",
-      "url": "net.neoforged/20.2.12-beta.json",
+      "url": "net.neoforged/20.2.3-beta.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "25w14craftmine",
+      "sha256": "8cc8bb2d407dec9306bf36b90b7f20da7a5a09fa0856a3ef0e87c2191bafedee",
+      "url": "net.neoforged/0.25w14craftmine.3-beta.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.1",
+      "sha256": "1b34f4e9c42c5db109596d8db685d03960fee6770b9323395ca9f23bf08afec0",
+      "url": "net.neoforged/26.1.2.112.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.3",
+      "sha256": "78698a043fa7a6f3302b6e9ce460491ebe8ded7cf87a5d36dc559c32a372533d",
+      "url": "net.neoforged/26.3.0.24-beta.json",
       "type": "stable"
     }
   ]
