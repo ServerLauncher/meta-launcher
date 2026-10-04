@@ -20,7 +20,7 @@
   "versions": [
     {
       "mcVersion": "26.3",
-      "sha256": "612f7ed4494b074b9e4097abd1194193b98ce7e170aef5fd3f174fc35d8c8e16",
+      "sha256": "952f09b3fdf84ddf59a070564a4113e171f80fcf836bfce5864f403448c33024",
       "url": "net.neoforged/26.3.0.0-beta.json",
       "type": "stable"
     },
@@ -28,12 +28,6 @@
       "mcVersion": "26.2",
       "sha256": "0db6c8e3258b9c2adf6ae54d771c11807517c51612928c69abd9c165e7beff37",
       "url": "net.neoforged/26.2.0.0-beta.json",
-      "type": "stable"
-    },
-    {
-      "mcVersion": "26.1",
-      "sha256": "362d9d42d3d4afbe58455162d7f4ca85604307c76fa7e92b5e6c3fb3ca53fd25",
-      "url": "net.neoforged/26.1.0.0-alpha.1+snapshot-1.json",
       "type": "stable"
     },
     {
@@ -98,7 +92,7 @@
     },
     {
       "mcVersion": "1.21.1",
-      "sha256": "607016be063cc8a046e262a02d29c081ca9dfec79d8ad61f39d508824ab32b62",
+      "sha256": "0bfb92cbe9677b1b917b6664e087da8d88bde426cdc4ff6e291a90418ce1e87f",
       "url": "net.neoforged/21.1.1.json",
       "type": "stable"
     },
@@ -142,6 +136,12 @@
       "mcVersion": "25w14craftmine",
       "sha256": "8cc8bb2d407dec9306bf36b90b7f20da7a5a09fa0856a3ef0e87c2191bafedee",
       "url": "net.neoforged/0.25w14craftmine.3-beta.json",
+      "type": "stable"
+    },
+    {
+      "mcVersion": "26.1",
+      "sha256": "362d9d42d3d4afbe58455162d7f4ca85604307c76fa7e92b5e6c3fb3ca53fd25",
+      "url": "net.neoforged/26.1.0.0-alpha.1+snapshot-1.json",
       "type": "stable"
     }
   ]
