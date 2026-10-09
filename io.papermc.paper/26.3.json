@@ -4,10 +4,36 @@
   "mcVersion": "26.3",
   "builds": [
     {
+      "build": "168",
+      "type": "beta",
+      "releaseTime": "2026-10-09T17:15:03Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-26.3-168.jar",
+        "url": "https://fill-data.papermc.io/v1/objects/e3c00a8083678b1609c35434ce57cd38055a35e925cded466402ec981ff6df02/paper-26.3-168.jar",
+        "sha1": null,
+        "sha256": "e3c00a8083678b1609c35434ce57cd38055a35e925cded466402ec981ff6df02",
+        "md5": null
+      }
+    },
+    {
+      "build": "167",
+      "type": "beta",
+      "releaseTime": "2026-10-09T14:52:59Z",
+      "recommended": false,
+      "download": {
+        "name": "paper-26.3-167.jar",
+        "url": "https://fill-data.papermc.io/v1/objects/35a6c650e2f7f540e8f62e947ff00614242c25ec68befbc54a5f668b2fbecbdb/paper-26.3-167.jar",
+        "sha1": null,
+        "sha256": "35a6c650e2f7f540e8f62e947ff00614242c25ec68befbc54a5f668b2fbecbdb",
+        "md5": null
+      }
+    },
+    {
       "build": "166",
       "type": "beta",
       "releaseTime": "2026-10-09T00:54:07Z",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "paper-26.3-166.jar",
         "url": "https://fill-data.papermc.io/v1/objects/dbaae37e10e30e44ad1ff65cf00992240c3e79d33e150f9c4e833ed0338e8ccd/paper-26.3-166.jar",
