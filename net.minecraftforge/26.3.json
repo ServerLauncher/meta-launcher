@@ -4,6 +4,19 @@
   "mcVersion": "26.3",
   "builds": [
     {
+      "build": "26.3-66.0.10",
+      "type": "snapshot",
+      "releaseTime": "2026-10-09T20:22:39+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-26.3-66.0.10-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.3-66.0.10/forge-26.3-66.0.10-installer.jar",
+        "sha1": "de38d51a91346d2e2a7fa74ee29cffdd36c4dd46",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.3-66.0.9",
       "type": "snapshot",
       "releaseTime": "2026-09-30T21:15:11+00:00",
