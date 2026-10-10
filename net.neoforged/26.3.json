@@ -4,6 +4,45 @@
   "mcVersion": "26.3",
   "builds": [
     {
+      "build": "26.3.0.67-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-10-10T16:21:24.284437+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.3.0.67-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.67-beta/neoforge-26.3.0.67-beta-installer.jar",
+        "sha1": "09c72eb81d1fe7b40b478f7740ffd2cf5b4f5a9b",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.66-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-10-10T13:59:19.553757+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.3.0.66-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.66-beta/neoforge-26.3.0.66-beta-installer.jar",
+        "sha1": "9c8b9af1f09fcc95831893f3f563b494a83b94cd",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.65-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-10-10T11:12:41.143771+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.3.0.65-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.65-beta/neoforge-26.3.0.65-beta-installer.jar",
+        "sha1": "fe0367dc0b0daa66d248023f3a0bcad370350528",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.3.0.64-beta",
       "type": "snapshot",
       "releaseTime": "2026-10-09T15:51:47.168172+00:00",
@@ -344,7 +383,7 @@
     {
       "build": "26.3.0.38-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-30T15:02:08.869473+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.38-beta-installer.jar",
@@ -370,7 +409,7 @@
     {
       "build": "26.3.0.36-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-29T19:22:06.599975+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.36-beta-installer.jar",
@@ -383,7 +422,7 @@
     {
       "build": "26.3.0.35-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-29T18:21:37.044514+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.35-beta-installer.jar",
@@ -435,7 +474,7 @@
     {
       "build": "26.3.0.30-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-28T14:47:15.434733+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.30-beta-installer.jar",
@@ -448,7 +487,7 @@
     {
       "build": "26.3.0.29-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-28T14:47:43.016967+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.29-beta-installer.jar",
@@ -461,7 +500,7 @@
     {
       "build": "26.3.0.28-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-28T14:43:32.693616+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.28-beta-installer.jar",
@@ -474,7 +513,7 @@
     {
       "build": "26.3.0.27-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-28T14:44:43.310800+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.27-beta-installer.jar",
@@ -487,7 +526,7 @@
     {
       "build": "26.3.0.26-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-27T19:15:47.932760+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.26-beta-installer.jar",
@@ -500,7 +539,7 @@
     {
       "build": "26.3.0.25-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-27T16:57:26.059414+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.25-beta-installer.jar",
@@ -513,7 +552,7 @@
     {
       "build": "26.3.0.24-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-27T16:53:27.212266+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.24-beta-installer.jar",
@@ -526,7 +565,7 @@
     {
       "build": "26.3.0.23-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-26T16:58:42.694871+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.23-beta-installer.jar",
@@ -539,7 +578,7 @@
     {
       "build": "26.3.0.22-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-25T19:02:56.972506+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.22-beta-installer.jar",
@@ -552,7 +591,7 @@
     {
       "build": "26.3.0.21-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-25T17:10:52.976822+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.21-beta-installer.jar",
@@ -565,7 +604,7 @@
     {
       "build": "26.3.0.20-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-25T17:10:07.788623+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.20-beta-installer.jar",
@@ -578,7 +617,7 @@
     {
       "build": "26.3.0.19-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-25T17:09:07.127708+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.19-beta-installer.jar",
@@ -591,7 +630,7 @@
     {
       "build": "26.3.0.18-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-25T17:08:50.868356+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.18-beta-installer.jar",
@@ -604,7 +643,7 @@
     {
       "build": "26.3.0.17-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-25T17:06:27.177416+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.17-beta-installer.jar",
@@ -617,7 +656,7 @@
     {
       "build": "26.3.0.16-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-23T18:33:52.069229+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.16-beta-installer.jar",
@@ -630,7 +669,7 @@
     {
       "build": "26.3.0.14-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-23T18:33:26.636912+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.14-beta-installer.jar",
@@ -643,7 +682,7 @@
     {
       "build": "26.3.0.13-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-23T15:24:22.495838+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.13-beta-installer.jar",
@@ -656,7 +695,7 @@
     {
       "build": "26.3.0.12-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-23T12:58:41.370407+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.12-beta-installer.jar",
@@ -669,7 +708,7 @@
     {
       "build": "26.3.0.11-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-23T12:52:12.942575+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.11-beta-installer.jar",
@@ -682,7 +721,7 @@
     {
       "build": "26.3.0.10-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-22T18:50:51.503089+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.10-beta-installer.jar",
@@ -695,7 +734,7 @@
     {
       "build": "26.3.0.9-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-22T18:49:25.389859+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.9-beta-installer.jar",
@@ -708,7 +747,7 @@
     {
       "build": "26.3.0.8-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-21T15:27:43.063851+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.8-beta-installer.jar",
@@ -721,7 +760,7 @@
     {
       "build": "26.3.0.7-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-19T19:52:52.654138+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.7-beta-installer.jar",
@@ -734,7 +773,7 @@
     {
       "build": "26.3.0.6-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-18T15:43:22.521139+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.6-beta-installer.jar",
@@ -747,7 +786,7 @@
     {
       "build": "26.3.0.5-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-18T15:38:29.672842+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.5-beta-installer.jar",
@@ -760,7 +799,7 @@
     {
       "build": "26.3.0.4-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-17T21:13:05.231398+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.4-beta-installer.jar",
@@ -773,7 +812,7 @@
     {
       "build": "26.3.0.3-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-16T18:55:42.117818+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.3-beta-installer.jar",
@@ -786,7 +825,7 @@
     {
       "build": "26.3.0.2-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-16T18:55:08.165839+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.2-beta-installer.jar",
@@ -799,7 +838,7 @@
     {
       "build": "26.3.0.1-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-15T21:46:12.525019+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.1-beta-installer.jar",
@@ -812,7 +851,7 @@
     {
       "build": "26.3.0.0-beta",
       "type": "snapshot",
-      "releaseTime": null,
+      "releaseTime": "2026-09-15T19:30:09.433722+00:00",
       "recommended": false,
       "download": {
         "name": "neoforge-26.3.0.0-beta-installer.jar",
