@@ -4,6 +4,71 @@
   "mcVersion": "26.3",
   "builds": [
     {
+      "build": "26.3.0.76",
+      "type": "stable",
+      "releaseTime": "2026-10-11T19:46:28.485251+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-26.3.0.76-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.76/neoforge-26.3.0.76-installer.jar",
+        "sha1": "5467b9f8f7fe585e48771b469be33c9d39d73aa0",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.75-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-10-11T18:52:15.180475+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.3.0.75-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.75-beta/neoforge-26.3.0.75-beta-installer.jar",
+        "sha1": "7feafd600b8395e11ad3fe035a7634502e443f42",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.74-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-10-11T18:48:37.819124+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.3.0.74-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.74-beta/neoforge-26.3.0.74-beta-installer.jar",
+        "sha1": "6fc1de94021ee664fa9705f36bc7688a7961613e",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.73-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-10-11T18:20:50.614922+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.3.0.73-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.73-beta/neoforge-26.3.0.73-beta-installer.jar",
+        "sha1": "357ff4d502218273ffc492d3c57005fe95aecc0c",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.72-beta",
+      "type": "snapshot",
+      "releaseTime": "2026-10-11T18:12:02.599228+00:00",
+      "recommended": false,
+      "download": {
+        "name": "neoforge-26.3.0.72-beta-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.72-beta/neoforge-26.3.0.72-beta-installer.jar",
+        "sha1": "e9b3cb065856af1844eb76e0f51dff6a0f1180ec",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.3.0.71-beta",
       "type": "snapshot",
       "releaseTime": "2026-10-11T13:48:40.283297+00:00",
