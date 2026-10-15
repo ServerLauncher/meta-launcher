@@ -4,6 +4,19 @@
   "mcVersion": "1.20",
   "builds": [
     {
+      "build": "0.20.0",
+      "type": "snapshot",
+      "releaseTime": "2026-10-15T10:23:56",
+      "recommended": false,
+      "download": {
+        "name": "fabric-server-1.20-0.20.0.jar",
+        "url": "https://meta.fabricmc.net/v2/versions/loader/1.20/0.20.0/1.1.2/server/jar",
+        "sha1": "7a3a8ce24fa0150aba52f3e1f7cde5ba17195fcf",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "0.19.5",
       "type": "stable",
       "releaseTime": "2026-08-28T11:01:04",
