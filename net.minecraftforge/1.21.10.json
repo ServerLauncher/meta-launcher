@@ -4,6 +4,19 @@
   "mcVersion": "1.21.10",
   "builds": [
     {
+      "build": "1.21.10-60.1.18",
+      "type": "snapshot",
+      "releaseTime": "2026-10-15T02:43:58+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.21.10-60.1.18-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.10-60.1.18/forge-1.21.10-60.1.18-installer.jar",
+        "sha1": "95051482e9e500fc28a20a22c302e569b44d9d82",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "1.21.10-60.1.17",
       "type": "snapshot",
       "releaseTime": "2026-10-12T22:15:50+00:00",
