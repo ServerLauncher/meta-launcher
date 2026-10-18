@@ -4,6 +4,32 @@
   "mcVersion": "26.3",
   "builds": [
     {
+      "build": "26.3.0.90",
+      "type": "stable",
+      "releaseTime": "2026-10-18T01:41:38.686288+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-26.3.0.90-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.90/neoforge-26.3.0.90-installer.jar",
+        "sha1": "dba4c623d529ee2874e90f5ad58eed1f3572b901",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.89",
+      "type": "stable",
+      "releaseTime": "2026-10-17T19:56:34.612774+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-26.3.0.89-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.89/neoforge-26.3.0.89-installer.jar",
+        "sha1": "504aa160c3f913ec618473584d1fc5e21a8d8155",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.3.0.88",
       "type": "stable",
       "releaseTime": "2026-10-17T09:16:56.269064+00:00",
