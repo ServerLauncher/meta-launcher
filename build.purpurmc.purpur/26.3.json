@@ -4,10 +4,23 @@
   "mcVersion": "26.3",
   "builds": [
     {
+      "build": "2653",
+      "type": "default",
+      "releaseTime": "2026-10-20T22:02:28.366000+00:00",
+      "recommended": true,
+      "download": {
+        "name": "purpur-26.3-2653.jar",
+        "url": "https://api.purpurmc.org/v2/purpur/26.3/2653/download",
+        "sha1": null,
+        "sha256": null,
+        "md5": "c0f94872466abb268658a8dc77f33b69"
+      }
+    },
+    {
       "build": "2652",
       "type": "default",
       "releaseTime": "2026-10-17T03:32:57.287000+00:00",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "purpur-26.3-2652.jar",
         "url": "https://api.purpurmc.org/v2/purpur/26.3/2652/download",
