@@ -5,9 +5,9 @@
   "builds": [
     {
       "build": "1.21.1-52.1.20",
-      "type": "snapshot",
+      "type": "stable",
       "releaseTime": "2026-10-15T03:28:48+00:00",
-      "recommended": false,
+      "recommended": true,
       "download": {
         "name": "forge-1.21.1-52.1.20-installer.jar",
         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.1-52.1.20/forge-1.21.1-52.1.20-installer.jar",
@@ -239,9 +239,9 @@
     },
     {
       "build": "1.21.1-52.1.0",
-      "type": "stable",
+      "type": "snapshot",
       "releaseTime": "2025-03-05T01:32:10+00:00",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "forge-1.21.1-52.1.0-installer.jar",
         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.1-52.1.0/forge-1.21.1-52.1.0-installer.jar",

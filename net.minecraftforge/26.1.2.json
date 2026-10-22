@@ -5,9 +5,9 @@
   "builds": [
     {
       "build": "26.1.2-64.1.5",
-      "type": "snapshot",
+      "type": "stable",
       "releaseTime": "2026-10-15T02:26:54+00:00",
-      "recommended": false,
+      "recommended": true,
       "download": {
         "name": "forge-26.1.2-64.1.5-installer.jar",
         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.1.5/forge-26.1.2-64.1.5-installer.jar",
@@ -70,9 +70,9 @@
     },
     {
       "build": "26.1.2-64.1.0",
-      "type": "stable",
+      "type": "snapshot",
       "releaseTime": "2026-07-27T20:46:40+00:00",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "forge-26.1.2-64.1.0-installer.jar",
         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.1.0/forge-26.1.2-64.1.0-installer.jar",
