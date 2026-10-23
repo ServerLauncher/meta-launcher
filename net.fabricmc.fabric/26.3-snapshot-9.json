@@ -5,9 +5,9 @@
   "builds": [
     {
       "build": "0.20.1",
-      "type": "snapshot",
+      "type": "stable",
       "releaseTime": "2026-10-19T19:02:12",
-      "recommended": false,
+      "recommended": true,
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.20.1.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/26.3-snapshot-9/0.20.1/1.1.2/server/jar",
@@ -31,9 +31,9 @@
     },
     {
       "build": "0.19.5",
-      "type": "stable",
+      "type": "snapshot",
       "releaseTime": "2026-08-28T11:01:04",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.19.5.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/26.3-snapshot-9/0.19.5/1.1.2/server/jar",
@@ -45,7 +45,7 @@
     {
       "build": "0.19.4",
       "type": "snapshot",
-      "releaseTime": "2026-08-26T17:49:36",
+      "releaseTime": null,
       "recommended": false,
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.19.4.jar",
@@ -188,7 +188,7 @@
     {
       "build": "0.18.0",
       "type": "snapshot",
-      "releaseTime": "2025-11-08T22:18:50",
+      "releaseTime": null,
       "recommended": false,
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.18.0.jar",
@@ -357,7 +357,7 @@
     {
       "build": "0.16.6",
       "type": "snapshot",
-      "releaseTime": "2024-10-09T18:41:05",
+      "releaseTime": null,
       "recommended": false,
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.16.6.jar",
@@ -401,7 +401,7 @@
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.16.3.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/26.3-snapshot-9/0.16.3/1.1.2/server/jar",
-        "sha1": "d8e7a2cb6c85fc6a72251030973bd3121e40d2ed",
+        "sha1": null,
         "sha256": null,
         "md5": null
       }
@@ -414,7 +414,7 @@
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.16.2.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/26.3-snapshot-9/0.16.2/1.1.2/server/jar",
-        "sha1": "e68b8c51e53f8d7b5a1076dd237450395a2e73a3",
+        "sha1": null,
         "sha256": null,
         "md5": null
       }
@@ -1090,7 +1090,7 @@
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.12.5.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/26.3-snapshot-9/0.12.5/1.1.2/server/jar",
-        "sha1": "af77fbd9cd0fcf8d7e5f79839a060a7c933fe1f7",
+        "sha1": null,
         "sha256": null,
         "md5": null
       }
@@ -2255,7 +2255,7 @@
     {
       "build": "0.4.3+build.134",
       "type": "snapshot",
-      "releaseTime": "2019-04-25T20:54:48",
+      "releaseTime": null,
       "recommended": false,
       "download": {
         "name": "fabric-server-26.3-snapshot-9-0.4.3+build.134.jar",

@@ -5,9 +5,9 @@
   "builds": [
     {
       "build": "0.20.1",
-      "type": "snapshot",
+      "type": "stable",
       "releaseTime": "2026-10-19T19:02:12",
-      "recommended": false,
+      "recommended": true,
       "download": {
         "name": "fabric-server-26.3-pre-2-0.20.1.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/26.3-pre-2/0.20.1/1.1.2/server/jar",
@@ -31,9 +31,9 @@
     },
     {
       "build": "0.19.5",
-      "type": "stable",
+      "type": "snapshot",
       "releaseTime": "2026-08-28T11:01:04",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "fabric-server-26.3-pre-2-0.19.5.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/26.3-pre-2/0.19.5/1.1.2/server/jar",
@@ -1090,7 +1090,7 @@
       "download": {
         "name": "fabric-server-26.3-pre-2-0.12.5.jar",
         "url": "https://meta.fabricmc.net/v2/versions/loader/26.3-pre-2/0.12.5/1.1.2/server/jar",
-        "sha1": "af77fbd9cd0fcf8d7e5f79839a060a7c933fe1f7",
+        "sha1": null,
         "sha256": null,
         "md5": null
       }
