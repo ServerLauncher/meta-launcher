@@ -716,6 +716,26 @@
     "windows-x64": [
       {
         "checksum": {
+          "hash": "da78d54a2fcdbba1e92d5e3f07dd30236f96297891c4a21a781c3f38f5c0beae",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre25.0.5+8",
+        "releaseTime": "2026-10-26T11:33:40Z",
+        "releaseName": "jdk-25.0.5+8",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_windows_hotspot_25.0.5_8.zip",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 8,
+          "major": 25,
+          "minor": 0,
+          "security": 5
+        }
+      },
+      {
+        "checksum": {
           "hash": "5b0d58f043f762fa3ee6cc12b6774b59b245cafdcb357e45ce61f822aa9a56cb",
           "type": "sha256"
         },

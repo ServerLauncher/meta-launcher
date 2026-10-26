@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-10-26T04:05:21.965493+00:00",
+  "generatedAt": "2026-10-26T17:44:06.660008+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -11,13 +11,13 @@
     {
       "uid": "io.papermc.paper",
       "name": "Paper",
-      "sha256": "a8b21e17d3e1e1a4c8177acc1adec7c508c511686f03686ca0ebe484910578fb",
+      "sha256": "d5710c77bc651d8eb9643f43daf57ba20f93489822e6b99eba73447bc15a5f88",
       "url": "io.papermc.paper/package.json"
     },
     {
       "uid": "build.purpurmc.purpur",
       "name": "Purpur",
-      "sha256": "8326c0757eb3f21e40c8bf40d8aa7841c3ba5001fa1401cf82757d3084c1f147",
+      "sha256": "55497d1d6bffc65100c3ae11b350eaabaee902dff3d86896c40d48000d617852",
       "url": "build.purpurmc.purpur/package.json"
     },
     {
@@ -29,7 +29,7 @@
     {
       "uid": "net.fabricmc.fabric",
       "name": "Fabric",
-      "sha256": "5f33a410757a481ddc2b974d95409a5257f77fcdc3408212c6d93047549aed3c",
+      "sha256": "08bf65704f586cf8908dd4b9daee298f137b0cd1cb4a9dca87a169ec911a1f22",
       "url": "net.fabricmc.fabric/package.json"
     },
     {
@@ -41,7 +41,7 @@
     {
       "uid": "net.adoptium.java",
       "name": "Java Runtimes",
-      "sha256": "73280a4bd857eb0335d3d2a2ffaac7fb6d3a7a9a168df306b72249758751f7fa",
+      "sha256": "6127338d60087b5d58fa82893b0b32add4149b6e3b4b5d8ea5e56ac956f06b1a",
       "url": "net.adoptium.java/package.json"
     },
     {
