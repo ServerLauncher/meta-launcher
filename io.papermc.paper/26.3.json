@@ -4,10 +4,23 @@
   "mcVersion": "26.3",
   "builds": [
     {
+      "build": "231",
+      "type": "stable",
+      "releaseTime": "2026-10-30T01:53:29Z",
+      "recommended": true,
+      "download": {
+        "name": "paper-26.3-231.jar",
+        "url": "https://fill-data.papermc.io/v1/objects/a836a016be7ac52352eb3a1efb6857bb42ee73a6c78d46e292f7e87742edb0e6/paper-26.3-231.jar",
+        "sha1": null,
+        "sha256": "a836a016be7ac52352eb3a1efb6857bb42ee73a6c78d46e292f7e87742edb0e6",
+        "md5": null
+      }
+    },
+    {
       "build": "230",
       "type": "stable",
       "releaseTime": "2026-10-29T11:28:55Z",
-      "recommended": true,
+      "recommended": false,
       "download": {
         "name": "paper-26.3-230.jar",
         "url": "https://fill-data.papermc.io/v1/objects/c0df92ce1d93617dd406b50aa823c85f0bdc3cee7528ee9a60a80df0fad5d350/paper-26.3-230.jar",
