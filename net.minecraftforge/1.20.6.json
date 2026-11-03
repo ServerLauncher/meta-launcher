@@ -4,6 +4,19 @@
   "mcVersion": "1.20.6",
   "builds": [
     {
+      "build": "1.20.6-50.2.15",
+      "type": "snapshot",
+      "releaseTime": "2026-11-03T02:13:56+00:00",
+      "recommended": false,
+      "download": {
+        "name": "forge-1.20.6-50.2.15-installer.jar",
+        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.6-50.2.15/forge-1.20.6-50.2.15-installer.jar",
+        "sha1": "03318d3332be577db6b363662e9a6170146ec52d",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "1.20.6-50.2.14",
       "type": "stable",
       "releaseTime": "2026-10-15T03:38:27+00:00",
