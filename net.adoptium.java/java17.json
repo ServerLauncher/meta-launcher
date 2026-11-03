@@ -1016,6 +1016,26 @@
     "windows-x64": [
       {
         "checksum": {
+          "hash": "fe4656bd78fb09812dc38c49da777f79cc33e7ee435a254be82f9e7f40d9d117",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre17.0.21+9",
+        "releaseTime": "2026-11-03T13:52:36Z",
+        "releaseName": "jdk-17.0.21+9",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B9/OpenJDK17U-jre_x64_windows_hotspot_17.0.21_9.zip",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 9,
+          "major": 17,
+          "minor": 0,
+          "security": 21
+        }
+      },
+      {
+        "checksum": {
           "hash": "7fe2324cc5901a89aaa0e8dc232075c59f2aca5270c533bdb1b861a5274af834",
           "type": "sha256"
         },
