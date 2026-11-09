@@ -1016,6 +1016,26 @@
     "windows-x64": [
       {
         "checksum": {
+          "hash": "d07c70035f7462924cd385912d76d50622baa17b15e5260df8facabcf2fff998",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre11.0.33+10",
+        "releaseTime": "2026-11-09T10:40:34Z",
+        "releaseName": "jdk-11.0.33+10",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B10/OpenJDK11U-jre_x64_windows_hotspot_11.0.33_10.zip",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 10,
+          "major": 11,
+          "minor": 0,
+          "security": 33
+        }
+      },
+      {
+        "checksum": {
           "hash": "e5ecbcad16562d271f074655beb1bc65a67200a55874f357d2b4aa98b2372e80",
           "type": "sha256"
         },
