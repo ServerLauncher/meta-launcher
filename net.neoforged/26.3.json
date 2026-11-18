@@ -4,6 +4,45 @@
   "mcVersion": "26.3",
   "builds": [
     {
+      "build": "26.3.0.113",
+      "type": "stable",
+      "releaseTime": "2026-11-17T23:48:18.643748+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-26.3.0.113-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.113/neoforge-26.3.0.113-installer.jar",
+        "sha1": "c2120db0022ef2dcb51e93922405e113e07ff468",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.112",
+      "type": "stable",
+      "releaseTime": "2026-11-17T23:33:37.498357+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-26.3.0.112-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.112/neoforge-26.3.0.112-installer.jar",
+        "sha1": "ea4c4f5ff158c1decab112bde39d7735a07b80d8",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
+      "build": "26.3.0.111",
+      "type": "stable",
+      "releaseTime": "2026-11-17T23:23:30.185614+00:00",
+      "recommended": true,
+      "download": {
+        "name": "neoforge-26.3.0.111-installer.jar",
+        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.111/neoforge-26.3.0.111-installer.jar",
+        "sha1": "d9c0e3e6317ebb16e8ba6da68e2900b0b2e827cc",
+        "sha256": null,
+        "md5": null
+      }
+    },
+    {
       "build": "26.3.0.110",
       "type": "stable",
       "releaseTime": "2026-11-17T08:31:54.148554+00:00",
