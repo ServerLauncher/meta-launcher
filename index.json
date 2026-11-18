@@ -1,17 +1,17 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-11-18T06:45:24.512362+00:00",
+  "generatedAt": "2026-11-18T19:42:28.272329+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
       "name": "Mojang",
-      "sha256": "88f716cd25b6bd724a28213ac3e1417ce323c923866bf1cb770ad698b95fb183",
+      "sha256": "3fb14060d627b69bade4a28675625e6041aef844bdc59bb8cfbc8879fc2306a1",
       "url": "net.minecraft/package.json"
     },
     {
       "uid": "io.papermc.paper",
       "name": "Paper",
-      "sha256": "14629ea3cc02dbdcbcb9d63ae0bcf123da6ba54cca8e9ff28d93ffd90ceebb83",
+      "sha256": "1b59fe94a6a015508bd7d64c8f570d4ad52fdcac46c1733e23cbfd8a1e1de4a1",
       "url": "io.papermc.paper/package.json"
     },
     {
@@ -35,13 +35,13 @@
     {
       "uid": "net.minecraft.java",
       "name": "Java Runtimes",
-      "sha256": "986684b2ff7c772b1176a347e3df7fcd7424753af66723a4e25d6c773a598c5b",
+      "sha256": "8f5e699c7756f2b96c819619cdd4f4ac55480e235a4bf02330c254acb794a775",
       "url": "net.minecraft.java/package.json"
     },
     {
       "uid": "net.adoptium.java",
       "name": "Java Runtimes",
-      "sha256": "d75db5a8e018d643d541633d135db1cd4cd54a4fe9bb4d673c7b8d7349121734",
+      "sha256": "96f39962df4da2b92343c0b2b0a7fef810be41fd935c57a8aa616fed3220dea8",
       "url": "net.adoptium.java/package.json"
     },
     {
