@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-11-18T19:42:28.272329+00:00",
+  "generatedAt": "2026-11-19T06:46:22.407053+00:00",
   "platforms": [
     {
       "uid": "net.minecraft",
@@ -11,13 +11,13 @@
     {
       "uid": "io.papermc.paper",
       "name": "Paper",
-      "sha256": "1b59fe94a6a015508bd7d64c8f570d4ad52fdcac46c1733e23cbfd8a1e1de4a1",
+      "sha256": "37ada90111edc05467099dcb2c99fb82805f80a135e36dc766dbee4f944252f3",
       "url": "io.papermc.paper/package.json"
     },
     {
       "uid": "build.purpurmc.purpur",
       "name": "Purpur",
-      "sha256": "fae2e052e628649268f346324393cdc8c96bf5cbf1bcdbdc4d1c39b8787ccff1",
+      "sha256": "69c6697ff5683aa0ecc1d3043bada8cde519856943312c3b8d1303878497797f",
       "url": "build.purpurmc.purpur/package.json"
     },
     {
@@ -41,13 +41,13 @@
     {
       "uid": "net.adoptium.java",
       "name": "Java Runtimes",
-      "sha256": "96f39962df4da2b92343c0b2b0a7fef810be41fd935c57a8aa616fed3220dea8",
+      "sha256": "d0c34686212d475ed315ecca6a7aa44afd3b17fd1f6a6d710a613db1e8e6003d",
       "url": "net.adoptium.java/package.json"
     },
     {
       "uid": "net.minecraftforge",
       "name": "Forge",
-      "sha256": "bb5b8728effacc094473d522cb50068a00af2ad42f41f092f501e9fd87da48c8",
+      "sha256": "69459a43d63c3d78f7706d12da79ab4374bd26223a64b8f72235164441b45d83",
       "url": "net.minecraftforge/package.json"
     }
   ]
