@@ -350,6 +350,26 @@
       },
       {
         "checksum": {
+          "hash": "b3d29ef8453da5e29c86b1ae08d8ed2a02597782b4ab5637e87f87b6bcc4cba9",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre25.0.5+2",
+        "releaseTime": "2026-11-19T11:17:11Z",
+        "releaseName": "jdk-25.0.5.1+2",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.5.1_2.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 2,
+          "major": 25,
+          "minor": 0,
+          "security": 5
+        }
+      },
+      {
+        "checksum": {
           "hash": "4a641bfa74e961efd9cc6dbfb6eccf0bec13014904433f00eb33df84c393318f",
           "type": "sha256"
         },
