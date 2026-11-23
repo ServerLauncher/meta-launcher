@@ -834,6 +834,26 @@
       },
       {
         "checksum": {
+          "hash": "f4e3f4c65854641062d33948ac4b6d9462ca24011a5a7fd118f14c8b016b60fd",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre11.0.33+1",
+        "releaseTime": "2026-11-23T18:42:56Z",
+        "releaseName": "jdk-11.0.33.1+1",
+        "recommended": false,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.33.1_1.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 11,
+          "minor": 0,
+          "security": 33
+        }
+      },
+      {
+        "checksum": {
           "hash": "c65c7aada375e3f913ff7a9a8ce00a280b1de10a2ac1321789ac5909508cae76",
           "type": "sha256"
         },
