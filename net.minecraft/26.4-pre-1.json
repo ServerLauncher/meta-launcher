@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "uid": "net.minecraft",
+  "mcVersion": "26.4-pre-1",
+  "builds": [
+    {
+      "build": null,
+      "type": "snapshot",
+      "releaseTime": "2026-11-24T12:48:31+00:00",
+      "recommended": false,
+      "download": {
+        "name": "minecraft_server.26.4-pre-1.jar",
+        "url": "https://piston-data.mojang.com/v1/objects/7ade6b7bb19a6ffbc3185c9227ab1871bf17e00e/server.jar",
+        "sha1": "7ade6b7bb19a6ffbc3185c9227ab1871bf17e00e",
+        "sha256": null,
+        "md5": null
+      },
+      "javaMajor": 25
+    }
+  ]
+}

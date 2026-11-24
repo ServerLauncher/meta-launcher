@@ -11,7 +11,7 @@
         },
         "downloadType": "archive",
         "name": "eclipse_temurin_jre8.0.514+1",
-        "releaseTime": "2026-11-19T23:07:24Z",
+        "releaseTime": "2026-11-24T15:24:39Z",
         "releaseName": "jdk8u514-b01",
         "recommended": true,
         "packageType": "jre",
@@ -206,6 +206,26 @@
       }
     ],
     "linux-aarch64": [
+      {
+        "checksum": {
+          "hash": "5669548cd06075421e2c1f8c9e9430f4f5c25179f1a72ed3bb25358f8070ad74",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre8.0.514+1",
+        "releaseTime": "2026-11-24T16:53:21Z",
+        "releaseName": "jdk8u514-b01",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_aarch64_linux_hotspot_8u514b01.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 8,
+          "minor": 0,
+          "security": 514
+        }
+      },
       {
         "checksum": {
           "hash": "9b45f49bc6e54cf9170aebe0ee45f48a833222325cb3b2d6d21220eee4c5207b",
