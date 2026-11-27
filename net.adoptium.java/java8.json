@@ -612,6 +612,26 @@
     "linux-alpine-x64": [
       {
         "checksum": {
+          "hash": "85338c0a957a6865e3c13d7b7a2181fc21c90193d3828f42bf38988b8dff9e75",
+          "type": "sha256"
+        },
+        "downloadType": "archive",
+        "name": "eclipse_temurin_jre8.0.514+1",
+        "releaseTime": "2026-11-27T15:01:35Z",
+        "releaseName": "jdk8u514-b01",
+        "recommended": true,
+        "packageType": "jre",
+        "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u514b01.tar.gz",
+        "vendor": "eclipse",
+        "versionInfo": {
+          "build": 1,
+          "major": 8,
+          "minor": 0,
+          "security": 514
+        }
+      },
+      {
+        "checksum": {
           "hash": "12b6d25841b3e932a60dab34da43f4989a07f767444e3fe7c58d1187252753d9",
           "type": "sha256"
         },
